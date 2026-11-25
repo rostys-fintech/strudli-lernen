@@ -58,7 +58,7 @@ No secret is stored in the repository.
 ## AI tools and APIs used
 | Where | Tool | Role |
 | --- | --- | --- |
-| In the app | LLM via Vercel AI Gateway (`api/strudli-ai.js`, model in `STRUDLI_AI_MODEL`) | "Strudli explains" — sentence explanations at A1–A2 |
+| In the app | Google Gemini (free tier) or Vercel AI Gateway (`api/strudli-ai.js`) | "Strudli explains" — sentence explanations at A1–A2 |
 | In the app | Browser Web Speech API | "Say it yourself" pronunciation check |
 | Content pipeline | Microsoft neural TTS via edge-tts | Narration, phrase recordings, word timestamps |
 | Content pipeline | ChatGPT image generation | Story scene paintings (one style guide, character sheet) |

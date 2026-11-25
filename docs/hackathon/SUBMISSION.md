@@ -19,7 +19,7 @@ The need is large:
 - **1.42 million** people with Ukrainian citizenship are registered in Germany (Central Register of Foreigners, AZR, May 2026); **14 million** foreign nationals live in Germany in total (Destatis, end of 2025).
 - From 9 Feb 2026 the BAMF stopped admitting voluntary participants to integration courses — the government had expected about **129,500** of them in 2026, roughly 40 % of all new participants (Bundestag print 21/4280). Since 1 Aug 2026 their applications are processed again, but only with lower priority.
 
-So the first months are often spent alone with a phone. We ran into three concrete problems ourselves: phone voices read sentences "word by word", translations are missing exactly when they get stuck, and grammar is explained in German or English, not in their own language. We are newcomers from Ukraine ourselves and built the tool we were missing.
+So the first months are often spent alone with a phone. We ran into three concrete problems ourselves: phone voices read sentences "word by word", translations are missing exactly when they get stuck, and grammar is explained in German or English, not in their own language. As newcomers from Ukraine, we built the tool we were missing.
 
 Strudli Lernen answers with: 1,177 illustrated word cards in 47 everyday topics, 150 practical phrases for real situations (Bürgeramt, Jobcenter, doctor, Kita, train), short cinematic stories with a calm narrator, and an AI tutor that explains any sentence in Ukrainian or English. It is free and runs in any phone browser. Next come explanations in Arabic, Turkish and Farsi — the languages of the next-largest newcomer groups — and A2→B1 content.
 
@@ -37,7 +37,7 @@ Strudli Lernen existed before as a word-card app. During the event (21–25 Nov:
 **AI inside the finished app (what users touch):**
 | Feature | AI | What it does for the learner |
 | --- | --- | --- |
-| Strudli explains | LLM via Vercel AI Gateway (`api/strudli-ai.js`, model set by `STRUDLI_AI_MODEL`) | Explains the exact sentence the learner is stuck on, in their language, at A1–A2 level |
+| Strudli explains | Google Gemini (free tier, automatic fallback across several Gemini models), Vercel AI Gateway as an alternative provider (`api/strudli-ai.js`) | Explains the exact sentence the learner is stuck on, in their language, at A1–A2 level |
 | Say it yourself | Browser speech recognition (on-device or the browser vendor's speech AI) | Hears the learner and marks each word right or wrong |
 | Narration and word timing | Microsoft neural TTS (ConradNeural, KatjaNeural) | Natural, calm voice; real word-boundary timestamps drive the karaoke highlighting |
 | Story scenes | Image generation | 21 painted scenes in one consistent style with a character sheet |
