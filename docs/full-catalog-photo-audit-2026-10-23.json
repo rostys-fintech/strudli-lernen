@@ -1,0 +1,633 @@
+{
+  "date": "2026-10-23",
+  "repo": "rostys-fintech/wortwelt-de-ua",
+  "qa_branch": "audit/media-quality-oct23",
+  "branch_status": "Unmerged draft PR #8; production Vercel not deployed",
+  "scope": {
+    "cards": 1174,
+    "sections": 47,
+    "types": {
+      "phrase": 191,
+      "verb": 153,
+      "noun": 736,
+      "adj": 94
+    },
+    "missing_images": 0,
+    "unique_noun_photo_urls": 736,
+    "curated_noun_attributions": 646
+  },
+  "replacements": {
+    "original_priority_queue": {
+      "reviewed": 88,
+      "replaced": 85,
+      "retained": 3
+    },
+    "subsequent_cross_topic_batch": {
+      "replaced": 26,
+      "by_kind": {
+        "phrase": 1,
+        "noun": 10,
+        "adj": 3,
+        "verb": 12
+      }
+    },
+    "total_distinct_photo_replacements_staged": 111,
+    "full_aesthetic_signoff": false
+  },
+  "automated_external_pixel_sample_before_batch25": {
+    "attempted": 828,
+    "successful": 418,
+    "received_wikimedia_rate_limit_429": 410,
+    "other_download_errors": 0,
+    "notes": [
+      "Wikimedia 429 is server rate limiting, not proof the in-app mirrored media is unavailable",
+      "Brightness / thumbnail edge scores are triage heuristics, not semantic or aesthetic reviews",
+      "Several genuinely dark concepts (night, dark, star) should remain dark",
+      "Images in /photos/... local asset paths were not pixel-scanned in this network run"
+    ]
+  },
+  "static_full_catalog_review": {
+    "all_47_sections_inventoried": true,
+    "all_1174_photo_strings_present": true,
+    "distinct_noun_photos": 736,
+    "shared_photo_groups_with_different_lexical_meanings": 107,
+    "shared_photos_assessed_as_issues": false,
+    "phone_crop_test_completed": false
+  },
+  "remaining_manual_candidates": [
+    {
+      "card_id": "phrases-2",
+      "word": "Guten Tag!",
+      "issue": "Current daytime park photograph doesn't directly communicate the greeting; semantic review advised",
+      "severity": "P2"
+    },
+    {
+      "card_id": "everyday-43",
+      "word": "aufstehen",
+      "issue": "Current shared bed scene also used for schlafen/einschlafen/Bett/müde, not unequivocally getting out of bed",
+      "severity": "P1"
+    },
+    {
+      "card_id": "verbs-849",
+      "word": "aufstehen",
+      "issue": "Same generic bed scene, distinguish from schlafen",
+      "severity": "P1"
+    },
+    {
+      "card_id": "adjs-932",
+      "word": "spät",
+      "issue": "Stars/night conveys nighttime more than 'late'; avoid replacing with equally vague picture",
+      "severity": "P2"
+    },
+    {
+      "card_id": "nature-500",
+      "word": "Regen",
+      "issue": "Dark rainy image low light; may be acceptable due subject, pending smartphone crop",
+      "severity": "P2"
+    },
+    {
+      "card_id": "ww-new-131",
+      "word": "Donner",
+      "issue": "Photo of lightning denotes thunderstorm but not the sound itself; consider audio pairing",
+      "severity": "semantic"
+    },
+    {
+      "card_id": "family-460",
+      "word": "Großvater",
+      "issue": "Older previous-stage Pexels family photo has low measured brightness; kept because relationship is unambiguous and was part of prior family batch",
+      "severity": "monitor"
+    },
+    {
+      "card_id": "home-382",
+      "word": "Löffel",
+      "issue": "Low edge score likely due intentionally isolated spoon on white background; do not reject mechanically",
+      "severity": "monitor"
+    }
+  ],
+  "per_section": {
+    "phrases": {
+      "cards": 40,
+      "nouns": 0,
+      "verbs": 0,
+      "adjectives": 0,
+      "phrases": 40,
+      "local": 36,
+      "external": 4,
+      "missing": 0,
+      "new_replacements": 1
+    },
+    "everyday": {
+      "cards": 39,
+      "nouns": 0,
+      "verbs": 39,
+      "adjectives": 0,
+      "phrases": 0,
+      "local": 9,
+      "external": 30,
+      "missing": 0,
+      "new_replacements": 4
+    },
+    "dining": {
+      "cards": 11,
+      "nouns": 10,
+      "verbs": 1,
+      "adjectives": 0,
+      "phrases": 0,
+      "local": 0,
+      "external": 11,
+      "missing": 0,
+      "new_replacements": 0
+    },
+    "questions": {
+      "cards": 23,
+      "nouns": 0,
+      "verbs": 0,
+      "adjectives": 0,
+      "phrases": 23,
+      "local": 23,
+      "external": 0,
+      "missing": 0,
+      "new_replacements": 0
+    },
+    "pronouns": {
+      "cards": 31,
+      "nouns": 0,
+      "verbs": 0,
+      "adjectives": 0,
+      "phrases": 31,
+      "local": 31,
+      "external": 0,
+      "missing": 0,
+      "new_replacements": 0
+    },
+    "adverbs": {
+      "cards": 43,
+      "nouns": 0,
+      "verbs": 0,
+      "adjectives": 0,
+      "phrases": 43,
+      "local": 43,
+      "external": 0,
+      "missing": 0,
+      "new_replacements": 0
+    },
+    "preps": {
+      "cards": 28,
+      "nouns": 0,
+      "verbs": 0,
+      "adjectives": 0,
+      "phrases": 28,
+      "local": 28,
+      "external": 0,
+      "missing": 0,
+      "new_replacements": 0
+    },
+    "institutions": {
+      "cards": 25,
+      "nouns": 25,
+      "verbs": 0,
+      "adjectives": 0,
+      "phrases": 0,
+      "local": 0,
+      "external": 25,
+      "missing": 0,
+      "new_replacements": 0
+    },
+    "social": {
+      "cards": 4,
+      "nouns": 4,
+      "verbs": 0,
+      "adjectives": 0,
+      "phrases": 0,
+      "local": 0,
+      "external": 4,
+      "missing": 0,
+      "new_replacements": 0
+    },
+    "banking": {
+      "cards": 22,
+      "nouns": 22,
+      "verbs": 0,
+      "adjectives": 0,
+      "phrases": 0,
+      "local": 2,
+      "external": 20,
+      "missing": 0,
+      "new_replacements": 0
+    },
+    "housing": {
+      "cards": 12,
+      "nouns": 12,
+      "verbs": 0,
+      "adjectives": 0,
+      "phrases": 0,
+      "local": 5,
+      "external": 7,
+      "missing": 0,
+      "new_replacements": 0
+    },
+    "tech": {
+      "cards": 36,
+      "nouns": 36,
+      "verbs": 0,
+      "adjectives": 0,
+      "phrases": 0,
+      "local": 4,
+      "external": 32,
+      "missing": 0,
+      "new_replacements": 2
+    },
+    "fruits": {
+      "cards": 17,
+      "nouns": 17,
+      "verbs": 0,
+      "adjectives": 0,
+      "phrases": 0,
+      "local": 0,
+      "external": 17,
+      "missing": 0,
+      "new_replacements": 0
+    },
+    "staples": {
+      "cards": 42,
+      "nouns": 42,
+      "verbs": 0,
+      "adjectives": 0,
+      "phrases": 0,
+      "local": 2,
+      "external": 40,
+      "missing": 0,
+      "new_replacements": 0
+    },
+    "dishes": {
+      "cards": 16,
+      "nouns": 16,
+      "verbs": 0,
+      "adjectives": 0,
+      "phrases": 0,
+      "local": 1,
+      "external": 15,
+      "missing": 0,
+      "new_replacements": 0
+    },
+    "vegetables": {
+      "cards": 17,
+      "nouns": 17,
+      "verbs": 0,
+      "adjectives": 0,
+      "phrases": 0,
+      "local": 6,
+      "external": 11,
+      "missing": 0,
+      "new_replacements": 0
+    },
+    "calendar": {
+      "cards": 41,
+      "nouns": 41,
+      "verbs": 0,
+      "adjectives": 0,
+      "phrases": 0,
+      "local": 19,
+      "external": 22,
+      "missing": 0,
+      "new_replacements": 2
+    },
+    "drinks": {
+      "cards": 12,
+      "nouns": 12,
+      "verbs": 0,
+      "adjectives": 0,
+      "phrases": 0,
+      "local": 1,
+      "external": 11,
+      "missing": 0,
+      "new_replacements": 0
+    },
+    "rooms": {
+      "cards": 16,
+      "nouns": 16,
+      "verbs": 0,
+      "adjectives": 0,
+      "phrases": 0,
+      "local": 0,
+      "external": 16,
+      "missing": 0,
+      "new_replacements": 0
+    },
+    "furniture": {
+      "cards": 10,
+      "nouns": 10,
+      "verbs": 0,
+      "adjectives": 0,
+      "phrases": 0,
+      "local": 0,
+      "external": 10,
+      "missing": 0,
+      "new_replacements": 0
+    },
+    "housework": {
+      "cards": 27,
+      "nouns": 27,
+      "verbs": 0,
+      "adjectives": 0,
+      "phrases": 0,
+      "local": 1,
+      "external": 26,
+      "missing": 0,
+      "new_replacements": 0
+    },
+    "bathroom": {
+      "cards": 6,
+      "nouns": 6,
+      "verbs": 0,
+      "adjectives": 0,
+      "phrases": 0,
+      "local": 0,
+      "external": 6,
+      "missing": 0,
+      "new_replacements": 0
+    },
+    "kitchenware": {
+      "cards": 8,
+      "nouns": 8,
+      "verbs": 0,
+      "adjectives": 0,
+      "phrases": 0,
+      "local": 1,
+      "external": 7,
+      "missing": 0,
+      "new_replacements": 1
+    },
+    "clothing": {
+      "cards": 45,
+      "nouns": 45,
+      "verbs": 0,
+      "adjectives": 0,
+      "phrases": 0,
+      "local": 0,
+      "external": 45,
+      "missing": 0,
+      "new_replacements": 0
+    },
+    "tourism": {
+      "cards": 24,
+      "nouns": 24,
+      "verbs": 0,
+      "adjectives": 0,
+      "phrases": 0,
+      "local": 1,
+      "external": 23,
+      "missing": 0,
+      "new_replacements": 1
+    },
+    "publictransport": {
+      "cards": 30,
+      "nouns": 30,
+      "verbs": 0,
+      "adjectives": 0,
+      "phrases": 0,
+      "local": 2,
+      "external": 28,
+      "missing": 0,
+      "new_replacements": 1
+    },
+    "family": {
+      "cards": 18,
+      "nouns": 18,
+      "verbs": 0,
+      "adjectives": 0,
+      "phrases": 0,
+      "local": 12,
+      "external": 6,
+      "missing": 0,
+      "new_replacements": 0
+    },
+    "people": {
+      "cards": 15,
+      "nouns": 15,
+      "verbs": 0,
+      "adjectives": 0,
+      "phrases": 0,
+      "local": 1,
+      "external": 14,
+      "missing": 0,
+      "new_replacements": 1
+    },
+    "landscapes": {
+      "cards": 17,
+      "nouns": 17,
+      "verbs": 0,
+      "adjectives": 0,
+      "phrases": 0,
+      "local": 0,
+      "external": 17,
+      "missing": 0,
+      "new_replacements": 1
+    },
+    "weather": {
+      "cards": 19,
+      "nouns": 19,
+      "verbs": 0,
+      "adjectives": 0,
+      "phrases": 0,
+      "local": 0,
+      "external": 19,
+      "missing": 0,
+      "new_replacements": 1
+    },
+    "animals": {
+      "cards": 21,
+      "nouns": 21,
+      "verbs": 0,
+      "adjectives": 0,
+      "phrases": 0,
+      "local": 1,
+      "external": 20,
+      "missing": 0,
+      "new_replacements": 0
+    },
+    "citydirections": {
+      "cards": 29,
+      "nouns": 29,
+      "verbs": 0,
+      "adjectives": 0,
+      "phrases": 0,
+      "local": 0,
+      "external": 29,
+      "missing": 0,
+      "new_replacements": 0
+    },
+    "places": {
+      "cards": 21,
+      "nouns": 21,
+      "verbs": 0,
+      "adjectives": 0,
+      "phrases": 0,
+      "local": 0,
+      "external": 21,
+      "missing": 0,
+      "new_replacements": 0
+    },
+    "vehicles": {
+      "cards": 13,
+      "nouns": 13,
+      "verbs": 0,
+      "adjectives": 0,
+      "phrases": 0,
+      "local": 0,
+      "external": 13,
+      "missing": 0,
+      "new_replacements": 0
+    },
+    "work": {
+      "cards": 17,
+      "nouns": 17,
+      "verbs": 0,
+      "adjectives": 0,
+      "phrases": 0,
+      "local": 0,
+      "external": 17,
+      "missing": 0,
+      "new_replacements": 0
+    },
+    "office": {
+      "cards": 12,
+      "nouns": 12,
+      "verbs": 0,
+      "adjectives": 0,
+      "phrases": 0,
+      "local": 0,
+      "external": 12,
+      "missing": 0,
+      "new_replacements": 0
+    },
+    "school": {
+      "cards": 27,
+      "nouns": 27,
+      "verbs": 0,
+      "adjectives": 0,
+      "phrases": 0,
+      "local": 3,
+      "external": 24,
+      "missing": 0,
+      "new_replacements": 0
+    },
+    "university": {
+      "cards": 9,
+      "nouns": 9,
+      "verbs": 0,
+      "adjectives": 0,
+      "phrases": 0,
+      "local": 0,
+      "external": 9,
+      "missing": 0,
+      "new_replacements": 0
+    },
+    "shopping": {
+      "cards": 24,
+      "nouns": 24,
+      "verbs": 0,
+      "adjectives": 0,
+      "phrases": 0,
+      "local": 3,
+      "external": 21,
+      "missing": 0,
+      "new_replacements": 0
+    },
+    "bodyparts": {
+      "cards": 20,
+      "nouns": 20,
+      "verbs": 0,
+      "adjectives": 0,
+      "phrases": 0,
+      "local": 1,
+      "external": 19,
+      "missing": 0,
+      "new_replacements": 0
+    },
+    "symptoms": {
+      "cards": 9,
+      "nouns": 9,
+      "verbs": 0,
+      "adjectives": 0,
+      "phrases": 0,
+      "local": 0,
+      "external": 9,
+      "missing": 0,
+      "new_replacements": 0
+    },
+    "medical": {
+      "cards": 11,
+      "nouns": 11,
+      "verbs": 0,
+      "adjectives": 0,
+      "phrases": 0,
+      "local": 1,
+      "external": 10,
+      "missing": 0,
+      "new_replacements": 0
+    },
+    "sports": {
+      "cards": 10,
+      "nouns": 10,
+      "verbs": 0,
+      "adjectives": 0,
+      "phrases": 0,
+      "local": 0,
+      "external": 10,
+      "missing": 0,
+      "new_replacements": 0
+    },
+    "leisure": {
+      "cards": 24,
+      "nouns": 24,
+      "verbs": 0,
+      "adjectives": 0,
+      "phrases": 0,
+      "local": 1,
+      "external": 23,
+      "missing": 0,
+      "new_replacements": 0
+    },
+    "verbs": {
+      "cards": 113,
+      "nouns": 0,
+      "verbs": 113,
+      "adjectives": 0,
+      "phrases": 0,
+      "local": 38,
+      "external": 75,
+      "missing": 0,
+      "new_replacements": 8
+    },
+    "adjs": {
+      "cards": 94,
+      "nouns": 0,
+      "verbs": 0,
+      "adjectives": 94,
+      "phrases": 0,
+      "local": 44,
+      "external": 50,
+      "missing": 0,
+      "new_replacements": 3
+    },
+    "numbers": {
+      "cards": 26,
+      "nouns": 0,
+      "verbs": 0,
+      "adjectives": 0,
+      "phrases": 26,
+      "local": 26,
+      "external": 0,
+      "missing": 0,
+      "new_replacements": 0
+    }
+  },
+  "safety_and_license": {
+    "new_external_photo_origin": "Pexels",
+    "each_new_photo_source_author_recorded_in_batch25": true,
+    "noun_image_licenses_in_curated_manifest": true,
+    "permissions": "Pexels License not necessarily public domain"
+  },
+  "conclusion": "No proof that every image is good. Priority queue has been addressed; all 47 sections structurally inventoried and 26 more mappings improved; additional card-by-card visual approval across 1174 cards remains to be done."
+}

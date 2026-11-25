@@ -1,0 +1,302 @@
+[
+  {
+    "word_id": "germany-240",
+    "word": "das Wohnheim",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Inside_a_dorm_room_of_Deaton_Hall.jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Inside_a_dorm_room_of_Deaton_Hall.jpg/960px-Inside_a_dorm_room_of_Deaton_Hall.jpg",
+    "license": "CC0-1.0",
+    "author": "Ttwilli1",
+    "editorial_check": "Wikimedia Commons CC0 license & description checked 2026-10-21",
+    "image_note": "Dormitory room"
+  },
+  {
+    "word_id": "work-604",
+    "word": "die Rechnung",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Performa_invoice_merchandising.jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Performa_invoice_merchandising.jpg/960px-Performa_invoice_merchandising.jpg",
+    "license": "CC0-1.0",
+    "author": "THE GOKUL",
+    "editorial_check": "Wikimedia Commons exact file title and CC0 licensing checked 2026-10-21; content verified from descriptive metadata; in-app display QA pending",
+    "image_note": "Invoice document"
+  },
+  {
+    "word_id": "technology-253",
+    "word": "das WLAN",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Nokia_FTTH_modem_Wi-Fi_6_Flying_Bull_Internet_LLC.jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Nokia_FTTH_modem_Wi-Fi_6_Flying_Bull_Internet_LLC.jpg/960px-Nokia_FTTH_modem_Wi-Fi_6_Flying_Bull_Internet_LLC.jpg",
+    "license": "CC0-1.0",
+    "author": "Ranch9613",
+    "editorial_check": "Commons source and license checked 2026-10-21; subject checked against file description. Actual in-app visual still requires QA.",
+    "image_note": "Wi-Fi modem/router"
+  },
+  {
+    "word_id": "city-554",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Entrance_door_Sortebr%C3%B8dre_kirke_Viborg_Denmark.jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Entrance_door_Sortebr%C3%B8dre_kirke_Viborg_Denmark.jpg/960px-Entrance_door_Sortebr%C3%B8dre_kirke_Viborg_Denmark.jpg",
+    "license": "CC0",
+    "author": "Jebulon",
+    "editorial_check": "Object identification, Commons license and thumbnail dimensions checked 2026-10-21; visual in-app QA pending.",
+    "image_note": "Exact concrete noun representation: Entrance door Sortebrødre kirke Viborg Denmark",
+    "word": "der Eingang"
+  },
+  {
+    "word_id": "study-660",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Booklets_of_questions_(National_Center_Test_for_University_Admissions).JPG",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Booklets_of_questions_%28National_Center_Test_for_University_Admissions%29.JPG/960px-Booklets_of_questions_%28National_Center_Test_for_University_Admissions%29.JPG",
+    "license": "Public domain",
+    "author": "Genppy",
+    "editorial_check": "Object identification, Commons license and thumbnail dimensions checked 2026-10-21; visual in-app QA pending.",
+    "image_note": "Exact concrete noun representation: Booklets of questions (National Center Test for University Admissions)",
+    "word": "der Test"
+  },
+  {
+    "word_id": "travel-434",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Guide_book-%E6%97%85%E8%A1%8C%E3%82%AC%E3%82%A4%E3%83%89%E3%83%96%E3%83%83%E3%82%AFPA024792.jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Guide_book-%E6%97%85%E8%A1%8C%E3%82%AC%E3%82%A4%E3%83%89%E3%83%96%E3%83%83%E3%82%AFPA024792.jpg/960px-Guide_book-%E6%97%85%E8%A1%8C%E3%82%AC%E3%82%A4%E3%83%89%E3%83%96%E3%83%83%E3%82%AFPA024792.jpg",
+    "license": "Public domain",
+    "author": "松岡明芳",
+    "editorial_check": "Manual noun-to-photo meaning reviewed against source description, Commons license and thumbnail resolution 2026-10-21; actual pixel-level visual QA in app remains pending.",
+    "image_note": "Specific object photo: Guide book-旅行ガイドブックPA024792",
+    "word": "der Reiseführer"
+  },
+  {
+    "word_id": "work-609",
+    "word": "die Firma",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Desks_and_cubicles_(Unsplash).jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Desks_and_cubicles_%28Unsplash%29.jpg/960px-Desks_and_cubicles_%28Unsplash%29.jpg",
+    "license": "CC0",
+    "author": "Crew",
+    "editorial_check": "Exact photographic subject, CC0/public-domain image metadata and full-resolution Wikimedia source checked 2026-10-21. Rendered visual QA and performance pending.",
+    "image_note": "Photographic subject: Desks and cubicles (Unsplash).jpg"
+  },
+  {
+    "word_id": "study-635",
+    "word": "der Buchstabe",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Wooden_srcabble_tiles.jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Wooden_srcabble_tiles.jpg/960px-Wooden_srcabble_tiles.jpg",
+    "license": "CC0",
+    "author": "WOKANDAPIX",
+    "editorial_check": "Commons image metadata, subject, dimensions and license cross-checked 2026-10-21; full device visual QA pending",
+    "image_note": "Image subject: Wooden srcabble tiles.jpg; wooden srcabble tiles"
+  },
+  {
+    "word_id": "technology-254",
+    "word": "das Passwort",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:A_laminated_sign_displaying_a_WiFi_password_in_the_Mitchell_Library%2C_Glasgow%2C_Scotland%2C_UK.jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/A_laminated_sign_displaying_a_WiFi_password_in_the_Mitchell_Library%2C_Glasgow%2C_Scotland%2C_UK.jpg/960px-A_laminated_sign_displaying_a_WiFi_password_in_the_Mitchell_Library%2C_Glasgow%2C_Scotland%2C_UK.jpg",
+    "license": "CC0",
+    "author": "Ridiculopathy",
+    "editorial_check": "Commons image metadata, subject, dimensions and license cross-checked 2026-10-21; full device visual QA pending",
+    "image_note": "Image subject: A laminated sign displaying a WiFi password in the Mitchell Library, Glasgow, Scotland, UK.jpg; A laminated sign displaying a WiFi password in the Mitchell Library, Glasgow, Scotland, UK"
+  },
+  {
+    "word_id": "technology-273",
+    "word": "die Verbindung",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:4_USB_hubs_connected_to_several_devices.JPG",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/4_USB_hubs_connected_to_several_devices.JPG/960px-4_USB_hubs_connected_to_several_devices.JPG",
+    "license": "Public domain",
+    "author": "User:Mattes",
+    "editorial_check": "Exact object/concept and public domain or CC0 metadata checked 2026-10-21; final screen-by-screen visual QA pending",
+    "image_note": "Verified image: 4 USB hubs connected to several devices.JPG; 4 USB hubs connected to several devices"
+  },
+  {
+    "word_id": "technology-252",
+    "word": "das Internet",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:ELECOM_WRC-300FEBK_WPS_WiFi_router_2.jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/ELECOM_WRC-300FEBK_WPS_WiFi_router_2.jpg/960px-ELECOM_WRC-300FEBK_WPS_WiFi_router_2.jpg",
+    "license": "CC0",
+    "author": "Syced",
+    "editorial_check": "Commons API metadata, caption and original resolution checked 2026-10-22; final aesthetic/mobile-crop QA pending",
+    "image_note": "Natural photograph or real document replacing schematic SVG; Commons file 'ELECOM WRC-300FEBK WPS WiFi router 2.jpg'. ELECOM WRC-300FEBK WPS WiFi router"
+  },
+  {
+    "word_id": "technology-256",
+    "word": "die App",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Fediverse_smartphone_apps_(photo_by_Elena_Rossini).jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Fediverse_smartphone_apps_%28photo_by_Elena_Rossini%29.jpg/960px-Fediverse_smartphone_apps_%28photo_by_Elena_Rossini%29.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Elexfedi",
+    "editorial_check": "Commons API metadata, caption and original resolution checked 2026-10-22; final aesthetic/mobile-crop QA pending",
+    "image_note": "Natural photograph or real document replacing schematic SVG; Commons file 'Fediverse smartphone apps (photo by Elena Rossini).jpg'. a photo of a hand holding a smartphone; on screen you see icons of Fediverse apps: Lemmy, Loops, Mastodon, PeerTube and Pixelfed"
+  },
+  {
+    "word_id": "technology-271",
+    "word": "das Netzwerk",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Ethernet_socket_with_two_cables_connected_(TIA-568B)_(CAT6).jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Ethernet_socket_with_two_cables_connected_%28TIA-568B%29_%28CAT6%29.jpg/960px-Ethernet_socket_with_two_cables_connected_%28TIA-568B%29_%28CAT6%29.jpg",
+    "license": "CC BY 4.0",
+    "author": "www.heimnetzwerke.net",
+    "editorial_check": "Commons API metadata, caption and original resolution checked 2026-10-22; final aesthetic/mobile-crop QA pending",
+    "image_note": "Natural photograph or real document replacing schematic SVG; Commons file 'Ethernet socket with two cables connected (TIA-568B) (CAT6).jpg'. Ethernet socket (TIA-568B) (CAT6) with two CAT. 7 cables connected"
+  },
+  {
+    "word_id": "work-595",
+    "word": "der Kollege",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Jenith_with_office_colleagues,_Chennai_2009.jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Jenith_with_office_colleagues%2C_Chennai_2009.jpg/960px-Jenith_with_office_colleagues%2C_Chennai_2009.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Yjenith",
+    "editorial_check": "Commons API metadata, caption and original resolution checked 2026-10-22; final aesthetic/mobile-crop QA pending",
+    "image_note": "Natural photograph or real document replacing schematic SVG; Commons file 'Jenith with office colleagues, Chennai 2009.jpg'. One of the happy time I shared with my colleagues at Chennai office, 2009"
+  },
+  {
+    "word_id": "ww-new-071",
+    "word": "der Umstieg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Tri-Rail_train_coming_into_Metrorail_Transfer_Station_Hialeah_(37962853111).jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Tri-Rail_train_coming_into_Metrorail_Transfer_Station_Hialeah_%2837962853111%29.jpg/960px-Tri-Rail_train_coming_into_Metrorail_Transfer_Station_Hialeah_%2837962853111%29.jpg",
+    "license": "CC BY 2.0",
+    "author": "Phillip Pessar from Miami, USA",
+    "editorial_check": "Original resolution, license, metadata and subject caption checked 2026-10-22; manually inspect actual pixels and mobile crop before merging",
+    "image_note": "Real photographed object or actual situation (not decorative SVG). Wikimedia filename: Tri-Rail train coming into Metrorail Transfer Station Hialeah (37962853111).jpg. Tri-Rail train coming into Metrorail Transfer Station Hialeah"
+  },
+  {
+    "word_id": "germany-236",
+    "word": "die Übersetzung",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:FEMA_-_39006_-_FEMA_Vietnamese_translator_working_with_a_resident_in_Texas.jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/FEMA_-_39006_-_FEMA_Vietnamese_translator_working_with_a_resident_in_Texas.jpg/960px-FEMA_-_39006_-_FEMA_Vietnamese_translator_working_with_a_resident_in_Texas.jpg",
+    "license": "Public domain",
+    "author": "Greg Henshall",
+    "editorial_check": "commons_file_title_rights_resolution_checked_2026-10-22",
+    "image_note": "Translator assisting a resident, visual cue for translation. Source filename, rights and original size checked; final mobile cropping and aesthetic visual inspection pending."
+  },
+  {
+    "word_id": "germany-228",
+    "word": "die Nebenkosten",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Standing_charges_on_energy_bills.jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Standing_charges_on_energy_bills.jpg/960px-Standing_charges_on_energy_bills.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Lockdown Refunds Energy",
+    "editorial_check": "commons_filename_author_license_original_resolution_checked_2026-10-22",
+    "image_note": "Real electricity/energy-bill extra charges; relevant to housing ancillary costs; verify cropped mobile appearance before release."
+  },
+  {
+    "word_id": "study-654",
+    "word": "das Semester",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Students_of_Tamale_Technical_University_in_a_lecture_hall.jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Students_of_Tamale_Technical_University_in_a_lecture_hall.jpg/960px-Students_of_Tamale_Technical_University_in_a_lecture_hall.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Stephany5757",
+    "editorial_check": "commons_filename_author_license_original_resolution_checked_2026-10-22",
+    "image_note": "University lecture and students; scene for study term Semester, associative not literal; verify cropped mobile appearance before release."
+  },
+  {
+    "word_id": "study-656",
+    "word": "das Stipendium",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Reuven_Rivlin_awards_scholarship_to_outstanding_students%2C_March_2019_(3691).jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Reuven_Rivlin_awards_scholarship_to_outstanding_students%2C_March_2019_%283691%29.jpg/960px-Reuven_Rivlin_awards_scholarship_to_outstanding_students%2C_March_2019_%283691%29.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Mark Neyman",
+    "editorial_check": "commons_filename_author_license_original_resolution_checked_2026-10-22",
+    "image_note": "Real scholarship award ceremony; verify cropped mobile appearance before release."
+  },
+  {
+    "word_id": "technology-261",
+    "word": "der Anhang",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Assorted_paperclips_together.jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Assorted_paperclips_together.jpg/960px-Assorted_paperclips_together.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "User:HarJIT",
+    "editorial_check": "commons_filename_author_license_original_resolution_checked_2026-10-22",
+    "image_note": "Physical paper-attachment symbol, conceptual proxy for digital file attachment; verify cropped mobile appearance before release."
+  },
+  {
+    "word_id": "work-599",
+    "word": "das Gehalt",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:2023-03-13_paycheck-salary.jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/2023-03-13_paycheck-salary.jpg/960px-2023-03-13_paycheck-salary.jpg",
+    "license": "CC0",
+    "author": "Rakoon",
+    "editorial_check": "commons_filename_author_license_original_resolution_checked_2026-10-22",
+    "image_note": "Actual salary/paycheck financial document; verify cropped mobile appearance before release."
+  },
+  {
+    "word_id": "germany-234",
+    "word": "der Nachweis",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Luxembourg_legitimation_%26_proof_of_residency_card%2C_issued_to_international_organisations_staff_(EU%2C_NATO%2C_EFTA)_-_front.jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Luxembourg_legitimation_%26_proof_of_residency_card%2C_issued_to_international_organisations_staff_%28EU%2C_NATO%2C_EFTA%29_-_front.jpg/960px-Luxembourg_legitimation_%26_proof_of_residency_card%2C_issued_to_international_organisations_staff_%28EU%2C_NATO%2C_EFTA%29_-_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "license": "CC0",
+    "author": "Gregori-luxair",
+    "editorial_check": "exact_filename_author_license_original_dimensions_checked_2026-10-22",
+    "image_note": "Real certificate of identity and residency; proof of status; source identity verified, mobile crop and recognizability pending."
+  },
+  {
+    "word_id": "work-592",
+    "word": "die Stelle",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Subway_job_vacancies_sign%2C_Winschoten_(2020)_02.jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Subway_job_vacancies_sign%2C_Winschoten_%282020%29_02.jpg/960px-Subway_job_vacancies_sign%2C_Winschoten_%282020%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "license": "CC BY-SA 4.0",
+    "author": "Donald Trung Quoc Don (Chữ Hán: 徵國單) - Wikimedia Commons - © CC BY-SA 4.0 International.(Want to use this image?)Original publication 📤: --",
+    "editorial_check": "exact_filename_author_license_original_dimensions_checked_2026-10-22",
+    "image_note": "Real job vacancy sign, Stelle in employment sense; source identity verified, mobile crop and recognizability pending."
+  },
+  {
+    "word_id": "work-606",
+    "word": "das Konto",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Post_Office_Savings_Bank_passbook.jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Post_Office_Savings_Bank_passbook.jpg/960px-Post_Office_Savings_Bank_passbook.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "license": "CC BY-SA 4.0",
+    "author": "Wainuiomartian",
+    "editorial_check": "exact_filename_author_license_original_dimensions_checked_2026-10-22",
+    "image_note": "Actual savings bank account passbook; Konto; source identity verified, mobile crop and recognizability pending."
+  },
+  {
+    "word_id": "study-633",
+    "word": "das Wort",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Stress_Spelled_Out_In_Scrabble_Tiles.jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Stress_Spelled_Out_In_Scrabble_Tiles.jpg/960px-Stress_Spelled_Out_In_Scrabble_Tiles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "license": "CC BY 2.0",
+    "author": "Forth With Life",
+    "editorial_check": "exact_filename_author_license_original_dimensions_checked_2026-10-22",
+    "image_note": "Letters forming one word, visual clue for Wort; source identity verified, mobile crop and recognizability pending."
+  },
+  {
+    "word_id": "study-645",
+    "word": "der Fehler",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Ichetucknee_Springs_State_Park_misspelled_sign.jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Ichetucknee_Springs_State_Park_misspelled_sign.jpg/960px-Ichetucknee_Springs_State_Park_misspelled_sign.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "license": "CC BY-SA 4.0",
+    "author": "The Bushranger",
+    "editorial_check": "exact_filename_author_license_original_dimensions_checked_2026-10-22",
+    "image_note": "Real sign with spelling mistake, error in written language; source identity verified, mobile crop and recognizability pending."
+  },
+  {
+    "word_id": "technology-255",
+    "word": "der Benutzername",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Login_screen_shot.png",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Login_screen_shot.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "license": "CC BY-SA 4.0",
+    "author": "M.Fawaeer",
+    "editorial_check": "source_exact_filename_author_license_original_size_verified_2026-10-22",
+    "image_note": "Actual login screen with username field; Mobile cropping and external image delivery not yet tested."
+  },
+  {
+    "word_id": "germany-235",
+    "word": "die Bestätigung",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Hackathon_2023_registration_screenshot_-_confirmation_email.png",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Hackathon_2023_registration_screenshot_-_confirmation_email.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "license": "CC BY-SA 4.0",
+    "author": "LLacroix-WMF",
+    "editorial_check": "source_and_license_exact_file_verified_2026-10-22",
+    "image_note": "Actual registration confirmation email screenshot; mobile crop, aesthetic clarity and CDN fetch are still pending"
+  },
+  {
+    "word_id": "technology-258",
+    "word": "der Link",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Hyperlinking_to_highlighted_text_segments_example_-_linking_to_a_specific_row_in_a_table.png",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Hyperlinking_to_highlighted_text_segments_example_-_linking_to_a_specific_row_in_a_table.png/960px-Hyperlinking_to_highlighted_text_segments_example_-_linking_to_a_specific_row_in_a_table.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "license": "CC BY-SA 4.0",
+    "author": "Prototyperspective",
+    "editorial_check": "source_and_license_exact_file_verified_2026-10-22",
+    "image_note": "Authentic website hyperlink screenshot, precisely signals a clickable link; mobile crop, aesthetic clarity and CDN fetch are still pending"
+  },
+  {
+    "word_id": "work-600",
+    "word": "der Lohn",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Star_Watch_pay_stub.jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Star_Watch_pay_stub.jpg/960px-Star_Watch_pay_stub.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "license": "CC BY-SA 4.0",
+    "author": "Doug Coldwell",
+    "editorial_check": "source_and_license_exact_file_verified_2026-10-22",
+    "image_note": "Authentic salary/paystub, visually distinct from the salary scene used elsewhere; mobile crop, aesthetic clarity and CDN fetch are still pending"
+  }
+]

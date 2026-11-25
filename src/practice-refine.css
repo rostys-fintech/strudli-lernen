@@ -1,0 +1,138 @@
+/* Stage 16: purposeful practice hierarchy and lively, legible feedback. */
+.practiceStudio{max-width:800px}
+.practiceStudioHeader{margin-bottom:13px}
+.practiceStudioHeader h1{font-size:clamp(22px,4vw,29px);line-height:1.12}
+.practiceStudioSessionHero{
+ display:flex;align-items:center;gap:12px;min-height:148px;
+ padding:15px 18px;border-radius:23px;
+ background:linear-gradient(125deg,#f2d9bb,#fff1d7 58%,#fff8ec);
+ border:1px solid #ddba96;box-shadow:0 6px 14px #8b573e22;
+ overflow:hidden
+}
+.practiceStudioSessionHero img{width:130px;height:135px;flex:0 0 130px;object-fit:contain;align-self:end;filter:drop-shadow(0 4px 4px #4f302d2c)}
+.practiceStudioSessionHero h2{font:950 clamp(21px,3.4vw,29px)/1.15 Rubik,Nunito,system-ui,sans-serif;letter-spacing:-.045em;color:#3b2721;margin:0 0 8px}
+.practiceStudioSessionHero p{margin:0;color:#745147;font-size:15px;font-weight:750}
+.practiceStudio .practiceSessionChooser{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;margin:15px 0}
+.practiceStudio .practiceSessionChooser button{
+ min-height:146px;padding:18px;align-items:flex-start;flex-direction:column;position:relative;gap:11px;
+ background:linear-gradient(150deg,#fffaf2,#fff0de);border:2px solid #ddbea1;
+ border-bottom:5px solid #d4a17a;color:#39261f;border-radius:21px;
+ box-shadow:0 7px 14px #8853381c;
+ transition:transform .15s ease,box-shadow .15s ease;
+}
+.practiceStudio .practiceSessionChooser button:first-child{background:linear-gradient(145deg,#b22d51,#8b1d3e);border-color:#f6d8d3;border-bottom-color:#74213b;color:#fff}
+.practiceStudio .practiceSessionChooser button>svg:first-child{width:29px;height:29px;flex:none;color:inherit}
+.practiceStudio .practiceSessionChooser button>svg:last-child{position:absolute;right:15px;bottom:18px;color:inherit;width:22px;height:22px}
+.practiceStudio .practiceSessionChooser button>span{padding-right:20px;display:flex;flex-direction:column;gap:9px}
+.practiceStudio .practiceSessionChooser strong{font-size:clamp(19px,2.5vw,24px);font-weight:950;line-height:1.2}
+.practiceStudio .practiceSessionChooser small{font-size:12px;line-height:1.35;color:#765246;font-weight:800}
+.practiceStudio .practiceSessionChooser button:first-child small{color:#ffe6e7}
+.practiceStudio .practiceSessionChooser button:hover{transform:translateY(-3px);box-shadow:0 10px 18px #72382d36}
+.practiceStudio .practiceSessionChooser button:focus-visible{outline:3px solid #f0aa37;outline-offset:3px}
+.practiceStudioSelectedSession{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:7px;margin:8px 0 12px}
+.practiceStudioSelectedSession button{display:flex;align-items:center;gap:6px;border:1px solid #dbc4b1;background:#fffaf4;border-radius:999px;padding:9px 12px;color:#8d2544;font-size:12px;font-weight:900}
+.practiceStudioSelectedSession strong{color:#61362e;font-size:13px}
+.practiceChooseGameTitle{font-size:clamp(22px,4vw,27px);font-weight:950;letter-spacing:-.035em;margin:10px 0 14px}
+.practiceStudio .practiceModeDeck{gap:11px}
+.practiceStudio .practiceModeCard{min-height:105px;padding:14px;border-color:#dec4a9;border-bottom-color:#cc9d76;background:linear-gradient(145deg,#fffdf7,#fff1df)}
+.practiceStudio .practiceModeCardBody span{color:#694a3f}
+.practiceStudio .practiceModeCardBody strong{font-size:19px}
+.practiceStudio .practiceStudioHud{min-height:31px;font-size:15px;color:#573a32;gap:7px;margin:0}
+.practiceStudio .practiceStudioHud>span:first-child strong{font-size:13px;color:#a22849}
+.practiceStudio .practiceQuestionCount{font-size:12px;color:#856b5b;font-weight:750;min-width:0}
+.practiceStudio .practiceStudioTrack{height:8px;background:#ead6c3;margin:8px 0 10px}
+.practiceStudio .practiceStudioQuestion{
+ min-height:136px;gap:7px;border-color:#d9bda1;background:linear-gradient(145deg,#fffcf6,#fff4e7);
+ box-shadow:0 5px 15px #7a52382a;padding:14px 17px;border-radius:21px
+}
+.practiceStudio .practiceStudioQuestion h2{font-size:clamp(25px,5vw,35px);margin:9px auto 2px;line-height:1.24;color:#2f221d}
+.practiceStudio .practiceStudioQuestionTop>span{font-size:11px;color:#8f2948}
+.practiceStudio .practiceQuestionSub{font-size:12px;color:#745245;line-height:1.35}
+.practiceStudio .practiceInlineBlank{color:#a38476;letter-spacing:.05em}
+.practiceStudio .practiceInlineAnswer{
+ display:inline-block;border-radius:8px;padding:0 5px 2px;margin:0 2px;
+ background:#d6f6e4;color:#186f48;
+ box-shadow:inset 0 -3px 0 #71bd93;
+ animation:practiceAnswerPop .46s cubic-bezier(.2,1.7,.6,1) both
+}
+@keyframes practiceAnswerPop{0%{opacity:.25;transform:scale(.74) translateY(10px)}65%{transform:scale(1.13) translateY(-2px)}100%{opacity:1;transform:scale(1)}}
+.practiceStudio .practiceChoices .practiceChoice{color:#fff;text-shadow:none}
+.practiceStudio .practiceChoices .practiceChoice--0{--tile:#af2b50;--edge:#772039}
+.practiceStudio .practiceChoices .practiceChoice--1{--tile:#39779a;--edge:#244c68}
+.practiceStudio .practiceChoices .practiceChoice--2{--tile:#aa702d;--edge:#795122}
+.practiceStudio .practiceChoices .practiceChoice--3{--tile:#30846f;--edge:#235b4f}
+.practiceStudio .practiceChoices .practiceChoice:disabled{opacity:.87}
+.practiceStudio .practiceChoices .practiceChoice.right:disabled{opacity:1}
+.practiceStudio .practiceStudioFeedback{border-color:#d5bda6;background:#fff6e7;padding:10px 13px;margin:9px 0}
+.practiceStudio .practiceStudioFeedback.success{background:#e6f7eb;border-color:#acd6b9}
+.practiceStudio .practiceStudioFeedback strong{font-size:14px}
+.practiceStudio .practiceStudioFeedback small{color:#775948}
+.practiceStudio .practiceStudioBottom{padding:2px 0 9px}
+.practiceStrudliReaction{
+ display:flex;gap:9px;align-items:center;position:relative;overflow:hidden;
+ background:linear-gradient(115deg,#fff2df,#fffbf3);
+ border:1px solid #e6c8a7;border-radius:18px;
+ padding:5px 13px 5px 3px;margin:10px 0;
+ box-shadow:0 4px 12px #84613e16;
+ animation:practiceReactionEnter .3s ease-out
+}
+.practiceStrudliReaction.celebrate{background:linear-gradient(110deg,#f0fae9,#fff6db);border-color:#b5d69e}
+.practiceStrudliReaction.encourage{background:linear-gradient(110deg,#fff1e9,#fff9ed)}
+.practiceStrudliReaction img{
+ width:62px;height:68px;object-fit:contain;flex:0 0 62px;
+ filter:drop-shadow(0 4px 3px #5a493123);
+ animation:practiceMascotBounce .7s cubic-bezier(.25,.9,.3,1.2)
+}
+.practiceStrudliReaction.encourage img{animation:practiceMascotTry .5s ease-in-out}
+.practiceStrudliReaction>div{display:flex;flex-direction:column;gap:2px;min-width:0;padding-right:15px}
+.practiceStrudliReaction strong{font-size:16px;font-weight:950;color:#962848}
+.practiceStrudliReaction.celebrate strong{color:#347548}
+.practiceStrudliReaction span{color:#695143;font-size:12px;font-weight:800;line-height:1.4}
+.practiceStrudliReaction .practiceReactionSparkles{position:absolute;top:6px;right:11px;color:#d7952d;font-size:17px;animation:practiceTwinkle .9s ease-out both}
+@keyframes practiceReactionEnter{from{opacity:.35;transform:translateY(9px)}to{opacity:1;transform:translateY(0)}}
+@keyframes practiceMascotBounce{0%{transform:scale(.8) rotate(-7deg)}45%{transform:translateY(-10px) rotate(7deg) scale(1.09)}75%{transform:translateY(1px) rotate(-2deg)}100%{transform:none}}
+@keyframes practiceMascotTry{0%,100%{transform:rotate(0)}30%{transform:rotate(-7deg)}65%{transform:rotate(6deg)}}
+@keyframes practiceTwinkle{0%{opacity:0;transform:translateY(10px) scale(.6)}55%{opacity:1;transform:translateY(-4px) scale(1.2)}100%{opacity:.7;transform:none}}
+.practiceStudio .practiceResultMetrics{grid-template-columns:repeat(2,minmax(0,1fr))}
+.practiceStudio .practiceResultMetrics strong{font-size:27px}
+.strudliSectionHelpLaunch{padding:2px!important;border-radius:50%;overflow:hidden;display:grid;place-items:center;min-width:42px;min-height:42px;position:relative}
+.strudliSectionHelpLaunch img{display:block;width:40px;height:42px;object-fit:contain;filter:drop-shadow(0 1px 2px #70421a2e)}
+.strudliSectionHelpLaunch:hover{box-shadow:0 0 0 2px #eac89e}
+@media(max-width:640px){
+ .practiceStudioSessionHero{min-height:115px;padding:9px 11px}
+ .practiceStudioSessionHero img{width:95px;height:112px;flex-basis:95px}
+ .practiceStudioSessionHero h2{font-size:clamp(20px,5.3vw,26px)}
+ .practiceStudioSessionHero p{font-size:12px}
+ .practiceStudio .practiceSessionChooser{grid-template-columns:1fr;gap:10px}
+ .practiceStudio .practiceSessionChooser button{min-height:99px;padding:14px 16px;gap:8px;border-radius:17px}
+ .practiceStudio .practiceSessionChooser button>span{gap:5px}
+ .practiceStudio .practiceSessionChooser strong{font-size:21px}
+ .practiceStudio .practiceModeCard{min-height:88px}
+ .practiceStudio .practiceModeCardBody strong{font-size:17px}
+ .practiceStudio .practiceStudioQuestion{min-height:126px;padding:11px 12px}
+ .practiceStudio .practiceStudioQuestion h2{font-size:clamp(24px,6.3vw,31px);margin:6px auto 0}
+ .practiceStudio .practiceChoices .practiceChoice{min-height:69px}
+ .practiceStrudliReaction{margin:7px 0;padding:2px 8px 2px 1px}
+ .practiceStrudliReaction img{width:54px;height:59px;flex-basis:54px}
+ .practiceStrudliReaction strong{font-size:15px}
+ .strudliSectionHelpLaunch{min-width:39px;min-height:39px}
+ .strudliSectionHelpLaunch img{width:38px;height:39px}
+}
+@media(prefers-reduced-motion:reduce){
+ .practiceStrudliReaction,.practiceStrudliReaction img,.practiceReactionSparkles,.practiceInlineAnswer{animation:none!important}
+}
+
+/* Stage 17: distinctive spoken-expression challenge, same established UI. */
+.practiceStudioRound--phrases .practiceStudioQuestion{background:linear-gradient(135deg,#fff8ea,#fce8e2);border-color:#dcb899;min-height:158px}
+.practiceStudioRound--phrases .practiceDialoguePerson{color:#a52b4f;font-size:13px}
+.practiceStudioRound--phrases .practicePhrasePrompt{font-size:clamp(17px,3.2vw,24px);line-height:1.43;font-weight:900;background:#fffef9;color:#442d28;border-color:#e8bea5}
+.practiceStudioRound--phrases .practiceStudioChatChoices .practiceChoice{border-bottom-width:4px;border-color:#d9b4a3;background:#fff8ef;font-weight:880}
+.practiceStudioRound--phrases .practiceStudioChatChoices .practiceChoice:hover:not(:disabled){background:#fff0dc}
+.practiceStudioRound--phrases .practiceStudioChatChoices .practiceChoiceAvatar{background:#f4dee4;color:#a12248}
+.practiceStudioRound--phrases .practiceStudioChatChoices .practiceChoice.right{background:#e3f8eb;border-color:#64b582}
+.practiceStudioRound--phrases .practiceStudioChatChoices .practiceChoice.wrong{background:#f9e5e6;border-color:#e2a5a9}
+
+/* Chat-style answers are light cards: their text must be dark (the coloured tiles keep white text) */
+.practiceStudio .practiceChoices.practiceStudioChatChoices .practiceChoice{color:#4a2f27}
+.practiceStudio .practiceChoices.practiceStudioChatChoices .practiceChoice.right{color:#1f5537}
+.practiceStudio .practiceChoices.practiceStudioChatChoices .practiceChoice.wrong{color:#8d3f4d}

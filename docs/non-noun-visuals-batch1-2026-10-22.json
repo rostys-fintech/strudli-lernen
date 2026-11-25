@@ -1,0 +1,739 @@
+{
+  "date": "2026-10-22",
+  "stage": "Non-noun batch 1 — semantic reuse accepted",
+  "baselineNonNouns": 438,
+  "illustratedBefore": 170,
+  "illustratedAfter": 250,
+  "unillustratedAfter": 188,
+  "newImageAssignments": 80,
+  "replacedMisleadingImages": 9,
+  "generatedVisualAssets": 86,
+  "existingNounImagesPreserved": 736,
+  "changeList": [
+    {
+      "id": "ww-new-001",
+      "de": "null",
+      "topic": "numbers",
+      "type": "number",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/ww-new-001.svg"
+    },
+    {
+      "id": "ww-new-002",
+      "de": "eins",
+      "topic": "numbers",
+      "type": "number",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/ww-new-002.svg"
+    },
+    {
+      "id": "ww-new-003",
+      "de": "zwei",
+      "topic": "numbers",
+      "type": "number",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/ww-new-003.svg"
+    },
+    {
+      "id": "ww-new-004",
+      "de": "drei",
+      "topic": "numbers",
+      "type": "number",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/ww-new-004.svg"
+    },
+    {
+      "id": "ww-new-005",
+      "de": "vier",
+      "topic": "numbers",
+      "type": "number",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/ww-new-005.svg"
+    },
+    {
+      "id": "ww-new-006",
+      "de": "fünf",
+      "topic": "numbers",
+      "type": "number",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/ww-new-006.svg"
+    },
+    {
+      "id": "ww-new-007",
+      "de": "sechs",
+      "topic": "numbers",
+      "type": "number",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/ww-new-007.svg"
+    },
+    {
+      "id": "ww-new-008",
+      "de": "sieben",
+      "topic": "numbers",
+      "type": "number",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/ww-new-008.svg"
+    },
+    {
+      "id": "ww-new-009",
+      "de": "acht",
+      "topic": "numbers",
+      "type": "number",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/ww-new-009.svg"
+    },
+    {
+      "id": "ww-new-010",
+      "de": "neun",
+      "topic": "numbers",
+      "type": "number",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/ww-new-010.svg"
+    },
+    {
+      "id": "ww-new-011",
+      "de": "zehn",
+      "topic": "numbers",
+      "type": "number",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/ww-new-011.svg"
+    },
+    {
+      "id": "ww-new-012",
+      "de": "elf",
+      "topic": "numbers",
+      "type": "number",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/ww-new-012.svg"
+    },
+    {
+      "id": "ww-new-013",
+      "de": "zwölf",
+      "topic": "numbers",
+      "type": "number",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/ww-new-013.svg"
+    },
+    {
+      "id": "ww-new-014",
+      "de": "dreizehn",
+      "topic": "numbers",
+      "type": "number",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/ww-new-014.svg"
+    },
+    {
+      "id": "ww-new-015",
+      "de": "vierzehn",
+      "topic": "numbers",
+      "type": "number",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/ww-new-015.svg"
+    },
+    {
+      "id": "ww-new-016",
+      "de": "fünfzehn",
+      "topic": "numbers",
+      "type": "number",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/ww-new-016.svg"
+    },
+    {
+      "id": "ww-new-017",
+      "de": "sechzehn",
+      "topic": "numbers",
+      "type": "number",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/ww-new-017.svg"
+    },
+    {
+      "id": "ww-new-018",
+      "de": "siebzehn",
+      "topic": "numbers",
+      "type": "number",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/ww-new-018.svg"
+    },
+    {
+      "id": "ww-new-019",
+      "de": "achtzehn",
+      "topic": "numbers",
+      "type": "number",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/ww-new-019.svg"
+    },
+    {
+      "id": "ww-new-020",
+      "de": "neunzehn",
+      "topic": "numbers",
+      "type": "number",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/ww-new-020.svg"
+    },
+    {
+      "id": "ww-new-021",
+      "de": "zwanzig",
+      "topic": "numbers",
+      "type": "number",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/ww-new-021.svg"
+    },
+    {
+      "id": "ww-new-022",
+      "de": "dreißig",
+      "topic": "numbers",
+      "type": "number",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/ww-new-022.svg"
+    },
+    {
+      "id": "ww-new-023",
+      "de": "vierzig",
+      "topic": "numbers",
+      "type": "number",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/ww-new-023.svg"
+    },
+    {
+      "id": "ww-new-024",
+      "de": "fünfzig",
+      "topic": "numbers",
+      "type": "number",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/ww-new-024.svg"
+    },
+    {
+      "id": "ww-new-025",
+      "de": "hundert",
+      "topic": "numbers",
+      "type": "number",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/ww-new-025.svg"
+    },
+    {
+      "id": "ww-new-026",
+      "de": "tausend",
+      "topic": "numbers",
+      "type": "number",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/ww-new-026.svg"
+    },
+    {
+      "id": "preps-177",
+      "de": "in",
+      "topic": "preps",
+      "type": "preposition",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/preps-177.svg"
+    },
+    {
+      "id": "preps-178",
+      "de": "an",
+      "topic": "preps",
+      "type": "preposition",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/preps-178.svg"
+    },
+    {
+      "id": "preps-179",
+      "de": "auf",
+      "topic": "preps",
+      "type": "preposition",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/preps-179.svg"
+    },
+    {
+      "id": "preps-180",
+      "de": "unter",
+      "topic": "preps",
+      "type": "preposition",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/preps-180.svg"
+    },
+    {
+      "id": "preps-181",
+      "de": "über",
+      "topic": "preps",
+      "type": "preposition",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/preps-181.svg"
+    },
+    {
+      "id": "preps-182",
+      "de": "neben",
+      "topic": "preps",
+      "type": "preposition",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/preps-182.svg"
+    },
+    {
+      "id": "preps-183",
+      "de": "vor",
+      "topic": "preps",
+      "type": "preposition",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/preps-183.svg"
+    },
+    {
+      "id": "preps-184",
+      "de": "hinter",
+      "topic": "preps",
+      "type": "preposition",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/preps-184.svg"
+    },
+    {
+      "id": "preps-185",
+      "de": "zwischen",
+      "topic": "preps",
+      "type": "preposition",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/preps-185.svg"
+    },
+    {
+      "id": "preps-189",
+      "de": "gegen",
+      "topic": "preps",
+      "type": "preposition",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/preps-189.svg"
+    },
+    {
+      "id": "preps-191",
+      "de": "durch",
+      "topic": "preps",
+      "type": "preposition",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/preps-191.svg"
+    },
+    {
+      "id": "preps-193",
+      "de": "aus",
+      "topic": "preps",
+      "type": "preposition",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/preps-193.svg"
+    },
+    {
+      "id": "preps-194",
+      "de": "zu",
+      "topic": "preps",
+      "type": "preposition",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/preps-194.svg"
+    },
+    {
+      "id": "preps-200",
+      "de": "gegenüber",
+      "topic": "preps",
+      "type": "preposition",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/preps-200.svg"
+    },
+    {
+      "id": "preps-201",
+      "de": "entlang",
+      "topic": "preps",
+      "type": "preposition",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/preps-201.svg"
+    },
+    {
+      "id": "adjs-880",
+      "de": "groß",
+      "topic": "adjs",
+      "type": "trait",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/adjs-880.svg"
+    },
+    {
+      "id": "adjs-881",
+      "de": "klein",
+      "topic": "adjs",
+      "type": "trait",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/adjs-881.svg"
+    },
+    {
+      "id": "adjs-884",
+      "de": "neu",
+      "topic": "adjs",
+      "type": "trait",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/adjs-884.svg"
+    },
+    {
+      "id": "adjs-887",
+      "de": "leicht",
+      "topic": "adjs",
+      "type": "trait",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/adjs-887.svg"
+    },
+    {
+      "id": "adjs-888",
+      "de": "schwer",
+      "topic": "adjs",
+      "type": "trait",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/adjs-888.svg"
+    },
+    {
+      "id": "adjs-890",
+      "de": "langsam",
+      "topic": "adjs",
+      "type": "trait",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/adjs-890.svg"
+    },
+    {
+      "id": "adjs-901",
+      "de": "teuer",
+      "topic": "adjs",
+      "type": "trait",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/adjs-901.svg"
+    },
+    {
+      "id": "adjs-902",
+      "de": "reich",
+      "topic": "adjs",
+      "type": "trait",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/adjs-902.svg"
+    },
+    {
+      "id": "adjs-906",
+      "de": "offen",
+      "topic": "adjs",
+      "type": "trait",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/adjs-906.svg"
+    },
+    {
+      "id": "adjs-907",
+      "de": "geschlossen",
+      "topic": "adjs",
+      "type": "trait",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/adjs-907.svg"
+    },
+    {
+      "id": "adjs-908",
+      "de": "frei",
+      "topic": "adjs",
+      "type": "trait",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/adjs-908.svg"
+    },
+    {
+      "id": "adjs-909",
+      "de": "besetzt",
+      "topic": "adjs",
+      "type": "trait",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/adjs-909.svg"
+    },
+    {
+      "id": "adjs-915",
+      "de": "traurig",
+      "topic": "adjs",
+      "type": "trait",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/adjs-915.svg"
+    },
+    {
+      "id": "adjs-916",
+      "de": "freundlich",
+      "topic": "adjs",
+      "type": "trait",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/adjs-916.svg"
+    },
+    {
+      "id": "adjs-917",
+      "de": "unfreundlich",
+      "topic": "adjs",
+      "type": "trait",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/adjs-917.svg"
+    },
+    {
+      "id": "adjs-918",
+      "de": "nett",
+      "topic": "adjs",
+      "type": "trait",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/adjs-918.svg"
+    },
+    {
+      "id": "adjs-922",
+      "de": "wichtig",
+      "topic": "adjs",
+      "type": "trait",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/adjs-922.svg"
+    },
+    {
+      "id": "adjs-923",
+      "de": "richtig",
+      "topic": "adjs",
+      "type": "trait",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/adjs-923.svg"
+    },
+    {
+      "id": "adjs-924",
+      "de": "falsch",
+      "topic": "adjs",
+      "type": "trait",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/adjs-924.svg"
+    },
+    {
+      "id": "adjs-925",
+      "de": "einfach",
+      "topic": "adjs",
+      "type": "trait",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/adjs-925.svg"
+    },
+    {
+      "id": "adjs-926",
+      "de": "kompliziert",
+      "topic": "adjs",
+      "type": "trait",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/adjs-926.svg"
+    },
+    {
+      "id": "adjs-940",
+      "de": "fertig",
+      "topic": "adjs",
+      "type": "trait",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/adjs-940.svg"
+    },
+    {
+      "id": "adjs-941",
+      "de": "kaputt",
+      "topic": "adjs",
+      "type": "trait",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/adjs-941.svg"
+    },
+    {
+      "id": "adjs-942",
+      "de": "schwierig",
+      "topic": "adjs",
+      "type": "trait",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/adjs-942.svg"
+    },
+    {
+      "id": "ww-new-183",
+      "de": "kurz",
+      "topic": "adjs",
+      "type": "trait",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/ww-new-183.svg"
+    },
+    {
+      "id": "ww-new-187",
+      "de": "eng",
+      "topic": "adjs",
+      "type": "trait",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/ww-new-187.svg"
+    },
+    {
+      "id": "ww-new-189",
+      "de": "trocken",
+      "topic": "adjs",
+      "type": "trait",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/ww-new-189.svg"
+    },
+    {
+      "id": "ww-new-191",
+      "de": "hart",
+      "topic": "adjs",
+      "type": "trait",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/ww-new-191.svg"
+    },
+    {
+      "id": "ww-new-193",
+      "de": "kostenlos",
+      "topic": "adjs",
+      "type": "trait",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/ww-new-193.svg"
+    },
+    {
+      "id": "ww-new-194",
+      "de": "bereit",
+      "topic": "adjs",
+      "type": "trait",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/ww-new-194.svg"
+    },
+    {
+      "id": "ww-new-195",
+      "de": "möglich",
+      "topic": "adjs",
+      "type": "trait",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/ww-new-195.svg"
+    },
+    {
+      "id": "ww-new-198",
+      "de": "zufrieden",
+      "topic": "adjs",
+      "type": "trait",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/ww-new-198.svg"
+    },
+    {
+      "id": "ww-new-199",
+      "de": "unzufrieden",
+      "topic": "adjs",
+      "type": "trait",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/ww-new-199.svg"
+    },
+    {
+      "id": "verbs-851",
+      "de": "öffnen",
+      "topic": "verbs",
+      "type": "action",
+      "oldPhoto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/A_teal_door_in_Paris_%28Unsplash%29.jpg/960px-A_teal_door_in_Paris_%28Unsplash%29.jpg",
+      "newPhoto": "/photos/learning/verbs-851.svg"
+    },
+    {
+      "id": "verbs-852",
+      "de": "schließen",
+      "topic": "verbs",
+      "type": "action",
+      "oldPhoto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/A_teal_door_in_Paris_%28Unsplash%29.jpg/960px-A_teal_door_in_Paris_%28Unsplash%29.jpg",
+      "newPhoto": "/photos/learning/verbs-852.svg"
+    },
+    {
+      "id": "everyday-77",
+      "de": "einschalten",
+      "topic": "everyday",
+      "type": "action",
+      "oldPhoto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Light-switch.jpg/960px-Light-switch.jpg",
+      "newPhoto": "/photos/learning/everyday-77.svg"
+    },
+    {
+      "id": "everyday-78",
+      "de": "ausschalten",
+      "topic": "everyday",
+      "type": "action",
+      "oldPhoto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Light-switch.jpg/960px-Light-switch.jpg",
+      "newPhoto": "/photos/learning/everyday-78.svg"
+    },
+    {
+      "id": "ww-new-155",
+      "de": "einsteigen",
+      "topic": "verbs",
+      "type": "action",
+      "oldPhoto": "https://wortwelt-de-ua.floot.app/_cdn/static/12915bd0-ceed-4ec4-ac03-ab403cfff982.png",
+      "newPhoto": "/photos/learning/ww-new-155.svg"
+    },
+    {
+      "id": "ww-new-156",
+      "de": "aussteigen",
+      "topic": "verbs",
+      "type": "action",
+      "oldPhoto": "https://wortwelt-de-ua.floot.app/_cdn/static/12915bd0-ceed-4ec4-ac03-ab403cfff982.png",
+      "newPhoto": "/photos/learning/ww-new-156.svg"
+    },
+    {
+      "id": "verbs-838",
+      "de": "geben",
+      "topic": "verbs",
+      "type": "action",
+      "oldPhoto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Brown_paper_gift_%28Unsplash%29.jpg/960px-Brown_paper_gift_%28Unsplash%29.jpg",
+      "newPhoto": "/photos/learning/verbs-838.svg"
+    },
+    {
+      "id": "verbs-841",
+      "de": "bekommen",
+      "topic": "verbs",
+      "type": "action",
+      "oldPhoto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Brown_paper_gift_%28Unsplash%29.jpg/960px-Brown_paper_gift_%28Unsplash%29.jpg",
+      "newPhoto": "/photos/learning/verbs-841.svg"
+    },
+    {
+      "id": "verbs-871",
+      "de": "stehen",
+      "topic": "verbs",
+      "type": "action",
+      "oldPhoto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Portrait_of_a_smiling_person_with_reddish-brown_hair%2C_2026.jpg/960px-Portrait_of_a_smiling_person_with_reddish-brown_hair%2C_2026.jpg",
+      "newPhoto": "/photos/learning/verbs-871.svg"
+    },
+    {
+      "id": "adverbs-151",
+      "de": "links",
+      "topic": "adverbs",
+      "type": "direction",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/adverbs-151.svg"
+    },
+    {
+      "id": "adverbs-152",
+      "de": "rechts",
+      "topic": "adverbs",
+      "type": "direction",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/adverbs-152.svg"
+    },
+    {
+      "id": "adverbs-154",
+      "de": "oben",
+      "topic": "adverbs",
+      "type": "reuse_grammar",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/preps-181.svg",
+      "source": "preps-181"
+    },
+    {
+      "id": "adverbs-155",
+      "de": "unten",
+      "topic": "adverbs",
+      "type": "reuse_grammar",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/preps-180.svg",
+      "source": "preps-180"
+    },
+    {
+      "id": "adverbs-153",
+      "de": "geradeaus",
+      "topic": "adverbs",
+      "type": "reuse_grammar",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/adverbs-153.svg",
+      "source": "preps-201"
+    },
+    {
+      "id": "adverbs-156",
+      "de": "drinnen",
+      "topic": "adverbs",
+      "type": "reuse_grammar",
+      "oldPhoto": null,
+      "newPhoto": "/photos/learning/preps-177.svg",
+      "source": "preps-177"
+    }
+  ],
+  "safetyAndQuality": [
+    "Repeated images remain allowed for verbs and adjectives when subject is genuinely appropriate.",
+    "Replaced nine contextually misleading reused photos with unambiguous original educational vector illustrations.",
+    "Numbers now have clear number cards, not random scenery; prepositions have spatial box-and-marker diagrams.",
+    "For five ambiguous pronouns, show only German usage examples before answer, never Ukrainian translation.",
+    "Remaining unillustrated words include genuinely abstract expressions; do not fill them randomly.",
+    "SVG images are generated deterministically during build and stored locally under /photos/learning/, not downloaded from random sources.",
+    "Final image quality and mobile UX not yet verified at commit time."
+  ]
+}

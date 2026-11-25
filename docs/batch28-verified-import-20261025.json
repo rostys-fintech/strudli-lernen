@@ -1,0 +1,286 @@
+{
+  "date": "2026-10-25",
+  "changed": 30,
+  "wordCount": 1177,
+  "exclusions": [
+    "work-590",
+    "body-712",
+    "verbs-849",
+    "adjs-932",
+    "nature-500",
+    "ww-new-185",
+    "ww-new-139"
+  ],
+  "photos": [
+    {
+      "id": "germany-221",
+      "de": "Versicherung",
+      "uk": "страхування",
+      "old": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Policy_of_compulsory_insurance_of_the_civil_liability_of_vehicle_owners_in_Russia_2021.jpg/960px-Policy_of_compulsory_insurance_of_the_civil_liability_of_vehicle_owners_in_Russia_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "new": "/photos/custom/batch28-germany-221.jpg",
+      "sourcePage": "https://www.pexels.com/photo/a-person-holding-a-document-7731326/",
+      "license": "Pexels License"
+    },
+    {
+      "id": "ww-new-067",
+      "de": "Hausordnung",
+      "uk": "правила проживання/будинку",
+      "old": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/House_rules_-_geograph.org.uk_-_7832450.jpg/960px-House_rules_-_geograph.org.uk_-_7832450.jpg",
+      "new": "/photos/custom/batch28-ww-new-067.jpg",
+      "sourcePage": "https://www.pexels.com/photo/man-and-woman-looking-at-notices-on-a-cork-board-7964242/",
+      "license": "Pexels License"
+    },
+    {
+      "id": "ww-new-074",
+      "de": "Girokonto",
+      "uk": "поточний банківський рахунок",
+      "old": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Girokonto_VdgB1.jpg/960px-Girokonto_VdgB1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "new": "/photos/custom/batch28-ww-new-074.jpg",
+      "sourcePage": "https://www.pexels.com/photo/black-smartphone-on-green-table-6214377/",
+      "license": "Pexels License"
+    },
+    {
+      "id": "ww-new-076",
+      "de": "Gebühr",
+      "uk": "комісія, плата за послугу",
+      "old": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Does_your_bank_charge_fees_%28213965230%29.jpg/960px-Does_your_bank_charge_fees_%28213965230%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "new": "/photos/custom/batch28-ww-new-076.jpg",
+      "sourcePage": "https://www.pexels.com/photo/a-mobile-phone-with-calculator-on-a-white-surface-6927387/",
+      "license": "Pexels License"
+    },
+    {
+      "id": "ww-new-081",
+      "de": "Hausarzt",
+      "uk": "сімейний лікар",
+      "old": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Saeed-Ghezelbaash-physician-portrait.jpg/960px-Saeed-Ghezelbaash-physician-portrait.jpg",
+      "new": "/photos/custom/batch28-ww-new-081.jpg",
+      "sourcePage": "https://www.pexels.com/photo/a-doctor-checking-his-patient-7108152/",
+      "license": "Pexels License"
+    },
+    {
+      "id": "ww-new-083",
+      "de": "Notfall",
+      "uk": "невідкладний випадок",
+      "old": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Layton_Fire_Department_Ambulance_Ford_Transit.jpg/960px-Layton_Fire_Department_Ambulance_Ford_Transit.jpg",
+      "new": "/photos/custom/batch28-ww-new-083.jpg",
+      "sourcePage": "https://www.pexels.com/photo/paramedics-bringing-man-in-a-ambulance-6520076/",
+      "license": "Pexels License"
+    },
+    {
+      "id": "travel-432",
+      "de": "Reiseziel",
+      "uk": "пункт призначення",
+      "old": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Maldives%2C_your_perfect_holiday_destination_-_Flickr_-_nattu.jpg/960px-Maldives%2C_your_perfect_holiday_destination_-_Flickr_-_nattu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "new": "/photos/custom/batch28-travel-432.jpg",
+      "sourcePage": "https://www.pexels.com/photo/hand-placing-pin-on-map-8828427/",
+      "license": "Pexels License"
+    },
+    {
+      "id": "travel-437",
+      "de": "Insel",
+      "uk": "острів",
+      "old": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Beach_alongside_a_bay_at_K%27gari%2C_Queensland.jpg/960px-Beach_alongside_a_bay_at_K%27gari%2C_Queensland.jpg",
+      "new": "/photos/custom/batch28-travel-437.jpg",
+      "sourcePage": "https://www.pexels.com/photo/island-surrounded-with-water-9113124/",
+      "license": "Pexels License"
+    },
+    {
+      "id": "travel-448",
+      "de": "Ausland",
+      "uk": "закордон",
+      "old": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/International_Departures%2C_Cape_Town_Airport.jpg/960px-International_Departures%2C_Cape_Town_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "new": "/photos/custom/batch28-travel-448.jpg",
+      "sourcePage": "https://www.pexels.com/photo/blue-suitcase-in-empty-airport-terminal-30782813/",
+      "license": "Pexels License"
+    },
+    {
+      "id": "city-557",
+      "de": "Zentrum",
+      "uk": "центр",
+      "old": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Taxi_rank_on_city_center_street_%28Unsplash%29.jpg/960px-Taxi_rank_on_city_center_street_%28Unsplash%29.jpg",
+      "new": "/photos/custom/batch28-city-557.jpg",
+      "sourcePage": "https://www.pexels.com/photo/aerial-view-of-the-st-catherines-church-in-in-frankfurt-am-main-germany-18553835/",
+      "license": "Pexels License"
+    },
+    {
+      "id": "shopping-682",
+      "de": "Rückgabe",
+      "uk": "повернення товару",
+      "old": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/TW_IKEA_Purchase_Returns_and_Allowances_receipt_20131107.jpg/960px-TW_IKEA_Purchase_Returns_and_Allowances_receipt_20131107.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "new": "/photos/custom/batch28-shopping-682.jpg",
+      "sourcePage": "https://www.pexels.com/photo/customer-receiving-purchase-at-clothing-store-counter-36730428/",
+      "license": "Pexels License"
+    },
+    {
+      "id": "work-593",
+      "de": "Arbeitgeber",
+      "uk": "роботодавець",
+      "old": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Small_business_owner_in_Madagascar_%286190135304%29.jpg/960px-Small_business_owner_in_Madagascar_%286190135304%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "new": "/photos/custom/batch28-work-593.jpg",
+      "sourcePage": "https://www.pexels.com/photo/woman-handing-her-boss-document-17682895/",
+      "license": "Pexels License"
+    },
+    {
+      "id": "work-594",
+      "de": "Arbeitnehmer",
+      "uk": "працівник",
+      "old": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Employees_of_Google_at_their_office_at_Taipei_101_20190417.jpg/960px-Employees_of_Google_at_their_office_at_Taipei_101_20190417.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "new": "/photos/custom/batch28-work-594.jpg",
+      "sourcePage": "https://www.pexels.com/photo/woman-programming-on-a-notebook-1181359/",
+      "license": "Pexels License"
+    },
+    {
+      "id": "work-598",
+      "de": "Chefin",
+      "uk": "керівниця",
+      "old": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Female_Veterinarian%2C_Business_Owner.jpg/960px-Female_Veterinarian%2C_Business_Owner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "new": "/photos/custom/batch28-work-598.jpg",
+      "sourcePage": "https://www.pexels.com/photo/women-discussing-work-plan-in-office-12903008/",
+      "license": "Pexels License"
+    },
+    {
+      "id": "work-611",
+      "de": "Vertrag",
+      "uk": "договір",
+      "old": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Contract_signed_for_the_ELT_coating_plant_%28ann18045e%29.jpg/960px-Contract_signed_for_the_ELT_coating_plant_%28ann18045e%29.jpg",
+      "new": "/photos/custom/batch28-work-611.jpg",
+      "sourcePage": "https://www.pexels.com/photo/a-person-signing-a-contract-8815849/",
+      "license": "Pexels License"
+    },
+    {
+      "id": "study-639",
+      "de": "Frage",
+      "uk": "запитання",
+      "old": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/A_fourth_grade_student_raises_his_hand_to_answer_questions_regarding_the_Bill_of_Rights_during_Constitution_Week_at_Bitburg_Elementary_School_on_Bitburg_Annex%2C_Germany%2C_Sept_120920-F-VI983-021.jpg/960px-thumbnail.jpg",
+      "new": "/photos/custom/batch28-study-639.jpg",
+      "sourcePage": "https://www.pexels.com/photo/student-raising-her-hand-8423461/",
+      "license": "Pexels License"
+    },
+    {
+      "id": "study-662",
+      "de": "Übersetzung",
+      "uk": "переклад",
+      "old": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Interpreters%27_booth_at_UN_peackeeping_meeting_at_UN_Headquarters%2C_2009_%28cropped%29.jpg/960px-Interpreters%27_booth_at_UN_peackeeping_meeting_at_UN_Headquarters%2C_2009_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "new": "/photos/custom/batch28-study-662.jpg",
+      "sourcePage": "https://www.pexels.com/photo/close-up-of-woman-sitting-at-the-desk-with-a-laptop-and-underlining-words-in-a-book-5238126/",
+      "license": "Pexels License"
+    },
+    {
+      "id": "hobbies-737",
+      "de": "Lied",
+      "uk": "пісня",
+      "old": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Vinyl_%2B_Grado_Headphones_%28Unsplash%29.jpg/960px-Vinyl_%2B_Grado_Headphones_%28Unsplash%29.jpg",
+      "new": "/photos/custom/batch28-hobbies-737.jpg",
+      "sourcePage": "https://www.pexels.com/photo/female-singer-performing-on-stage-with-microphone-38996316/",
+      "license": "Pexels License"
+    },
+    {
+      "id": "hobbies-739",
+      "de": "Instrument",
+      "uk": "інструмент",
+      "old": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Man_playing_an_acoustic_brazilian_guitar_%28Viol%C3%A3o%29_on_Marco_Zero_Square%2C_Refice%2C_Pernambuco%2C_Brazil.jpg/960px-Man_playing_an_acoustic_brazilian_guitar_%28Viol%C3%A3o%29_on_Marco_Zero_Square%2C_Refice%2C_Pernambuco%2C_Brazil.jpg",
+      "new": "/photos/custom/batch28-hobbies-739.jpg",
+      "sourcePage": "https://www.pexels.com/photo/violin-and-flute-10380835/",
+      "license": "Pexels License"
+    },
+    {
+      "id": "hobbies-745",
+      "de": "Film",
+      "uk": "фільм",
+      "old": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Four_film_reels_of_different_gauges_at_the_Cinema_Museum%2C_London.jpg/960px-Four_film_reels_of_different_gauges_at_the_Cinema_Museum%2C_London.jpg",
+      "new": "/photos/custom/batch28-hobbies-745.jpg",
+      "sourcePage": "https://www.pexels.com/photo/man-holding-clapper-board-1117132/",
+      "license": "Pexels License"
+    },
+    {
+      "id": "hobbies-755",
+      "de": "Party",
+      "uk": "вечірка",
+      "old": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Party_balloons_%28Unsplash%29.jpg/960px-Party_balloons_%28Unsplash%29.jpg",
+      "new": "/photos/custom/batch28-hobbies-755.jpg",
+      "sourcePage": "https://www.pexels.com/photo/people-having-fun-during-party-12266415/",
+      "license": "Pexels License"
+    },
+    {
+      "id": "time-763",
+      "de": "Minute",
+      "uk": "хвилина",
+      "old": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Clock_with_split_minute_and_hour_faces.jpg/960px-Clock_with_split_minute_and_hour_faces.jpg",
+      "new": "/photos/custom/batch28-time-763.jpg",
+      "sourcePage": "https://www.pexels.com/photo/close-up-shot-of-a-white-analog-clock-7016218/",
+      "license": "Pexels License"
+    },
+    {
+      "id": "ww-new-098",
+      "de": "Balkon",
+      "uk": "балкон",
+      "old": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Beijing_Apartment_Balconies_%2810563725643%29.jpg/960px-Beijing_Apartment_Balconies_%2810563725643%29.jpg",
+      "new": "/photos/custom/batch28-ww-new-098.jpg",
+      "sourcePage": "https://www.pexels.com/photo/elegant-european-apartment-balcony-with-flowerpots-32987786/",
+      "license": "Pexels License"
+    },
+    {
+      "id": "ww-new-104",
+      "de": "Sandale",
+      "uk": "сандаля",
+      "old": "https://upload.wikimedia.org/wikipedia/commons/9/99/Sandals_MET_CI47.27ab_B.jpg",
+      "new": "/photos/custom/batch28-ww-new-104.jpg",
+      "sourcePage": "https://www.pexels.com/photo/pink-slide-sandals-on-yellow-surface-7825422/",
+      "license": "Pexels License"
+    },
+    {
+      "id": "ww-new-105",
+      "de": "Hausschuh",
+      "uk": "домашній капець",
+      "old": "https://upload.wikimedia.org/wikipedia/commons/7/73/Slippers_MET_1980.297b_d1.jpg",
+      "new": "/photos/custom/batch28-ww-new-105.jpg",
+      "sourcePage": "https://www.pexels.com/photo/white-sleepers-on-wooden-floor-10095862/",
+      "license": "Pexels License"
+    },
+    {
+      "id": "ww-new-112",
+      "de": "Badeanzug",
+      "uk": "купальник",
+      "old": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Missy_Robinson_-_Swimsuit.jpg/960px-Missy_Robinson_-_Swimsuit.jpg",
+      "new": "/photos/custom/batch28-ww-new-112.jpg",
+      "sourcePage": "https://www.pexels.com/photo/woman-in-teal-swimsuit-holding-leaves-9794189/",
+      "license": "Pexels License"
+    },
+    {
+      "id": "ww-new-115",
+      "de": "Huhn",
+      "uk": "курка (птах)",
+      "old": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Farm_Poultry_%28Unsplash%29.jpg/960px-Farm_Poultry_%28Unsplash%29.jpg",
+      "new": "/photos/custom/batch28-ww-new-115.jpg",
+      "sourcePage": "https://www.pexels.com/photo/close-up-of-a-hen-on-a-grass-field-19038583/",
+      "license": "Pexels License"
+    },
+    {
+      "id": "body-691",
+      "de": "Körper",
+      "uk": "тіло",
+      "old": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Human_body_%E2%80%93_Caisa.jpg/960px-Human_body_%E2%80%93_Caisa.jpg",
+      "new": "/photos/custom/batch28-body-691.jpg",
+      "sourcePage": "https://www.pexels.com/photo/a-man-standing-on-grass-6608637/",
+      "license": "Pexels License"
+    },
+    {
+      "id": "body-706",
+      "de": "Bauch",
+      "uk": "живіт",
+      "old": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Young_Adult_woman_waist_and_hips.png/960px-Young_Adult_woman_waist_and_hips.png",
+      "new": "/photos/custom/batch28-body-706.jpg",
+      "sourcePage": "https://www.pexels.com/photo/person-wearing-black-active-wear-holding-her-tummy-7298905/",
+      "license": "Pexels License"
+    },
+    {
+      "id": "body-723",
+      "de": "Rezept",
+      "uk": "рецепт лікаря",
+      "old": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Drug_Prescription_Form.jpg/960px-Drug_Prescription_Form.jpg",
+      "new": "/photos/custom/batch28-body-723.jpg",
+      "sourcePage": "https://www.pexels.com/photo/close-up-of-a-doctor-sitting-at-a-desk-and-writing-on-paper-16204070/",
+      "license": "Pexels License"
+    }
+  ]
+}

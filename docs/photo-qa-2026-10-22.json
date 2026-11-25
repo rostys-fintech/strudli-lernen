@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-22",
+  "repository": "rostys-fintech/wortwelt-de-ua",
+  "nounsTotal": 736,
+  "nounsWithAssignedVisual": 736,
+  "qaScope": [
+    "body-714 Ärztin: replace multi-person clinic scene with CC0 solo physician portrait",
+    "city-542 Apotheke: replace Cameroon example with CC0 modern German pharmacy photograph",
+    "fix 5 confusing or broken emojis in 5 noun cards"
+  ],
+  "verified": "Wikimedia Commons source page, author, rights and thumbnail manually checked for the two replacements",
+  "caveat": "URL mapping verified against source pages, but full phone/browser render and live Vercel availability remain untested; SVGs are inlined and remote photos are mirrored only on build. No Vercel deployment initiated.",
+  "catalogMissingNames": [
+    "Patient",
+    "Patientin",
+    "Medizin"
+  ],
+  "summary": "No new nouns added; retain original 736-word catalog and unchanged game logic."
+}

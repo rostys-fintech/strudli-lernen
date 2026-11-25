@@ -1,0 +1,401 @@
+/* Stage 13 – apply only the user's approved storybook concept and specific corrections.
+   Keeps all existing navigation and lessons interactive. */
+.shell--home .topbar--home{
+ position:relative;z-index:20;height:80px;min-height:80px;
+ background:#fff9f0;border-bottom:0;
+ padding:0 max(26px,calc((100vw - 1400px)/2));
+ justify-content:flex-end;overflow:visible;
+}
+.shell--home .topbar--home:after{
+ bottom:-10px;height:22px;background:#fff9f0;
+ clip-path:polygon(0 0,100% 0,100% 42%,95% 56%,85% 43%,74% 57%,62% 44%,50% 56%,38% 42%,25% 58%,13% 43%,0 56%);
+}
+.shell--home .topbar--home .brandHomeLink{
+ position:absolute;top:-2px;left:50%;
+ z-index:21;transform:translateX(-50%);
+ width:284px;height:117px;min-width:0;max-width:none;
+ margin:0;border:0;padding:8px 27px 18px;
+ background:#fff9f0;
+ border-radius:0 0 47% 47% / 0 0 45% 45%;
+ box-shadow:0 5px 0 #f3dfc52a;
+ display:flex;justify-content:center;align-items:center;
+ overflow:visible;isolation:isolate;
+}
+.shell--home .topbar--home .brandHomeLink:after{
+ content:"";position:absolute;bottom:-6px;left:calc(50% - 12px);
+ width:24px;height:13px;background:#fff9f0;
+ clip-path:polygon(0 0,50% 100%,100% 0);
+ pointer-events:none;z-index:-1;
+}
+.shell--home .topbar--home .logo .brandWordmark{
+ width:210px;max-height:83px;object-fit:contain;
+ mix-blend-mode:multiply;
+ filter:contrast(1.12) saturate(1.08);
+ box-shadow:none;background:transparent;border:0;
+}
+.shell--home .topbar--home .langSwitch{margin-left:auto;z-index:23;}
+.strudliLandingHero{
+ isolation:isolate;
+ background:#ddc3a6;
+}
+.strudliLandingScene{
+ position:absolute;inset:0;
+ background:linear-gradient(180deg,#96c8ef 0%,#f8d1a1 100%);
+}
+.strudliLandingScene:before{
+ content:"";position:absolute;inset:0!important;
+ background-image:
+ linear-gradient(90deg,rgba(243,210,175,.36) 0%,rgba(247,216,181,.14) 48%,rgba(255,214,167,.04) 100%),
+ url('/strudli/berlin-gate-photo.jpg')!important;
+ background-size:cover,cover!important;
+ background-position:center,center 49%!important;
+ background-repeat:no-repeat!important;
+ -webkit-mask-image:none!important;mask-image:none!important;
+ opacity:1;filter:saturate(1.12) sepia(.12) brightness(1.08) contrast(.96);
+}
+/* The photograph covers the entire hero; no right-hand photo/left-hand gradient splice. */
+.strudliLandingScene:after{
+ left:-3%;top:-22%;width:47%;height:67%;
+ background:url('/strudli/autumn-canopy.svg') left top/contain no-repeat;
+ opacity:.94;filter:drop-shadow(0 1px 2px #493b292a);
+}
+.strudliLandingHero:after{
+ height:16px;clip-path:polygon(0 38%,10% 53%,20% 36%,31% 59%,43% 36%,55% 58%,67% 32%,78% 55%,90% 32%,100% 45%,100% 100%,0 100%);
+}
+.strudliLandingMascot.strudliTourLaunch{
+ z-index:4;
+ filter:drop-shadow(0 11px 10px rgba(65,37,25,.27));
+}
+.strudliLandingMascot.strudliTourLaunch>img.strudliLandingMascotHQ{
+ animation:strudliSway 5.2s ease-in-out infinite;
+ transform-origin:52% 92%;
+ filter:drop-shadow(0 3px 3px #54371d38);
+ will-change:transform;
+}
+@keyframes strudliSway{
+ 0%,100%{transform:rotate(-1.15deg) translateY(0)}
+ 50%{transform:rotate(1.15deg) translateY(-4px)}
+}
+.strudliLandingWelcome{z-index:5;}
+.strudliLandingContinue{
+ z-index:6;
+ padding:10px 19px;display:flex;align-items:center;
+ white-space:nowrap;flex-wrap:nowrap;overflow:visible;
+ border:6px solid #fff8ec;border-radius:30px;
+ background:linear-gradient(135deg,#bd214e,#9a143b 75%,#901137);
+ box-shadow:0 6px 0 #a0585040,0 12px 22px #6d342d40;
+ font-size:clamp(16px,1.4vw,22px);
+}
+.strudliLandingContinue>span:nth-of-type(1){flex:1;white-space:nowrap;text-align:center;}
+.strudliLandingCtaIcon{
+ width:49px;height:49px;object-fit:contain;display:block;
+ flex:0 0 49px;filter:drop-shadow(0 2px 1px #39121a30);
+}
+.strudliLandingFeatures{z-index:7;}
+.strudliLandingFeatures button{
+ background:url('/strudli/open-book-tab.svg') center/100% 100% no-repeat!important;
+ border:0!important;box-shadow:none!important;
+ filter:drop-shadow(0 5px 5px #a66d3b17);
+ padding:12px 15px 24px;gap:2px;
+}
+.strudliLandingFeatures button strong{font-size:clamp(18px,1.55vw,22px);line-height:1.05;}
+.strudliBookIcon{
+ display:block;width:53px;height:53px;object-fit:contain;
+ font-size:initial;filter:drop-shadow(0 2px 2px #633b2830);
+ flex:0 0 auto;
+}
+.strudliLandingFeatures button:after{display:none!important;}
+.strudliLandingTopicCard[data-section="nature"]{background-position:center 42%;}
+.strudliLandingTopicCard[data-section="health"]{background-position:center 36%;}
+.strudliLandingTopicCard[data-section="daily"]{background-position:center 46%;}
+.strudliLandingTopicIcon>svg{color:white;stroke:#fff;}
+/* Vercel preview feedback is disabled in the project. Hide any injected
+   legacy host if a browser session still has an earlier toolbar cached. */
+vercel-live-feedback,vercel-toolbar,#vercel-toolbar,[data-vercel-toolbar]{display:none!important;pointer-events:none!important;}
+
+@media (min-width:901px){
+ .shell--home .topbar--home .brandHomeLink{width:284px;height:119px}
+ .strudliLandingMascot.strudliTourLaunch{
+  left:max(32px,calc((100vw - 1400px)/2));width:clamp(260px,28vw,420px);height:clamp(260px,27vw,400px);bottom:-2px;
+ }
+ .strudliLandingWelcome{left:37%;width:39%;top:14%}
+ .strudliLandingContinue{left:37%;width:min(39%,545px);top:64%;min-height:76px;}
+}
+@media (max-width:900px) and (min-width:601px){
+ .strudliLandingScene:before{background-position:center,center 48%!important;}
+ .strudliLandingMascot.strudliTourLaunch{left:1%;width:37%;height:77%;bottom:5%}
+ .strudliLandingWelcome{left:39%;top:15%;width:55%}
+ .strudliLandingContinue{left:39%;top:66%;width:53%;font-size:17px}
+}
+@media (max-width:600px){
+ .shell--home .topbar--home{height:71px;min-height:71px;padding:0 13px;}
+ .shell--home .topbar--home:after{height:16px;bottom:-7px;}
+ .shell--home .topbar--home .brandHomeLink{
+  width:190px;height:89px;top:-2px;
+  padding:7px 18px 14px;
+  border-radius:0 0 45% 45% / 0 0 48% 48%;
+ }
+ .shell--home .topbar--home .brandHomeLink:after{bottom:-3px;width:16px;height:8px;left:calc(50% - 8px)}
+ .shell--home .topbar--home .logo .brandWordmark{width:153px;max-height:62px;}
+ .shell--home .topbar--home .langSwitch{padding:3px;gap:0;}
+ .shell--home .topbar--home .langSwitch button{min-width:34px;min-height:34px;font-size:11px;padding:6px;}
+ .strudliLandingHero{height:clamp(340px,96vw,390px)}
+ .strudliLandingScene:before{
+  background-size:cover,auto 100%!important;
+  background-position:center,center 49%!important;
+ }
+ .strudliLandingScene:after{width:61%;height:45%;left:-12%;top:-15%;}
+ .strudliLandingMascot.strudliTourLaunch{
+  width:53%;height:61%;left:-7px;bottom:61px;
+ }
+ .strudliLandingWelcome{left:auto;right:9px;top:36px;width:64%;}
+ .strudliLandingBubble{padding:16px 12px 17px 16px;}
+ .strudliLandingBubble h1{font-size:clamp(20px,5.6vw,28px);}
+ .strudliLandingContinue{
+  position:absolute;left:12px;right:12px;top:auto;bottom:12px;
+  width:calc(100% - 24px);height:64px;min-height:64px;
+  gap:8px;padding:8px 12px;border-width:5px;font-size:clamp(13px,3.9vw,17px);
+ }
+ .strudliLandingCtaIcon{width:39px;height:39px;flex:0 0 39px;}
+ .strudliLandingContinue:before{right:-25px;}
+ .strudliLandingFeatures{padding:0 10px;gap:5px 6px;margin:1px auto 15px;}
+ .strudliLandingFeatures button{height:98px;min-height:98px;padding:6px 8px 18px;}
+ .strudliLandingFeatures button strong{font-size:15px;}
+ .strudliBookIcon{width:42px;height:42px;}
+ .strudliLandingTopics{padding:0 13px 27px}
+ .strudliLandingTopicCard{height:136px;}
+ .strudliLandingTopicCard[data-section="nature"]{background-position:center 36%;}
+ .strudliLandingTopicCard[data-section="health"]{background-position:center 36%;}
+ .strudliLandingTopicCard[data-section="daily"]{background-position:center 38%;}
+}
+@media (max-width:365px){
+ .shell--home .topbar--home .brandHomeLink{width:169px;height:84px;}
+ .shell--home .topbar--home .logo .brandWordmark{width:136px;}
+ .strudliLandingWelcome{width:65%;}
+ .strudliLandingContinue{font-size:12.5px;}
+ .strudliLandingCtaIcon{width:34px;height:34px;flex-basis:34px;}
+ .strudliBookIcon{width:37px;height:37px;}
+}
+@media (prefers-reduced-motion:reduce){
+ .strudliLandingMascot.strudliTourLaunch>img.strudliLandingMascotHQ{animation:none;}
+}
+
+/* Keep the central logo clear of UA/EN on narrow iPhones. */
+@media (max-width:600px){
+ .shell--home .topbar--home .brandHomeLink{width:176px;}
+ .shell--home .topbar--home .logo .brandWordmark{width:145px;}
+}
+@media (max-width:365px){
+ .shell--home .topbar--home .brandHomeLink{width:142px;height:81px;}
+ .shell--home .topbar--home .logo .brandWordmark{width:120px;max-height:57px;}
+}
+
+
+/* Stage 14 — user-requested optical centering and softer CTA.
+   The previous approved visual concept is preserved. */
+.strudliLandingBubble{
+  position:relative;
+  box-sizing:border-box;
+  text-align:center;
+  padding:26px 42px 29px;
+  border-radius:40% 39% 36% 35%/27% 28% 25% 26%;
+}
+.strudliLandingBubble h1{
+  margin:0;
+  text-align:center;
+  font-size:clamp(29px,2.95vw,45px);
+  line-height:1.14;
+  letter-spacing:-.042em;
+  text-wrap:balance;
+}
+.strudliLandingBubble h1 span{
+  display:block;
+  text-align:center;
+  margin-top:2px;
+}
+.strudliLandingBubble h1 span:after{
+  left:50%;
+  transform:translateX(-50%) rotate(-1.4deg);
+  width:69%;
+}
+.strudliLandingBubble p{
+  width:100%;
+  max-width:100%;
+  margin:16px auto 0;
+  text-align:center;
+  font-size:clamp(12px,1.14vw,17px);
+  text-wrap:balance;
+}
+.strudliLandingBubble .strudliHeart{
+  position:absolute;
+  right:7.5%;
+  bottom:15px;
+  display:block;
+  margin:0;
+  font-size:28px;
+  transform:rotate(-14deg);
+}
+.strudliLandingContinue{
+  display:grid;
+  grid-template-columns:46px minmax(0,1fr) 46px;
+  align-items:center;
+  gap:10px;
+  padding:11px 18px;
+  border:5px solid #fff8ed;
+  border-radius:35px 37px 38px 36px/28px 30px 29px 30px;
+  background:linear-gradient(155deg,#b7274b 0%,#a21c3f 58%,#941638 100%);
+  box-shadow:
+    0 5px 0 #eac4b6,
+    0 12px 21px rgba(100,41,43,.20),
+    inset 0 2px 2px rgba(255,248,245,.20),
+    inset 0 -3px 3px rgba(98,8,32,.11);
+  transition:transform .16s ease,filter .16s ease,box-shadow .16s ease;
+  text-wrap:balance;
+}
+.strudliLandingContinue:after{
+  content:"";
+  position:absolute;
+  left:50%;
+  bottom:-6px;
+  width:86px;
+  height:8px;
+  background:#fff8ed;
+  clip-path:none;
+  border-radius:0 0 60% 60%;
+  transform:translateX(-50%);
+  filter:none;
+  pointer-events:none;
+  z-index:0;
+}
+.strudliLandingContinue:before{opacity:.78;filter:blur(.3px);pointer-events:none}
+.strudliLandingContinue .strudliLandingCtaIcon{
+  width:45px;height:45px;min-width:0;object-fit:contain;
+  justify-self:center;filter:drop-shadow(0 2px 2px #60132626)
+}
+.strudliLandingContinue>span:nth-of-type(1){
+  display:block;
+  flex:initial;
+  min-width:0;
+  justify-self:stretch;
+  text-align:center;
+  font-size:inherit;
+  white-space:normal;
+}
+.strudliLandingContinue>svg{justify-self:center;width:27px;height:27px;}
+.strudliLandingContinue:hover{
+  filter:brightness(1.035);
+  box-shadow:0 6px 0 #e4b9a8,0 15px 23px rgba(100,41,43,.23),inset 0 2px 2px rgba(255,248,245,.22);
+}
+.strudliLandingContinue:active{filter:brightness(.98)}
+.strudliLandingTopicCard[data-section="daily"]{background-position:center 35%}
+
+@media (min-width:1101px){
+  .strudliLandingWelcome{
+    left:51.5%;
+    right:auto;
+    width:min(42%,625px);
+    max-width:625px;
+    transform:translateX(-50%);
+    top:13%;
+  }
+  .strudliLandingContinue{
+    left:51.5%;
+    right:auto;
+    width:min(41%,590px);
+    max-width:590px;
+    transform:translateX(-50%);
+    top:64%;
+    height:80px;
+  }
+  .strudliLandingContinue:hover{transform:translate(-50%,-2px)}
+  .strudliLandingContinue:active{transform:translate(-50%,1px)}
+}
+@media (min-width:601px) and (max-width:1100px){
+  .strudliLandingWelcome{left:61%;right:auto;top:12%;width:57%;transform:translateX(-50%)}
+  .strudliLandingBubble{padding:21px 25px 23px}
+  .strudliLandingBubble h1{font-size:clamp(25px,3vw,35px)}
+  .strudliLandingContinue{left:61%;right:auto;top:64%;width:55%;transform:translateX(-50%)}
+  .strudliLandingContinue:hover{transform:translate(-50%,-2px)}
+  .strudliLandingContinue:active{transform:translate(-50%,1px)}
+}
+@media (max-width:600px){
+  /* Mobile keeps the agreed mascot-left / bubble-right composition. */
+  .strudliLandingWelcome{transform:none;right:9px}
+  .strudliLandingBubble{
+    padding:17px 12px 20px;
+    border-radius:34% 34% 30% 30%/24% 25% 24% 25%;
+  }
+  .strudliLandingBubble h1{font-size:clamp(19px,5.1vw,27px);letter-spacing:-.035em;line-height:1.15}
+  .strudliLandingBubble p{font-size:clamp(10px,2.6vw,12.5px);line-height:1.35;margin:12px auto 0}
+  .strudliLandingBubble .strudliHeart{right:5%;bottom:6px;font-size:16px}
+  .strudliLandingContinue{
+    transform:none;
+    grid-template-columns:37px minmax(0,1fr) 37px;
+    left:12px;right:12px;bottom:12px;top:auto;
+    width:calc(100% - 24px);
+    min-height:64px;height:64px;
+    gap:7px;padding:7px 12px;
+    border-width:4px;border-radius:28px;
+    font-size:clamp(14px,3.8vw,17px);
+  }
+  .strudliLandingContinue .strudliLandingCtaIcon{width:35px;height:35px}
+  .strudliLandingContinue>svg{width:24px;height:24px}
+  .strudliLandingContinue:hover{transform:translateY(-2px)}
+  .strudliLandingContinue:active{transform:translateY(1px)}
+  .strudliLandingContinue:after{width:54px;height:6px;bottom:-4px}
+  .strudliLandingTopicCard[data-section="daily"]{background-position:center 39%}
+}
+@media (max-width:365px){
+  .strudliLandingBubble{padding:14px 9px 16px}
+  .strudliLandingBubble h1{font-size:18.5px}
+  .strudliLandingContinue{grid-template-columns:32px minmax(0,1fr) 32px;gap:5px;font-size:13px}
+  .strudliLandingContinue .strudliLandingCtaIcon{width:31px;height:31px}
+}
+@media (prefers-reduced-motion:reduce){
+  .strudliLandingContinue{transition:none}
+}
+
+
+/* Stage 15: remove baked-in logo square; subtle polish only, no redesign. */
+.shell--home .topbar--home .brandHomeLink{
+ width:268px;height:109px;
+ padding:8px 20px 16px;
+ box-shadow:0 4px 10px rgba(155,115,75,.055);
+}
+.shell--home .topbar--home .logo .brandWordmark,
+.topbar .logo .brandWordmark{
+ display:block;
+ object-fit:contain;
+ background:transparent!important;
+ mix-blend-mode:normal!important;
+ filter:none!important;
+ box-shadow:none!important;
+ border:0!important;
+}
+.shell--home .topbar--home .logo .brandWordmark{width:200px;max-height:78px}
+.shell--home .topbar--home .langSwitch{border-color:#efdfcd;background:#f8eee4;box-shadow:0 1px 5px rgba(114,74,43,.08)}
+.strudliLandingBubble{
+ background:linear-gradient(150deg,rgba(255,251,245,.97),rgba(255,245,232,.95));
+ box-shadow:0 9px 22px rgba(105,71,43,.11)
+}
+.strudliLandingBubble .strudliHeart{font-size:24px;opacity:.82}
+.strudliLandingMascot.strudliTourLaunch{bottom:5px}
+.strudliLandingFeatures button{
+ filter:drop-shadow(0 3px 4px rgba(151,100,55,.13));
+}
+.strudliLandingFeatures button strong{margin-top:-2px}
+@media (min-width:901px){
+ .shell--home .topbar--home .brandHomeLink{width:268px;height:109px}
+ .strudliLandingMascot.strudliTourLaunch{bottom:5px}
+}
+@media (max-width:600px){
+ .shell--home .topbar--home .brandHomeLink{width:176px;height:86px;box-shadow:none}
+ .shell--home .topbar--home .logo .brandWordmark{width:145px;max-height:62px}
+ .strudliLandingMascot.strudliTourLaunch{bottom:63px}
+ .strudliLandingBubble .strudliHeart{font-size:15px}
+ .strudliLandingFeatures button{filter:drop-shadow(0 2px 3px rgba(151,100,55,.10))}
+}
+@media (max-width:365px){
+ .shell--home .topbar--home .brandHomeLink{width:142px;height:80px}
+ .shell--home .topbar--home .logo .brandWordmark{width:121px;max-height:57px}
+}

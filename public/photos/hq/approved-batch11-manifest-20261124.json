@@ -1,0 +1,127 @@
+{
+  "date": "2026-11-24",
+  "batch": 11,
+  "count": 10,
+  "items": [
+    {
+      "id": "pronouns-133",
+      "gender": null,
+      "de": "alle",
+      "asset": "/photos/hq/pronouns-133-hq-20261124-b11.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 329472,
+      "sha256": "3b7342705905a60fc2e92693f330f4b352ab30b1f5301080cb6dd5cc7554146b",
+      "blob": "403434befdf7a939eadd11b08fee93b0178e1029",
+      "approval": "user-approved 2026-11-24"
+    },
+    {
+      "id": "adverbs-139",
+      "gender": null,
+      "de": "später",
+      "asset": "/photos/hq/adverbs-139-hq-20261124-b11.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 187398,
+      "sha256": "788da6fe98d8d95b481d27dd5b277d6f850253ca3521d4669ee2de98bc52c59d",
+      "blob": "bfd17ffa18618e96ebd240fd01bd2e0fe1363c4b",
+      "approval": "user-approved 2026-11-24"
+    },
+    {
+      "id": "adverbs-141",
+      "gender": null,
+      "de": "oft",
+      "asset": "/photos/hq/adverbs-141-hq-20261124-b11.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 221046,
+      "sha256": "bad4090cbb2890c64bee7bf97c5f134d8d9ba75aa2d1d9e5f57e5c7e0c9bab4a",
+      "blob": "625ee0743596d65d76aaeef59bca4fca77f47905",
+      "approval": "user-approved 2026-11-24"
+    },
+    {
+      "id": "adverbs-144",
+      "gender": null,
+      "de": "selten",
+      "asset": "/photos/hq/adverbs-144-hq-20261124-b11.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 260402,
+      "sha256": "9fc4b84160bdfefe69d20b7f2e44f2d4170e95a2310d5072e1a5e5942466ade0",
+      "blob": "8734866d57bed62d9f0dda6a7f6f402c3f23a607",
+      "approval": "user-approved 2026-11-24"
+    },
+    {
+      "id": "adverbs-146",
+      "gender": null,
+      "de": "schon",
+      "asset": "/photos/hq/adverbs-146-hq-20261124-b11.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 233806,
+      "sha256": "e3933c1934257526933eec05bd00b8366f55ef62a4bf92a3ee3382e2c40c41aa",
+      "blob": "e775d9541dcf18502435463a64cea2c3e5e30dbe",
+      "approval": "user-approved 2026-11-24"
+    },
+    {
+      "id": "adverbs-148",
+      "gender": null,
+      "de": "wieder",
+      "asset": "/photos/hq/adverbs-148-hq-20261124-b11.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 289192,
+      "sha256": "c9fc6dd2e15eb22e221fcb85b74c9476e7cac954e69c82c9d164ef7f18cdbb9b",
+      "blob": "c71e6306e5123ba757b32fdcd074d021865bc7ca",
+      "approval": "user-approved 2026-11-24"
+    },
+    {
+      "id": "adverbs-149",
+      "gender": null,
+      "de": "hier",
+      "asset": "/photos/hq/adverbs-149-hq-20261124-b11.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 538660,
+      "sha256": "c74a8631c6f864a9d66a614c3d928474db1880b5297d9d03fc584ff0e08138aa",
+      "blob": "8f41a5fa617319f99e9f0aa7d7601acec282c4d0",
+      "approval": "user-approved 2026-11-24"
+    },
+    {
+      "id": "adverbs-150",
+      "gender": null,
+      "de": "dort",
+      "asset": "/photos/hq/adverbs-150-hq-20261124-b11.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 319300,
+      "sha256": "bc545c3da0c5ce4e45fa36a39475057595aa6bc8c7fd9cca70ef95c40566451a",
+      "blob": "9280e247ec8f6484f5865d41934a205c4f4ce43f",
+      "approval": "user-approved 2026-11-24"
+    },
+    {
+      "id": "adverbs-155",
+      "gender": null,
+      "de": "unten",
+      "asset": "/photos/hq/adverbs-155-hq-20261124-b11.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 179172,
+      "sha256": "60f984d1730b4022bfcea178646d1549fcefa47ebf551314bdda8927a9ebb71f",
+      "blob": "5054232eb996846c0377f11268c7127fe98bd153",
+      "approval": "user-approved 2026-11-24"
+    },
+    {
+      "id": "adverbs-156",
+      "gender": null,
+      "de": "drinnen",
+      "asset": "/photos/hq/adverbs-156-hq-20261124-b11.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 306162,
+      "sha256": "82ded0cffd6fa72572fa853101e15660822b06e51bb343d7cdeafaff0b9add80",
+      "blob": "ef33810daf173a8070fdf2005b439f946b95f973",
+      "approval": "user-approved 2026-11-24"
+    }
+  ]
+}

@@ -1,0 +1,403 @@
+{
+  "date": "2026-10-22",
+  "branch": "visual-quality-oct22",
+  "staged_only": true,
+  "batchNewPhotos": 30,
+  "remainingSVG": 155,
+  "photoMetadata": [
+    {
+      "id": "germany-205",
+      "title": "Dülmen, Rathaus, Bürgerbüro -- 2017 -- 9757.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/D%C3%BClmen%2C_Rathaus%2C_B%C3%BCrgerb%C3%BCro_--_2017_--_9757.jpg/960px-D%C3%BClmen%2C_Rathaus%2C_B%C3%BCrgerb%C3%BCro_--_2017_--_9757.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Rathaus,_B%C3%BCrgerb%C3%BCro_--_2017_--_9757.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Dietmar Rabich",
+      "resolution": [
+        5399,
+        3624
+      ],
+      "caption": "Office in the town hall in Dülmen , North Rhine-Westphalia , Germany"
+    },
+    {
+      "id": "germany-207",
+      "title": "Landesamt für Einwanderung (Ausländerbehörde) in Berlin.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Landesamt_f%C3%BCr_Einwanderung_%28Ausl%C3%A4nderbeh%C3%B6rde%29_in_Berlin.jpg/960px-Landesamt_f%C3%BCr_Einwanderung_%28Ausl%C3%A4nderbeh%C3%B6rde%29_in_Berlin.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Landesamt_f%C3%BCr_Einwanderung_(Ausl%C3%A4nderbeh%C3%B6rde)_in_Berlin.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Nicolas Bouliane",
+      "resolution": [
+        3115,
+        1924
+      ],
+      "caption": "People queuing at the immigration office (Ausländerbehörde / Landesamt für Einwanderung) in Berlin"
+    },
+    {
+      "id": "germany-211",
+      "title": "Aufenthaltserlaubnis-Beschaeftigung.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Aufenthaltserlaubnis-Beschaeftigung.JPG/960px-Aufenthaltserlaubnis-Beschaeftigung.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Aufenthaltserlaubnis-Beschaeftigung.JPG",
+      "license": "Public domain",
+      "author": "-- Lumu",
+      "resolution": [
+        1045,
+        1324
+      ],
+      "caption": "Specimen of a residence permit (electronic version) in Germany"
+    },
+    {
+      "id": "germany-217",
+      "title": "Signing Papers Rotterdam - IMG 5997.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Signing_Papers_Rotterdam_-_IMG_5997.jpg/960px-Signing_Papers_Rotterdam_-_IMG_5997.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Signing_Papers_Rotterdam_-_IMG_5997.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "FastLeen",
+      "resolution": [
+        1143,
+        1524
+      ],
+      "caption": "Heleen Ririassa signing papers"
+    },
+    {
+      "id": "germany-218",
+      "title": "Canon ImageRUNNER Advance C7570i photocopier.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Canon_ImageRUNNER_Advance_C7570i_photocopier.jpg/960px-Canon_ImageRUNNER_Advance_C7570i_photocopier.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Canon_ImageRUNNER_Advance_C7570i_photocopier.jpg",
+      "license": "CC BY 4.0",
+      "author": "Baron Maddock",
+      "resolution": [
+        3855,
+        2926
+      ],
+      "caption": "Canon ImageRUNNER Advance C7570i photocopier in an office building"
+    },
+    {
+      "id": "technology-252",
+      "title": "ELECOM WRC-300FEBK WPS WiFi router 2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/ELECOM_WRC-300FEBK_WPS_WiFi_router_2.jpg/960px-ELECOM_WRC-300FEBK_WPS_WiFi_router_2.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:ELECOM_WRC-300FEBK_WPS_WiFi_router_2.jpg",
+      "license": "CC0",
+      "author": "Syced",
+      "resolution": [
+        4032,
+        3024
+      ],
+      "caption": "ELECOM WRC-300FEBK WPS WiFi router"
+    },
+    {
+      "id": "technology-256",
+      "title": "Fediverse smartphone apps (photo by Elena Rossini).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Fediverse_smartphone_apps_%28photo_by_Elena_Rossini%29.jpg/960px-Fediverse_smartphone_apps_%28photo_by_Elena_Rossini%29.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Fediverse_smartphone_apps_(photo_by_Elena_Rossini).jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Elexfedi",
+      "resolution": [
+        4833,
+        3222
+      ],
+      "caption": "a photo of a hand holding a smartphone; on screen you see icons of Fediverse apps: Lemmy, Loops, Mastodon, PeerTube and Pixelfed"
+    },
+    {
+      "id": "technology-262",
+      "title": "Mobile phone text messages.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Mobile_phone_text_messages.jpg/960px-Mobile_phone_text_messages.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Mobile_phone_text_messages.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "BardotD",
+      "resolution": [
+        2099,
+        3000
+      ],
+      "caption": "Mobile phone text messages, mobile queue"
+    },
+    {
+      "id": "technology-271",
+      "title": "Ethernet socket with two cables connected (TIA-568B) (CAT6).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Ethernet_socket_with_two_cables_connected_%28TIA-568B%29_%28CAT6%29.jpg/960px-Ethernet_socket_with_two_cables_connected_%28TIA-568B%29_%28CAT6%29.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ethernet_socket_with_two_cables_connected_(TIA-568B)_(CAT6).jpg",
+      "license": "CC BY 4.0",
+      "author": "www.heimnetzwerke.net",
+      "resolution": [
+        3024,
+        4032
+      ],
+      "caption": "Ethernet socket (TIA-568B) (CAT6) with two CAT. 7 cables connected"
+    },
+    {
+      "id": "travel-430",
+      "title": "Reception desks of Amantaka luxury Resort & Hotel in Luang Prabang Laos.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Reception_desks_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg/960px-Reception_desks_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Reception_desks_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Basile Morin",
+      "resolution": [
+        6270,
+        4180
+      ],
+      "caption": "Reception desks ( front office ) of Amantaka luxury resort and hotel in Luang Prabang , Laos . Amantaka is one of the 34 properties operated by Aman R"
+    },
+    {
+      "id": "travel-444",
+      "title": "30 Train station arrival display board - arrival information at Bologna Station, Italy.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/30_Train_station_arrival_display_board_-_arrival_information_at_Bologna_Station%2C_Italy.jpg/960px-30_Train_station_arrival_display_board_-_arrival_information_at_Bologna_Station%2C_Italy.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:30_Train_station_arrival_display_board_-_arrival_information_at_Bologna_Station,_Italy.jpg",
+      "license": "CC BY 3.0",
+      "author": "Marek Ślusarczyk ( Tupungato ) Photo portfolio",
+      "resolution": [
+        1600,
+        2400
+      ],
+      "caption": "Train station arrival display board - arrival information at Bologna Centrale train station, Italy. Arrivals from Milan, Naples, Venice, Ancona, Porto"
+    },
+    {
+      "id": "travel-447",
+      "title": "Tourist information desk, Buffalo Niagara International Airport, Cheektowaga, New York - 20220115.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Tourist_information_desk%2C_Buffalo_Niagara_International_Airport%2C_Cheektowaga%2C_New_York_-_20220115.jpg/960px-Tourist_information_desk%2C_Buffalo_Niagara_International_Airport%2C_Cheektowaga%2C_New_York_-_20220115.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Tourist_information_desk,_Buffalo_Niagara_International_Airport,_Cheektowaga,_New_York_-_20220115.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Andre Carrotflower",
+      "resolution": [
+        3939,
+        2954
+      ],
+      "caption": "As seen in January 2022: the tourist information desk on the arrivals level of the Buffalo Niagara International Airport in Cheektowaga, New York, jus"
+    },
+    {
+      "id": "travel-450",
+      "title": "Brandenburg Gate - Brandenburger Tor - Berlin - Germany - 02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Brandenburg_Gate_-_Brandenburger_Tor_-_Berlin_-_Germany_-_02.jpg/960px-Brandenburg_Gate_-_Brandenburger_Tor_-_Berlin_-_Germany_-_02.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Brandenburg_Gate_-_Brandenburger_Tor_-_Berlin_-_Germany_-_02.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Norbert Nagel",
+      "resolution": [
+        6500,
+        4402
+      ],
+      "caption": "Brandenburg Gate, Berlin, Germany."
+    },
+    {
+      "id": "shopping-669",
+      "title": "Shop assistant inside the 109 shopping center in Shibuya Tokyo 2008.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Shop_assistant_inside_the_109_shopping_center_in_Shibuya_Tokyo_2008.jpg/960px-Shop_assistant_inside_the_109_shopping_center_in_Shibuya_Tokyo_2008.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Shop_assistant_inside_the_109_shopping_center_in_Shibuya_Tokyo_2008.jpg",
+      "license": "CC BY 2.0",
+      "author": "Paul Keller",
+      "resolution": [
+        2592,
+        3872
+      ],
+      "caption": "Shop assistant inside the 109 shopping center in Shibuya, Tokyo."
+    },
+    {
+      "id": "shopping-672",
+      "title": "Photo frames on sale at a discount.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Photo_frames_on_sale_at_a_discount.jpg/960px-Photo_frames_on_sale_at_a_discount.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Photo_frames_on_sale_at_a_discount.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Sikander Iqbal",
+      "resolution": [
+        3024,
+        4032
+      ],
+      "caption": "Photo frames on sale at a discount"
+    },
+    {
+      "id": "shopping-686",
+      "title": "Gift shop merchandise, Croquet Lounge, Highwic.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Gift_shop_merchandise%2C_Croquet_Lounge%2C_Highwic.jpg/960px-Gift_shop_merchandise%2C_Croquet_Lounge%2C_Highwic.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Gift_shop_merchandise,_Croquet_Lounge,_Highwic.jpg",
+      "license": "CC BY 4.0",
+      "author": "Bjankuloski06",
+      "resolution": [
+        6000,
+        4000
+      ],
+      "caption": "The gift shop merchandise in the Croquet Lounge, Highwic, Auckland."
+    },
+    {
+      "id": "shopping-689",
+      "title": "Woman shopping for plants in a store while browsing choices near shelves filled with greenery.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Woman_shopping_for_plants_in_a_store_while_browsing_choices_near_shelves_filled_with_greenery.jpg/960px-Woman_shopping_for_plants_in_a_store_while_browsing_choices_near_shelves_filled_with_greenery.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Woman_shopping_for_plants_in_a_store_while_browsing_choices_near_shelves_filled_with_greenery.jpg",
+      "license": "CC BY 2.0",
+      "author": "Shixart1985",
+      "resolution": [
+        6048,
+        4032
+      ],
+      "caption": "A woman is shopping in a store surrounded by shelves of plants. She examines the greenery carefully while pushing a shopping cart. The setting is busy"
+    },
+    {
+      "id": "work-614",
+      "title": "Woman on a Job Interview - 38141080114.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Woman_on_a_Job_Interview_-_38141080114.jpg/960px-Woman_on_a_Job_Interview_-_38141080114.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Woman_on_a_Job_Interview_-_38141080114.jpg",
+      "license": "CC BY-SA 2.0",
+      "author": "amtec_photos",
+      "resolution": [
+        5593,
+        3733
+      ],
+      "caption": "Young woman on a job interview with a mature woman When using the image please provide photo credit (link) to: https://www.amtec.us.com per these term"
+    },
+    {
+      "id": "work-623",
+      "title": "Professional woman working at desk with laptop and documents in bright office setting.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Professional_woman_working_at_desk_with_laptop_and_documents_in_bright_office_setting.jpg/960px-Professional_woman_working_at_desk_with_laptop_and_documents_in_bright_office_setting.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Professional_woman_working_at_desk_with_laptop_and_documents_in_bright_office_setting.jpg",
+      "license": "CC BY 2.0",
+      "author": "Shixart1985",
+      "resolution": [
+        4016,
+        6016
+      ],
+      "caption": "A focused professional woman sits at her desk, engaging with a laptop and reviewing documents. Natural light filters through the window, enhancing the"
+    },
+    {
+      "id": "work-595",
+      "title": "Jenith with office colleagues, Chennai 2009.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Jenith_with_office_colleagues%2C_Chennai_2009.jpg/960px-Jenith_with_office_colleagues%2C_Chennai_2009.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Jenith_with_office_colleagues,_Chennai_2009.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Yjenith",
+      "resolution": [
+        2048,
+        1536
+      ],
+      "caption": "One of the happy time I shared with my colleagues at Chennai office, 2009"
+    },
+    {
+      "id": "study-651",
+      "title": "Female student writing and studying at dorm room desk.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Female_student_writing_and_studying_at_dorm_room_desk.jpg/960px-Female_student_writing_and_studying_at_dorm_room_desk.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Female_student_writing_and_studying_at_dorm_room_desk.jpg",
+      "license": "CC BY 2.0",
+      "author": "English106",
+      "resolution": [
+        3648,
+        2736
+      ],
+      "caption": "studying in dorm room"
+    },
+    {
+      "id": "study-639",
+      "title": "A fourth grade student raises his hand to answer questions regarding the Bill of Rights during Constitution Week at Bitburg Elementary School on Bitburg Annex, Germany, Sept 120920-F-VI983-021.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/A_fourth_grade_student_raises_his_hand_to_answer_questions_regarding_the_Bill_of_Rights_during_Constitution_Week_at_Bitburg_Elementary_School_on_Bitburg_Annex%2C_Germany%2C_Sept_120920-F-VI983-021.jpg/960px-thumbnail.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:A_fourth_grade_student_raises_his_hand_to_answer_questions_regarding_the_Bill_of_Rights_during_Constitution_Week_at_Bitburg_Elementary_School_on_Bitburg_Annex,_Germany,_Sept_120920-F-VI983-021.jpg",
+      "license": "Public domain",
+      "author": "Airman 1st Class Gustavo Castillo",
+      "resolution": [
+        4256,
+        2832
+      ],
+      "caption": "A fourth grade student raises his hand to answer questions regarding the Bill of Rights during Constitution Week at Bitburg Elementary School on Bitbu"
+    },
+    {
+      "id": "study-644",
+      "title": "Napara High School (H.S.) Report Card 2019 - Purulia, West Bengal, India.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Napara_High_School_%28H.S.%29_Report_Card_2019_-_Purulia%2C_West_Bengal%2C_India.jpg/960px-Napara_High_School_%28H.S.%29_Report_Card_2019_-_Purulia%2C_West_Bengal%2C_India.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Napara_High_School_(H.S.)_Report_Card_2019_-_Purulia,_West_Bengal,_India.jpg",
+      "license": "CC BY 4.0",
+      "author": "Xzantiyamoloy",
+      "resolution": [
+        2257,
+        2457
+      ],
+      "caption": "Class IX Report Card of Napara High School (H.S.)"
+    },
+    {
+      "id": "time-793",
+      "title": "Manual scrollable wooden wall calendar.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Manual_scrollable_wooden_wall_calendar.jpg/960px-Manual_scrollable_wooden_wall_calendar.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Manual_scrollable_wooden_wall_calendar.jpg",
+      "license": "CC0",
+      "author": "Amitbalani",
+      "resolution": [
+        3000,
+        4000
+      ],
+      "caption": "Manual scrollable wall calendar, made of pure wood"
+    },
+    {
+      "id": "time-764",
+      "title": "Stopwatch, 1810201155, ako.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Stopwatch%2C_1810201155%2C_ako.jpg/960px-Stopwatch%2C_1810201155%2C_ako.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Stopwatch,_1810201155,_ako.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Ansgar Koreng",
+      "resolution": [
+        5472,
+        3648
+      ],
+      "caption": "Focus stack of a vintage stopwatch. Focus stack of 25 pictures with Helicon Focus."
+    },
+    {
+      "id": "family-483",
+      "title": "Holding hands by wall (Unsplash).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Holding_hands_by_wall_%28Unsplash%29.jpg/960px-Holding_hands_by_wall_%28Unsplash%29.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Holding_hands_by_wall_(Unsplash).jpg",
+      "license": "CC0",
+      "author": "freestocks.org freestocks",
+      "resolution": [
+        3596,
+        2397
+      ],
+      "caption": "Olsztyn, Poland"
+    },
+    {
+      "id": "ww-new-094",
+      "title": "A single room with mattress in guests room in Northern Ghana.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/A_single_room_with_mattress_in_guests_room_in_Northern_Ghana.jpg/960px-A_single_room_with_mattress_in_guests_room_in_Northern_Ghana.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:A_single_room_with_mattress_in_guests_room_in_Northern_Ghana.jpg",
+      "license": "CC0",
+      "author": "Ahmedaminsenior24",
+      "resolution": [
+        4032,
+        3024
+      ],
+      "caption": "A single room with mattress in guests room in Northern Ghana"
+    },
+    {
+      "id": "ww-new-066",
+      "title": "Roommates (3218131407).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Roommates_%283218131407%29.jpg/960px-Roommates_%283218131407%29.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Roommates_(3218131407).jpg",
+      "license": "CC BY 2.0",
+      "author": "Tulane Public Relations",
+      "resolution": [
+        3005,
+        2118
+      ],
+      "caption": "Roommates"
+    },
+    {
+      "id": "ww-new-067",
+      "title": "House rules - geograph.org.uk - 7832450.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/House_rules_-_geograph.org.uk_-_7832450.jpg/960px-House_rules_-_geograph.org.uk_-_7832450.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:House_rules_-_geograph.org.uk_-_7832450.jpg",
+      "license": "CC BY-SA 2.0",
+      "author": "Oliver Dixon",
+      "resolution": [
+        1024,
+        766
+      ],
+      "caption": "House rules"
+    },
+    {
+      "id": "work-612",
+      "title": "Welkom bij Action job application form, Oude Pekela (2020).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Welkom_bij_Action_job_application_form%2C_Oude_Pekela_%282020%29.jpg/960px-Welkom_bij_Action_job_application_form%2C_Oude_Pekela_%282020%29.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Welkom_bij_Action_job_application_form,_Oude_Pekela_(2020).jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Donald Trung Quoc Don (Chữ Hán: 徵國單) - Wikimedia Commons - © CC BY-SA 4.0 International . ( Want to use this image? ) Original publication 📤: -- Donald Trung 『徵國單』 ( No Fake News 💬 ) ( WikiProject Numismatics 💴) ( Articles 📚 ) 22:59, 9 January 2020 (UTC)",
+      "resolution": [
+        2736,
+        4864
+      ],
+      "caption": "A job application form issued by the small local Action-branded store in the Groninger village of Oude Pekela, Veenkoloniën."
+    }
+  ],
+  "limitations": [
+    "Metadata licensing and dimensions confirmed; actual aesthetic lighting and crops not yet certified",
+    "No Vercel deployment intended for intermediate batch"
+  ]
+}

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520" role="img" aria-label="Warm illustrated Berlin skyline with Brandenburg Gate">
+<defs>
+ <linearGradient id="sky" x2=".2" y2="1"><stop stop-color="#8bc6f3"/><stop offset=".39" stop-color="#e5b8b6"/><stop offset=".75" stop-color="#f6d5ab"/><stop offset="1" stop-color="#ffedcf"/></linearGradient>
+ <linearGradient id="ground" x2="0" y2="1"><stop stop-color="#e2ad7d"/><stop offset="1" stop-color="#c79774"/></linearGradient>
+ <linearGradient id="stone" x2="0.75" y2="1"><stop stop-color="#fee0a5"/><stop offset=".48" stop-color="#e6b77f"/><stop offset="1" stop-color="#bd8b65"/></linearGradient>
+ <linearGradient id="leaf" x2=".5" y2="1"><stop stop-color="#c99f34"/><stop offset="1" stop-color="#85542a"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#fff3bb" stop-opacity=".95"/><stop offset="1" stop-color="#fff3bb" stop-opacity="0"/></radialGradient>
+ <filter id="soft"><feGaussianBlur stdDeviation="8"/></filter>
+</defs>
+<rect width="1600" height="520" fill="url(#sky)"/>
+<circle cx="1320" cy="240" r="370" fill="url(#glow)"/>
+<g fill="#fff8e8" opacity=".72"><ellipse cx="260" cy="85" rx="150" ry="25"/><ellipse cx="410" cy="103" rx="110" ry="18"/><ellipse cx="1180" cy="96" rx="160" ry="24"/><ellipse cx="1000" cy="70" rx="90" ry="16"/></g>
+<g opacity=".4" fill="#a9a0a0"><path d="M0 335L80 305L145 330L190 287L290 309L390 296L470 328L540 294L630 320L710 275L790 315L860 293L950 323L1030 290L1120 315L1220 295L1310 330L1370 275L1480 308L1600 282V400H0Z"/></g>
+<g fill="#e0b78d" opacity=".75"><rect x="0" y="300" width="120" height="97"/><path d="M0 300L55 280L120 298Z"/><rect x="105" y="311" width="135" height="85"/><path d="M100 312L175 281L246 314Z"/><rect x="460" y="319" width="100" height="75"/><rect x="562" y="310" width="103" height="88"/><rect x="680" y="320" width="120" height="79"/><rect x="1485" y="294" width="115" height="100"/></g>
+<!-- Berlin TV tower -->
+<g transform="translate(850 90)" opacity=".72"><rect x="-3" y="5" width="6" height="260" fill="#806c64"/><path d="M-1 5L0 -45L2 5" fill="#6d635c"/><ellipse rx="24" ry="22" cy="74" fill="#c7a8a0"/><path d="M-28 70H28M-22 61H22M-10 53H10" stroke="#87716e" stroke-width="2"/></g>
+<!-- distant plaza -->
+<path d="M0 395Q800 370 1600 380V520H0Z" fill="url(#ground)"/>
+<g stroke="#e9caa9" stroke-width="1.5" opacity=".35"><path d="M0 460L1600 460M0 493L1600 493M200 400L50 520M600 393L485 520M1000 393L1040 520M1410 392L1540 520"/></g>
+<!-- Brandenburg gate -->
+<g transform="translate(1130 205)">
+ <path d="M-128 85L-103 54H220L249 85Z" fill="#be8b5e"/>
+ <path d="M-125 78L-100 47H213L245 78Z" fill="#f0c897" stroke="#a46e50" stroke-width="3"/>
+ <rect x="-112" y="78" width="340" height="18" fill="#edd2a9"/>
+ <rect x="-105" y="95" width="326" height="18" fill="#d09c74"/>
+ <rect x="-108" y="237" width="338" height="18" fill="#d3a37e"/>
+ <rect x="-111" y="254" width="346" height="15" fill="#a97b62"/>
+ <g fill="url(#stone)" stroke="#bf8f68" stroke-width="2">
+  <rect x="-95" y="112" width="36" height="132"/><rect x="-36" y="112" width="36" height="132"/>
+  <rect x="24" y="112" width="36" height="132"/><rect x="84" y="112" width="36" height="132"/>
+  <rect x="144" y="112" width="36" height="132"/><rect x="198" y="112" width="31" height="132"/>
+ </g>
+ <g fill="#f6dfb9"><rect x="-100" y="110" width="46" height="9"/><rect x="-40" y="110" width="44" height="9"/><rect x="20" y="110" width="44" height="9"/><rect x="80" y="110" width="44" height="9"/><rect x="140" y="110" width="44" height="9"/><rect x="193" y="110" width="38" height="9"/></g>
+ <g fill="#8b675b" opacity=".45"><path d="M-56 119H-49V239H-56ZM4 119H11V239H4ZM64 119H71V239H64ZM124 119H131V239H124ZM184 119H191V239H184Z"/></g>
+ <path d="M-122 42L-89 18H210L241 42Z" fill="#e9bd8e" stroke="#c5976a" stroke-width="4"/>
+ <path d="M-100 15H219" stroke="#efd7ad" stroke-width="10"/>
+ <g transform="translate(71 -4)" fill="#586a52" stroke="#4b5f51" stroke-width="3">
+  <path d="M-8 12L-8 -18L-14 -31L-4 -37L8 -30L10 -16L6 12Z"/>
+  <path d="M-6 -18L-31 -30L-29 -43L-11 -35M6 -17L33 -26L29 -43L10 -33"/>
+  <circle cx="-29" cy="-39" r="8"/><circle cx="28" cy="-39" r="8"/>
+  <path d="M-2 -35L0 -56L3 -35" fill="none"/>
+  <path d="M-25 8L-40 3L-39 -13L-22 -5M24 8L40 2L38 -14L21 -6"/>
+ </g>
+</g>
+<!-- golden autumn trees -->
+<g>
+ <path d="M100 430L88 226M300 431L306 246M1490 432L1501 222" stroke="#79603f" stroke-width="20"/>
+ <g fill="url(#leaf)" opacity=".92"><circle cx="88" cy="241" r="66"/><circle cx="140" cy="197" r="58"/><circle cx="28" cy="188" r="64"/><circle cx="316" cy="242" r="66"/><circle cx="268" cy="197" r="45"/><circle cx="1500" cy="220" r="75"/><circle cx="1550" cy="180" r="65"/><circle cx="1420" cy="244" r="52"/></g>
+</g>
+<!-- cropped canopy arch -->
+<g fill="#bd943f" opacity=".92"><circle cx="80" cy="2" r="95"/><circle cx="198" cy="15" r="92"/><circle cx="310" cy="-14" r="73"/><circle cx="420" cy="-25" r="80"/><circle cx="145" cy="80" r="59"/></g>
+<!-- distant pedestrians -->
+<g stroke="#79615a" stroke-width="5" stroke-linecap="round" opacity=".55"><path d="M920 410v30m-6-22l-10 10m20-10l9 10m-13 12l-9 17m9-17l10 16M1390 415v25m-7-13l-10 9m17-9l9 6m-9 7l-8 14m8-14l10 13"/></g>
+<rect width="1600" height="520" fill="#fff4dd" opacity=".08"/>
+</svg>

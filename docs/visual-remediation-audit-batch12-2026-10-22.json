@@ -1,0 +1,54 @@
+{
+  "date": "2026-10-22",
+  "batch": 12,
+  "branch": "visual-photo-remediation-oct22",
+  "screened_new": 75,
+  "screened_total": 736,
+  "total_noun_cards": 736,
+  "semantic_audit_percent": 100,
+  "remaining_to_semantically_screen": 0,
+  "total_photo_replacements": 50,
+  "photo_replacements": [
+    {
+      "id": "time-761",
+      "author": "Nithun Chandran",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Wall_clock_shows_time.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Wall_clock_shows_time.jpg/960px-Wall_clock_shows_time.jpg",
+      "reason": "Simple wall-mounted clock, replacing the very same alarm clock image used for Wecker; verified Wikimedia 330px preview and source/rights, phone game crop pending."
+    },
+    {
+      "id": "hobbies-759",
+      "author": "Chin Yu Chu",
+      "license": "CC BY-SA 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:DPMM_FC_line-up_2024.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/DPMM_FC_line-up_2024.jpg/960px-DPMM_FC_line-up_2024.jpg",
+      "reason": "Actual football-club team portrait with matching uniform, bright and directly recognizable; replaces official governmental reception scene."
+    }
+  ],
+  "emoji_corrections": [
+    {
+      "id": "hobbies-749",
+      "before": "👨🍳",
+      "after": "👨‍🍳"
+    },
+    {
+      "id": "hobbies-744",
+      "before": "🎮",
+      "after": "♟️"
+    }
+  ],
+  "qa": {
+    "unique_photo_urls": 736,
+    "unique_normalized_photo_urls": 736,
+    "manifest_source_records": 673,
+    "screened_article_gender_translation": true,
+    "source_assignment_check": true,
+    "preview_pixels_of_two_replacements_inspected": true,
+    "all_736_game_pixels_verified": false,
+    "all_736_mobile_crops_verified": false,
+    "run_build": false,
+    "vercel_published": false,
+    "flagged_still_open": 72
+  }
+}

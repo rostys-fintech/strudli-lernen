@@ -1,0 +1,127 @@
+{
+  "date": "2026-11-24",
+  "batch": 7,
+  "count": 10,
+  "items": [
+    {
+      "id": "adjs-895",
+      "de": "frisch",
+      "gender": null,
+      "asset": "/photos/hq/adjs-895-hq-20261124-b07.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 439274,
+      "sha256": "c8eb450a41a5c9188bbd3b511f57b7d716d480b607fd55c8d43347ac691e1a57",
+      "blob": "131153900392c581bd9ebf3ca754c828728cc9c8",
+      "approval": "user-approved 2026-11-24"
+    },
+    {
+      "id": "adjs-904",
+      "de": "sauber",
+      "gender": null,
+      "asset": "/photos/hq/adjs-904-hq-20261124-b07.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 357922,
+      "sha256": "3c5bcc873d1996c425f4992035836662075eaf45819bdec776d03101a30d3f2b",
+      "blob": "8a84fa06936fa31790d4d69dfc83246c4b46daa5",
+      "approval": "user-approved 2026-11-24"
+    },
+    {
+      "id": "adjs-918",
+      "de": "nett",
+      "gender": null,
+      "asset": "/photos/hq/adjs-918-hq-20261124-b07.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 328792,
+      "sha256": "e87757ac8fb659c65bbec4f7209ba3feeb7b28c74eb330a6d547db812d6ac199",
+      "blob": "ae2dc7af44d520223b308f94497efc26fbac1c16",
+      "approval": "user-approved 2026-11-24"
+    },
+    {
+      "id": "adjs-919",
+      "de": "ruhig",
+      "gender": null,
+      "asset": "/photos/hq/adjs-919-hq-20261124-b07.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 387086,
+      "sha256": "9312174bab97258869d85f61b3dd9d5cd491e25d51f883ccd6ee0f3d1b9c3a3c",
+      "blob": "b0eb7a4f3815849c30618ed3ba1ef99d5a462ff0",
+      "approval": "user-approved 2026-11-24"
+    },
+    {
+      "id": "adjs-920",
+      "de": "laut",
+      "gender": null,
+      "asset": "/photos/hq/adjs-920-hq-20261124-b07.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 267120,
+      "sha256": "60a22c9749659b58ed0b694dfb058125c66084bea8e045f303cee52f024a104a",
+      "blob": "ce2c7c694ae7ea2f8c3ae34ccf85582318c8e305",
+      "approval": "user-approved 2026-11-24"
+    },
+    {
+      "id": "adjs-947",
+      "de": "blau",
+      "gender": null,
+      "asset": "/photos/hq/adjs-947-hq-20261124-b07.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 74686,
+      "sha256": "d1f8631d452348c6aacb0d133486bcdfa5ac6fced7d6bcfd83d15ba672d09b8e",
+      "blob": "464d633d4d988f8f3c6cfd1e0fde5a846f4cc82b",
+      "approval": "user-approved 2026-11-24"
+    },
+    {
+      "id": "ww-new-185",
+      "de": "niedrig",
+      "gender": null,
+      "asset": "/photos/hq/ww-new-185-hq-20261124-b07.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 356364,
+      "sha256": "1df40106256818b8332936f209df18763b806c6f72fa225632a3595a2ba9c3b6",
+      "blob": "93ddcb1317ae92aefa4647a9f08b679574f05216",
+      "approval": "user-approved 2026-11-24"
+    },
+    {
+      "id": "ww-new-186",
+      "de": "breit",
+      "gender": null,
+      "asset": "/photos/hq/ww-new-186-hq-20261124-b07.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 596530,
+      "sha256": "3c247e3cbe86acf2f2694c7ccf32ec6f97527c696031dcd60608296cc0cd199b",
+      "blob": "d05571c1939e24a320972be3cc90d786a4f05dc0",
+      "approval": "user-approved 2026-11-24"
+    },
+    {
+      "id": "ww-new-187",
+      "de": "eng",
+      "gender": null,
+      "asset": "/photos/hq/ww-new-187-hq-20261124-b07.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 394626,
+      "sha256": "4f40d25e0e0be0e3f031ea9812fa34be12bff3d98c6941e52720bab4872039ed",
+      "blob": "c6d13c45fbb11cfd3c580645cd089999c3d0b369",
+      "approval": "user-approved 2026-11-24"
+    },
+    {
+      "id": "ww-new-199",
+      "de": "unzufrieden",
+      "gender": null,
+      "asset": "/photos/hq/ww-new-199-hq-20261124-b07.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 277518,
+      "sha256": "48c54843d16af11a0219d037e9a0eaa8e49baa0f716a68ccc32dd3bdfe632ec1",
+      "blob": "c199e4c9e6e79ebd1a92d82ad4a8ba03c0f512f2",
+      "approval": "user-approved 2026-11-24"
+    }
+  ]
+}

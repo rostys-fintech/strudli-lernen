@@ -1,0 +1,90 @@
+{
+ "bremen-2": [
+  {
+   "scene": "plakat",
+   "pdf_page": 11,
+   "status": "approved style reference",
+   "source": "Strudli_Bremer_Stadtmusikanten_All_Versions_Claude.pdf (owner-generated with ChatGPT, 24.11.2026)"
+  },
+  {
+   "scene": "automat",
+   "pdf_page": 17,
+   "status": "preferred revision (coins in tray)",
+   "source": "Strudli_Bremer_Stadtmusikanten_All_Versions_Claude.pdf (owner-generated with ChatGPT, 24.11.2026)"
+  },
+  {
+   "scene": "gleis",
+   "pdf_page": 21,
+   "status": "preferred revision",
+   "source": "Strudli_Bremer_Stadtmusikanten_All_Versions_Claude.pdf (owner-generated with ChatGPT, 24.11.2026)"
+  },
+  {
+   "scene": "zug",
+   "pdf_page": 22,
+   "status": "original, style revision pending",
+   "source": "Strudli_Bremer_Stadtmusikanten_All_Versions_Claude.pdf (owner-generated with ChatGPT, 24.11.2026)"
+  },
+  {
+   "scene": "kontrolle",
+   "pdf_page": 28,
+   "status": "approved revision",
+   "source": "Strudli_Bremer_Stadtmusikanten_All_Versions_Claude.pdf (owner-generated with ChatGPT, 24.11.2026)"
+  },
+  {
+   "scene": "ankunft",
+   "pdf_page": 29,
+   "status": "original, style revision pending",
+   "source": "Strudli_Bremer_Stadtmusikanten_All_Versions_Claude.pdf (owner-generated with ChatGPT, 24.11.2026)"
+  },
+  {
+   "scene": "statue",
+   "pdf_page": 32,
+   "status": "preferred revision",
+   "source": "Strudli_Bremer_Stadtmusikanten_All_Versions_Claude.pdf (owner-generated with ChatGPT, 24.11.2026)"
+  }
+ ],
+ "bremen-3": [
+  {
+   "scene": "markt",
+   "pdf_page": 33,
+   "status": "original, style revision pending",
+   "source": "Strudli_Bremer_Stadtmusikanten_All_Versions_Claude.pdf (owner-generated with ChatGPT, 24.11.2026)"
+  },
+  {
+   "scene": "fisch",
+   "pdf_page": 34,
+   "status": "original v1: matches plot (wrapping + cat gesture); v4 preferred style lacks both",
+   "source": "Strudli_Bremer_Stadtmusikanten_All_Versions_Claude.pdf (owner-generated with ChatGPT, 24.11.2026)"
+  },
+  {
+   "scene": "baecker",
+   "pdf_page": 40,
+   "status": "preferred revision",
+   "source": "Strudli_Bremer_Stadtmusikanten_All_Versions_Claude.pdf (owner-generated with ChatGPT, 24.11.2026)"
+  },
+  {
+   "scene": "gemuese",
+   "pdf_page": 46,
+   "status": "preferred revision",
+   "source": "Strudli_Bremer_Stadtmusikanten_All_Versions_Claude.pdf (owner-generated with ChatGPT, 24.11.2026)"
+  },
+  {
+   "scene": "picknick",
+   "pdf_page": 47,
+   "status": "only version, review before use",
+   "source": "Strudli_Bremer_Stadtmusikanten_All_Versions_Claude.pdf (owner-generated with ChatGPT, 24.11.2026)"
+  },
+  {
+   "scene": "buehne",
+   "pdf_page": 50,
+   "status": "approved revision",
+   "source": "Strudli_Bremer_Stadtmusikanten_All_Versions_Claude.pdf (owner-generated with ChatGPT, 24.11.2026)"
+  },
+  {
+   "scene": "konzert",
+   "pdf_page": 51,
+   "status": "only version, review before use",
+   "source": "Strudli_Bremer_Stadtmusikanten_All_Versions_Claude.pdf (owner-generated with ChatGPT, 24.11.2026)"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Strudli Lernen — Німецька щодня",
+  "short_name": "Strudli",
+  "description": "Strudli Lernen — Deutsch lernen für Zugewanderte. German–Ukrainian vocabulary, pronunciation and everyday practice.",
+  "lang": "uk",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#eff6f8",
+  "theme_color": "#fff8f0",
+  "icons": [
+    {
+      "src": "/icon.svg?v=strudli1",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

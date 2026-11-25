@@ -1,0 +1,114 @@
+import assert from "node:assert/strict";
+import {readFileSync} from "node:fs";
+
+const read=path=>readFileSync(new URL("../"+path,import.meta.url),"utf8");
+const app=read("src/App.tsx");
+const cardExamples=read("src/cardExamples.ts");
+const css=read("src/styles.css");
+const data=read("src/data.ts");
+const english=read("src/englishSentences.ts");
+const pkg=JSON.parse(read("package.json"));
+
+assert.match(app,/function advanceCard\(\)\{if\(!answered\|\|!pendingRound\.current\|\|masteryStage==="flying"\)return;/,"Next must be guarded, user-triggered, and blocked while the captured word is flying");
+assert.match(app,/onClick=\{advanceCard\}/,"Next button must have a working click handler");
+assert.match(app,/\{!answered\?<><div className=\{"answers"/,"Answer choices must be replaced by feedback after correct answer");
+assert.match(app,/\{wrong&&!answered&&<StrudliGuide/,"Incorrect-answer hint must follow the answer buttons instead of pushing them down");
+assert.match(app,/cardExampleFor\(word,language\)/,"Examples must follow the selected global interface language");
+assert.match(app,/void speak\(cardExample\.de\)/,"The sentence must have a working German audio button");
+assert.match(app,/void speak\(word\.audioText\|\|word\.de/,"Correct word pronunciation must remain");
+assert.match(app,/className="cardNextButton"/,"Next button missing");
+assert.doesNotMatch(app,/imageReady=Promise\.race/,"Image preload must not control card progression");
+assert.doesNotMatch(app,/Promise\.all\(\[Promise\.race\(\[speak/,"Audio timing must not control card progression");
+assert.doesNotMatch(app,/setTimeout\(\(\)=>\{if\(gen\.current!==token\)return;pendingRound\.current=null;setRound\(upcoming\)/,"No automatic card advance after audio");
+assert.match(app,/pendingRound\.current=upcoming;try\{localStorage\.setItem\(KEY,JSON\.stringify\(upcoming\)\)\}/,"Correct answer must be saved before tapping Next");
+assert.match(app,/word\.kind==="noun"\|\|answered/,"Noun translations must remain visible before choosing the article");
+assert.match(app,/word\.topic==="pronouns"&&!answered&&word\.usage/,"Pronoun disambiguation must remain before answering");
+assert.match(cardExamples,/ORIGINAL_SENTENCES/,"Reuse original German/Ukrainian examples");
+assert.match(cardExamples,/ORIGINAL_ENGLISH_SENTENCES/,"Reuse verified English originals");
+assert.match(cardExamples,/EXTRA_EXAMPLE_ENGLISH/,"Reuse dictionary example translations");
+assert.match(cardExamples,/usageTranslations\[word\.id\]/,"Usage examples must match exact word ID and meaning");
+assert.match(cardExamples,/return null;/,"No unsourced machine-invented example when translations are missing");
+const vocabStart=data.indexOf("export const DEMO_WORDS:Word[]=");
+const begin=data.indexOf("=[",vocabStart)+1,end=data.indexOf("];",begin);
+const words=JSON.parse(data.slice(begin,end+1));
+assert.equal(words.length,1177,"Existing vocabulary entries must be untouched");
+assert.equal(words.filter(w=>w.kind==="noun").length,736,"Existing noun cards must remain");
+assert.ok(english.includes("ORIGINAL_ENGLISH_SENTENCES"),"Existing English dataset must remain");
+assert.match(css,/\.cardNextButton\{display:flex/,"Visible tactile Next button must have CSS");
+assert.ok(app.includes('game--answered'),"Game must expose answered state to mobile CTA");
+assert.ok(css.includes(".game--answered .cardNextButton")&&css.includes("position:fixed;")&&css.includes("bottom:calc(75px + env(safe-area-inset-bottom))"),"Mobile Next button must stay visible above bottom navigation");
+assert.match(css,/@media\(max-width:600px\).*\.cardExamplePanel/s,"Reveal must adapt to iPhone width");
+assert.match(css,/@media\(max-height:690px\).*\.cardExamplePanel/s,"Reveal must fit shorter iPhone heights");
+assert.match(css,/@media\(prefers-reduced-motion:reduce\).*\.cardNextButton/s,"Respect reduced motion");
+assert.match(app,/className="brandWordmark" src="\/strudli\/strudli-wordmark-transparent\.webp"/,"Approved transparent Strudli logo must remain");
+assert.match(app,/FlameMeter level=\{flames\}/,"Three flames must remain");
+assert.ok(pkg.scripts["check:all"].includes("npm run check:cards4"),"Build pipeline must run Stage 04 QA");
+const foodSource=read("src/foodCardExamples.ts");
+const foodTable=JSON.parse(foodSource.slice(foodSource.indexOf("={")+1,foodSource.lastIndexOf("};")+1));
+const foodTopics=new Set(["fruits","vegetables","drinks","dishes","dining","staples"]);
+const foodWords=words.filter(w=>foodTopics.has(w.topic));
+assert.equal(foodWords.length,115,"Food & Drinks must include 115 words");
+assert.deepEqual(new Set(foodWords.map(w=>w.id)),new Set(Object.keys(foodTable)),"Every Food & Drinks word needs its own authored example");
+for(const [id,record] of Object.entries(foodTable)){
+ assert.ok(Array.isArray(record)&&record.length===3, "Bilingual tuple missing for "+id);
+ assert.ok(record.every(part=>typeof part==="string"&&part.length>4),"Empty translation for "+id);
+ assert.ok(/[.!?]$/.test(record[0]),"German sentence punctuation missing for "+id);
+}
+assert.equal(foodTable["ww-new-039"][0],"Die Kiwi ist innen grün.","iPhone Kiwi screenshot must have a relevant example");
+assert.equal(foodTable["ww-new-040"][0],"Die Ananas steht auf einem Felsen am Meer.","iPhone Ananas screenshot must have a relevant example");
+assert.ok(cardExamples.includes("FOOD_CARD_EXAMPLES[word.id]"),"Food examples must be used before generic ones");
+assert.ok(app.includes('className="soundSetting"')&&app.includes('setSoundEnabled(v)'),"User-controlled sound setting must remain in Progress, without in-game diagnostic UI");
+assert.ok(!app.includes("Перевірений приклад речення для цього слова ще готується."),"The former dummy sentence placeholder must be removed");
+assert.ok(app.includes('cardExamplePanel--compact')&&css.includes('.cardExamplePanel--compact'),"Uncurated words must have a compact Next-only state");
+assert.ok(!app.includes('className="answerCheck"'),"Large overlapping green check must be removed");
+assert.ok(app.includes('feedbackSound("correct",Math.min(3,flames+1))'),"Sound must vary by flame level");
+assert.ok(app.includes('feedbackSound("wrong",Math.max(0,flames-1))'),"Error must produce an extinguish sound");
+const meter=read("src/FlameMeter.tsx");
+const effects=read("src/feedbackSounds.ts");
+assert.ok(meter.includes('const fire=[')&&meter.includes('top:"#fff6ac"')&&meter.includes('base:"#d60e13"'),"Three unique vivid fire color gradients are required");
+assert.ok(meter.includes('flameSparks')&&meter.includes('flameMeterSlot--ghost'),"Fire particles and extinguishing stages are required");
+assert.ok(css.includes('@keyframes strudliLiveFire')&&css.includes('@keyframes strudliFlameExtinguish'),"Continuous flicker and extinguish CSS are required");
+assert.ok(css.includes('max-width:390px')&&css.includes('prefers-reduced-motion'),"Mobile/reduced-motion behavior must remain");
+assert.ok(effects.includes('fireWhoosh(ctx,at')&&effects.includes('if(tier===3)'),"Original sound synth must have different effects by tier");
+const mascotFlight=read("src/StrudliToastEffect.tsx");
+assert.ok(mascotFlight.includes('mascot.src="/strudli/strudli-mastered-flying.webp"'),"Mastery flight must use the approved full-body Strudli, not the app icon");
+assert.ok(app.includes('if(learnedThisAnswer)triggerToast("mastered",3'),"Mascot must appear exclusively on the THIRD earned flame");
+assert.ok(!app.includes('triggerToast("correct"'),"Mascot must NOT appear for the first or second correct answer");
+assert.ok(app.includes('triggerToast("wrong",Math.max(0,flames-1))'),"Wrong answer must trigger the ash/smoke fail animation");
+assert.ok(app.includes('<StrudliToastEffect effect={toastFx} onMasteredFinished={finishMasteryFlight}/>'),"App must wait for physical flight completion");
+assert.ok(app.includes('word.kind==="noun"?" answer--"+g'),"Noun buttons must carry their article color class");
+for(const [article,color] of [["der","#2585DA"],["die","#F05170"],["das","#0EAD94"]]){
+ assert.ok(css.includes('.game .answers button.answerOption.answer--'+article+'{background:linear-gradient(150deg,'+color),"Approved original article color missing for "+article);
+}
+assert.ok(mascotFlight.includes('mascot.animate([')&&mascotFlight.includes('wordTicket.animate(['),"Mascot and the ACTUAL word must fly on coordinated Web Animations timelines");
+assert.ok(mascotFlight.includes('source.cloneNode(true)')&&mascotFlight.includes('source.getBoundingClientRect()')&&mascotFlight.includes('source.style.visibility="hidden"'),"Use the actual card word in exact original position, hide only after clone");
+assert.ok(css.includes('.strudliMasteryGrabGlow'),"Real-word pickup must produce a grab-point glow");
+assert.ok(app.includes('className="masteryCompletionNotice"')&&app.includes('masteryStage==="done"'),"Show concise mastery result only AFTER the word has flown offscreen");
+assert.ok(app.includes('вилучено з цього раунду'),"Mastery status must state removal only from the CURRENT round");
+assert.ok(mascotFlight.includes('effect.kind!=="mastered"')&&mascotFlight.includes('effect.kind==="wrong"'),"Mascot must NOT appear for errors");
+assert.ok(mascotFlight.includes('const flyX=')&&mascotFlight.includes('const flyY='),"Both word and mascot must share one exit displacement");
+assert.ok(mascotFlight.includes('flyX*.28')&&mascotFlight.includes('flyY*.23'),"Flight needs coordinated intermediate positions, not two unrelated CSS keyframes");
+assert.ok(mascotFlight.includes('animations[0].onfinish=complete'),"Unmount must follow the real animation finish event, not a fixed 2.3-second cut");
+assert.ok(mascotFlight.includes('window.matchMedia?.("(prefers-reduced-motion: reduce)")'),"Respect iPhone reduced-motion preferences");
+assert.ok(app.includes('masteryStage==="flying"')&&app.includes('masteryStage!=="done"&&<FitWordHeading word={word.de}'),"Real card heading must be removed at completion, not left underneath");
+assert.ok(app.includes('function FitWordHeading(')&&app.includes('return <h2 ref={ref}')&&app.includes('overflowWrap:"anywhere"')&&app.includes('range.getBoundingClientRect().width'),"Adaptive heading must retain real h2 semantics, measure rendered text and support emergency wrapping");
+assert.ok(app.includes('masteryStage!=="flying"&&<button type="button" className="cardNextButton"'),"Next must stay unavailable during pickup, then reappear");
+assert.ok(!app.includes('kind==="mastered"?2300:920'),"No old fixed animation removal timer");
+assert.ok(!css.includes('@keyframes strudliTicketCatch'),"Old independently flying ticket must be removed");
+
+const soupWord=words.find(w=>w.id==="food-288");
+assert.equal(soupWord?.photo,"/photos/custom/strudli-approved-soup.webp","Suppe must use the precise user-approved photo, with its original ID intact");
+for(const [asset,minBytes] of [["public/photos/custom/strudli-approved-soup.webp",15000],["public/strudli/strudli-mastered-flying.webp",10000]]){
+ const b=readFileSync(new URL("../"+asset,import.meta.url));
+ assert.ok(b.length>minBytes&&b.toString("ascii",0,4)==="RIFF"&&b.toString("ascii",8,12)==="WEBP","Approved image missing/corrupt: "+asset);
+}
+assert.ok(css.includes('@keyframes strudliToastRecoil')&&css.includes('@keyframes strudliSmokePuff'),"Wrong-answer recoil + ash smoke must be present");
+assert.ok(css.includes('@keyframes strudliHighIgnition')&&css.includes('saturate(1.85)'),"Three flames must be more saturated and visibly ignite");
+assert.ok(effects.includes('audioSession'),"Safari audio session support must exist");
+assert.ok(effects.includes('session.type="playback"')&&effects.includes('context.resume()'),"iPhone sound must be unlocked on the user click");
+assert.ok(!app.includes("testFlameSound")&&!app.includes("demoStatus")&&!app.includes("gameAudioTools")&&!app.includes("Правильна відповідь: +1 вогник"),"In-game technical audio test and flame mechanics text must be removed");
+assert.ok(meter.includes('lostLevel=0')&&meter.includes('lostLevel<=0'),"A wrong answer at zero flames must not falsely extinguish a flame");
+assert.ok(app.includes('lostLevel={failedLevel}')&&read("src/Practice.tsx").includes('lostLevel={failedLevel}'),"Both game and practice must propagate lost flame state");
+console.log("Stage 04 feedback QA passed: all 115 food examples with translations, Kiwi/Ananas, distinct moving flames, original audible feedback, mobile and manual Next.");
+
+console.log("Stage 04 Card QA passed: bilingual sourced examples, manual Next, word+sentence audio, no auto-advance, 1177 cards and previous features.");

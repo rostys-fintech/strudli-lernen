@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="uk"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>WortWelt · До / Після · Календар 19 карток</title>
+<style>
+:root{color-scheme:light;--ink:#11293a;--muted:#576c7a;--green:#08785c;--line:#d4e4e8;--bg:#f4f8fa}
+*{box-sizing:border-box}body{font-family:system-ui,-apple-system,"Segoe UI",sans-serif;background:var(--bg);color:var(--ink);margin:0}
+header{background:#102d43;color:white;padding:24px max(20px,calc((100vw - 1160px)/2))}
+header h1{font-size:clamp(22px,3.8vw,34px);margin:6px 0 10px}header p{margin:0;opacity:.87}
+main{max-width:1160px;margin:auto;padding:24px 16px 70px}
+.controls{display:flex;align-items:center;justify-content:space-between;gap:14px;flex-wrap:wrap;margin-bottom:20px}
+button{background:#08785c;color:#fff;border:0;border-radius:10px;padding:12px 17px;font:600 14px system-ui;cursor:pointer}
+.stat{color:var(--muted);font-size:13px}
+h2{font-size:21px;margin:30px 0 15px}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(315px,1fr));gap:18px}
+.card{background:white;border:1px solid var(--line);border-radius:14px;overflow:hidden;box-shadow:0 4px 24px #102d430b;break-inside:avoid}
+.top{display:flex;justify-content:space-between;gap:8px;padding:14px 16px 8px}
+.word{font-weight:750;font-size:20px}.sub{font-size:13px;color:var(--muted)}.id{font-size:12px;color:#66808c;padding-top:5px}
+.compare{display:grid;grid-template-columns:1fr 1fr;gap:9px;padding:8px 12px 14px}
+.pic{margin:0;min-width:0}.pic strong{display:block;text-transform:uppercase;letter-spacing:.07em;font-size:11px;color:var(--muted);margin-bottom:7px}
+.pic img{width:100%;height:168px;object-fit:cover;display:block;border-radius:8px;background:#e7eef0}
+.pic.after strong{color:var(--green)}.pic a{color:inherit;text-decoration:none}.dim{margin-top:6px;color:var(--muted);font-size:11px;min-height:16px}
+.note{border-top:1px solid var(--line);margin-top:30px;padding-top:14px;font-size:13px;color:var(--muted)}
+@media print{body{background:white}header{padding:14px 20px}main{padding:10px 12px}.controls{display:none}h2{margin:18px 0 10px}.grid{grid-template-columns:1fr 1fr;gap:10px}.card{box-shadow:none;border-color:#aaa}.pic img{height:130px}.note{font-size:10px}@page{size:A4 landscape;margin:10mm}}
+</style></head>
+<body><header><h1>WortWelt · Календар</h1><p>19 карток · 7 днів тижня + 12 місяців · реальні фотографії, 22.11.2026</p></header>
+<main><div class="controls"><div class="stat" id="status">Перевіряємо завантаження зображень…</div><button onclick="window.print()">Друк / Зберегти як PDF</button></div>
+<h2>Дні тижня · 7 карток</h2><section class="grid" id="week"></section>
+<h2>Місяці · 12 карток</h2><section class="grid" id="months"></section>
+<div class="note">Ліворуч — старе зображення з архіву (не використовується у картці). Праворуч — актуальна фотографія. Числа під правими фото показують фактичну роздільність файлу, а не штучне збільшення у PDF. Попередні 409 погоджених замін не змінювалися. Календарні фотографії затверджені користувачем. Жодна заміна не допускається без нового погодження.</div></main>
+<script>
+const photos=[{"id":"time-774","de":"Montag","uk":"понеділок","old":"/photos/custom/time-774.png","after":"/photos/calendar-approved-20261122/time-774.jpg","group":"weekday"},{"id":"time-775","de":"Dienstag","uk":"вівторок","old":"/photos/custom/time-775.png","after":"/photos/calendar-approved-20261122/time-775.jpg","group":"weekday"},{"id":"time-776","de":"Mittwoch","uk":"середа","old":"/photos/custom/time-776.png","after":"/photos/calendar-approved-20261122/time-776.jpg","group":"weekday"},{"id":"time-777","de":"Donnerstag","uk":"четвер","old":"/photos/custom/time-777.png","after":"/photos/calendar-approved-20261122/time-777.jpg","group":"weekday"},{"id":"time-778","de":"Freitag","uk":"п’ятниця","old":"/photos/custom/time-778.png","after":"/photos/calendar-approved-20261122/time-778.jpg","group":"weekday"},{"id":"time-779","de":"Samstag","uk":"субота","old":"/photos/custom/time-779.png","after":"/photos/calendar-approved-20261122/time-779.jpg","group":"weekday"},{"id":"time-780","de":"Sonntag","uk":"неділя","old":"/photos/custom/time-780.png","after":"/photos/calendar-approved-20261122/time-780.jpg","group":"weekday"},{"id":"time-781","de":"Januar","uk":"січень","old":"/photos/custom/time-781.png","after":"/photos/calendar-approved-20261122/time-781.jpg","group":"month"},{"id":"time-782","de":"Februar","uk":"лютий","old":"/photos/custom/time-782.png","after":"/photos/calendar-approved-20261122/time-782.jpg","group":"month"},{"id":"time-783","de":"März","uk":"березень","old":"/photos/custom/time-783.png","after":"/photos/calendar-approved-20261122/time-783.jpg","group":"month"},{"id":"time-784","de":"April","uk":"квітень","old":"/photos/custom/time-784.png","after":"/photos/calendar-approved-20261122/time-784.jpg","group":"month"},{"id":"time-785","de":"Mai","uk":"травень","old":"/photos/custom/time-785.png","after":"/photos/calendar-approved-20261122/time-785.jpg","group":"month"},{"id":"time-786","de":"Juni","uk":"червень","old":"/photos/custom/time-786.png","after":"/photos/calendar-approved-20261122/time-786.jpg","group":"month"},{"id":"time-787","de":"Juli","uk":"липень","old":"/photos/custom/time-787.png","after":"/photos/calendar-approved-20261122/time-787.jpg","group":"month"},{"id":"time-788","de":"August","uk":"серпень","old":"/photos/custom/time-788.png","after":"/photos/calendar-approved-20261122/time-788.jpg","group":"month"},{"id":"time-789","de":"September","uk":"вересень","old":"/photos/custom/time-789.png","after":"/photos/calendar-approved-20261122/time-789.jpg","group":"month"},{"id":"time-790","de":"Oktober","uk":"жовтень","old":"/photos/custom/time-790.png","after":"/photos/calendar-approved-20261122/time-790.jpg","group":"month"},{"id":"time-791","de":"November","uk":"листопад","old":"/photos/custom/time-791.png","after":"/photos/calendar-approved-20261122/time-791.jpg","group":"month"},{"id":"time-792","de":"Dezember","uk":"грудень","old":"/photos/custom/time-792.png","after":"/photos/calendar-approved-20261122/time-792.jpg","group":"month"}];
+let loaded=0,failed=0;
+const render=x=>'<article class="card"><div class="top"><div><div class="word">'+x.de+'</div><div class="sub">'+x.uk+'</div></div><span class="id">'+x.id+'</span></div><div class="compare"><figure class="pic"><strong>До</strong><a target="_blank" href="'+x.old+'"><img src="'+x.old+'" alt="Попередня версія '+x.de+'" loading="lazy"></a><div class="dim">Архівне PNG</div></figure><figure class="pic after"><strong>Після</strong><a target="_blank" href="'+x.after+'"><img data-new="1" src="'+x.after+'" alt="Нова фотографія '+x.de+'" loading="lazy"></a><div class="dim" id="dim-'+x.id+'">Завантаження…</div></figure></div></article>';
+document.getElementById('week').innerHTML=photos.filter(x=>x.group==='weekday').map(render).join('');
+document.getElementById('months').innerHTML=photos.filter(x=>x.group==='month').map(render).join('');
+const status=document.getElementById('status');function update(){status.textContent='Завантажено '+loaded+' / 19 нових фото'+(failed?', помилки: '+failed:'');}
+for(const img of document.querySelectorAll('img[data-new]')){const parent=img.closest('.after');const label=parent.querySelector('.dim');img.onload=()=>{loaded++;label.textContent=img.naturalWidth+' × '+img.naturalHeight+' px';update()};img.onerror=()=>{failed++;label.textContent='Помилка завантаження';update()};}
+update();
+</script></body></html>

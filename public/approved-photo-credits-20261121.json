@@ -1,0 +1,3999 @@
+{
+  "date": "2026-11-21",
+  "items": [
+    {
+      "number": "0017",
+      "id": "food-322",
+      "term": "die Wurst",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0017-food-322.webp"
+    },
+    {
+      "number": "0023",
+      "id": "food-334",
+      "term": "das Müsli",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0023-food-334.webp",
+      "title": "File:Dorset Cereals muesli.jpg",
+      "author": "Mx. Granger",
+      "source": "https://commons.wikimedia.org/wiki/File:Dorset_Cereals_muesli.jpg",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    },
+    {
+      "number": "0028",
+      "id": "ww-new-206",
+      "term": "das Hackfleisch",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0028-ww-new-206.webp"
+    },
+    {
+      "number": "0030",
+      "id": "ww-new-208",
+      "term": "die Hähnchenbrust",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0030-ww-new-208.webp",
+      "title": "File:Raw_chicken_slices.jpg",
+      "author": "kakyusei",
+      "source": "https://commons.wikimedia.org/wiki/File:Raw_chicken_slices.jpg",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    },
+    {
+      "number": "0032",
+      "id": "ww-new-210",
+      "term": "der Speck",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0032-ww-new-210.webp"
+    },
+    {
+      "number": "0035",
+      "id": "ww-new-213",
+      "term": "der Thunfisch",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0035-ww-new-213.webp"
+    },
+    {
+      "number": "0046",
+      "id": "food-293",
+      "term": "die Gurke",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0046-food-293.webp"
+    },
+    {
+      "number": "0048",
+      "id": "food-295",
+      "term": "die Zwiebel",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0048-food-295.webp"
+    },
+    {
+      "number": "0055",
+      "id": "ww-new-030",
+      "term": "der Spinat",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0055-ww-new-030.webp"
+    },
+    {
+      "number": "0066",
+      "id": "food-319",
+      "term": "die Traube",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0066-food-319.webp",
+      "title": "File:Grapes, Rostov-on-Don, Russia.jpg",
+      "author": "Vyacheslav Argenberg",
+      "source": "https://commons.wikimedia.org/wiki/File:Grapes,_Rostov-on-Don,_Russia.jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0"
+    },
+    {
+      "number": "0068",
+      "id": "food-336",
+      "term": "die Avocado",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0068-food-336.webp"
+    },
+    {
+      "number": "0073",
+      "id": "ww-new-039",
+      "term": "die Kiwi",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0073-ww-new-039.webp",
+      "title": "File:Kiwi (Actinidia chinensis) 1 Luc Viatour.jpg",
+      "author": "Luc Viatour",
+      "source": "https://commons.wikimedia.org/wiki/File:Kiwi_(Actinidia_chinensis)_1_Luc_Viatour.jpg",
+      "license": "CC BY-SA 2.5",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.5"
+    },
+    {
+      "number": "0076",
+      "id": "ww-new-042",
+      "term": "die Wassermelone",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0076-ww-new-042.webp"
+    },
+    {
+      "number": "0083",
+      "id": "ww-new-043",
+      "term": "das Mineralwasser",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0083-ww-new-043.webp"
+    },
+    {
+      "number": "0084",
+      "id": "ww-new-044",
+      "term": "das Leitungswasser",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0084-ww-new-044.webp",
+      "title": "Filling a glass with water in a kitchen sink closeup.jpg",
+      "author": "Shixart1985",
+      "source": "https://commons.wikimedia.org/wiki/File:Filling_a_glass_with_water_in_a_kitchen_sink_closeup.jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0"
+    },
+    {
+      "number": "0090",
+      "id": "food-298",
+      "term": "die Pizza",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0090-food-298.webp",
+      "title": "File:Pizza-3007395.jpg",
+      "author": "igorovsyannykov",
+      "source": "https://commons.wikimedia.org/wiki/File:Pizza-3007395.jpg",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    },
+    {
+      "number": "0099",
+      "id": "ww-new-051",
+      "term": "der Pfannkuchen",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0099-ww-new-051.webp",
+      "title": "File:Crepes_dsc07085.jpg",
+      "author": "David Monniaux",
+      "source": "https://commons.wikimedia.org/wiki/File:Crepes_dsc07085.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
+      "number": "0108",
+      "id": "city-546",
+      "term": "das Café",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0108-city-546.webp",
+      "title": "Blue Bridge Coffeehouse interior, Kingsland.jpg",
+      "author": "Mjrmtg",
+      "source": "https://commons.wikimedia.org/wiki/File:Blue_Bridge_Coffeehouse_interior,_Kingsland.jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0"
+    },
+    {
+      "number": "0110",
+      "id": "ww-new-055",
+      "term": "der Kellner",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0110-ww-new-055.webp"
+    },
+    {
+      "number": "0111",
+      "id": "ww-new-056",
+      "term": "die Kellnerin",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0111-ww-new-056.webp"
+    },
+    {
+      "number": "0113",
+      "id": "ww-new-058",
+      "term": "das Trinkgeld",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0113-ww-new-058.webp",
+      "title": "File:20151007 174039-S.jpg",
+      "author": "Adeeto",
+      "source": "https://commons.wikimedia.org/wiki/File:20151007_174039-S.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "number": "0114",
+      "id": "ww-new-059",
+      "term": "die Vorspeise",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0114-ww-new-059.webp",
+      "title": "File:Ringier 175 Jahre Jubiläum (2499873203) (2).jpg",
+      "author": "Chris Schaer from Zofingen, Schweiz",
+      "source": "https://commons.wikimedia.org/wiki/File:Ringier_175_Jahre_Jubil%C3%A4um_(2499873203)_(2).jpg",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0"
+    },
+    {
+      "number": "0127",
+      "id": "home-348",
+      "term": "der Boden",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0127-home-348.webp",
+      "title": "File:Distressed parquet floor.jpg",
+      "author": "Heritage Wood Floors Ltd",
+      "source": "https://commons.wikimedia.org/wiki/File:Distressed_parquet_floor.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "number": "0128",
+      "id": "home-349",
+      "term": "die Decke",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0128-home-349.webp",
+      "title": "File:Ceiling_of_a_room_at_Borujerdi_House,_Kashan,_Iran.jpg",
+      "author": "Amir Pashaei",
+      "source": "https://commons.wikimedia.org/wiki/File:Ceiling_of_a_room_at_Borujerdi_House,_Kashan,_Iran.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "number": "0142",
+      "id": "home-362",
+      "term": "das Schloss",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0142-home-362.webp",
+      "title": "File:Key_hanging_from_a_door_lock_at_an_entrance_near_a_building.jpg",
+      "author": "Shixart1985",
+      "source": "https://commons.wikimedia.org/wiki/File:Key_hanging_from_a_door_lock_at_an_entrance_near_a_building.jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0"
+    },
+    {
+      "number": "0147",
+      "id": "home-367",
+      "term": "die Waschmaschine",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0147-home-367.webp",
+      "title": "File:LG 드럼세탁기와 식기세척기, 영국서 물사용 효율 최우수 제품 수상.jpg",
+      "author": "LG전자",
+      "source": "https://commons.wikimedia.org/wiki/File:LG_%EB%93%9C%EB%9F%BC%EC%84%B8%ED%83%81%EA%B8%B0%EC%99%80_%EC%8B%9D%EA%B8%B0%EC%84%B8%EC%B2%99%EA%B8%B0,_%EC%98%81%EA%B5%AD%EC%84%9C_%EB%AC%BC%EC%82%AC%EC%9A%A9_%ED%9A%A8%EC%9C%A8_%EC%B5%9C%EC%9A%B0%EC%88%98_%EC%A0%9C%ED%92%88_%EC%88%98%EC%83%81.jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0"
+    },
+    {
+      "number": "0148",
+      "id": "home-368",
+      "term": "die Spülmaschine",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0148-home-368.webp",
+      "title": "Dishwasher in a modern kitchen with opened door showing dishes inside.jpg",
+      "author": "Shixart1985",
+      "source": "https://commons.wikimedia.org/wiki/File:Dishwasher_in_a_modern_kitchen_with_opened_door_showing_dishes_inside.jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0"
+    },
+    {
+      "number": "0150",
+      "id": "home-370",
+      "term": "der Besen",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0150-home-370.webp",
+      "title": "File:BroomsforSale.jpg",
+      "author": "Edal Anton Lefterov",
+      "source": "https://commons.wikimedia.org/wiki/File:BroomsforSale.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    {
+      "number": "0153",
+      "id": "ww-new-085",
+      "term": "der Wasserhahn",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0153-ww-new-085.webp"
+    },
+    {
+      "number": "0156",
+      "id": "ww-new-088",
+      "term": "der Wasserkocher",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0156-ww-new-088.webp"
+    },
+    {
+      "number": "0161",
+      "id": "ww-new-093",
+      "term": "die Bettdecke",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0161-ww-new-093.webp",
+      "title": "File:La cama deshecha (2724466831).jpg",
+      "author": "losmininos",
+      "source": "https://commons.wikimedia.org/wiki/File:La_cama_deshecha_(2724466831).jpg",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0"
+    },
+    {
+      "number": "0162",
+      "id": "ww-new-094",
+      "term": "die Matratze",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0162-ww-new-094.webp"
+    },
+    {
+      "number": "0163",
+      "id": "ww-new-095",
+      "term": "der Vorhang",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0163-ww-new-095.webp",
+      "title": "File:Gordijnen aan venster.JPG",
+      "author": "Nieuw~commonswiki",
+      "source": "https://commons.wikimedia.org/wiki/File:Gordijnen_aan_venster.JPG",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
+      "number": "0164",
+      "id": "ww-new-096",
+      "term": "die Fernbedienung",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0164-ww-new-096.webp",
+      "title": "File:Nuon-N2000-Remote-Control.jpg",
+      "author": "Evan-Amos",
+      "source": "https://commons.wikimedia.org/wiki/File:Nuon-N2000-Remote-Control.jpg",
+      "license": "Public domain",
+      "license_url": null
+    },
+    {
+      "number": "0169",
+      "id": "home-371",
+      "term": "das Handtuch",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0169-home-371.webp",
+      "title": "File:Zusammengelegte Handtücher.jpg",
+      "author": "User:Mattes",
+      "source": "https://commons.wikimedia.org/wiki/File:Zusammengelegte_Handt%C3%BCcher.jpg",
+      "license": "Public domain",
+      "license_url": null
+    },
+    {
+      "number": "0171",
+      "id": "home-373",
+      "term": "die Dusche",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0171-home-373.webp",
+      "title": "File:Ducha_largando_agua.jpg",
+      "author": "Prácticas Intraescolares",
+      "source": "https://commons.wikimedia.org/wiki/File:Ducha_largando_agua.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "number": "0174",
+      "id": "home-376",
+      "term": "die Zahnbürste",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0174-home-376.webp",
+      "title": "File:Toothbrush 20050716 004.jpg",
+      "author": "Jonas Bergsten",
+      "source": "https://commons.wikimedia.org/wiki/File:Toothbrush_20050716_004.jpg",
+      "license": "Public domain",
+      "license_url": null
+    },
+    {
+      "number": "0185",
+      "id": "germany-229",
+      "term": "die Kaution",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0185-germany-229.webp",
+      "title": "Реалістична згенерована сцена",
+      "author": null,
+      "source": null,
+      "license": null,
+      "license_url": null
+    },
+    {
+      "number": "0186",
+      "id": "germany-230",
+      "term": "der Mietvertrag",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0186-germany-230.webp",
+      "title": "Реалістична згенерована сцена",
+      "author": null,
+      "source": null,
+      "license": null,
+      "license_url": null
+    },
+    {
+      "number": "0187",
+      "id": "germany-240",
+      "term": "das Wohnheim",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0187-germany-240.webp",
+      "title": "File:Sharp Hall Dorm Room.jpg",
+      "author": "User Raul654 on en.wikipedia",
+      "source": "https://commons.wikimedia.org/wiki/File:Sharp_Hall_Dorm_Room.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
+      "number": "0188",
+      "id": "ww-new-061",
+      "term": "die Warmmiete",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0188-ww-new-061.webp",
+      "title": "Реалістична згенерована сцена",
+      "author": null,
+      "source": null,
+      "license": null,
+      "license_url": null
+    },
+    {
+      "number": "0189",
+      "id": "ww-new-062",
+      "term": "die Kaltmiete",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0189-ww-new-062.webp",
+      "title": "Реалістична згенерована сцена",
+      "author": null,
+      "source": null,
+      "license": null,
+      "license_url": null
+    },
+    {
+      "number": "0190",
+      "id": "ww-new-063",
+      "term": "die Besichtigung",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0190-ww-new-063.webp",
+      "title": "Реалістична згенерована сцена",
+      "author": null,
+      "source": null,
+      "license": null,
+      "license_url": null
+    },
+    {
+      "number": "0192",
+      "id": "ww-new-065",
+      "term": "die Vermieterin",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0192-ww-new-065.webp",
+      "title": "Реалістична згенерована сцена",
+      "author": null,
+      "source": null,
+      "license": null,
+      "license_url": null
+    },
+    {
+      "number": "0196",
+      "id": "city-522",
+      "term": "das Dorf",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0196-city-522.webp",
+      "title": "File:Bourton-on-the-Water 2010 PD 09.JPG",
+      "author": "Bin im Garten",
+      "source": "https://commons.wikimedia.org/wiki/File:Bourton-on-the-Water_2010_PD_09.JPG",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    {
+      "number": "0197",
+      "id": "city-523",
+      "term": "die Straße",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0197-city-523.webp",
+      "title": "File:Typical Street In The Royal Borough Of Kensington And Chelsea In London.jpg",
+      "author": "Onofre_Bouvila.",
+      "source": "https://commons.wikimedia.org/wiki/File:Typical_Street_In_The_Royal_Borough_Of_Kensington_And_Chelsea_In_London.jpg",
+      "license": "CC BY 2.5",
+      "license_url": "https://creativecommons.org/licenses/by/2.5"
+    },
+    {
+      "number": "0206",
+      "id": "city-556",
+      "term": "die Ecke",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0206-city-556.webp"
+    },
+    {
+      "number": "0210",
+      "id": "ww-new-135",
+      "term": "der Zebrastreifen",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0210-ww-new-135.webp",
+      "title": "File:Kaulsdorfer_Str_Kaulsdorf_2011-04-22_AMA_fec.JPG",
+      "author": "44penguins (Angela M. Arnold)",
+      "source": "https://commons.wikimedia.org/wiki/File:Kaulsdorfer_Str_Kaulsdorf_2011-04-22_AMA_fec.JPG",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    {
+      "number": "0213",
+      "id": "ww-new-138",
+      "term": "die Baustelle",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0213-ww-new-138.webp"
+    },
+    {
+      "number": "0216",
+      "id": "ww-new-141",
+      "term": "das Fundbüro",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0216-ww-new-141.webp",
+      "title": "Railway Lost Property Office and Costa Coffee, Queensway, Newport - geograph.org.uk - 6235785.jpg",
+      "author": "Jaggery",
+      "source": "https://commons.wikimedia.org/wiki/File:Railway_Lost_Property_Office_and_Costa_Coffee,_Queensway,_Newport_-_geograph.org.uk_-_6235785.jpg",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0"
+    },
+    {
+      "number": "0217",
+      "id": "ww-new-142",
+      "term": "die Polizeiwache",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0217-ww-new-142.webp"
+    },
+    {
+      "number": "0218",
+      "id": "ww-new-143",
+      "term": "die Notaufnahme",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0218-ww-new-143.webp",
+      "title": "File:NOT_UKG.JPG",
+      "author": "Universitätsklinikum Greifswald",
+      "source": "https://commons.wikimedia.org/wiki/File:NOT_UKG.JPG",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    {
+      "number": "0222",
+      "id": "ww-new-147",
+      "term": "die Einbahnstraße",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0222-ww-new-147.webp"
+    },
+    {
+      "number": "0226",
+      "id": "city-532",
+      "term": "das Museum",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0226-city-532.webp",
+      "title": "File:Handumanan_Gallery_USC_Museum_Downtown_Campus.png",
+      "author": "P1234589",
+      "source": "https://commons.wikimedia.org/wiki/File:Handumanan_Gallery_USC_Museum_Downtown_Campus.png",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    },
+    {
+      "number": "0227",
+      "id": "city-533",
+      "term": "das Kino",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0227-city-533.webp"
+    },
+    {
+      "number": "0234",
+      "id": "city-541",
+      "term": "das Krankenhaus",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0234-city-541.webp",
+      "title": "File:Hospital-de-Bellvitge.jpg",
+      "author": "H501zalc",
+      "source": "https://commons.wikimedia.org/wiki/File:Hospital-de-Bellvitge.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    {
+      "number": "0238",
+      "id": "city-545",
+      "term": "das Geschäft",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0238-city-545.webp",
+      "title": "File:The_interior_of_a_Fresh_Market_store.jpg",
+      "author": "Harrison Keely",
+      "source": "https://commons.wikimedia.org/wiki/File:The_interior_of_a_Fresh_Market_store.jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0"
+    },
+    {
+      "number": "0240",
+      "id": "city-549",
+      "term": "der Markt",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0240-city-549.webp"
+    },
+    {
+      "number": "0241",
+      "id": "city-550",
+      "term": "das Hotel",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0241-city-550.webp"
+    },
+    {
+      "number": "0242",
+      "id": "city-551",
+      "term": "das Büro",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0242-city-551.webp"
+    },
+    {
+      "number": "0243",
+      "id": "city-552",
+      "term": "die Schule",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0243-city-552.webp"
+    },
+    {
+      "number": "0244",
+      "id": "city-553",
+      "term": "die Universität",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0244-city-553.webp",
+      "title": "File:Old building of Heidelberg University.JPG",
+      "author": "Avi1111 dr. avishai teicher",
+      "source": "https://commons.wikimedia.org/wiki/File:Old_building_of_Heidelberg_University.JPG",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "number": "0248",
+      "id": "transport-564",
+      "term": "die Bahn",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0248-transport-564.webp",
+      "title": "File:Brussels station - the train to Frankfurt awaits - Flickr - TeaMeister.jpg",
+      "author": "TeaMeister",
+      "source": "https://commons.wikimedia.org/wiki/File:Brussels_station_-_the_train_to_Frankfurt_awaits_-_Flickr_-_TeaMeister.jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0"
+    },
+    {
+      "number": "0256",
+      "id": "transport-572",
+      "term": "das Boot",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0256-transport-572.webp",
+      "title": "File:Portland Pudgy safety dinghy, rowing.JPG",
+      "author": "Poe artist",
+      "source": "https://commons.wikimedia.org/wiki/File:Portland_Pudgy_safety_dinghy,_rowing.JPG",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    {
+      "number": "0261",
+      "id": "travel-444",
+      "term": "die Ankunft",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0261-travel-444.webp"
+    },
+    {
+      "number": "0264",
+      "id": "city-558",
+      "term": "der Bahnhof",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0264-city-558.webp",
+      "title": "File:Seoul Station West Side.jpg",
+      "author": "Minseong Kim",
+      "source": "https://commons.wikimedia.org/wiki/File:Seoul_Station_West_Side.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "number": "0266",
+      "id": "city-560",
+      "term": "der Flughafen",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0266-city-560.webp"
+    },
+    {
+      "number": "0277",
+      "id": "transport-584",
+      "term": "das Rad",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0277-transport-584.webp"
+    },
+    {
+      "number": "0279",
+      "id": "transport-586",
+      "term": "die Linie",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0279-transport-586.webp",
+      "title": "File:Maribor Bus Line 6.jpg",
+      "author": "GuestyOriginal",
+      "source": "https://commons.wikimedia.org/wiki/File:Maribor_Bus_Line_6.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "number": "0284",
+      "id": "ww-new-070",
+      "term": "der Fahrkartenautomat",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0284-ww-new-070.webp",
+      "title": "File:Mobib ticket machine, Brussels (LRM 20231012 094316-2).jpg",
+      "author": "Matti Blume",
+      "source": "https://commons.wikimedia.org/wiki/File:Mobib_ticket_machine,_Brussels_(LRM_20231012_094316-2).jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+    },
+    {
+      "number": "0286",
+      "id": "ww-new-072",
+      "term": "die Durchsage",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0286-ww-new-072.webp"
+    },
+    {
+      "number": "0289",
+      "id": "travel-422",
+      "term": "der Urlaub",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0289-travel-422.webp",
+      "title": "File:Vacation Village at Weston Pool, Weston, Florida February 24, 2022 B.jpg",
+      "author": "AITFFan1",
+      "source": "https://commons.wikimedia.org/wiki/File:Vacation_Village_at_Weston_Pool,_Weston,_Florida_February_24,_2022_B.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "number": "0293",
+      "id": "travel-428",
+      "term": "der Koffer",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0293-travel-428.webp"
+    },
+    {
+      "number": "0300",
+      "id": "travel-435",
+      "term": "das Meer",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0300-travel-435.webp",
+      "title": "File:Baltic Sea view from Schmiedeberg hill in Rerik, 2025-06-23.jpg",
+      "author": "Radomianin",
+      "source": "https://commons.wikimedia.org/wiki/File:Baltic_Sea_view_from_Schmiedeberg_hill_in_Rerik,_2025-06-23.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "number": "0301",
+      "id": "travel-436",
+      "term": "der Strand",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0301-travel-436.webp"
+    },
+    {
+      "number": "0304",
+      "id": "travel-439",
+      "term": "die Grenze",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0304-travel-439.webp",
+      "title": "File:Border crossing sign Schandorf–Narda, 2026.jpg",
+      "author": "Eva Maria Mandl",
+      "source": "https://commons.wikimedia.org/wiki/File:Border_crossing_sign_Schandorf%E2%80%93Narda,_2026.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "number": "0310",
+      "id": "travel-449",
+      "term": "der Tourist",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0310-travel-449.webp",
+      "title": "Tourists with camera.jpg",
+      "author": "Tim Griffin",
+      "source": "https://commons.wikimedia.org/wiki/File:Tourists_with_camera.jpg",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0"
+    },
+    {
+      "number": "0313",
+      "id": "shopping-664",
+      "term": "der Einkaufswagen",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0313-shopping-664.webp",
+      "title": "File:Frau mit Einkaufswagen (37939692236).jpg",
+      "author": "Tim Reckmann from Hamm, Deutschland",
+      "source": "https://commons.wikimedia.org/wiki/File:Frau_mit_Einkaufswagen_(37939692236).jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0"
+    },
+    {
+      "number": "0314",
+      "id": "shopping-665",
+      "term": "der Korb",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0314-shopping-665.webp"
+    },
+    {
+      "number": "0316",
+      "id": "shopping-667",
+      "term": "der Kassierer",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0316-shopping-667.webp"
+    },
+    {
+      "number": "0317",
+      "id": "shopping-668",
+      "term": "die Kassiererin",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0317-shopping-668.webp"
+    },
+    {
+      "number": "0322",
+      "id": "shopping-673",
+      "term": "die Quittung",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0322-shopping-673.webp",
+      "title": "File:Kassenbon mit TSE-Angaben.png",
+      "author": "Cchiaraa",
+      "source": "https://commons.wikimedia.org/wiki/File:Kassenbon_mit_TSE-Angaben.png",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "number": "0325",
+      "id": "shopping-680",
+      "term": "die Umkleidekabine",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0325-shopping-680.webp",
+      "title": "File:Grey_Fitting_Room_Curtains-direct-fabrics.co.uk.jpg",
+      "author": "Julesbishop",
+      "source": "https://commons.wikimedia.org/wiki/File:Grey_Fitting_Room_Curtains-direct-fabrics.co.uk.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "number": "0326",
+      "id": "shopping-681",
+      "term": "der Umtausch",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0326-shopping-681.webp"
+    },
+    {
+      "number": "0328",
+      "id": "shopping-683",
+      "term": "der Kunde",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0328-shopping-683.webp"
+    },
+    {
+      "number": "0330",
+      "id": "shopping-685",
+      "term": "das Produkt",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0330-shopping-685.webp",
+      "title": "milk dairy products pitcher bottle rustic useful white healthy eating",
+      "author": "PxHere contributor",
+      "source": "https://pxhere.com/en/photo/1362675",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "number": "0331",
+      "id": "shopping-686",
+      "term": "die Ware",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0331-shopping-686.webp"
+    },
+    {
+      "number": "0339",
+      "id": "work-601",
+      "term": "das Geld",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0339-work-601.webp",
+      "title": "Euro coins and banknotes (cropped).jpg",
+      "author": "Avij (talk · contribs)",
+      "source": "https://commons.wikimedia.org/wiki/File:Euro_coins_and_banknotes_(cropped).jpg",
+      "license": "Public domain",
+      "license_url": null
+    },
+    {
+      "number": "0346",
+      "id": "work-608",
+      "term": "die Überweisung",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0346-work-608.webp",
+      "title": "Vorbefüllter Überweisungsträger für Girokonten (Deutschland).jpg",
+      "author": "Deutsche Post Com GmbH (Vorbefüllung)",
+      "source": "https://commons.wikimedia.org/wiki/File:Vorbef%C3%BCllter_%C3%9Cberweisungstr%C3%A4ger_f%C3%BCr_Girokonten_(Deutschland).jpg",
+      "license": "Public domain",
+      "license_url": null
+    },
+    {
+      "number": "0348",
+      "id": "shopping-675",
+      "term": "das Bargeld",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0348-shopping-675.webp",
+      "title": "File:Flickr - Nic's events - London - 14-15 Dec 2007 - 034.jpg",
+      "author": "Nic McPhee from Morris, Minnesota, USA",
+      "source": "https://commons.wikimedia.org/wiki/File:Flickr_-_Nic%27s_events_-_London_-_14-15_Dec_2007_-_034.jpg",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0"
+    },
+    {
+      "number": "0349",
+      "id": "shopping-676",
+      "term": "die Münze",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0349-shopping-676.webp",
+      "title": "Back of Bulgarian 1 euro coin.png",
+      "author": "Unknown authorUnknown author",
+      "source": "https://commons.wikimedia.org/wiki/File:Back_of_Bulgarian_1_euro_coin.png",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    },
+    {
+      "number": "0350",
+      "id": "shopping-677",
+      "term": "der Geldschein",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0350-shopping-677.webp",
+      "title": "File:Euro banknotes, Europa series.png",
+      "author": "Bericht",
+      "source": "https://commons.wikimedia.org/wiki/File:Euro_banknotes,_Europa_series.png",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    },
+    {
+      "number": "0351",
+      "id": "shopping-678",
+      "term": "die Karte",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0351-shopping-678.webp",
+      "title": "File:Credit-cards.jpg",
+      "author": "Lotus Head from Johannesburg, Gauteng, South Africa",
+      "source": "https://commons.wikimedia.org/wiki/File:Credit-cards.jpg",
+      "license": "CC BY-SA 2.5",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.5"
+    },
+    {
+      "number": "0355",
+      "id": "ww-new-077",
+      "term": "der Kontostand",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0355-ww-new-077.webp",
+      "title": "Реалістична згенерована сцена",
+      "author": null,
+      "source": null,
+      "license": null,
+      "license_url": null
+    },
+    {
+      "number": "0357",
+      "id": "ww-new-079",
+      "term": "der Dauerauftrag",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0357-ww-new-079.webp",
+      "title": "Реалістична згенерована сцена",
+      "author": null,
+      "source": null,
+      "license": null,
+      "license_url": null
+    },
+    {
+      "number": "0359",
+      "id": "germany-206",
+      "term": "das Rathaus",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0359-germany-206.webp",
+      "title": "File:Town hall of Aosta (3).jpg",
+      "author": "Krzysztof Golik",
+      "source": "https://commons.wikimedia.org/wiki/File:Town_hall_of_Aosta_(3).jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "number": "0361",
+      "id": "germany-208",
+      "term": "das Jobcenter",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0361-germany-208.webp",
+      "title": "Berlin Jobcenter Müllerstraße.jpg",
+      "author": "Lukas Beck",
+      "source": "https://commons.wikimedia.org/wiki/File:Berlin_Jobcenter_M%C3%BCllerstra%C3%9Fe.jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0"
+    },
+    {
+      "number": "0365",
+      "id": "germany-212",
+      "term": "der Aufenthaltstitel",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0365-germany-212.webp",
+      "title": "File:1Aufenthaltserlaubnis_Front.jpg",
+      "author": "Bundesministerium des Innern",
+      "source": "https://commons.wikimedia.org/wiki/File:1Aufenthaltserlaubnis_Front.jpg",
+      "license": "Public domain",
+      "license_url": null
+    },
+    {
+      "number": "0373",
+      "id": "germany-220",
+      "term": "die Bescheinigung",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0373-germany-220.webp",
+      "title": "File:Bescheinigung Selbstschutzlehrgang 1981 - Bundesverband für den Selbstschutz.png",
+      "author": "Bundesverband für den Selbstschutz",
+      "source": "https://commons.wikimedia.org/wiki/File:Bescheinigung_Selbstschutzlehrgang_1981_-_Bundesverband_f%C3%BCr_den_Selbstschutz.png",
+      "license": "Public domain",
+      "license_url": null
+    },
+    {
+      "number": "0378",
+      "id": "germany-234",
+      "term": "der Nachweis",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0378-germany-234.webp",
+      "title": "Certificate.jpg",
+      "author": "Frea Kama Juno",
+      "source": "https://commons.wikimedia.org/wiki/File:Certificate.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    {
+      "number": "0379",
+      "id": "germany-235",
+      "term": "die Bestätigung",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0379-germany-235.webp",
+      "title": "Postzustellungsurkunde, Förmliche Zustellung, 2013.jpg",
+      "author": "BlackIceNRW",
+      "source": "https://commons.wikimedia.org/wiki/File:Postzustellungsurkunde,_F%C3%B6rmliche_Zustellung,_2013.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    {
+      "number": "0383",
+      "id": "germany-221",
+      "term": "die Versicherung",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0383-germany-221.webp",
+      "title": "Sun Insurance Policy Receipt",
+      "author": "76283671@N00",
+      "source": "https://www.flickr.com/photos/76283671@N00/157841598/",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/"
+    },
+    {
+      "number": "0385",
+      "id": "germany-224",
+      "term": "die Sozialversicherung",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0385-germany-224.webp",
+      "title": "Sozialversicherungsausweis 1966 DDR anonymisiert.jpg",
+      "author": "No machine-readable author provided. Akunin~commonswiki assumed (based on copyright claims).",
+      "source": "https://commons.wikimedia.org/wiki/File:Sozialversicherungsausweis_1966_DDR_anonymisiert.jpg",
+      "license": "Public domain",
+      "license_url": null
+    },
+    {
+      "number": "0386",
+      "id": "germany-239",
+      "term": "die Tafel",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0386-germany-239.webp",
+      "title": "Wittener Tafel.jpg",
+      "author": "Reclus",
+      "source": "https://commons.wikimedia.org/wiki/File:Wittener_Tafel.jpg",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    },
+    {
+      "number": "0403",
+      "id": "family-467",
+      "term": "das Baby",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0403-family-467.webp",
+      "title": "File:The newborn baby in men.jpg",
+      "author": "Kimberly Vardeman",
+      "source": "https://commons.wikimedia.org/wiki/File:The_newborn_baby_in_men.jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0"
+    },
+    {
+      "number": "0405",
+      "id": "family-469",
+      "term": "der Freund",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0405-family-469.webp"
+    },
+    {
+      "number": "0406",
+      "id": "family-470",
+      "term": "die Freundin",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0406-family-470.webp",
+      "title": "Pexels-photo-1181717.jpg",
+      "author": "Christina Morillo",
+      "source": "https://commons.wikimedia.org/wiki/File:Pexels-photo-1181717.jpg",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    },
+    {
+      "number": "0409",
+      "id": "family-473",
+      "term": "der Ehemann",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0409-family-473.webp"
+    },
+    {
+      "number": "0410",
+      "id": "family-474",
+      "term": "die Ehefrau",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0410-family-474.webp"
+    },
+    {
+      "number": "0412",
+      "id": "family-476",
+      "term": "die Nachbarin",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0412-family-476.webp"
+    },
+    {
+      "number": "0414",
+      "id": "family-478",
+      "term": "der Mensch",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0414-family-478.webp"
+    },
+    {
+      "number": "0415",
+      "id": "family-479",
+      "term": "der Junge",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0415-family-479.webp"
+    },
+    {
+      "number": "0416",
+      "id": "family-480",
+      "term": "das Mädchen",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0416-family-480.webp"
+    },
+    {
+      "number": "0417",
+      "id": "family-481",
+      "term": "der Name",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0417-family-481.webp",
+      "title": "File:Caitlin's name badge (2722635443).jpg",
+      "author": "Nick Gray from New York City, USA",
+      "source": "https://commons.wikimedia.org/wiki/File:Caitlin%27s_name_badge_(2722635443).jpg",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0"
+    },
+    {
+      "number": "0418",
+      "id": "family-482",
+      "term": "das Alter",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0418-family-482.webp"
+    },
+    {
+      "number": "0419",
+      "id": "family-483",
+      "term": "die Liebe",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0419-family-483.webp",
+      "title": "File:Adult couple holding hands.jpg",
+      "author": "Alice Donovan Rouse (@alicekat)",
+      "source": "https://commons.wikimedia.org/wiki/File:Adult_couple_holding_hands.jpg",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    },
+    {
+      "number": "0420",
+      "id": "body-691",
+      "term": "der Körper",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0420-body-691.webp"
+    },
+    {
+      "number": "0421",
+      "id": "body-692",
+      "term": "der Kopf",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0421-body-692.webp"
+    },
+    {
+      "number": "0422",
+      "id": "body-693",
+      "term": "das Gesicht",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0422-body-693.webp"
+    },
+    {
+      "number": "0425",
+      "id": "body-696",
+      "term": "die Nase",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0425-body-696.webp"
+    },
+    {
+      "number": "0429",
+      "id": "body-700",
+      "term": "das Haar",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0429-body-700.webp"
+    },
+    {
+      "number": "0432",
+      "id": "body-703",
+      "term": "der Arm",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0432-body-703.webp"
+    },
+    {
+      "number": "0437",
+      "id": "body-708",
+      "term": "das Bein",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0437-body-708.webp"
+    },
+    {
+      "number": "0438",
+      "id": "body-709",
+      "term": "das Knie",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0438-body-709.webp"
+    },
+    {
+      "number": "0439",
+      "id": "body-710",
+      "term": "der Fuß",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0439-body-710.webp"
+    },
+    {
+      "number": "0442",
+      "id": "body-713",
+      "term": "der Arzt",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0442-body-713.webp",
+      "title": "adult, africa, african, black, care, cheerful, clinic, doctor,",
+      "author": "Ilmicrofono Oggiono",
+      "source": "https://www.flickr.com/photos/115089924@N02/16068674648/",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/"
+    },
+    {
+      "number": "0444",
+      "id": "body-715",
+      "term": "die Krankheit",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0444-body-715.webp"
+    },
+    {
+      "number": "0448",
+      "id": "body-719",
+      "term": "die Erkältung",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0448-body-719.webp",
+      "title": "BrunetteSneeze.jpg",
+      "author": "Vera Kratochvil",
+      "source": "https://commons.wikimedia.org/wiki/File:BrunetteSneeze.jpg",
+      "license": "Public domain",
+      "license_url": null
+    },
+    {
+      "number": "0454",
+      "id": "body-725",
+      "term": "die Gesundheit",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0454-body-725.webp"
+    },
+    {
+      "number": "0456",
+      "id": "ww-new-081",
+      "term": "der Hausarzt",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0456-ww-new-081.webp"
+    },
+    {
+      "number": "0459",
+      "id": "ww-new-084",
+      "term": "die Gesundheitskarte",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0459-ww-new-084.webp",
+      "title": "File:Elektronische Gesundheitskarte Mustermann VS.svg",
+      "author": "Зразок електронної картки медичного страхування, Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Elektronische_Gesundheitskarte_Mustermann_VS.svg",
+      "license": "Public domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    {
+      "number": "0460",
+      "id": "nature-505",
+      "term": "das Tier",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0460-nature-505.webp",
+      "title": "File:Deer Enjoying Meadow Grass (51840554986).jpg",
+      "author": "ShenandoahNPS",
+      "source": "https://commons.wikimedia.org/wiki/File:Deer_Enjoying_Meadow_Grass_(51840554986).jpg",
+      "license": "Public domain",
+      "license_url": null
+    },
+    {
+      "number": "0463",
+      "id": "nature-508",
+      "term": "der Vogel",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0463-nature-508.webp",
+      "title": "File:Erithacus rubecula with cocked head.jpg",
+      "author": "Francis C. Franklin",
+      "source": "https://commons.wikimedia.org/wiki/File:Erithacus_rubecula_with_cocked_head.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    {
+      "number": "0464",
+      "id": "nature-509",
+      "term": "der Schmetterling",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0464-nature-509.webp",
+      "title": "File:Peacock butterfly (Aglais io) 2.jpg",
+      "author": "Charles J. Sharp",
+      "source": "https://commons.wikimedia.org/wiki/File:Peacock_butterfly_(Aglais_io)_2.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    {
+      "number": "0465",
+      "id": "nature-510",
+      "term": "die Biene",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0465-nature-510.webp",
+      "title": "File:Bee_on_Lavender_Blossom_2.jpg",
+      "author": "Martin Falbisoner",
+      "source": "https://commons.wikimedia.org/wiki/File:Bee_on_Lavender_Blossom_2.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "number": "0472",
+      "id": "ww-new-114",
+      "term": "die Ziege",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0472-ww-new-114.webp",
+      "title": "File:Hausziege 04.jpg",
+      "author": "Kuebi = Armin Kübelbeck",
+      "source": "https://commons.wikimedia.org/wiki/File:Hausziege_04.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    {
+      "number": "0480",
+      "id": "ww-new-122",
+      "term": "der Frosch",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0480-ww-new-122.webp",
+      "title": "File:European_Common_Frog_Rana_temporaria.jpg",
+      "author": "Richard Bartz , Munich aka  Makro Freak   Image:MFB.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:European_Common_Frog_Rana_temporaria.jpg",
+      "license": "CC BY-SA 2.5",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.5"
+    },
+    {
+      "number": "0482",
+      "id": "nature-485",
+      "term": "der Baum",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0482-nature-485.webp",
+      "title": "File:Schwanheimer Düne, meadow with single tree.jpg",
+      "author": "Gerda Arendt",
+      "source": "https://commons.wikimedia.org/wiki/File:Schwanheimer_D%C3%BCne,_meadow_with_single_tree.jpg",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    },
+    {
+      "number": "0489",
+      "id": "nature-492",
+      "term": "der See",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0489-nature-492.webp",
+      "title": "This place needs no mention - the lake so blue! #ladakh #chushul #lake #himalayas #india #adventure #roadtrip #nofilter #trodly #travel #GetOutside",
+      "author": "Trodly",
+      "source": "https://www.flickr.com/photos/129431154@N08/17957735679/",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/"
+    },
+    {
+      "number": "0492",
+      "id": "nature-516",
+      "term": "der Garten",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0492-nature-516.webp",
+      "title": "File:Flower_bed_at_Tyntesfield_-_geograph.org.uk_-_5135344.jpg",
+      "author": "PAUL FARMER",
+      "source": "https://commons.wikimedia.org/wiki/File:Flower_bed_at_Tyntesfield_-_geograph.org.uk_-_5135344.jpg",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0"
+    },
+    {
+      "number": "0494",
+      "id": "ww-new-124",
+      "term": "das Feld",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0494-ww-new-124.webp",
+      "title": "File:Iglesia_de_Nuestra_Se%C3%B1ora_de_La_Blanca,_Cardej%C3%B3n,_Espa%C3%B1a,_2012-09-01,_DD_02.JPG",
+      "author": "Diego Delso",
+      "source": "https://commons.wikimedia.org/wiki/File:Iglesia_de_Nuestra_Se%C3%B1ora_de_La_Blanca,_Cardej%C3%B3n,_Espa%C3%B1a,_2012-09-01,_DD_02.JPG",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    {
+      "number": "0500",
+      "id": "nature-497",
+      "term": "der Mond",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0500-nature-497.webp",
+      "title": "Day 269 - \"Here men from the planet Earth first set foot upon the Moon. July 1969 AD. We came in peace for all mankind.\" - Neil Armstrong",
+      "author": "Stephen Rahn",
+      "source": "https://www.flickr.com/photos/srahn/8021817935/",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "number": "0502",
+      "id": "nature-499",
+      "term": "die Wolke",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0502-nature-499.webp",
+      "title": "File:GoldenMedows.jpg",
+      "author": "PiccoloNamek",
+      "source": "https://commons.wikimedia.org/wiki/File:GoldenMedows.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
+      "number": "0503",
+      "id": "nature-500",
+      "term": "der Regen",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0503-nature-500.webp",
+      "title": "File:Hard rain on a roof.jpg",
+      "author": "W.carter",
+      "source": "https://commons.wikimedia.org/wiki/File:Hard_rain_on_a_roof.jpg",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    },
+    {
+      "number": "0504",
+      "id": "nature-501",
+      "term": "der Schnee",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0504-nature-501.webp",
+      "title": "File:CargoNet Di 12 Euro 4000 Lønsdal - Bolna.jpg",
+      "author": "Kabelleger / David Gubler (http://www.bahnbilder.ch).",
+      "source": "https://commons.wikimedia.org/wiki/File:CargoNet_Di_12_Euro_4000_L%C3%B8nsdal_-_Bolna.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    {
+      "number": "0509",
+      "id": "nature-518",
+      "term": "der Sommer",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0509-nature-518.webp",
+      "title": "File:Field Hamois Belgium Luc Viatour.jpg",
+      "author": "Luc Viatour",
+      "source": "https://commons.wikimedia.org/wiki/File:Field_Hamois_Belgium_Luc_Viatour.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
+      "number": "0520",
+      "id": "work-592",
+      "term": "die Stelle",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0520-work-592.webp"
+    },
+    {
+      "number": "0522",
+      "id": "work-594",
+      "term": "der Arbeitnehmer",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0522-work-594.webp"
+    },
+    {
+      "number": "0527",
+      "id": "work-599",
+      "term": "das Gehalt",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0527-work-599.webp"
+    },
+    {
+      "number": "0529",
+      "id": "work-609",
+      "term": "die Firma",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0529-work-609.webp",
+      "title": "File:Nokia office building in Hervanta Tampere 1.jpg",
+      "author": "Cryonic07",
+      "source": "https://commons.wikimedia.org/wiki/File:Nokia_office_building_in_Hervanta_Tampere_1.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    {
+      "number": "0530",
+      "id": "work-610",
+      "term": "das Unternehmen",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0530-work-610.webp",
+      "title": "File:Wolfsburg VW-Werk.jpg",
+      "author": "AndreasPraefcke",
+      "source": "https://commons.wikimedia.org/wiki/File:Wolfsburg_VW-Werk.jpg",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0"
+    },
+    {
+      "number": "0543",
+      "id": "work-621",
+      "term": "der Drucker",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0543-work-621.webp"
+    },
+    {
+      "number": "0553",
+      "id": "study-634",
+      "term": "der Satz",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0553-study-634.webp",
+      "title": "Реалістична згенерована сцена",
+      "author": null,
+      "source": null,
+      "license": null,
+      "license_url": null
+    },
+    {
+      "number": "0554",
+      "id": "study-635",
+      "term": "der Buchstabe",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0554-study-635.webp",
+      "title": "The Letter A - Wooden Alphabet Blocks",
+      "author": "Eduprints Plus",
+      "source": "https://www.flickr.com/photos/144975701@N08/43806159120/",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/"
+    },
+    {
+      "number": "0556",
+      "id": "study-637",
+      "term": "die Grammatik",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0556-study-637.webp",
+      "title": "Реалістична згенерована сцена",
+      "author": null,
+      "source": null,
+      "license": null,
+      "license_url": null
+    },
+    {
+      "number": "0560",
+      "id": "study-641",
+      "term": "die Übung",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0560-study-641.webp"
+    },
+    {
+      "number": "0564",
+      "id": "study-645",
+      "term": "der Fehler",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0564-study-645.webp"
+    },
+    {
+      "number": "0568",
+      "id": "study-649",
+      "term": "die Lehrerin",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0568-study-649.webp",
+      "title": "File:Children_in_a_classroom.jpg",
+      "author": "Michael Anderson (Photographer)",
+      "source": "https://commons.wikimedia.org/wiki/File:Children_in_a_classroom.jpg",
+      "license": "Public domain",
+      "license_url": null
+    },
+    {
+      "number": "0571",
+      "id": "study-661",
+      "term": "das Wörterbuch",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0571-study-661.webp"
+    },
+    {
+      "number": "0576",
+      "id": "study-653",
+      "term": "das Studium",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0576-study-653.webp"
+    },
+    {
+      "number": "0577",
+      "id": "study-654",
+      "term": "das Semester",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0577-study-654.webp"
+    },
+    {
+      "number": "0581",
+      "id": "study-658",
+      "term": "der Abschluss",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0581-study-658.webp"
+    },
+    {
+      "number": "0608",
+      "id": "clothes-414",
+      "term": "der Reißverschluss",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0608-clothes-414.webp",
+      "title": "File:Coil plastic and metal zippers.jpg",
+      "author": "Woodbine9",
+      "source": "https://commons.wikimedia.org/wiki/File:Coil_plastic_and_metal_zippers.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "number": "0614",
+      "id": "clothes-420",
+      "term": "der Regenschirm",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0614-clothes-420.webp",
+      "title": "File:M0354 000727-005 1.jpg",
+      "author": "MONNIN Jacques",
+      "source": "https://commons.wikimedia.org/wiki/File:M0354_000727-005_1.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    {
+      "number": "0615",
+      "id": "ww-new-101",
+      "term": "die Jeans",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0615-ww-new-101.webp",
+      "title": "File:Jeans.jpg",
+      "author": "uploaded by  Juanmak",
+      "source": "https://commons.wikimedia.org/wiki/File:Jeans.jpg",
+      "license": "Public domain",
+      "license_url": null
+    },
+    {
+      "number": "0618",
+      "id": "ww-new-104",
+      "term": "die Sandale",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0618-ww-new-104.webp",
+      "title": "Man in sandals side view.jpg",
+      "author": "Wyetts",
+      "source": "https://commons.wikimedia.org/wiki/File:Man_in_sandals_side_view.jpg",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    },
+    {
+      "number": "0619",
+      "id": "ww-new-105",
+      "term": "der Hausschuh",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0619-ww-new-105.webp",
+      "title": "File:Slippers.jpg",
+      "author": "PiccoloNamek at English Wikipedia",
+      "source": "https://commons.wikimedia.org/wiki/File:Slippers.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
+      "number": "0620",
+      "id": "ww-new-106",
+      "term": "das Sweatshirt",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0620-ww-new-106.webp",
+      "title": "File:Logo HD -1 sweat shirt W.jpg",
+      "author": "Olinone",
+      "source": "https://commons.wikimedia.org/wiki/File:Logo_HD_-1_sweat_shirt_W.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "number": "0623",
+      "id": "ww-new-109",
+      "term": "die Winterjacke",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0623-ww-new-109.webp",
+      "title": "File:Adidas Helionic Down Jacket.jpg",
+      "author": "Adenosine Triphosphate",
+      "source": "https://commons.wikimedia.org/wiki/File:Adidas_Helionic_Down_Jacket.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "number": "0624",
+      "id": "ww-new-110",
+      "term": "der Regenmantel",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0624-ww-new-110.webp",
+      "title": "File:David Julian Kirchner (cropped).jpg",
+      "author": "Donni Schoenemond",
+      "source": "https://commons.wikimedia.org/wiki/File:David_Julian_Kirchner_(cropped).jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "number": "0625",
+      "id": "ww-new-111",
+      "term": "die Badehose",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0625-ww-new-111.webp"
+    },
+    {
+      "number": "0626",
+      "id": "ww-new-112",
+      "term": "der Badeanzug",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0626-ww-new-112.webp",
+      "title": "Woman in Aloha One-Piece",
+      "author": "Chris Hunkeler",
+      "source": "https://www.flickr.com/photos/chrishunkeler/49080776128/",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/"
+    },
+    {
+      "number": "0628",
+      "id": "hobbies-727",
+      "term": "die Freizeit",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0628-hobbies-727.webp",
+      "title": "File:Tompkins Square Park Central Knoll.jpg",
+      "author": "David Shankbone",
+      "source": "https://commons.wikimedia.org/wiki/File:Tompkins_Square_Park_Central_Knoll.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    {
+      "number": "0629",
+      "id": "hobbies-728",
+      "term": "der Sport",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0629-hobbies-728.webp",
+      "title": "72/365: Soccer Saturday!",
+      "author": "Mark Bonica",
+      "source": "https://www.flickr.com/photos/23119666@N03/16850368785/",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/"
+    },
+    {
+      "number": "0631",
+      "id": "hobbies-730",
+      "term": "der Fußball",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0631-hobbies-730.webp",
+      "title": "File:Football in Bloomington, Indiana, 1995.jpg",
+      "author": "Rick Dikeman",
+      "source": "https://commons.wikimedia.org/wiki/File:Football_in_Bloomington,_Indiana,_1995.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
+      "number": "0633",
+      "id": "hobbies-732",
+      "term": "das Schwimmen",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0633-hobbies-732.webp",
+      "title": "File:Incheon_AsianGames_Swimming_19_(15178565298).jpg",
+      "author": "Republic of  Korea  from Seoul, Republic of Korea",
+      "source": "https://commons.wikimedia.org/wiki/File:Incheon_AsianGames_Swimming_19_(15178565298).jpg",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0"
+    },
+    {
+      "number": "0660",
+      "id": "hobbies-759",
+      "term": "der Verein",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0660-hobbies-759.webp",
+      "title": "BHAA K-Club 10KM Road Race 2014",
+      "author": "peterm7",
+      "source": "https://www.flickr.com/photos/peterm7/13801052293/",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/"
+    },
+    {
+      "number": "0661",
+      "id": "food-301",
+      "term": "das Frühstück",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0661-food-301.webp",
+      "title": "File:Breakfast at the Black Bear Diner.jpg",
+      "author": "Kiddo27",
+      "source": "https://commons.wikimedia.org/wiki/File:Breakfast_at_the_Black_Bear_Diner.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "number": "0663",
+      "id": "food-303",
+      "term": "das Abendessen",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0663-food-303.webp",
+      "title": "File:Filet de bœuf.jpg",
+      "author": "Ɱ",
+      "source": "https://commons.wikimedia.org/wiki/File:Filet_de_b%C5%93uf.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    {
+      "number": "0664",
+      "id": "time-760",
+      "term": "die Zeit",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0664-time-760.webp",
+      "title": "File:Pendulum clock by Jacob Kock, antique furniture photography, IMG 0931 edit.jpg",
+      "author": "Christoph Braun",
+      "source": "https://commons.wikimedia.org/wiki/File:Pendulum_clock_by_Jacob_Kock,_antique_furniture_photography,_IMG_0931_edit.jpg",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    },
+    {
+      "number": "0669",
+      "id": "time-765",
+      "term": "der Tag",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0669-time-765.webp",
+      "title": "DSC 6407 Busy street market scene with a motorbike rider carrying bags as pedestrians browse colorful stalls and shops under bright daylight.jpg",
+      "author": "PattayaPatrol",
+      "source": "https://commons.wikimedia.org/wiki/File:DSC_6407_Busy_street_market_scene_with_a_motorbike_rider_carrying_bags_as_pedestrians_browse_colorful_stalls_and_shops_under_bright_daylight.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "number": "0670",
+      "id": "time-766",
+      "term": "die Nacht",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0670-time-766.webp",
+      "title": "File:Savault Chapel Under Milky Way BLS.jpg",
+      "author": "Benh LIEU SONG",
+      "source": "https://commons.wikimedia.org/wiki/File:Savault_Chapel_Under_Milky_Way_BLS.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "number": "0671",
+      "id": "time-767",
+      "term": "der Morgen",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0671-time-767.webp",
+      "title": "File:Morning, just after sunrise, Namibia.jpg",
+      "author": "Olga Ernst",
+      "source": "https://commons.wikimedia.org/wiki/File:Morning,_just_after_sunrise,_Namibia.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "number": "0672",
+      "id": "time-768",
+      "term": "der Abend",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0672-time-768.webp",
+      "title": "File:Evening in Parambikkulam, Kerala, India.jpg",
+      "author": "Augustus Binu/ www.dreamsparrow.net/ facebook",
+      "source": "https://commons.wikimedia.org/wiki/File:Evening_in_Parambikkulam,_Kerala,_India.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    {
+      "number": "0673",
+      "id": "time-769",
+      "term": "der Mittag",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0673-time-769.webp",
+      "title": "Hoheward sundial 12 oclock MESZ.jpg",
+      "author": "Arnoldius",
+      "source": "https://commons.wikimedia.org/wiki/File:Hoheward_sundial_12_oclock_MESZ.jpg",
+      "license": "CC BY-SA 2.5",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.5"
+    },
+    {
+      "number": "0674",
+      "id": "time-770",
+      "term": "die Woche",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0674-time-770.webp",
+      "title": "Meal planning activity at home with fresh produce and a weekly planner on the table.jpg",
+      "author": "Shixart1985",
+      "source": "https://commons.wikimedia.org/wiki/File:Meal_planning_activity_at_home_with_fresh_produce_and_a_weekly_planner_on_the_table.jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0"
+    },
+    {
+      "number": "0675",
+      "id": "time-771",
+      "term": "das Wochenende",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0675-time-771.webp"
+    },
+    {
+      "number": "0676",
+      "id": "time-772",
+      "term": "der Monat",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0676-time-772.webp",
+      "title": "File:WallCalendar.jpg",
+      "author": "Claudio Elias",
+      "source": "https://commons.wikimedia.org/wiki/File:WallCalendar.jpg",
+      "license": "Public domain",
+      "license_url": null
+    },
+    {
+      "number": "0677",
+      "id": "time-773",
+      "term": "das Jahr",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0677-time-773.webp"
+    },
+    {
+      "number": "0678",
+      "id": "time-774",
+      "term": "der Montag",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0678-time-774.webp",
+      "title": "Реалістична згенерована сцена",
+      "author": null,
+      "source": null,
+      "license": null,
+      "license_url": null
+    },
+    {
+      "number": "0697",
+      "id": "time-793",
+      "term": "der Kalender",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0697-time-793.webp",
+      "title": "File:Kalender Indonesia.jpg",
+      "author": "Rantemario",
+      "source": "https://commons.wikimedia.org/wiki/File:Kalender_Indonesia.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "number": "0701",
+      "id": "time-797",
+      "term": "die Gewohnheit",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0701-time-797.webp",
+      "title": "Brushing Teeth",
+      "author": "dani0010",
+      "source": "https://www.flickr.com/photos/dani0010/7884166484/",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/"
+    },
+    {
+      "number": "0709",
+      "id": "everyday-47",
+      "term": "Zähne putzen",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0709-everyday-47.webp",
+      "title": "Mother helps young son brush his teeth at a bathroom sink in the morning.jpg",
+      "author": "Shixart1985",
+      "source": "https://commons.wikimedia.org/wiki/File:Mother_helps_young_son_brush_his_teeth_at_a_bathroom_sink_in_the_morning.jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0"
+    },
+    {
+      "number": "0710",
+      "id": "everyday-48",
+      "term": "sich waschen",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0710-everyday-48.webp",
+      "title": "Woman washes her face at a bathroom sink.jpg",
+      "author": "Shixart1985",
+      "source": "https://commons.wikimedia.org/wiki/File:Woman_washes_her_face_at_a_bathroom_sink.jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0"
+    },
+    {
+      "number": "0719",
+      "id": "everyday-57",
+      "term": "waschen",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0719-everyday-57.webp",
+      "title": "Woman doing laundry with child",
+      "author": "CDA",
+      "source": "https://www.flickr.com/photos/148434301@N05/33438771781/",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/"
+    },
+    {
+      "number": "0720",
+      "id": "everyday-58",
+      "term": "einkaufen",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0720-everyday-58.webp",
+      "title": "File:Women_grocery_shopping.jpg",
+      "author": "Bill Branson (Photographer)",
+      "source": "https://commons.wikimedia.org/wiki/File:Women_grocery_shopping.jpg",
+      "license": "Public domain",
+      "license_url": null
+    },
+    {
+      "number": "0724",
+      "id": "everyday-62",
+      "term": "üben",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0724-everyday-62.webp"
+    },
+    {
+      "number": "0736",
+      "id": "everyday-74",
+      "term": "abholen",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0736-everyday-74.webp"
+    },
+    {
+      "number": "0739",
+      "id": "everyday-77",
+      "term": "einschalten",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0739-everyday-77.webp",
+      "title": "Hand reaching to turn on light switch on textured wall.jpg",
+      "author": "Shixart1985",
+      "source": "https://commons.wikimedia.org/wiki/File:Hand_reaching_to_turn_on_light_switch_on_textured_wall.jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0"
+    },
+    {
+      "number": "0745",
+      "id": "technology-245",
+      "term": "die Maus",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0745-technology-245.webp"
+    },
+    {
+      "number": "0746",
+      "id": "technology-246",
+      "term": "der Computer",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0746-technology-246.webp",
+      "title": "File:Scientist working with personal computer, 2013 (Dell Precision T3500 Workstation).jpeg",
+      "author": "Flickr user ipasadelaide (artist: Jennie Groom)",
+      "source": "https://commons.wikimedia.org/wiki/File:Scientist_working_with_personal_computer,_2013_(Dell_Precision_T3500_Workstation).jpeg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0"
+    },
+    {
+      "number": "0751",
+      "id": "technology-251",
+      "term": "der Akku",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0751-technology-251.webp",
+      "title": "eneloop rechargeable battery",
+      "author": "Cheon Fong Liew",
+      "source": "https://www.flickr.com/photos/liewcf/2103076403/",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/"
+    },
+    {
+      "number": "0754",
+      "id": "technology-254",
+      "term": "das Passwort",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0754-technology-254.webp",
+      "title": "Реалістична згенерована сцена",
+      "author": null,
+      "source": null,
+      "license": null,
+      "license_url": null
+    },
+    {
+      "number": "0755",
+      "id": "technology-255",
+      "term": "der Benutzername",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0755-technology-255.webp",
+      "title": "Реалістична згенерована сцена",
+      "author": null,
+      "source": null,
+      "license": null,
+      "license_url": null
+    },
+    {
+      "number": "0757",
+      "id": "technology-257",
+      "term": "die Webseite",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0757-technology-257.webp",
+      "title": "macbook-606763_1280",
+      "author": "34459808@N06",
+      "source": "https://www.flickr.com/photos/34459808@N06/21890509480/",
+      "license": "Public Domain Mark 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    {
+      "number": "0769",
+      "id": "technology-269",
+      "term": "der Lautsprecher",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0769-technology-269.webp"
+    },
+    {
+      "number": "0771",
+      "id": "technology-271",
+      "term": "das Netzwerk",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0771-technology-271.webp"
+    },
+    {
+      "number": "0772",
+      "id": "technology-272",
+      "term": "der Empfang",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0772-technology-272.webp",
+      "title": "Реалістична згенерована сцена",
+      "author": null,
+      "source": null,
+      "license": null,
+      "license_url": null
+    },
+    {
+      "number": "0774",
+      "id": "technology-274",
+      "term": "der Tarif",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0774-technology-274.webp",
+      "title": "Реалістична згенерована сцена",
+      "author": null,
+      "source": null,
+      "license": null,
+      "license_url": null
+    },
+    {
+      "number": "0820",
+      "id": "verbs-798",
+      "term": "sein",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0820-verbs-798.webp",
+      "title": "Woman sits in chair at home reads while dog approaches in cozy wooden room.jpg",
+      "author": "Shixart1985",
+      "source": "https://commons.wikimedia.org/wiki/File:Woman_sits_in_chair_at_home_reads_while_dog_approaches_in_cozy_wooden_room.jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0"
+    },
+    {
+      "number": "0821",
+      "id": "verbs-799",
+      "term": "haben",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0821-verbs-799.webp",
+      "title": "Hand holds house keys near door lock, symbolizing new beginnings and homeownership journey in a modern setting.jpg",
+      "author": "Shixart1985",
+      "source": "https://commons.wikimedia.org/wiki/File:Hand_holds_house_keys_near_door_lock,_symbolizing_new_beginnings_and_homeownership_journey_in_a_modern_setting.jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0"
+    },
+    {
+      "number": "0822",
+      "id": "verbs-800",
+      "term": "werden",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0822-verbs-800.webp"
+    },
+    {
+      "number": "0835",
+      "id": "verbs-813",
+      "term": "trinken",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0835-verbs-813.webp"
+    },
+    {
+      "number": "0837",
+      "id": "verbs-815",
+      "term": "kaufen",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0837-verbs-815.webp"
+    },
+    {
+      "number": "0845",
+      "id": "verbs-823",
+      "term": "können",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0845-verbs-823.webp"
+    },
+    {
+      "number": "0847",
+      "id": "verbs-825",
+      "term": "sollen",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0847-verbs-825.webp",
+      "title": "Bitte auf dem Weg bleiben!.jpg",
+      "author": "Tiia Monto",
+      "source": "https://commons.wikimedia.org/wiki/File:Bitte_auf_dem_Weg_bleiben!.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    {
+      "number": "0849",
+      "id": "verbs-827",
+      "term": "wissen",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0849-verbs-827.webp"
+    },
+    {
+      "number": "0852",
+      "id": "verbs-830",
+      "term": "glauben",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0852-verbs-830.webp"
+    },
+    {
+      "number": "0860",
+      "id": "verbs-838",
+      "term": "geben",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0860-verbs-838.webp",
+      "title": "File:Giving a gift.jpg",
+      "author": "asenat29",
+      "source": "https://commons.wikimedia.org/wiki/File:Giving_a_gift.jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0"
+    },
+    {
+      "number": "0864",
+      "id": "verbs-842",
+      "term": "helfen",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0864-verbs-842.webp",
+      "title": "File:Cathy Kelley with child helping carry supplies - USACE-p15141coll5-4626.jpeg",
+      "author": "https://usace.contentdm.oclc.org/digital/collection/p15141coll5/id/4626",
+      "source": "https://commons.wikimedia.org/wiki/File:Cathy_Kelley_with_child_helping_carry_supplies_-_USACE-p15141coll5-4626.jpeg",
+      "license": "Public domain",
+      "license_url": null
+    },
+    {
+      "number": "0878",
+      "id": "verbs-856",
+      "term": "treffen",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0878-verbs-856.webp",
+      "title": "Friends reunited.jpg",
+      "author": "Ttakhwiri",
+      "source": "https://commons.wikimedia.org/wiki/File:Friends_reunited.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "number": "0894",
+      "id": "verbs-872",
+      "term": "sitzen",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0894-verbs-872.webp",
+      "title": "File:Person sitting on a bench (Unsplash).jpg",
+      "author": "Olya Kuzovkina o_l_l_a",
+      "source": "https://commons.wikimedia.org/wiki/File:Person_sitting_on_a_bench_(Unsplash).jpg",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    },
+    {
+      "number": "0897",
+      "id": "verbs-875",
+      "term": "schwimmen",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0897-verbs-875.webp",
+      "title": "File:Phelps_400m_IM_Missouri_GP_2008_retouched.jpg",
+      "author": "Phelps_400m_IM_Missouri_GP_2008.jpg :  Karen Blaha  from Columbia, MO \n derivative work:  TestUser7809257  (  talk  )",
+      "source": "https://commons.wikimedia.org/wiki/File:Phelps_400m_IM_Missouri_GP_2008_retouched.jpg",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0"
+    },
+    {
+      "number": "0907",
+      "id": "ww-new-156",
+      "term": "aussteigen",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0907-ww-new-156.webp"
+    },
+    {
+      "number": "0912",
+      "id": "ww-new-161",
+      "term": "kündigen",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0912-ww-new-161.webp"
+    },
+    {
+      "number": "0930",
+      "id": "ww-new-179",
+      "term": "kennenlernen",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0930-ww-new-179.webp"
+    },
+    {
+      "number": "0931",
+      "id": "ww-new-180",
+      "term": "sich fühlen",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0931-ww-new-180.webp",
+      "title": "Woman enjoying a warm drink in an indoor setting while smiling and relaxing at home.jpg",
+      "author": "Shixart1985",
+      "source": "https://commons.wikimedia.org/wiki/File:Woman_enjoying_a_warm_drink_in_an_indoor_setting_while_smiling_and_relaxing_at_home.jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0"
+    },
+    {
+      "number": "0935",
+      "id": "adjs-880",
+      "term": "groß",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0935-adjs-880.webp"
+    },
+    {
+      "number": "0936",
+      "id": "adjs-881",
+      "term": "klein",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0936-adjs-881.webp"
+    },
+    {
+      "number": "0950",
+      "id": "adjs-895",
+      "term": "frisch",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0950-adjs-895.webp"
+    },
+    {
+      "number": "0954",
+      "id": "adjs-899",
+      "term": "salzig",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0954-adjs-899.webp",
+      "title": "File:Hausgemachte Brezeln im Korb.jpg",
+      "author": "Olivia Fries",
+      "source": "https://commons.wikimedia.org/wiki/File:Hausgemachte_Brezeln_im_Korb.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "number": "0957",
+      "id": "adjs-902",
+      "term": "reich",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0957-adjs-902.webp",
+      "title": "File:White Pearl A Seite.JPG",
+      "author": "KarleHorn & Waldi",
+      "source": "https://commons.wikimedia.org/wiki/File:White_Pearl_A_Seite.JPG",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "number": "0959",
+      "id": "adjs-904",
+      "term": "sauber",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0959-adjs-904.webp"
+    },
+    {
+      "number": "0968",
+      "id": "adjs-913",
+      "term": "gesund",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0968-adjs-913.webp",
+      "title": "File:Girls jog along Morro Strand State Beach.jpg",
+      "author": "Mike Baird from Morro Bay, USA",
+      "source": "https://commons.wikimedia.org/wiki/File:Girls_jog_along_Morro_Strand_State_Beach.jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0"
+    },
+    {
+      "number": "0973",
+      "id": "adjs-918",
+      "term": "nett",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0973-adjs-918.webp"
+    },
+    {
+      "number": "0974",
+      "id": "adjs-919",
+      "term": "ruhig",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0974-adjs-919.webp"
+    },
+    {
+      "number": "0975",
+      "id": "adjs-920",
+      "term": "laut",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/0975-adjs-920.webp"
+    },
+    {
+      "number": "0984",
+      "id": "adjs-929",
+      "term": "bequem",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/0984-adjs-929.webp",
+      "title": "Soho Living room Set Erfe Design Pack",
+      "author": "♥Dani Shiver♥ (Photographer/BLOGGER)LETS COLLAB!",
+      "source": "https://www.flickr.com/photos/danellewindlow/55578284310/",
+      "license": "Public Domain Mark 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    {
+      "number": "1002",
+      "id": "adjs-947",
+      "term": "blau",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/1002-adjs-947.webp"
+    },
+    {
+      "number": "1010",
+      "id": "ww-new-185",
+      "term": "niedrig",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/1010-ww-new-185.webp"
+    },
+    {
+      "number": "1011",
+      "id": "ww-new-186",
+      "term": "breit",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/1011-ww-new-186.webp"
+    },
+    {
+      "number": "1012",
+      "id": "ww-new-187",
+      "term": "eng",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/1012-ww-new-187.webp"
+    },
+    {
+      "number": "1013",
+      "id": "ww-new-188",
+      "term": "nass",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1013-ww-new-188.webp",
+      "title": "File:A water droplet DWR-coated surface2 edit1.jpg",
+      "author": "Brocken Inaglory",
+      "source": "https://commons.wikimedia.org/wiki/File:A_water_droplet_DWR-coated_surface2_edit1.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    {
+      "number": "1014",
+      "id": "ww-new-189",
+      "term": "trocken",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1014-ww-new-189.webp",
+      "title": "File:Lac de l'Entonnoir - img 49473.jpg",
+      "author": "Pmau",
+      "source": "https://commons.wikimedia.org/wiki/File:Lac_de_l%27Entonnoir_-_img_49473.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "number": "1015",
+      "id": "ww-new-190",
+      "term": "weich",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1015-ww-new-190.webp",
+      "title": "File:Pillows on a hotel bed.jpg",
+      "author": "Amin",
+      "source": "https://commons.wikimedia.org/wiki/File:Pillows_on_a_hotel_bed.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "number": "1016",
+      "id": "ww-new-191",
+      "term": "hart",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1016-ww-new-191.webp",
+      "title": "File:Bianco Sardo Granit mit polierter Oberfläche.jpg",
+      "author": "The stone gate",
+      "source": "https://commons.wikimedia.org/wiki/File:Bianco_Sardo_Granit_mit_polierter_Oberfl%C3%A4che.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "number": "1017",
+      "id": "ww-new-192",
+      "term": "günstig",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1017-ww-new-192.webp",
+      "title": "Sale sign in the shopping mall. Discount tag. Bangkok.",
+      "author": "Artem Beliaikin",
+      "source": "https://www.flickr.com/photos/artembali/48087867208/",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/"
+    },
+    {
+      "number": "1018",
+      "id": "ww-new-193",
+      "term": "kostenlos",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1018-ww-new-193.webp",
+      "title": "A Little Free Library.jpg",
+      "author": "Oleg Yunakov",
+      "source": "https://commons.wikimedia.org/wiki/File:A_Little_Free_Library.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "number": "1019",
+      "id": "ww-new-194",
+      "term": "bereit",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1019-ww-new-194.webp",
+      "title": "ready for the mile",
+      "author": "bill mulder",
+      "source": "https://www.flickr.com/photos/bilbord99/507845062/",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/"
+    },
+    {
+      "number": "1020",
+      "id": "ww-new-195",
+      "term": "möglich",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1020-ww-new-195.webp",
+      "title": "File:Mairie de Boinville-le-Gaillard 4.jpg",
+      "author": "Lionel Allorge",
+      "source": "https://commons.wikimedia.org/wiki/File:Mairie_de_Boinville-le-Gaillard_4.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    {
+      "number": "1021",
+      "id": "ww-new-196",
+      "term": "sicher",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1021-ww-new-196.webp",
+      "title": "File:Bicycle Helmet 0085.jpg",
+      "author": "Ashley Pomeroy",
+      "source": "https://commons.wikimedia.org/wiki/File:Bicycle_Helmet_0085.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "number": "1022",
+      "id": "ww-new-197",
+      "term": "gefährlich",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1022-ww-new-197.webp",
+      "title": "Danger - Cliffs - geograph.org.uk - 5639389.jpg",
+      "author": "Phil Champion",
+      "source": "https://commons.wikimedia.org/wiki/File:Danger_-_Cliffs_-_geograph.org.uk_-_5639389.jpg",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0"
+    },
+    {
+      "number": "1023",
+      "id": "ww-new-198",
+      "term": "zufrieden",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1023-ww-new-198.webp",
+      "title": "Smiling businessman",
+      "author": "Steve wilson",
+      "source": "https://www.flickr.com/photos/125303894@N06/14202199100/",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/"
+    },
+    {
+      "number": "1024",
+      "id": "ww-new-199",
+      "term": "unzufrieden",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/1024-ww-new-199.webp"
+    },
+    {
+      "number": "1025",
+      "id": "ww-new-200",
+      "term": "verheiratet",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1025-ww-new-200.webp",
+      "title": "File:Traditional Wedding Ring.jpg",
+      "author": "A Minty Penguin",
+      "source": "https://commons.wikimedia.org/wiki/File:Traditional_Wedding_Ring.jpg",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    },
+    {
+      "number": "1026",
+      "id": "ww-new-201",
+      "term": "ledig",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1026-ww-new-201.webp",
+      "title": "Реалістична згенерована сцена",
+      "author": null,
+      "source": null,
+      "license": null,
+      "license_url": null
+    },
+    {
+      "number": "1027",
+      "id": "questions-80",
+      "term": "wer",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1027-questions-80.webp",
+      "title": "Visitor Viewing a Large Portrait at SFMOMA",
+      "author": "Dale Cruse - 12M views",
+      "source": "https://www.flickr.com/photos/dalecruse/53867314451/",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "number": "1028",
+      "id": "questions-81",
+      "term": "was",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1028-questions-81.webp",
+      "title": "Pointing",
+      "author": "Lars Plougmann",
+      "source": "https://www.flickr.com/photos/criminalintent/3454365347/",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/"
+    },
+    {
+      "number": "1029",
+      "id": "questions-82",
+      "term": "wo",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/1029-questions-82.webp"
+    },
+    {
+      "number": "1030",
+      "id": "questions-83",
+      "term": "wohin",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/1030-questions-83.webp"
+    },
+    {
+      "number": "1031",
+      "id": "questions-84",
+      "term": "woher",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/1031-questions-84.webp"
+    },
+    {
+      "number": "1032",
+      "id": "questions-85",
+      "term": "wie",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1032-questions-85.webp",
+      "title": "Man in kitchen holding bowl while preparing meal in wooden cabin.jpg",
+      "author": "Shixart1985",
+      "source": "https://commons.wikimedia.org/wiki/File:Man_in_kitchen_holding_bowl_while_preparing_meal_in_wooden_cabin.jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0"
+    },
+    {
+      "number": "1033",
+      "id": "questions-86",
+      "term": "wann",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1033-questions-86.webp",
+      "title": "medical appointment doctor healthcare clinic health hospital medicine",
+      "author": "PxHere contributor",
+      "source": "https://pxhere.com/en/photo/917209",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "number": "1034",
+      "id": "questions-87",
+      "term": "warum",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1034-questions-87.webp",
+      "title": "City of umbrellas",
+      "author": "Jeremy Segrott",
+      "source": "https://www.flickr.com/photos/126337928@N05/39114881484/",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/"
+    },
+    {
+      "number": "1035",
+      "id": "questions-88",
+      "term": "wieso",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1035-questions-88.webp",
+      "title": "waiting for the bus",
+      "author": "Magnus Hagdorn",
+      "source": "https://www.flickr.com/photos/hagdorned/33313205698/",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/"
+    },
+    {
+      "number": "1036",
+      "id": "questions-89",
+      "term": "weshalb",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1036-questions-89.webp",
+      "title": "Close-up of a closed sign hanging on a store door. Coronavirus induced economic crisis taking its toll",
+      "author": "Ivan Radic",
+      "source": "https://www.flickr.com/photos/26344495@N05/51284470254/",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/"
+    },
+    {
+      "number": "1037",
+      "id": "questions-90",
+      "term": "welcher",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1037-questions-90.webp",
+      "title": "Coatroom.jpg",
+      "author": "LingLass",
+      "source": "https://commons.wikimedia.org/wiki/File:Coatroom.jpg",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    },
+    {
+      "number": "1038",
+      "id": "questions-91",
+      "term": "welche",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/1038-questions-91.webp"
+    },
+    {
+      "number": "1039",
+      "id": "questions-92",
+      "term": "welches",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1039-questions-92.webp",
+      "title": "File:Choosing books (15430297209).jpg",
+      "author": "Wikimedia Finland",
+      "source": "https://commons.wikimedia.org/wiki/File:Choosing_books_(15430297209).jpg",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0"
+    },
+    {
+      "number": "1040",
+      "id": "questions-93",
+      "term": "wie viel",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1040-questions-93.webp",
+      "title": "Measuring Jar.jpg",
+      "author": "Stilfehler",
+      "source": "https://commons.wikimedia.org/wiki/File:Measuring_Jar.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    {
+      "number": "1041",
+      "id": "questions-94",
+      "term": "wie viele",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1041-questions-94.webp",
+      "title": "Fresh fruits arranged on a wooden surface showcasing vibrant colors and textures.jpg",
+      "author": "Shixart1985",
+      "source": "https://commons.wikimedia.org/wiki/File:Fresh_fruits_arranged_on_a_wooden_surface_showcasing_vibrant_colors_and_textures.jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0"
+    },
+    {
+      "number": "1042",
+      "id": "questions-95",
+      "term": "wie lange",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/1042-questions-95.webp"
+    },
+    {
+      "number": "1043",
+      "id": "questions-96",
+      "term": "wie oft",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1043-questions-96.webp",
+      "title": "physiotherapy weight training dumbbell exercise balls weight loss workout health healthy",
+      "author": "PxHere contributor",
+      "source": "https://pxhere.com/en/photo/763710",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "number": "1044",
+      "id": "questions-97",
+      "term": "seit wann",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1044-questions-97.webp",
+      "title": "moving-into-an-apartment-in-phildelphia",
+      "author": "Nicolas Huk",
+      "source": "https://www.flickr.com/photos/128359034@N07/17027321127/",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/"
+    },
+    {
+      "number": "1045",
+      "id": "questions-98",
+      "term": "bis wann",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1045-questions-98.webp",
+      "title": "Реалістична згенерована сцена",
+      "author": null,
+      "source": null,
+      "license": null,
+      "license_url": null
+    },
+    {
+      "number": "1046",
+      "id": "questions-99",
+      "term": "mit wem",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/1046-questions-99.webp"
+    },
+    {
+      "number": "1047",
+      "id": "questions-100",
+      "term": "für wen",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/1047-questions-100.webp"
+    },
+    {
+      "number": "1048",
+      "id": "questions-101",
+      "term": "wessen",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/1048-questions-101.webp"
+    },
+    {
+      "number": "1049",
+      "id": "questions-102",
+      "term": "wozu",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/1049-questions-102.webp"
+    },
+    {
+      "number": "1050",
+      "id": "pronouns-103",
+      "term": "ich",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1050-pronouns-103.webp",
+      "title": "Реалістична згенерована сцена",
+      "author": null,
+      "source": null,
+      "license": null,
+      "license_url": null
+    },
+    {
+      "number": "1051",
+      "id": "pronouns-104",
+      "term": "du",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/1051-pronouns-104.webp"
+    },
+    {
+      "number": "1052",
+      "id": "pronouns-105",
+      "term": "er",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/1052-pronouns-105.webp"
+    },
+    {
+      "number": "1053",
+      "id": "pronouns-106",
+      "term": "sie",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1053-pronouns-106.webp",
+      "title": "Young woman worriedly sitting at her desk at work",
+      "author": "Ivan Radic",
+      "source": "https://www.flickr.com/photos/26344495@N05/52024579786/",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/"
+    },
+    {
+      "number": "1054",
+      "id": "pronouns-107",
+      "term": "es",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1054-pronouns-107.webp",
+      "title": "File:Sleeping cat on her back.jpg",
+      "author": "Umberto Salvagnin",
+      "source": "https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0"
+    },
+    {
+      "number": "1055",
+      "id": "pronouns-108",
+      "term": "wir",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/1055-pronouns-108.webp"
+    },
+    {
+      "number": "1056",
+      "id": "pronouns-109",
+      "term": "ihr",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/1056-pronouns-109.webp"
+    },
+    {
+      "number": "1057",
+      "id": "pronouns-110",
+      "term": "Sie",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/1057-pronouns-110.webp"
+    },
+    {
+      "number": "1058",
+      "id": "pronouns-111",
+      "term": "sie",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/1058-pronouns-111.webp"
+    },
+    {
+      "number": "1059",
+      "id": "pronouns-112",
+      "term": "mich",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/1059-pronouns-112.webp"
+    },
+    {
+      "number": "1060",
+      "id": "pronouns-113",
+      "term": "dich",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/1060-pronouns-113.webp"
+    },
+    {
+      "number": "1061",
+      "id": "pronouns-114",
+      "term": "ihn",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/1061-pronouns-114.webp"
+    },
+    {
+      "number": "1062",
+      "id": "pronouns-115",
+      "term": "uns",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/1062-pronouns-115.webp"
+    },
+    {
+      "number": "1063",
+      "id": "pronouns-116",
+      "term": "euch",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/1063-pronouns-116.webp"
+    },
+    {
+      "number": "1064",
+      "id": "pronouns-117",
+      "term": "mir",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1064-pronouns-117.webp",
+      "title": "Реалістична згенерована сцена",
+      "author": null,
+      "source": null,
+      "license": null,
+      "license_url": null
+    },
+    {
+      "number": "1065",
+      "id": "pronouns-118",
+      "term": "dir",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/1065-pronouns-118.webp"
+    },
+    {
+      "number": "1066",
+      "id": "pronouns-119",
+      "term": "ihm",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/1066-pronouns-119.webp"
+    },
+    {
+      "number": "1067",
+      "id": "pronouns-120",
+      "term": "ihr",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1067-pronouns-120.webp",
+      "title": "Renting a House - Leasing a Property.jpg",
+      "author": "advokatsmart.no",
+      "source": "https://commons.wikimedia.org/wiki/File:Renting_a_House_-_Leasing_a_Property.jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0"
+    },
+    {
+      "number": "1068",
+      "id": "pronouns-121",
+      "term": "mein",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1068-pronouns-121.webp",
+      "title": "File:Person Holding Mug on Table (29214761648).jpg",
+      "author": "rawpixel",
+      "source": "https://commons.wikimedia.org/wiki/File:Person_Holding_Mug_on_Table_(29214761648).jpg",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    },
+    {
+      "number": "1069",
+      "id": "pronouns-122",
+      "term": "dein",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/1069-pronouns-122.webp"
+    },
+    {
+      "number": "1070",
+      "id": "pronouns-123",
+      "term": "sein",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1070-pronouns-123.webp",
+      "title": "audi a8 in red sports car auto automobile contour metallic",
+      "author": "PxHere contributor",
+      "source": "https://pxhere.com/en/photo/1166111",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "number": "1071",
+      "id": "pronouns-124",
+      "term": "ihr",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/1071-pronouns-124.webp"
+    },
+    {
+      "number": "1072",
+      "id": "pronouns-125",
+      "term": "unser",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/1072-pronouns-125.webp"
+    },
+    {
+      "number": "1073",
+      "id": "pronouns-126",
+      "term": "euer",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/1073-pronouns-126.webp"
+    },
+    {
+      "number": "1074",
+      "id": "pronouns-127",
+      "term": "dieser",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/1074-pronouns-127.webp"
+    },
+    {
+      "number": "1075",
+      "id": "pronouns-128",
+      "term": "diese",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/1075-pronouns-128.webp"
+    },
+    {
+      "number": "1076",
+      "id": "pronouns-129",
+      "term": "dieses",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1076-pronouns-129.webp",
+      "title": "Reading a book indoors during a quiet afternoon.jpg",
+      "author": "Shixart1985",
+      "source": "https://commons.wikimedia.org/wiki/File:Reading_a_book_indoors_during_a_quiet_afternoon.jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0"
+    },
+    {
+      "number": "1077",
+      "id": "pronouns-130",
+      "term": "jeder",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/1077-pronouns-130.webp"
+    },
+    {
+      "number": "1078",
+      "id": "pronouns-131",
+      "term": "niemand",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1078-pronouns-131.webp",
+      "title": "Sad Café (Explore)",
+      "author": "Simon Jowett",
+      "source": "https://www.flickr.com/photos/sjpowermac/52670267949/",
+      "license": "Public Domain Mark 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    {
+      "number": "1079",
+      "id": "pronouns-132",
+      "term": "jemand",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/1079-pronouns-132.webp"
+    },
+    {
+      "number": "1080",
+      "id": "pronouns-133",
+      "term": "alle",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/1080-pronouns-133.webp"
+    },
+    {
+      "number": "1081",
+      "id": "adverbs-134",
+      "term": "heute",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1081-adverbs-134.webp",
+      "title": "File:Manual scrollable wooden wall calendar.jpg",
+      "author": "Amitbalani",
+      "source": "https://commons.wikimedia.org/wiki/File:Manual_scrollable_wooden_wall_calendar.jpg",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    },
+    {
+      "number": "1082",
+      "id": "adverbs-135",
+      "term": "gestern",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1082-adverbs-135.webp",
+      "title": "Event Postponed Marked On Calendar.jpg",
+      "author": "delegateconnectimages",
+      "source": "https://commons.wikimedia.org/wiki/File:Event_Postponed_Marked_On_Calendar.jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0"
+    },
+    {
+      "number": "1083",
+      "id": "adverbs-136",
+      "term": "morgen",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1083-adverbs-136.webp",
+      "title": "keyboard apple computer imac mac",
+      "author": "PxHere contributor",
+      "source": "https://pxhere.com/en/photo/2660",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "number": "1084",
+      "id": "adverbs-137",
+      "term": "jetzt",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1084-adverbs-137.webp",
+      "title": "File:Business woman checking her watch in the office.jpg",
+      "author": "Shixart1985",
+      "source": "https://commons.wikimedia.org/wiki/File:Business_woman_checking_her_watch_in_the_office.jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0"
+    },
+    {
+      "number": "1085",
+      "id": "adverbs-138",
+      "term": "sofort",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1085-adverbs-138.webp",
+      "title": "Man running towards a train at Wilmersdorfer Straße underground station (13547436113).jpg",
+      "author": "Jörg Schubert from Chemnitz, Germany",
+      "source": "https://commons.wikimedia.org/wiki/File:Man_running_towards_a_train_at_Wilmersdorfer_Stra%C3%9Fe_underground_station_(13547436113).jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0"
+    },
+    {
+      "number": "1086",
+      "id": "adverbs-139",
+      "term": "später",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/1086-adverbs-139.webp"
+    },
+    {
+      "number": "1087",
+      "id": "adverbs-140",
+      "term": "früher",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1087-adverbs-140.webp",
+      "title": "File:Virginia City, NV rephoto early 1870s + 2007.jpg",
+      "author": "Rick Cooper",
+      "source": "https://commons.wikimedia.org/wiki/File:Virginia_City,_NV_rephoto_early_1870s_%2B_2007.jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0"
+    },
+    {
+      "number": "1088",
+      "id": "adverbs-141",
+      "term": "oft",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/1088-adverbs-141.webp"
+    },
+    {
+      "number": "1089",
+      "id": "adverbs-142",
+      "term": "immer",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1089-adverbs-142.webp",
+      "title": "Walking around with dog.jpg",
+      "author": "Kangkiki",
+      "source": "https://commons.wikimedia.org/wiki/File:Walking_around_with_dog.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "number": "1090",
+      "id": "adverbs-143",
+      "term": "manchmal",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1090-adverbs-143.webp",
+      "title": "Picnic",
+      "author": "Quinn Daedal",
+      "source": "https://www.flickr.com/photos/quinnanya/11680803116/",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/"
+    },
+    {
+      "number": "1091",
+      "id": "adverbs-144",
+      "term": "selten",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/1091-adverbs-144.webp"
+    },
+    {
+      "number": "1092",
+      "id": "adverbs-145",
+      "term": "nie",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1092-adverbs-145.webp",
+      "title": "Schritt fahren Rauchen verboten - 01.jpg",
+      "author": "RandomDuck5000",
+      "source": "https://commons.wikimedia.org/wiki/File:Schritt_fahren_Rauchen_verboten_-_01.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "number": "1093",
+      "id": "adverbs-146",
+      "term": "schon",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/1093-adverbs-146.webp"
+    },
+    {
+      "number": "1094",
+      "id": "adverbs-147",
+      "term": "noch",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1094-adverbs-147.webp",
+      "title": "Professional woman working on laptop at modern desk with coffee in bright office.jpg",
+      "author": "Shixart1985",
+      "source": "https://commons.wikimedia.org/wiki/File:Professional_woman_working_on_laptop_at_modern_desk_with_coffee_in_bright_office.jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0"
+    },
+    {
+      "number": "1095",
+      "id": "adverbs-148",
+      "term": "wieder",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/1095-adverbs-148.webp"
+    },
+    {
+      "number": "1096",
+      "id": "adverbs-149",
+      "term": "hier",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/1096-adverbs-149.webp"
+    },
+    {
+      "number": "1097",
+      "id": "adverbs-150",
+      "term": "dort",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/1097-adverbs-150.webp"
+    },
+    {
+      "number": "1098",
+      "id": "adverbs-151",
+      "term": "links",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1098-adverbs-151.webp",
+      "title": "When left is the only right",
+      "author": "Tristan Schmurr",
+      "source": "https://www.flickr.com/photos/kewl/54231901708/",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/"
+    },
+    {
+      "number": "1099",
+      "id": "adverbs-152",
+      "term": "rechts",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1099-adverbs-152.webp",
+      "title": "File:Right turn road sign with speed limit.jpg",
+      "author": "Krzysztof Golik",
+      "source": "https://commons.wikimedia.org/wiki/File:Right_turn_road_sign_with_speed_limit.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "number": "1100",
+      "id": "adverbs-153",
+      "term": "geradeaus",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1100-adverbs-153.webp",
+      "title": "File:Straight path - geograph.org.uk - 5902322.jpg",
+      "author": "don cload",
+      "source": "https://commons.wikimedia.org/wiki/File:Straight_path_-_geograph.org.uk_-_5902322.jpg",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0"
+    },
+    {
+      "number": "1101",
+      "id": "adverbs-154",
+      "term": "oben",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1101-adverbs-154.webp",
+      "title": "sunrise sunset horizon dawn mountian top",
+      "author": "PxHere contributor",
+      "source": "https://pxhere.com/en/photo/6169",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "number": "1102",
+      "id": "adverbs-155",
+      "term": "unten",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/1102-adverbs-155.webp"
+    },
+    {
+      "number": "1103",
+      "id": "adverbs-156",
+      "term": "drinnen",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/1103-adverbs-156.webp"
+    },
+    {
+      "number": "1104",
+      "id": "adverbs-157",
+      "term": "draußen",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/1104-adverbs-157.webp"
+    },
+    {
+      "number": "1105",
+      "id": "adverbs-158",
+      "term": "zusammen",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1105-adverbs-158.webp",
+      "title": "team motivation teamwork together group community group work cooperation",
+      "author": "PxHere contributor",
+      "source": "https://pxhere.com/en/photo/954284",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "number": "1106",
+      "id": "adverbs-159",
+      "term": "allein",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1106-adverbs-159.webp",
+      "title": "Standard-position-1.jpg",
+      "author": "Johnmichaelwu",
+      "source": "https://commons.wikimedia.org/wiki/File:Standard-position-1.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "number": "1107",
+      "id": "adverbs-160",
+      "term": "sehr",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1107-adverbs-160.webp",
+      "title": "Ripe red hot chili peppers",
+      "author": "AS Photography",
+      "source": "https://www.flickr.com/photos/andrewsiwiec/54974490974/",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "number": "1108",
+      "id": "adverbs-161",
+      "term": "ziemlich",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/1108-adverbs-161.webp"
+    },
+    {
+      "number": "1109",
+      "id": "adverbs-162",
+      "term": "genug",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/1109-adverbs-162.webp"
+    },
+    {
+      "number": "1110",
+      "id": "adverbs-163",
+      "term": "auch",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/1110-adverbs-163.webp"
+    },
+    {
+      "number": "1111",
+      "id": "adverbs-164",
+      "term": "nur",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1111-adverbs-164.webp",
+      "title": "File:Red apple on a plate 2017 A.jpg",
+      "author": "Fructibus",
+      "source": "https://commons.wikimedia.org/wiki/File:Red_apple_on_a_plate_2017_A.jpg",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    },
+    {
+      "number": "1112",
+      "id": "adverbs-165",
+      "term": "aber",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1112-adverbs-165.webp",
+      "title": "Реалістична згенерована сцена",
+      "author": null,
+      "source": null,
+      "license": null,
+      "license_url": null
+    },
+    {
+      "number": "1113",
+      "id": "adverbs-166",
+      "term": "oder",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1113-adverbs-166.webp",
+      "title": "File:Coffee & Tea Cups from Victoria's Basement.jpg",
+      "author": "ArtOfHappiness",
+      "source": "https://commons.wikimedia.org/wiki/File:Coffee_%26_Tea_Cups_from_Victoria%27s_Basement.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "number": "1114",
+      "id": "adverbs-167",
+      "term": "und",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1114-adverbs-167.webp",
+      "title": "File:Apple butter and peanut butter, heated on a half sandwich of toasted potato bread - Massachusetts.jpg",
+      "author": "Daderot",
+      "source": "https://commons.wikimedia.org/wiki/File:Apple_butter_and_peanut_butter,_heated_on_a_half_sandwich_of_toasted_potato_bread_-_Massachusetts.jpg",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    },
+    {
+      "number": "1115",
+      "id": "adverbs-168",
+      "term": "deshalb",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1115-adverbs-168.webp",
+      "title": "File:A man walks through heavy rain under an umbrella in Kigali, Rwanda. Emmanuel Kwizera.jpg",
+      "author": "Emmanuelkwizera",
+      "source": "https://commons.wikimedia.org/wiki/File:A_man_walks_through_heavy_rain_under_an_umbrella_in_Kigali,_Rwanda._Emmanuel_Kwizera.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "number": "1116",
+      "id": "adverbs-169",
+      "term": "dann",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/1116-adverbs-169.webp"
+    },
+    {
+      "number": "1117",
+      "id": "adverbs-170",
+      "term": "zuerst",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/1117-adverbs-170.webp"
+    },
+    {
+      "number": "1118",
+      "id": "adverbs-171",
+      "term": "danach",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1118-adverbs-171.webp",
+      "title": "Stir Fry Vegetables in Pan - 49826637657.jpg",
+      "author": "Alabama Extension",
+      "source": "https://commons.wikimedia.org/wiki/File:Stir_Fry_Vegetables_in_Pan_-_49826637657.jpg",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    },
+    {
+      "number": "1119",
+      "id": "adverbs-172",
+      "term": "vielleicht",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1119-adverbs-172.webp",
+      "title": "Window shopping picture 2.jpg",
+      "author": "ThorpeCleopatra",
+      "source": "https://commons.wikimedia.org/wiki/File:Window_shopping_picture_2.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "number": "1120",
+      "id": "adverbs-173",
+      "term": "natürlich",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1120-adverbs-173.webp",
+      "title": "Реалістична згенерована сцена",
+      "author": null,
+      "source": null,
+      "license": null,
+      "license_url": null
+    },
+    {
+      "number": "1121",
+      "id": "adverbs-174",
+      "term": "besonders",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/cards/1121-adverbs-174.webp"
+    },
+    {
+      "number": "1122",
+      "id": "adverbs-175",
+      "term": "ungefähr",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1122-adverbs-175.webp",
+      "title": "A pair of hands holding a construction measuring tape.jpg",
+      "author": "Nenad Stojkovic",
+      "source": "https://commons.wikimedia.org/wiki/File:A_pair_of_hands_holding_a_construction_measuring_tape.jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0"
+    },
+    {
+      "number": "1123",
+      "id": "adverbs-176",
+      "term": "wirklich",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1123-adverbs-176.webp",
+      "title": "File:Beautiful Mountain Panorama (37273007264).jpg",
+      "author": "Theo Crazzolara",
+      "source": "https://commons.wikimedia.org/wiki/File:Beautiful_Mountain_Panorama_(37273007264).jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0"
+    },
+    {
+      "number": "1152",
+      "id": "ww-new-001",
+      "term": "null",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1152-ww-new-001.webp",
+      "title": "0",
+      "author": null,
+      "source": null,
+      "license": null,
+      "license_url": null
+    },
+    {
+      "number": "1153",
+      "id": "ww-new-002",
+      "term": "eins",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1153-ww-new-002.webp",
+      "title": "1",
+      "author": null,
+      "source": null,
+      "license": null,
+      "license_url": null
+    },
+    {
+      "number": "1154",
+      "id": "ww-new-003",
+      "term": "zwei",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1154-ww-new-003.webp",
+      "title": "2",
+      "author": null,
+      "source": null,
+      "license": null,
+      "license_url": null
+    },
+    {
+      "number": "1155",
+      "id": "ww-new-004",
+      "term": "drei",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1155-ww-new-004.webp",
+      "title": "3",
+      "author": null,
+      "source": null,
+      "license": null,
+      "license_url": null
+    },
+    {
+      "number": "1156",
+      "id": "ww-new-005",
+      "term": "vier",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1156-ww-new-005.webp",
+      "title": "4",
+      "author": null,
+      "source": null,
+      "license": null,
+      "license_url": null
+    },
+    {
+      "number": "1157",
+      "id": "ww-new-006",
+      "term": "fünf",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1157-ww-new-006.webp",
+      "title": "5",
+      "author": null,
+      "source": null,
+      "license": null,
+      "license_url": null
+    },
+    {
+      "number": "1158",
+      "id": "ww-new-007",
+      "term": "sechs",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1158-ww-new-007.webp",
+      "title": "6",
+      "author": null,
+      "source": null,
+      "license": null,
+      "license_url": null
+    },
+    {
+      "number": "1159",
+      "id": "ww-new-008",
+      "term": "sieben",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1159-ww-new-008.webp",
+      "title": "7",
+      "author": null,
+      "source": null,
+      "license": null,
+      "license_url": null
+    },
+    {
+      "number": "1160",
+      "id": "ww-new-009",
+      "term": "acht",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1160-ww-new-009.webp",
+      "title": "8",
+      "author": null,
+      "source": null,
+      "license": null,
+      "license_url": null
+    },
+    {
+      "number": "1161",
+      "id": "ww-new-010",
+      "term": "neun",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1161-ww-new-010.webp",
+      "title": "9",
+      "author": null,
+      "source": null,
+      "license": null,
+      "license_url": null
+    },
+    {
+      "number": "1162",
+      "id": "ww-new-011",
+      "term": "zehn",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1162-ww-new-011.webp",
+      "title": "10",
+      "author": null,
+      "source": null,
+      "license": null,
+      "license_url": null
+    },
+    {
+      "number": "1163",
+      "id": "ww-new-012",
+      "term": "elf",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1163-ww-new-012.webp",
+      "title": "11",
+      "author": null,
+      "source": null,
+      "license": null,
+      "license_url": null
+    },
+    {
+      "number": "1164",
+      "id": "ww-new-013",
+      "term": "zwölf",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1164-ww-new-013.webp",
+      "title": "12",
+      "author": null,
+      "source": null,
+      "license": null,
+      "license_url": null
+    },
+    {
+      "number": "1165",
+      "id": "ww-new-014",
+      "term": "dreizehn",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1165-ww-new-014.webp",
+      "title": "13",
+      "author": null,
+      "source": null,
+      "license": null,
+      "license_url": null
+    },
+    {
+      "number": "1166",
+      "id": "ww-new-015",
+      "term": "vierzehn",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1166-ww-new-015.webp",
+      "title": "14",
+      "author": null,
+      "source": null,
+      "license": null,
+      "license_url": null
+    },
+    {
+      "number": "1167",
+      "id": "ww-new-016",
+      "term": "fünfzehn",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1167-ww-new-016.webp",
+      "title": "15",
+      "author": null,
+      "source": null,
+      "license": null,
+      "license_url": null
+    },
+    {
+      "number": "1168",
+      "id": "ww-new-017",
+      "term": "sechzehn",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1168-ww-new-017.webp",
+      "title": "16",
+      "author": null,
+      "source": null,
+      "license": null,
+      "license_url": null
+    },
+    {
+      "number": "1169",
+      "id": "ww-new-018",
+      "term": "siebzehn",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1169-ww-new-018.webp",
+      "title": "17",
+      "author": null,
+      "source": null,
+      "license": null,
+      "license_url": null
+    },
+    {
+      "number": "1170",
+      "id": "ww-new-019",
+      "term": "achtzehn",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1170-ww-new-019.webp",
+      "title": "18",
+      "author": null,
+      "source": null,
+      "license": null,
+      "license_url": null
+    },
+    {
+      "number": "1171",
+      "id": "ww-new-020",
+      "term": "neunzehn",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1171-ww-new-020.webp",
+      "title": "19",
+      "author": null,
+      "source": null,
+      "license": null,
+      "license_url": null
+    },
+    {
+      "number": "1172",
+      "id": "ww-new-021",
+      "term": "zwanzig",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1172-ww-new-021.webp",
+      "title": "20",
+      "author": null,
+      "source": null,
+      "license": null,
+      "license_url": null
+    },
+    {
+      "number": "1173",
+      "id": "ww-new-022",
+      "term": "dreißig",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1173-ww-new-022.webp",
+      "title": "30",
+      "author": null,
+      "source": null,
+      "license": null,
+      "license_url": null
+    },
+    {
+      "number": "1174",
+      "id": "ww-new-023",
+      "term": "vierzig",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1174-ww-new-023.webp",
+      "title": "40",
+      "author": null,
+      "source": null,
+      "license": null,
+      "license_url": null
+    },
+    {
+      "number": "1175",
+      "id": "ww-new-024",
+      "term": "fünfzig",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1175-ww-new-024.webp",
+      "title": "50",
+      "author": null,
+      "source": null,
+      "license": null,
+      "license_url": null
+    },
+    {
+      "number": "1176",
+      "id": "ww-new-025",
+      "term": "hundert",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1176-ww-new-025.webp",
+      "title": "100",
+      "author": null,
+      "source": null,
+      "license": null,
+      "license_url": null
+    },
+    {
+      "number": "1177",
+      "id": "ww-new-026",
+      "term": "tausend",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/cards/1177-ww-new-026.webp",
+      "title": "1000",
+      "author": null,
+      "source": null,
+      "license": null,
+      "license_url": null
+    },
+    {
+      "number": "C01",
+      "id": "food",
+      "term": "Essen & Trinken",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/covers/C01-food.webp",
+      "title": "All Day Big Breakfast, Coffee Quarter, Perth Airport, 2026 (01).jpg",
+      "author": "Bahnfrend",
+      "source": "https://commons.wikimedia.org/wiki/File:All_Day_Big_Breakfast,_Coffee_Quarter,_Perth_Airport,_2026_(01).jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "number": "C02",
+      "id": "staples",
+      "term": "Lebensmittel",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/covers/C02-staples.webp"
+    },
+    {
+      "number": "C03",
+      "id": "vegetables",
+      "term": "Gemüse & Pilze",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/covers/C03-vegetables.webp"
+    },
+    {
+      "number": "C04",
+      "id": "fruits",
+      "term": "Obst & Beeren",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/covers/C04-fruits.webp",
+      "title": "File:Fresh mixed fruit on watermelon.jpg",
+      "author": "Roenashy",
+      "source": "https://commons.wikimedia.org/wiki/File:Fresh_mixed_fruit_on_watermelon.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "number": "C08",
+      "id": "home",
+      "term": "Haus & Alltag",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/covers/C08-home.webp"
+    },
+    {
+      "number": "C09",
+      "id": "rooms",
+      "term": "Wohnen & Zimmer",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/covers/C09-rooms.webp",
+      "title": "File:Living room in apartment of Condomínio do Edifício Zaher, Le Blond, Rio de Janeiro, Brazil.jpg",
+      "author": "Wilfredor",
+      "source": "https://commons.wikimedia.org/wiki/File:Living_room_in_apartment_of_Condom%C3%ADnio_do_Edif%C3%ADcio_Zaher,_Le_Blond,_Rio_de_Janeiro,_Brazil.jpg",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    },
+    {
+      "number": "C11",
+      "id": "housework",
+      "term": "Haushalt & Geräte",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/covers/C11-housework.webp"
+    },
+    {
+      "number": "C12",
+      "id": "bathroom",
+      "term": "Bad & Hygiene",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/covers/C12-bathroom.webp"
+    },
+    {
+      "number": "C18",
+      "id": "vehicles",
+      "term": "Fahrzeuge",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/covers/C18-vehicles.webp"
+    },
+    {
+      "number": "C19",
+      "id": "publictransport",
+      "term": "Bus & Bahn",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/covers/C19-publictransport.webp"
+    },
+    {
+      "number": "C20",
+      "id": "tourism",
+      "term": "Reisen & Hotel",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/covers/C20-tourism.webp",
+      "title": "Traveler waits in lobby with suitcase while preparing for departure from hotel.jpg",
+      "author": "Shixart1985",
+      "source": "https://commons.wikimedia.org/wiki/File:Traveler_waits_in_lobby_with_suitcase_while_preparing_for_departure_from_hotel.jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0"
+    },
+    {
+      "number": "C27",
+      "id": "family",
+      "term": "Familie",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/covers/C27-family.webp"
+    },
+    {
+      "number": "C28",
+      "id": "people",
+      "term": "Menschen & Beziehungen",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/covers/C28-people.webp"
+    },
+    {
+      "number": "C30",
+      "id": "bodyparts",
+      "term": "Körperteile",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/covers/C30-bodyparts.webp"
+    },
+    {
+      "number": "C31",
+      "id": "symptoms",
+      "term": "Krankheit & Beschwerden",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/covers/C31-symptoms.webp"
+    },
+    {
+      "number": "C41",
+      "id": "university",
+      "term": "Universität",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/covers/C41-university.webp",
+      "title": "File:Campus WU EA DSC 1571w.jpg",
+      "author": "P e z i",
+      "source": "https://commons.wikimedia.org/wiki/File:Campus_WU_EA_DSC_1571w.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    {
+      "number": "C53",
+      "id": "questions",
+      "term": "W-Fragen",
+      "type": "Generated for WortWelt",
+      "photo_file": "assets/covers/C53-questions.webp"
+    },
+    {
+      "number": "C57",
+      "id": "numbers",
+      "term": "Zahlen",
+      "type": "Wikimedia/Flickr licensed photograph",
+      "photo_file": "assets/covers/C57-numbers.webp",
+      "title": "1 2 3",
+      "author": null,
+      "source": null,
+      "license": null,
+      "license_url": null
+    }
+  ]
+}

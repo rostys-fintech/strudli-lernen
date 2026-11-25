@@ -1,0 +1,36 @@
+/* Stage 17: meaningful audio content without changing the approved warm Strudli theme. */
+.strudliAudioExpanded{max-width:880px;margin:0 auto;padding-bottom:92px}
+.strudliAudioExpanded .strudliAudioHeader{margin-bottom:12px}
+.strudliAudioCategoryHead{display:flex;align-items:baseline;justify-content:space-between;gap:8px;margin:18px 0 9px;color:#382720}
+.strudliAudioCategoryHead strong{font-size:17px;font-weight:900}
+.strudliAudioCategoryHead span{font-size:12px;font-weight:850;color:#957461}
+.strudliAudioCategories{display:flex;overflow-x:auto;gap:9px;scrollbar-width:thin;padding:5px 1px 13px;scroll-snap-type:x proximity}
+.strudliAudioCategories button{flex:none;min-height:42px;padding:9px 13px;border:1px solid #e4c9ad;border-bottom:3px solid #d9b28b;border-radius:14px;background:#fffaf2;color:#684b40;font:850 13px/1.2 Rubik,Nunito,sans-serif;scroll-snap-align:start}
+.strudliAudioCategories button.selected{background:#a7264b;color:#fff;border-color:#902042;border-bottom-color:#761a3a;box-shadow:0 3px 9px #9e34512a}
+.strudliAudioCategories button:focus-visible,.strudliAudioExpanded button:focus-visible{outline:3px solid #edb23e;outline-offset:2px}
+.strudliAudioRecall{display:flex;align-items:center;justify-content:space-between;gap:10px;background:#fff7eb;border:1px solid #ebd3b8;border-radius:17px;padding:12px 14px;margin:6px 0 15px}
+.strudliAudioRecall>div{display:flex;flex-direction:column;gap:4px;min-width:0}.strudliAudioRecall strong{font-size:14px;color:#423026}.strudliAudioRecall small{font-size:11px;color:#826455;line-height:1.3}
+.strudliAudioRecall button{display:flex;align-items:center;gap:7px;justify-content:center;min-height:40px;padding:9px 11px;flex:0 0 auto;border:1px solid #dbb99d;border-radius:11px;background:#fffdf8;color:#9e294d;font-size:12px;font-weight:850}
+.strudliAudioRecall button[aria-pressed=true]{background:#a72b4f;color:white;border-color:#a72b4f}
+.strudliAudioPlayerExpanded{position:relative;min-height:250px;padding:19px 20px;background:linear-gradient(140deg,#fffdf8,#fff0df);border:1px solid #e7c8a8;border-radius:24px;box-shadow:0 7px 16px #8e5d3523}
+.strudliAudioMeta{width:100%;display:flex;gap:10px;align-items:center;justify-content:space-between;font-size:12px;color:#98715d;font-weight:850;margin-bottom:17px}
+.strudliAudioPlayerExpanded .strudliAudioGermanPhrase{font-size:clamp(23px,5vw,34px);line-height:1.28;display:block;overflow-wrap:anywhere;font-weight:900;color:#362721;margin:9px 0 7px}
+.strudliAudioPlayerExpanded>p{font-size:clamp(14px,3vw,18px);color:#6d4b3f;font-weight:760;margin:12px auto 13px;max-width:660px}
+.strudliAudioHidden{display:flex;align-items:center;justify-content:center;gap:12px;min-height:68px;font-size:31px;color:#a9294e;font-weight:950;letter-spacing:.15em}
+.strudliAudioHidden small{font-size:12px;letter-spacing:0;color:#946c58}
+.strudliAudioReveal{display:flex;align-items:center;gap:8px;margin:10px auto;border:1px solid #e2bda2;border-radius:12px;background:#fff9f0;color:#8c2d49;font:850 12px Rubik,Nunito,sans-serif;padding:9px 14px}
+.strudliAudioExpanded .strudliAudioControls{margin-top:16px}
+.strudliAudioSurprise{display:flex;align-items:center;justify-content:center;gap:8px;padding:9px 13px;margin:15px auto 0;border:0;border-radius:12px;background:transparent;color:#92304c;font:850 12px Rubik,Nunito,sans-serif}
+.strudliAudioSurprise:hover{background:#fff0dc}
+@media(max-width:580px){.strudliAudioRecall{padding:10px}.strudliAudioRecall strong{font-size:12px}.strudliAudioRecall small{font-size:10px}.strudliAudioRecall button{min-height:38px;padding:6px 8px;font-size:10px}.strudliAudioPlayerExpanded{padding:13px}.strudliAudioCategories button{font-size:12px;min-height:39px}.strudliAudioMeta{font-size:10px}}
+@media(prefers-reduced-motion:reduce){.strudliAudioCategories{scroll-snap-type:none}}
+
+/* Stories with sound — the Bremen tales are also found in Audio */
+.strudliAudioStories{display:grid;gap:8px}
+.strudliAudioStoryRow{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px}
+.strudliAudioStoryRow button{display:grid;gap:0;padding:0;overflow:hidden;border:1px solid #e4c9ad;border-bottom:4px solid #d9b28b;border-radius:18px;background:#fffaf2;color:#312522;text-align:left;cursor:pointer;font-family:Rubik,Nunito,sans-serif}
+.strudliAudioStoryRow img{width:100%;aspect-ratio:4/3;object-fit:cover;display:block}
+.strudliAudioStoryRow span{display:grid;gap:2px;padding:8px 10px 10px}
+.strudliAudioStoryRow small{font-size:12px;font-weight:800;color:#99233d}
+.strudliAudioStoryRow strong{font-size:14px;font-weight:850;line-height:1.2;color:#312522}
+@media (max-width:420px){.strudliAudioStoryRow strong{font-size:12.5px}}

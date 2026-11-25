@@ -1,0 +1,127 @@
+{
+  "date": "2026-11-24",
+  "batch": 8,
+  "count": 10,
+  "items": [
+    {
+      "id": "questions-82",
+      "gender": null,
+      "de": "wo",
+      "asset": "/photos/hq/questions-82-hq-20261124-b08.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 240518,
+      "sha256": "224370d19d951afd78ee1c8c9634c36b7f2c932578b3222f36c15df97b0582e5",
+      "blob": "032f3cc5346e2f20b181c2eab198c6f211dfdd99",
+      "approval": "user-approved 2026-11-24"
+    },
+    {
+      "id": "questions-83",
+      "gender": null,
+      "de": "wohin",
+      "asset": "/photos/hq/questions-83-hq-20261124-b08.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 437670,
+      "sha256": "b44d6c793980d87625eaa4ed6690f9c49762de8ead118499375c5d50702e81cc",
+      "blob": "3d44cf60174d8137df6ba1eaa265b8a4218e7651",
+      "approval": "user-approved 2026-11-24"
+    },
+    {
+      "id": "questions-84",
+      "gender": null,
+      "de": "woher",
+      "asset": "/photos/hq/questions-84-hq-20261124-b08.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 235906,
+      "sha256": "fcff9c3d25ca1010fa05e57a162761c5949f97a14ce548e83e9c01f2ae3aa9b2",
+      "blob": "924424527cbf06872c0c0eea47f856a807b9c710",
+      "approval": "user-approved 2026-11-24"
+    },
+    {
+      "id": "questions-91",
+      "gender": null,
+      "de": "welche",
+      "asset": "/photos/hq/questions-91-hq-20261124-b08.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 305696,
+      "sha256": "a4758ad72262e0af7ec71e8b7006999e9882f4faf584879cc419a2e142c759fd",
+      "blob": "dc83b7e920d147d824cef32947545326e7b0e2ff",
+      "approval": "user-approved 2026-11-24"
+    },
+    {
+      "id": "questions-95",
+      "gender": null,
+      "de": "wie lange",
+      "asset": "/photos/hq/questions-95-hq-20261124-b08.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 272316,
+      "sha256": "7466464a8c5bd6b94af53c62ef22969f83921ea64c7e0a185a0202eabe0b2d74",
+      "blob": "c1f755cd4aa68d479de2e3a726aac5e5b1c15b5f",
+      "approval": "user-approved 2026-11-24"
+    },
+    {
+      "id": "questions-99",
+      "gender": null,
+      "de": "mit wem",
+      "asset": "/photos/hq/questions-99-hq-20261124-b08.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 350422,
+      "sha256": "29216e7fe4a8fcd6fbdedc184b0105dc9f2f69b7b90da454cc382dc0b47484ba",
+      "blob": "c9a0a523e647ce4dedb1f0350dd71d3337daf0e6",
+      "approval": "user-approved 2026-11-24"
+    },
+    {
+      "id": "questions-100",
+      "gender": null,
+      "de": "für wen",
+      "asset": "/photos/hq/questions-100-hq-20261124-b08.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 266696,
+      "sha256": "c75283d578ed8038d9e0bc7c2a11fc773cbde735c59562036c1fcfa65fe887b9",
+      "blob": "c975182da52b921690d587dd25ae39474cd5b6a1",
+      "approval": "user-approved 2026-11-24"
+    },
+    {
+      "id": "questions-101",
+      "gender": null,
+      "de": "wessen",
+      "asset": "/photos/hq/questions-101-hq-20261124-b08.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 297594,
+      "sha256": "06c582716ecab165479b4d665dff6c519c775f34e3af55105d99c15d7fb1e16c",
+      "blob": "7b37c24edd9a80a02c537fdae659500e3d47f327",
+      "approval": "user-approved 2026-11-24"
+    },
+    {
+      "id": "questions-102",
+      "gender": null,
+      "de": "wozu",
+      "asset": "/photos/hq/questions-102-hq-20261124-b08.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 275776,
+      "sha256": "3bbb5b441018b168c5f3b2404a968e7bdcc1a40267e2d74a9f1bd70e0e7b0556",
+      "blob": "d88f9bd4451fcb1b199af2cff12132fa90d8c611",
+      "approval": "user-approved 2026-11-24"
+    },
+    {
+      "id": "pronouns-104",
+      "gender": null,
+      "de": "du",
+      "asset": "/photos/hq/pronouns-104-hq-20261124-b08.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 283590,
+      "sha256": "10e7655ea646f5e80f493dc7b5e1d0f02c1eca78d28f3a28d197658dc54d2cc9",
+      "blob": "3347c1714e78e73d65ca8f21ab768883c7730320",
+      "approval": "user-approved 2026-11-24"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "date": "2026-10-22",
+  "branch": "visual-quality-oct22",
+  "phase": "batch2_staged_not_deployed",
+  "replaced": 9,
+  "remainingSchematicSVG": 185,
+  "photos": [
+    {
+      "word_id": "family-460",
+      "word": "der Großvater",
+      "commons_page": "https://commons.wikimedia.org/wiki/File:Grandfather_and_Granddaughter.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Grandfather_and_Granddaughter.jpg/960px-Grandfather_and_Granddaughter.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Barbara-Ingeborg",
+      "editorial_check": "Commons content/author/license metadata checked 2026-10-22; final on-device visual review pending",
+      "image_note": "Grandfather and granddaughter outdoors, 4592×3056."
+    },
+    {
+      "word_id": "family-456",
+      "word": "der Sohn",
+      "commons_page": "https://commons.wikimedia.org/wiki/File:Father_and_son_27.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Father_and_son_27.jpg/960px-Father_and_son_27.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Onke",
+      "editorial_check": "Commons content/author/license metadata checked 2026-10-22; final on-device visual review pending",
+      "image_note": "Father with son, 3008×2000."
+    },
+    {
+      "word_id": "family-455",
+      "word": "die Tochter",
+      "commons_page": "https://commons.wikimedia.org/wiki/File:Mother_and_little_daughter_Vietnam.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Mother_and_little_daughter_Vietnam.jpg/960px-Mother_and_little_daughter_Vietnam.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Peter van der Sluijs",
+      "editorial_check": "Commons content/author/license metadata checked 2026-10-22; final on-device visual review pending",
+      "image_note": "Mother and young daughter together, 1600×1067."
+    },
+    {
+      "word_id": "shopping-667",
+      "word": "der Kassierer",
+      "commons_page": "https://commons.wikimedia.org/wiki/File:A_cashier_cashing_out_the_customers_goods.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/A_cashier_cashing_out_the_customers_goods.jpg/960px-A_cashier_cashing_out_the_customers_goods.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Oreoluwa Adetimehin",
+      "editorial_check": "Commons content/author/license metadata checked 2026-10-22; final on-device visual review pending",
+      "image_note": "Cashier assisting shopper at checkout, 1536×2560."
+    },
+    {
+      "word_id": "shopping-668",
+      "word": "die Kassiererin",
+      "commons_page": "https://commons.wikimedia.org/wiki/File:A_female_cashier_cashing_out_the_customers_goods.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/A_female_cashier_cashing_out_the_customers_goods.jpg/960px-A_female_cashier_cashing_out_the_customers_goods.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Oreoluwa Adetimehin",
+      "editorial_check": "Commons content/author/license metadata checked 2026-10-22; final on-device visual review pending",
+      "image_note": "Female cashier processing customer goods, 1536×2560."
+    },
+    {
+      "word_id": "shopping-680",
+      "word": "die Umkleidekabine",
+      "commons_page": "https://commons.wikimedia.org/wiki/File:Fitting_Room_(4808979962).jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Fitting_Room_%284808979962%29.jpg/960px-Fitting_Room_%284808979962%29.jpg",
+      "license": "CC BY 2.0",
+      "author": "mxmstryo",
+      "editorial_check": "Commons content/author/license metadata checked 2026-10-22; final on-device visual review pending",
+      "image_note": "Actual fitting room interior, 2592×1944."
+    },
+    {
+      "word_id": "body-715",
+      "word": "die Krankheit",
+      "commons_page": "https://commons.wikimedia.org/wiki/File:Sick_person.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Sick_person.jpg/960px-Sick_person.jpg",
+      "license": "CC BY 4.0",
+      "author": "Beendy234",
+      "editorial_check": "Commons content/author/license metadata checked 2026-10-22; final on-device visual review pending",
+      "image_note": "Sick person in hospital, 2448×3264."
+    },
+    {
+      "word_id": "body-716",
+      "word": "der Schmerz",
+      "commons_page": "https://commons.wikimedia.org/wiki/File:Stressed_woman_sitting_at_her_office_table_while_having_a_headache.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Stressed_woman_sitting_at_her_office_table_while_having_a_headache.jpg/960px-Stressed_woman_sitting_at_her_office_table_while_having_a_headache.jpg",
+      "license": "CC BY 2.0",
+      "author": "Shixart1985",
+      "editorial_check": "Commons content/author/license metadata checked 2026-10-22; final on-device visual review pending",
+      "image_note": "Woman visibly suffering a headache, 4016×6016."
+    },
+    {
+      "word_id": "body-723",
+      "word": "das Rezept",
+      "commons_page": "https://commons.wikimedia.org/wiki/File:Drug_Prescription_Form.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Drug_Prescription_Form.jpg/960px-Drug_Prescription_Form.jpg",
+      "license": "CC0",
+      "author": "Beendy234",
+      "editorial_check": "Commons content/author/license metadata checked 2026-10-22; final on-device visual review pending",
+      "image_note": "Real paper drug prescription, 3024×4032."
+    }
+  ],
+  "qualityNotes": "Commons license and semantic caption verified, manual full-image aesthetic and mobile cropping review pending"
+}

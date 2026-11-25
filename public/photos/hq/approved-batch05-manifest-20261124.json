@@ -1,0 +1,127 @@
+{
+  "date": "2026-11-24",
+  "batch": 5,
+  "count": 10,
+  "items": [
+    {
+      "id": "study-658",
+      "gender": "der",
+      "de": "Abschluss",
+      "asset": "/photos/hq/study-658-hq-20261124-b05.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 192488,
+      "sha256": "ca1b431182c33425fd961e1d02e0333f4b2669c864971f9e0f4916000f26bc1b",
+      "blob": "75d4ab417e216e2df4f948893206472883fc0cb1",
+      "approval": "user requested continuation 2026-11-24"
+    },
+    {
+      "id": "ww-new-111",
+      "gender": "die",
+      "de": "Badehose",
+      "asset": "/photos/hq/ww-new-111-hq-20261124-b05.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 576358,
+      "sha256": "5cb15fd97550585ead1857706bba0129b4304c4ef4f15e4b4a5546dd0a8c5033",
+      "blob": "e01244211cd27cace388a2e4468cd89d690990b9",
+      "approval": "user requested continuation 2026-11-24"
+    },
+    {
+      "id": "time-771",
+      "gender": "das",
+      "de": "Wochenende",
+      "asset": "/photos/hq/time-771-hq-20261124-b05.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 518540,
+      "sha256": "0f0a3ac3617a53e11c8d6c778b0371800829df6345c24cb511d63f953109f131",
+      "blob": "fec980c96d75b8663ad2dee69d57e43bd66dbe40",
+      "approval": "user requested continuation 2026-11-24"
+    },
+    {
+      "id": "time-773",
+      "gender": "das",
+      "de": "Jahr",
+      "asset": "/photos/hq/time-773-hq-20261124-b05.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 822358,
+      "sha256": "c22ff9cc924e827db958d34cf6f76a4c17947aad0a1cb33da3b80106b254bd23",
+      "blob": "4577907631f77a37c75eac1c6fb4113c8c39f3d3",
+      "approval": "user requested continuation 2026-11-24"
+    },
+    {
+      "id": "everyday-62",
+      "gender": null,
+      "de": "üben",
+      "asset": "/photos/hq/everyday-62-hq-20261124-b05.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 231956,
+      "sha256": "ed130b7e9fec7abe573fc20c16c4d3a6806b8ad73d6ab610b8a693f79c5c5f6a",
+      "blob": "a7ad8ab4edef047437bfb3b6832cdc2cff8f1e04",
+      "approval": "user requested continuation 2026-11-24"
+    },
+    {
+      "id": "everyday-74",
+      "gender": null,
+      "de": "abholen",
+      "asset": "/photos/hq/everyday-74-hq-20261124-b05.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 199734,
+      "sha256": "2b797a93b24ee2091c59edb4f19a846c189f072ea3c9d710846706da4c57b2ad",
+      "blob": "a7de558be3daef2a7168aa837214d24033c096e8",
+      "approval": "user requested continuation 2026-11-24"
+    },
+    {
+      "id": "technology-245",
+      "gender": "die",
+      "de": "Maus",
+      "asset": "/photos/hq/technology-245-hq-20261124-b05.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 235124,
+      "sha256": "9e2b62c21b82fd2a9987c5df80ecc450302b5eb57bb0386fe8816fed4e9b963d",
+      "blob": "7e847052331e61b1895ae281977684ba42e72f26",
+      "approval": "user requested continuation 2026-11-24"
+    },
+    {
+      "id": "technology-269",
+      "gender": "der",
+      "de": "Lautsprecher",
+      "asset": "/photos/hq/technology-269-hq-20261124-b05.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 256832,
+      "sha256": "b9a4debf9eeeba41f840021432c33b1234a71d9bb268144dc22e92e0ca3d9f8d",
+      "blob": "ae616e4f46375c392d2358c448a8304667d08874",
+      "approval": "user requested continuation 2026-11-24"
+    },
+    {
+      "id": "technology-271",
+      "gender": "das",
+      "de": "Netzwerk",
+      "asset": "/photos/hq/technology-271-hq-20261124-b05.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 229418,
+      "sha256": "0953fb7e5d02292a061675d6f402d9ba86790cc64d6f31474020a50e4783da54",
+      "blob": "d0073c208a2597ce1e55a26e1eb2c2a11cbdd46b",
+      "approval": "user requested continuation 2026-11-24"
+    },
+    {
+      "id": "verbs-800",
+      "gender": null,
+      "de": "werden",
+      "asset": "/photos/hq/verbs-800-hq-20261124-b05.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 174594,
+      "sha256": "a4ff62bd8768eb2851129f78a5379e314aa874e3672c446b3b79786f5c0e477f",
+      "blob": "f32742a4fea2b9085763e8590711bd08b4bb27c2",
+      "approval": "user requested continuation 2026-11-24"
+    }
+  ]
+}

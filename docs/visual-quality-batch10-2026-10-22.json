@@ -1,0 +1,95 @@
+{
+  "date": "2026-10-22",
+  "batch": 10,
+  "branch": "visual-quality-oct22",
+  "startingSVG": 42,
+  "replaced": 7,
+  "remainingSVG": 35,
+  "illustratedNouns": 736,
+  "uniquelyIllustratedNouns": 736,
+  "commonsAttributed": 670,
+  "qa": [
+    "Exact Commons files",
+    "source author and license",
+    "pixel dimensions",
+    "distinct photos",
+    "word/manifest mapping consistency"
+  ],
+  "outstanding": [
+    "Mobile crop visual audit",
+    "actual Wikimedia image fetch on production build",
+    "one article card uses educational raster image rather than photo"
+  ],
+  "sources": [
+    {
+      "id": "family-461",
+      "file": "Big and small girl and her aunt.jpg",
+      "note": "Real, high-resolution photograph of a girl with her aunt; relationship confirmed in Commons caption",
+      "width": 5184,
+      "height": 3456,
+      "license": "CC BY-SA 4.0",
+      "author": "Nikhil More",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Big_and_small_girl_and_her_aunt.jpg/960px-Big_and_small_girl_and_her_aunt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "family-463",
+      "file": "Christmas day reading.jpg",
+      "note": "Real photograph of two female cousins reading together; relationship confirmed by the author",
+      "width": 820,
+      "height": 615,
+      "license": "CC BY-SA 4.0",
+      "author": "Eden O'Leary",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Christmas_day_reading.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "family-464",
+      "file": "Little Cousin Brothers.jpg",
+      "note": "Real photograph explicitly identified as little male cousin brothers in Commons",
+      "width": 2204,
+      "height": 3920,
+      "license": "CC BY-SA 2.0",
+      "author": "AndLikeThings",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Little_Cousin_Brothers.jpg/960px-Little_Cousin_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "travel-438",
+      "file": "Bundesrepublik Deutschland Grenze.JPG",
+      "note": "Photograph of a German country border marker; visible country label",
+      "width": 4288,
+      "height": 3216,
+      "license": "CC BY-SA 3.0",
+      "author": "Gabriel Rinaldi",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Bundesrepublik_Deutschland_Grenze.JPG/960px-Bundesrepublik_Deutschland_Grenze.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "time-797",
+      "file": "Person brushes teeth in bathroom.jpg",
+      "note": "Bright realistic photograph of a repeated morning tooth-brushing habit",
+      "width": 6048,
+      "height": 4032,
+      "license": "CC BY 2.0",
+      "author": "Shixart1985",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Person_brushes_teeth_in_bathroom.jpg/960px-Person_brushes_teeth_in_bathroom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "shopping-682",
+      "file": "TW IKEA Purchase Returns and Allowances receipt 20131107.jpg",
+      "note": "Authentic return-of-purchase transaction receipt; document rather than stock concept image",
+      "width": 2578,
+      "height": 1448,
+      "license": "CC BY-SA 3.0",
+      "author": "Solomon203",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/TW_IKEA_Purchase_Returns_and_Allowances_receipt_20131107.jpg/960px-TW_IKEA_Purchase_Returns_and_Allowances_receipt_20131107.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "study-638",
+      "file": "German articles der die das.png",
+      "note": "Clear high-resolution source image specifically illustrating the German grammatical articles; educational infographic exception to photo preference",
+      "width": 2993,
+      "height": 1028,
+      "license": "CC BY-SA 4.0",
+      "author": "DisillusionedBitterAndKnackered",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/German_articles_der_die_das.png/960px-German_articles_der_die_das.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+  ]
+}

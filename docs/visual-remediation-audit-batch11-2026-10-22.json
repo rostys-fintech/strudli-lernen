@@ -1,0 +1,70 @@
+{
+  "date": "2026-10-22",
+  "batch": 11,
+  "branch": "visual-photo-remediation-oct22",
+  "groups": [
+    "bodyparts",
+    "symptoms",
+    "medical"
+  ],
+  "screened_this_batch": 40,
+  "cumulative_screened": 661,
+  "remaining": 75,
+  "total": 736,
+  "percent": 89.81,
+  "new_photo_replacements": [
+    {
+      "id": "body-692",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Vincenzo-Cavallo.jpg",
+      "author": "SandyTee",
+      "photo_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Vincenzo-Cavallo.jpg/960px-Vincenzo-Cavallo.jpg",
+      "notes": "Bright high-resolution head-in-profile studio portrait, white/gray neutral background; replaces bowed-head lifestyle scene.",
+      "actual_Wikimedia_thumbnail_visually_inspected": true,
+      "game_mobile_crop_verified": false
+    },
+    {
+      "id": "body-704",
+      "license": "CC0-1.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Human_hand.jpg",
+      "author": "FrognerSvart",
+      "photo_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Human_hand.jpg/960px-Human_hand.jpg",
+      "notes": "Single open human hand on clean white background; replaces distracting hand-with-acorns image.",
+      "actual_Wikimedia_thumbnail_visually_inspected": true,
+      "game_mobile_crop_verified": false
+    },
+    {
+      "id": "ww-new-081",
+      "license": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Saeed-Ghezelbaash-physician-portrait.jpg",
+      "author": "Saeed Ghezelbash",
+      "photo_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Saeed-Ghezelbaash-physician-portrait.jpg/960px-Saeed-Ghezelbaash-physician-portrait.jpg",
+      "notes": "Bright real male general practitioner's professional portrait in white coat with stethoscope; replaces dated military-setting consultation photo.",
+      "actual_Wikimedia_thumbnail_visually_inspected": true,
+      "game_mobile_crop_verified": false
+    }
+  ],
+  "emoji_correction": {
+    "id": "body-700",
+    "de": "Haar",
+    "before": "💇",
+    "after": "🦱"
+  },
+  "staged_photo_replacements_total": 48,
+  "retained_but_flagged": [
+    "body-698 Zahn plural-teeth photo for singular noun",
+    "body-712 Blut microscopy red cell versus distracting label-heavy blood bag",
+    "body-697 Mund lipstick photo may be overly stylized",
+    "body-720 Medikament crowded pill organizer",
+    "body-701 Hals scarf emoji concept"
+  ],
+  "QA": {
+    "noun_cards": 736,
+    "distinct_assigned_photos": 736,
+    "manifest_records": 673,
+    "git_commit": true,
+    "build_run": false,
+    "vercel_deployed": false,
+    "mobile_game_crops_tested": false
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "date": "2026-10-22",
+  "batch": 8,
+  "branch": "visual-quality-oct22",
+  "headBefore": "ea4cc6ced0d5bdad9c79925a44ad8eb2db34504e",
+  "svgBefore": 70,
+  "replaced": 17,
+  "svgRemaining": 53,
+  "totalNouns": 736,
+  "photoCredits": 652,
+  "checks": [
+    "original Wikimedia source exists",
+    "original width and height verified",
+    "explicit Commons author and license extracted",
+    "distinct photo per word",
+    "word mapping and manifest built consistently"
+  ],
+  "notYetChecked": [
+    "app build-time photo mirroring",
+    "visual crop on phone",
+    "photo appearance/light"
+  ],
+  "newPhotos": [
+    {
+      "id": "germany-224",
+      "file": "Sozialversicherung Versicherungs-Ausweis 1.jpg",
+      "note": "Genuine social-insurance document (historical format; do not confuse with current German card)",
+      "width": 4000,
+      "height": 2252,
+      "license": "CC BY 4.0",
+      "author": "Linuxneon2",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Sozialversicherung_Versicherungs-Ausweis_1.jpg/960px-Sozialversicherung_Versicherungs-Ausweis_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "germany-226",
+      "file": "Vorbefüllter Überweisungsträger für Girokonten (Deutschland).jpg",
+      "note": "German prefilled bank-transfer form showing IBAN and account fields",
+      "width": 1243,
+      "height": 871,
+      "license": "Public domain",
+      "author": "Deutsche Post Com GmbH (Vorbefüllung)",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Vorbef%C3%BCllter_%C3%9Cberweisungstr%C3%A4ger_f%C3%BCr_Girokonten_%28Deutschland%29.jpg/960px-Vorbef%C3%BCllter_%C3%9Cberweisungstr%C3%A4ger_f%C3%BCr_Girokonten_%28Deutschland%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "technology-255",
+      "file": "Login screen shot.png",
+      "note": "Actual login screen with username field",
+      "width": 900,
+      "height": 573,
+      "license": "CC BY-SA 4.0",
+      "author": "M.Fawaeer",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Login_screen_shot.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "technology-276",
+      "file": "Data usage - Microsoft Windows 10 Mobile settings.png",
+      "note": "Actual mobile data usage interface",
+      "width": 1440,
+      "height": 2560,
+      "license": "Public domain",
+      "author": "The Microsoft Corporation.",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Data_usage_-_Microsoft_Windows_10_Mobile_settings.png/960px-Data_usage_-_Microsoft_Windows_10_Mobile_settings.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "shopping-679",
+      "file": "EFTA00002167 - Close-up of a product tag with barcode and size information attached to a black fabric item likely clothing or furniture.jpg",
+      "note": "Size information printed on close-up physical product tag",
+      "width": 1152,
+      "height": 768,
+      "license": "Public domain",
+      "author": "Federal Bureau of Investigation",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/EFTA00002167_-_Close-up_of_a_product_tag_with_barcode_and_size_information_attached_to_a_black_fabric_item_likely_clothing_or_furniture.jpg/960px-EFTA00002167_-_Close-up_of_a_product_tag_with_barcode_and_size_information_attached_to_a_black_fabric_item_likely_clothing_or_furniture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "family-482",
+      "file": "Young and Old Hands (51586111200).jpg",
+      "note": "Younger and older hands together as a clear contrast of age",
+      "width": 4032,
+      "height": 1816,
+      "license": "CC BY 2.0",
+      "author": "AL.Eyad from Cambridge, Canada",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Young_and_Old_Hands_%2851586111200%29.jpg/960px-Young_and_Old_Hands_%2851586111200%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "work-608",
+      "file": "Überweisungsträger für Girokonten (10).jpg",
+      "note": "Genuine German bank transfer slip",
+      "width": 2984,
+      "height": 2133,
+      "license": "CC BY 4.0",
+      "author": "Bradsills",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/%C3%9Cberweisungstr%C3%A4ger_f%C3%BCr_Girokonten_%2810%29.jpg/960px-%C3%9Cberweisungstr%C3%A4ger_f%C3%BCr_Girokonten_%2810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "work-594",
+      "file": "Employees of Google at their office at Taipei 101 20190417.jpg",
+      "note": "Real office employees at work",
+      "width": 2048,
+      "height": 1365,
+      "license": "CC BY 2.0",
+      "author": "總統府",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Employees_of_Google_at_their_office_at_Taipei_101_20190417.jpg/960px-Employees_of_Google_at_their_office_at_Taipei_101_20190417.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "work-622",
+      "file": "Email from National Portrait Gallery confirming that their images can be used on Wikipedia.jpg",
+      "note": "Real publicly available email message screenshot",
+      "width": 1887,
+      "height": 619,
+      "license": "Public domain",
+      "author": "Simon Edwards Esq",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Email_from_National_Portrait_Gallery_confirming_that_their_images_can_be_used_on_Wikipedia.jpg/960px-Email_from_National_Portrait_Gallery_confirming_that_their_images_can_be_used_on_Wikipedia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "work-617",
+      "file": "To do list (28123133694).jpg",
+      "note": "A photographed physical to-do/task list",
+      "width": 4635,
+      "height": 3090,
+      "license": "CC0",
+      "author": "freestocks.org from Olsztyn, Poland",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/To_do_list_%2828123133694%29.jpg/960px-To_do_list_%2828123133694%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "ww-new-076",
+      "file": "Does your bank charge fees (213965230).jpg",
+      "note": "Banking fees described on original photo",
+      "width": 2160,
+      "height": 1440,
+      "license": "CC BY-SA 2.0",
+      "author": "Señor Codo from Chicago",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Does_your_bank_charge_fees_%28213965230%29.jpg/960px-Does_your_bank_charge_fees_%28213965230%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "family-477",
+      "file": "LUHRL P030 Guest Check In 75408.jpg",
+      "note": "Hotel guest checking in at reception",
+      "width": 7360,
+      "height": 4912,
+      "license": "CC BY-SA 4.0",
+      "author": "HyattRegencyLudhiana",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/LUHRL_P030_Guest_Check_In_75408.jpg/960px-LUHRL_P030_Guest_Check_In_75408.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "body-724",
+      "file": "Europäische Krankenversicherungskarte (Rückseite).jpg",
+      "note": "Reverse side of an authentic European health insurance card",
+      "width": 1020,
+      "height": 629,
+      "license": "CC BY-SA 2.0 de",
+      "author": "Christoph Hoffmann",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Europ%C3%A4ische_Krankenversicherungskarte_%28R%C3%BCckseite%29.jpg/960px-Europ%C3%A4ische_Krankenversicherungskarte_%28R%C3%BCckseite%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "family-469",
+      "file": "Two friends sitting together, chatting and laughing.jpg",
+      "note": "Two friends chatting and smiling together",
+      "width": 1080,
+      "height": 716,
+      "license": "CC BY-SA 4.0",
+      "author": "Ahmed Mo Abd Elaaty",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Two_friends_sitting_together%2C_chatting_and_laughing.jpg/960px-Two_friends_sitting_together%2C_chatting_and_laughing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "work-619",
+      "file": "Focused individual working on a laptop at a desk with a planner and smartphone in a cozy indoor setting.jpg",
+      "note": "Person organizing appointments at a desk with planner",
+      "width": 6016,
+      "height": 4016,
+      "license": "CC BY 2.0",
+      "author": "Shixart1985",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Focused_individual_working_on_a_laptop_at_a_desk_with_a_planner_and_smartphone_in_a_cozy_indoor_setting.jpg/960px-Focused_individual_working_on_a_laptop_at_a_desk_with_a_planner_and_smartphone_in_a_cozy_indoor_setting.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "ww-new-064",
+      "file": "Landlord's keys (427383102).jpg",
+      "note": "Property owner's keys, context cue for landlord",
+      "width": 2816,
+      "height": 2112,
+      "license": "CC BY-SA 2.0",
+      "author": "Mack Male from Edmonton, AB, Canada",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Landlord%27s_keys_%28427383102%29.jpg/960px-Landlord%27s_keys_%28427383102%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "clothes-415",
+      "file": "Man with a meter stick.jpg",
+      "note": "Person measuring their physical size with a measuring stick",
+      "width": 2236,
+      "height": 3792,
+      "license": "CC BY-SA 4.0",
+      "author": "Lbeaumont",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Man_with_a_meter_stick.jpg/960px-Man_with_a_meter_stick.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+  ]
+}

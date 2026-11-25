@@ -1,0 +1,127 @@
+{
+  "date": "2026-11-24",
+  "batch": 2,
+  "count": 10,
+  "items": [
+    {
+      "id": "shopping-683",
+      "gender": "der",
+      "de": "Kunde",
+      "asset": "/photos/hq/shopping-683-hq-20261124-b02.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 166228,
+      "sha256": "21d1ac2f9b2a3a55f223a54605afd5e394137588886bc1ff9e44b4851885d810",
+      "blob": "ed5b5c8ac357565d1045bab10add5862fc55d8ed",
+      "approval": "user-approved 2026-11-24"
+    },
+    {
+      "id": "shopping-686",
+      "gender": "die",
+      "de": "Ware",
+      "asset": "/photos/hq/shopping-686-hq-20261124-b02.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 456542,
+      "sha256": "06d6aefa9d4dc2bae1f913dd413a33225fed820686cb31fddd0af5396a05bbea",
+      "blob": "be3293a942edf6a63ec8742849521081161004cf",
+      "approval": "user-approved 2026-11-24"
+    },
+    {
+      "id": "family-469",
+      "gender": "der",
+      "de": "Freund",
+      "asset": "/photos/hq/family-469-hq-20261124-b02.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 280444,
+      "sha256": "df4f2fa76d6f5f9ed8632aa250116526b3e6101853decd4e14da00ff01d063c6",
+      "blob": "8385f5314f1abe67fd222d014ec6dcf31d1c76fe",
+      "approval": "user-approved 2026-11-24"
+    },
+    {
+      "id": "family-473",
+      "gender": "der",
+      "de": "Ehemann",
+      "asset": "/photos/hq/family-473-hq-20261124-b02.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 257164,
+      "sha256": "aa4952673bc20d0bee6678eed121420edbfbb532e3f330b5864441e19a023994",
+      "blob": "c9acf4a9d1448705d94a9d37cfa17fce3e219f09",
+      "approval": "user-approved 2026-11-24"
+    },
+    {
+      "id": "family-474",
+      "gender": "die",
+      "de": "Ehefrau",
+      "asset": "/photos/hq/family-474-hq-20261124-b02.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 251948,
+      "sha256": "5890d53fad5086a8bdb09da2d047a416eea1b3e105c0f3a849c436069e798c19",
+      "blob": "58806b2b20bcd38370e4ac1abf3a1be7020a11a6",
+      "approval": "user-approved 2026-11-24"
+    },
+    {
+      "id": "family-476",
+      "gender": "die",
+      "de": "Nachbarin",
+      "asset": "/photos/hq/family-476-hq-20261124-b02.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 311450,
+      "sha256": "c6d94558ac0bbca0c6adb1795009def967bc865b87c56a68966d91d1dd1c09fb",
+      "blob": "26255d48ce24efd70dc51e472fd53cc046895002",
+      "approval": "user-approved 2026-11-24"
+    },
+    {
+      "id": "family-478",
+      "gender": "der",
+      "de": "Mensch",
+      "asset": "/photos/hq/family-478-hq-20261124-b02.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 270668,
+      "sha256": "7c766965276e1ee1ffbf7df65c28c17c5893ccbd7c77d55eb22b9bd1a8ecb721",
+      "blob": "555ae933d45554baef27e7f45a2a52c080ef9922",
+      "approval": "user-approved 2026-11-24"
+    },
+    {
+      "id": "family-479",
+      "gender": "der",
+      "de": "Junge",
+      "asset": "/photos/hq/family-479-hq-20261124-b02.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 239466,
+      "sha256": "3bf1c8ccfbaed994927c309008274b9588353b8b280a6221434e1cec796fe344",
+      "blob": "1077983b632ec1162ae8ed9c0ff4c4255d55ec95",
+      "approval": "user-approved 2026-11-24"
+    },
+    {
+      "id": "family-480",
+      "gender": "das",
+      "de": "Mädchen",
+      "asset": "/photos/hq/family-480-hq-20261124-b02.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 267750,
+      "sha256": "d6eb6db481056b31d64e49faba7877ab3e5e892e0de0739d48ca2863b86e502b",
+      "blob": "d3e75cc5c3677fc1c93de3c5146d947cc1bd6dc7",
+      "approval": "user-approved 2026-11-24"
+    },
+    {
+      "id": "family-482",
+      "gender": "das",
+      "de": "Alter",
+      "asset": "/photos/hq/family-482-hq-20261124-b02.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 337286,
+      "sha256": "1de314559c8db8b73418875f5ff52d2f59cf6c9066779546443f8155b28c57d9",
+      "blob": "53230bf7d57453df3d63009ce3caa1d05da427c0",
+      "approval": "user-approved 2026-11-24"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+.strudliSectionBackdrop{position:fixed;inset:0;z-index:1250;background:#271922af;backdrop-filter:blur(6px);display:flex;justify-content:center;align-items:center;padding:18px calc(11px + env(safe-area-inset-left)) 18px calc(11px + env(safe-area-inset-right))}
+.strudliSectionPanel{width:min(100%,490px);max-height:calc(100dvh - 32px);overflow-y:auto;background:linear-gradient(145deg,#fffdf8,#fff3e7);border:1px solid #edd5b8;border-radius:26px;padding:16px 17px 20px;box-shadow:0 24px 75px #180a155a;color:#3a2822;font-family:Rubik,Nunito,system-ui,sans-serif;outline:0}
+.strudliSectionTop{display:flex;justify-content:space-between;align-items:center;gap:9px}.strudliSectionTop>span{font-size:11px;font-weight:900;letter-spacing:.08em;color:#a02449}.strudliSectionTop>button{width:36px;height:36px;background:#fff8ee;border:1px solid #ead9c8;border-radius:50%;display:grid;place-items:center;color:#855347}
+.strudliSectionArt{display:flex;align-items:center;gap:8px;min-height:133px;background:linear-gradient(125deg,#d4e7ee,#fff0d9 85%);border:1px solid #e5d0bc;border-radius:22px;padding:8px;margin:9px 0 15px;overflow:hidden}
+.strudliSectionArt img{width:40%;height:132px;object-fit:contain;align-self:end;filter:drop-shadow(0 4px 4px #6146372a);animation:strudliHelpSway 4s ease-in-out infinite;transform-origin:50% 90%}
+.strudliSectionArt>div{flex:1;min-width:0}.strudliSectionArt h2{font-weight:950;font-size:clamp(20px,5vw,29px);letter-spacing:-.04em;line-height:1.18;margin:0 0 9px}.strudliSectionArt small{color:#8e5948;font-size:12px;font-weight:850}
+.strudliSectionStory{min-height:121px;background:#fffcf8;border:1px solid #f0dbbf;border-radius:19px;padding:15px;animation:strudliHelpReveal .22s ease-out}
+.strudliSectionStory>span{display:block;color:#a32549;font-weight:900;font-size:11px;margin-bottom:8px}.strudliSectionStory p{font-size:clamp(14px,3vw,16px);font-weight:720;line-height:1.5;margin:0;color:#523a30}
+.strudliSectionListen{border:1px solid #ebc6ad;border-radius:13px;background:#fff1dc;color:#922b4b;font-weight:850;margin-top:13px;display:inline-flex;gap:8px;align-items:center;padding:9px 13px}
+.strudliSectionDots{display:flex;justify-content:center;gap:6px;margin:14px 0}.strudliSectionDots span{width:22px;height:6px;border-radius:9px;background:#e7cdb6}.strudliSectionDots span.active{background:#ac274e;width:32px}
+.strudliSectionActions{display:grid;grid-template-columns:1fr 1.4fr;gap:11px}.strudliSectionActions>button{min-height:51px;border-radius:15px;font:900 15px Rubik,Nunito,system-ui,sans-serif;display:flex;justify-content:center;align-items:center;gap:10px}
+.strudliSectionActions>button:first-child{border:1px solid #ddc3a8;background:#fff8ec;color:#785648}.strudliSectionActions>button:first-child:disabled{opacity:.36}
+.strudliSectionActions>button:last-child{border:3px solid #fff8ea;background:linear-gradient(120deg,#b42b4f,#951d3e);color:white;box-shadow:0 4px 0 #e4bcb0}
+.strudliSectionPanel button:focus-visible{outline:3px solid #e9ae36;outline-offset:2px}
+@keyframes strudliHelpSway{0%,100%{transform:rotate(-1deg)}50%{transform:rotate(1.2deg)}}@keyframes strudliHelpReveal{from{opacity:.5;transform:translateY(5px)}to{opacity:1;transform:none}}
+@media(max-width:410px){.strudliSectionPanel{padding:12px}.strudliSectionArt{min-height:122px}.strudliSectionArt img{height:120px}.strudliSectionStory{min-height:109px}}
+@media(prefers-reduced-motion:reduce){.strudliSectionArt img,.strudliSectionStory{animation:none}}

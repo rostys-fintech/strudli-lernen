@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="uk">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex,nofollow">
+<meta name="theme-color" content="#191520">
+<title>Strudli Learning · Lesen — Cinematic Stories</title>
+<link rel="stylesheet" href="/lesen-pilot/player.css">
+</head>
+<body>
+<main class="page">
+<header class="siteHeader"><span class="brand">Strudli Learning</span><span class="modeName">LESEN</span><nav class="levels" aria-label="Рівень німецької"><button type="button" data-level="a1" class="selected">A1</button><button type="button" data-level="a2">A2</button></nav></header>
+<div class="intro"><div><p class="eyebrow">Eine Geschichte in Bildern</p><h1>Die Bremer Stadtmusikanten</h1></div></div>
+<section class="cinema" id="cinema" aria-label="Кінематографічна історія для вивчення німецької">
+ <div class="visual" id="visual" data-scene="storm">
+  <img class="art front" id="imageOne" alt="Мальована сцена" fetchpriority="high" decoding="async">
+  <img class="art" id="imageTwo" alt="" decoding="async">
+  <div class="motionLayer front" id="motionOne" aria-hidden="true"></div><div class="motionLayer" id="motionTwo" aria-hidden="true"></div>
+  <div class="sceneFX" aria-hidden="true"><span class="lightField"></span><span class="depthField"></span><span class="timeField"></span><span class="alarmField"></span>
+   <span class="butterfly" id="butterfly" hidden>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 96" aria-hidden="true">
+     <defs><linearGradient id="wing" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#d6f7ff"/><stop offset=".4" stop-color="#4ebcda"/><stop offset="1" stop-color="#284e9e"/></linearGradient></defs>
+     <g class="wingLeft"><path d="M58 49C43 15 14 1 6 13-5 27 7 51 31 60c14 5 22-2 27-11Z" fill="url(#wing)" stroke="#1d3b78" stroke-width="2.5"/><path d="M58 49C43 56 22 49 17 63c-4 20 16 28 31 15l10-25Z" fill="#348ac9" stroke="#244e83" stroke-width="2.5"/><path d="M56 45 12 17m45 31L13 42m42 12L24 73" stroke="#d8f4f7" stroke-width="2" opacity=".7"/></g>
+     <g class="wingRight"><path d="M62 49C77 15 106 1 114 13c11 14-1 38-25 47-14 5-22-2-27-11Z" fill="url(#wing)" stroke="#1d3b78" stroke-width="2.5"/><path d="M62 49c15 7 36 0 41 14 4 20-16 28-31 15L62 53Z" fill="#348ac9" stroke="#244e83" stroke-width="2.5"/><path d="m64 45 44-28M63 48l44-6M65 54l31 19" stroke="#d8f4f7" stroke-width="2" opacity=".7"/></g>
+     <path d="M60 33 48 19m12 14 12-14" stroke="#1c3155" stroke-width="2.4" stroke-linecap="round"/><path d="M57 36q3-8 6 0l1 30-4 21-4-21Z" fill="#24334d" stroke="#172947" stroke-width="2"/>
+    </svg>
+   </span>
+  </div>
+  <div class="topInfo" id="topInfo"></div>
+  <button type="button" id="centerPlay" class="centerPlay" aria-label="Почати історію"><span>▶</span><small>Дивитися зі звуком</small></button>
+ </div>
+ <div class="captions" id="captions" lang="de" aria-live="off"></div>
+ <button type="button" id="askStrudli" class="askStrudli"><img src="/strudli/strudli-storybook-hero.webp" alt="" aria-hidden="true">Не зрозуміло? Запитай Strudli <span>AI</span></button>
+ <div class="controlDock" id="controls">
+  <div class="timelineWrap" id="timelineWrap">
+   <div class="hoverCard" id="hoverCard" hidden><img id="hoverArt" alt="Мініатюра сцени"><span id="hoverTitle"></span><small id="hoverTime">0:00</small></div>
+   <div class="timeline" id="timeline" role="slider" tabindex="0" aria-label="Перемотування історії" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" aria-valuetext="0:00">
+     <div class="progressLoaded"></div><div class="progressPlayed" id="played"></div><div class="chapterLines" id="chapterLines"></div><div class="playhead" id="playhead"></div>
+   </div>
+  </div>
+  <div class="controlsRow">
+   <button class="control" type="button" id="playPause" aria-label="Відтворити" title="Відтворити / Пауза">▶</button>
+   <button class="control" type="button" id="sound" aria-label="Вимкнути звук" title="Звук">◖))</button>
+   <div class="volumeWrap"><input type="range" id="volume" min="0" max="100" value="90" aria-label="Гучність"></div>
+   <span class="timeDisplay" id="timeDisplay">0:00 / 0:00</span>
+   <div class="controlSpacer"></div>
+   <button class="control cc" type="button" id="cc" aria-label="Сховати субтитри" aria-pressed="true" title="Субтитри">CC</button>
+   <button class="control" type="button" id="settingsButton" aria-label="Налаштування" aria-expanded="false" title="Налаштування">⚙</button>
+   <button class="control" type="button" id="fullscreen" aria-label="На весь екран" title="На весь екран">⛶</button>
+  </div>
+ </div>
+ <div class="settings" id="settings" hidden>
+  <div class="settingsHeading">Налаштування <button type="button" id="settingsClose" aria-label="Закрити">×</button></div>
+  <label for="voice">Голос оповідача</label><select id="voice"><option value="conrad">Conrad · спокійний, нижчий</option><option value="killian">Killian · м'якший</option></select>
+  <label for="speed">Швидкість</label><select id="speed"><option value="0.85">0.85× · повільно</option><option selected value="1">1× · навчальний темп</option><option value="1.1">1.1× · швидше</option></select>
+  <label for="language">Мова пояснень</label><select id="language"><option value="uk">Українська</option><option value="en">English</option></select>
+  <button type="button" id="showLesson" class="settingsLesson">Перейти до запитань</button>
+ </div>
+<video id="nativeVideo" class="nativeVideo" controls playsinline webkit-playsinline preload="metadata" aria-label="Нативне повноекранне відео з голосом оповідача і німецькими субтитрами"></video>
+</section>
+<div class="statusLine" id="statusLine" role="status"></div>
+<section class="quiz" id="quiz" hidden><div class="quizHeading"><h2>Was hast du verstanden?</h2><p>Перевір себе після перегляду</p></div><div id="quizQuestions"></div><div class="quizFooter"><strong id="quizScore"></strong><button type="button" id="playArena" hidden>⚡ Пограти в Арені</button><button type="button" id="restart">↻ Переглянути знову</button></div></section>
+<footer class="footer">Strudli Learning · Lesen</footer>
+</main>
+<div class="dictionaryBackdrop" id="dictionaryBackdrop" hidden>
+ <section class="dictionary" role="dialog" aria-modal="true" aria-labelledby="lookupTitle">
+  <div class="dictionaryHead"><div><small id="lookupType">Слово</small><h2 id="lookupTitle" tabindex="-1"></h2><div class="pronunciation" id="lookupIPA"></div></div><button type="button" id="lookupClose" aria-label="Закрити">×</button></div>
+  <div class="meaning" id="lookupMeaning"></div>
+  <div class="lookupLabel" id="lookupContextLabel">У цій історії</div><p id="lookupContext" class="lookupContext"></p><p id="lookupTranslation" class="lookupTranslation"></p>
+  <div class="aiExplain" id="aiExplain"><button type="button" id="aiExplainButton">✦ Strudli пояснює речення</button><div id="aiExplainResult" class="aiExplainResult" hidden aria-live="polite"></div></div>
+  <div id="exampleContainer"><div class="lookupLabel" id="lookupExampleLabel">Простий приклад</div><p id="lookupExample"></p><p id="lookupExampleUA"></p></div>
+  <div class="dictionaryButtons"><button type="button" id="saveWord" aria-pressed="false">☆ Зберегти</button><button type="button" id="repeatWord">◖)) Прослухати</button><button type="button" id="resumeStory">▶ Продовжити історію</button></div>
+ </section>
+</div>
+<audio id="narration" preload="auto"></audio><audio id="wordReplay" preload="none"></audio>
+<script src="/lesen-pilot/player.js" defer></script>
+</body></html>

@@ -1,0 +1,333 @@
+{
+  "date": "2026-10-22",
+  "branch": "visual-quality-oct22",
+  "stagedOnly": true,
+  "replaced": 22,
+  "initialSVG": 119,
+  "remainingSVG": 97,
+  "nouns": 736,
+  "photoCredits": 608,
+  "qaDone": [
+    "Commons exact filename",
+    "image dimensions",
+    "rights and author",
+    "source URLs unique",
+    "image distinct for each noun",
+    "manifest code pointers"
+  ],
+  "qaPending": [
+    "Mobile crop and lighting review",
+    "Photo rendition and CDN fetch at build time",
+    "Live app QA"
+  ],
+  "newPhotos": [
+    {
+      "word_id": "travel-445",
+      "word": "die Verspätung",
+      "commons_page": "https://commons.wikimedia.org/wiki/File:Delayed_international_train_to_Brussels%2C_Schiphol_(2023)_02.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Delayed_international_train_to_Brussels%2C_Schiphol_%282023%29_02.jpg/960px-Delayed_international_train_to_Brussels%2C_Schiphol_%282023%29_02.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Donald Trung Quoc Don",
+      "editorial_check": "commons_filename_author_license_original_resolution_checked_2026-10-22",
+      "image_note": "Train-delay information shown at railway station; delay meaning shown in real transport setting; verify cropped mobile appearance before release.",
+      "sourceSize": [
+        4032,
+        2268
+      ]
+    },
+    {
+      "word_id": "travel-431",
+      "word": "die Reservierung",
+      "commons_page": "https://commons.wikimedia.org/wiki/File:Reserved_table_sign.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Reserved_table_sign.jpg/960px-Reserved_table_sign.jpg",
+      "license": "CC BY-SA 2.0",
+      "author": "David Baron",
+      "editorial_check": "commons_filename_author_license_original_resolution_checked_2026-10-22",
+      "image_note": "Photograph of a real reserved-table sign, rather than a synthetic graphic; verify cropped mobile appearance before release.",
+      "sourceSize": [
+        2532,
+        1901
+      ]
+    },
+    {
+      "word_id": "germany-228",
+      "word": "die Nebenkosten",
+      "commons_page": "https://commons.wikimedia.org/wiki/File:Standing_charges_on_energy_bills.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Standing_charges_on_energy_bills.jpg/960px-Standing_charges_on_energy_bills.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Lockdown Refunds Energy",
+      "editorial_check": "commons_filename_author_license_original_resolution_checked_2026-10-22",
+      "image_note": "Real electricity/energy-bill extra charges; relevant to housing ancillary costs; verify cropped mobile appearance before release.",
+      "sourceSize": [
+        2480,
+        3509
+      ]
+    },
+    {
+      "word_id": "germany-222",
+      "word": "die Krankenversicherung",
+      "commons_page": "https://commons.wikimedia.org/wiki/File:Europ%C3%A4ische_Krankenversicherungskarte_(Vorderseite).jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Europ%C3%A4ische_Krankenversicherungskarte_%28Vorderseite%29.jpg/960px-Europ%C3%A4ische_Krankenversicherungskarte_%28Vorderseite%29.jpg",
+      "license": "CC BY-SA 2.0 de",
+      "author": "Christoph Hoffmann",
+      "editorial_check": "commons_filename_author_license_original_resolution_checked_2026-10-22",
+      "image_note": "Actual European health-insurance card visually conveys insured status; verify cropped mobile appearance before release.",
+      "sourceSize": [
+        1022,
+        627
+      ]
+    },
+    {
+      "word_id": "ww-new-078",
+      "word": "der Kontoauszug",
+      "commons_page": "https://commons.wikimedia.org/wiki/File:2025_Spargiro-Kontoauszug.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/2025_Spargiro-Kontoauszug.jpg/960px-2025_Spargiro-Kontoauszug.jpg",
+      "license": "CC BY 4.0",
+      "author": "Sawerboard",
+      "editorial_check": "commons_filename_author_license_original_resolution_checked_2026-10-22",
+      "image_note": "Contemporary 2025 banking statement, subject-specific document; verify cropped mobile appearance before release.",
+      "sourceSize": [
+        3163,
+        1811
+      ]
+    },
+    {
+      "word_id": "body-707",
+      "word": "der Rücken",
+      "commons_page": "https://commons.wikimedia.org/wiki/File:Human_back_on_gray_background.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Human_back_on_gray_background.jpg/960px-Human_back_on_gray_background.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Genusfotografen (Tomas Gunnarsson) / Wikimedia Sverige",
+      "editorial_check": "commons_filename_author_license_original_resolution_checked_2026-10-22",
+      "image_note": "Human back on clean neutral background; high-resolution anatomy reference; verify cropped mobile appearance before release.",
+      "sourceSize": [
+        3609,
+        4131
+      ]
+    },
+    {
+      "word_id": "study-652",
+      "word": "die Ausbildung",
+      "commons_page": "https://commons.wikimedia.org/wiki/File:Apprentice_in_bookbinding_01.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Apprentice_in_bookbinding_01.jpg/960px-Apprentice_in_bookbinding_01.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Bengt Oberger",
+      "editorial_check": "commons_filename_author_license_original_resolution_checked_2026-10-22",
+      "image_note": "Apprentice receiving vocational bookbinding training; verify cropped mobile appearance before release.",
+      "sourceSize": [
+        6000,
+        4000
+      ]
+    },
+    {
+      "word_id": "study-654",
+      "word": "das Semester",
+      "commons_page": "https://commons.wikimedia.org/wiki/File:Students_of_Tamale_Technical_University_in_a_lecture_hall.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Students_of_Tamale_Technical_University_in_a_lecture_hall.jpg/960px-Students_of_Tamale_Technical_University_in_a_lecture_hall.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Stephany5757",
+      "editorial_check": "commons_filename_author_license_original_resolution_checked_2026-10-22",
+      "image_note": "University lecture and students; scene for study term Semester, associative not literal; verify cropped mobile appearance before release.",
+      "sourceSize": [
+        4160,
+        2080
+      ]
+    },
+    {
+      "word_id": "study-656",
+      "word": "das Stipendium",
+      "commons_page": "https://commons.wikimedia.org/wiki/File:Reuven_Rivlin_awards_scholarship_to_outstanding_students%2C_March_2019_(3691).jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Reuven_Rivlin_awards_scholarship_to_outstanding_students%2C_March_2019_%283691%29.jpg/960px-Reuven_Rivlin_awards_scholarship_to_outstanding_students%2C_March_2019_%283691%29.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Mark Neyman",
+      "editorial_check": "commons_filename_author_license_original_resolution_checked_2026-10-22",
+      "image_note": "Real scholarship award ceremony; verify cropped mobile appearance before release.",
+      "sourceSize": [
+        3307,
+        2205
+      ]
+    },
+    {
+      "word_id": "work-625",
+      "word": "die Kundin",
+      "commons_page": "https://commons.wikimedia.org/wiki/File:Woman_pushing_a_shopping_cart_at_a_store_while_smiling.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Woman_pushing_a_shopping_cart_at_a_store_while_smiling.jpg/960px-Woman_pushing_a_shopping_cart_at_a_store_while_smiling.jpg",
+      "license": "CC BY 2.0",
+      "author": "Shixart1985",
+      "editorial_check": "commons_filename_author_license_original_resolution_checked_2026-10-22",
+      "image_note": "Female customer actively shopping with a cart, retail consumer context; verify cropped mobile appearance before release.",
+      "sourceSize": [
+        4032,
+        6048
+      ]
+    },
+    {
+      "word_id": "time-769",
+      "word": "der Mittag",
+      "commons_page": "https://commons.wikimedia.org/wiki/File:Sun_at_noon.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Sun_at_noon.jpg/960px-Sun_at_noon.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Path slopu",
+      "editorial_check": "commons_filename_author_license_original_resolution_checked_2026-10-22",
+      "image_note": "High midday sun; associative cue for noon rather than written label; verify cropped mobile appearance before release.",
+      "sourceSize": [
+        2576,
+        1932
+      ]
+    },
+    {
+      "word_id": "time-771",
+      "word": "das Wochenende",
+      "commons_page": "https://commons.wikimedia.org/wiki/File:Family_Weekend_(6283542652).jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Family_Weekend_%286283542652%29.jpg/960px-Family_Weekend_%286283542652%29.jpg",
+      "license": "CC BY 2.0",
+      "author": "roanokecollege",
+      "editorial_check": "commons_filename_author_license_original_resolution_checked_2026-10-22",
+      "image_note": "Family weekend event; weekend scene, associative rather than calendar-proof; verify cropped mobile appearance before release.",
+      "sourceSize": [
+        4500,
+        3000
+      ]
+    },
+    {
+      "word_id": "time-773",
+      "word": "das Jahr",
+      "commons_page": "https://commons.wikimedia.org/wiki/File:Calendar_Year_(Unsplash).jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Calendar_Year_%28Unsplash%29.jpg/960px-Calendar_Year_%28Unsplash%29.jpg",
+      "license": "CC0",
+      "author": "Brooke Lark",
+      "editorial_check": "commons_filename_author_license_original_resolution_checked_2026-10-22",
+      "image_note": "Clean high resolution calendar visual for one calendar year; verify cropped mobile appearance before release.",
+      "sourceSize": [
+        5760,
+        3840
+      ]
+    },
+    {
+      "word_id": "time-765",
+      "word": "der Tag",
+      "commons_page": "https://commons.wikimedia.org/wiki/File:Miyashita_Park_on_a_sunny_day_19.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Miyashita_Park_on_a_sunny_day_19.jpg/960px-Miyashita_Park_on_a_sunny_day_19.jpg",
+      "license": "CC0",
+      "author": "Syced",
+      "editorial_check": "commons_filename_author_license_original_resolution_checked_2026-10-22",
+      "image_note": "Bright daytime natural scene, cue for Tag contrasted with night; verify cropped mobile appearance before release.",
+      "sourceSize": [
+        4032,
+        3024
+      ]
+    },
+    {
+      "word_id": "study-659",
+      "word": "die Fähigkeit",
+      "commons_page": "https://commons.wikimedia.org/wiki/File:Carpenters_at_Work_10.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Carpenters_at_Work_10.jpg/960px-Carpenters_at_Work_10.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Iwuala Lucy",
+      "editorial_check": "commons_filename_author_license_original_resolution_checked_2026-10-22",
+      "image_note": "Skilled carpenter at work, scene indicating practical ability; verify cropped mobile appearance before release.",
+      "sourceSize": [
+        4160,
+        3120
+      ]
+    },
+    {
+      "word_id": "technology-261",
+      "word": "der Anhang",
+      "commons_page": "https://commons.wikimedia.org/wiki/File:Assorted_paperclips_together.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Assorted_paperclips_together.jpg/960px-Assorted_paperclips_together.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "User:HarJIT",
+      "editorial_check": "commons_filename_author_license_original_resolution_checked_2026-10-22",
+      "image_note": "Physical paper-attachment symbol, conceptual proxy for digital file attachment; verify cropped mobile appearance before release.",
+      "sourceSize": [
+        3964,
+        1572
+      ]
+    },
+    {
+      "word_id": "shopping-671",
+      "word": "das Angebot",
+      "commons_page": "https://commons.wikimedia.org/wiki/File:HD-DVD_player_deeply_discounted_in_2008.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/HD-DVD_player_deeply_discounted_in_2008.jpg/960px-HD-DVD_player_deeply_discounted_in_2008.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Barnards.tar.gz",
+      "editorial_check": "commons_filename_author_license_original_resolution_checked_2026-10-22",
+      "image_note": "Real item with visible discount; association for special offer; verify cropped mobile appearance before release.",
+      "sourceSize": [
+        2592,
+        1944
+      ]
+    },
+    {
+      "word_id": "transport-587",
+      "word": "die Richtung",
+      "commons_page": "https://commons.wikimedia.org/wiki/File:Five_points_intersection_Direction_sign_for_GA96%2C_R3-6%2C_Fort_Valley.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Five_points_intersection_Direction_sign_for_GA96%2C_R3-6%2C_Fort_Valley.jpg/960px-Five_points_intersection_Direction_sign_for_GA96%2C_R3-6%2C_Fort_Valley.jpg",
+      "license": "CC0",
+      "author": "Mjrmtg",
+      "editorial_check": "commons_filename_author_license_original_resolution_checked_2026-10-22",
+      "image_note": "Road direction sign indicating directions; verify cropped mobile appearance before release.",
+      "sourceSize": [
+        5184,
+        3456
+      ]
+    },
+    {
+      "word_id": "transport-588",
+      "word": "der Fahrpreis",
+      "commons_page": "https://commons.wikimedia.org/wiki/File:Passenger_fares_board_at_Muharram_Bek_bus_terminal_in_Alexandria_01.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Passenger_fares_board_at_Muharram_Bek_bus_terminal_in_Alexandria_01.jpg/960px-Passenger_fares_board_at_Muharram_Bek_bus_terminal_in_Alexandria_01.jpg",
+      "license": "CC BY 4.0",
+      "author": "Marsupium",
+      "editorial_check": "commons_filename_author_license_original_resolution_checked_2026-10-22",
+      "image_note": "Actual posted passenger fares at a bus terminal; verify cropped mobile appearance before release.",
+      "sourceSize": [
+        3024,
+        4032
+      ]
+    },
+    {
+      "word_id": "family-481",
+      "word": "der Name",
+      "commons_page": "https://commons.wikimedia.org/wiki/File:Nametags_of_participants_at_Bengali_Wikipedia_10th_Anniversary_Celebration_Jadavpur_University_Campus6129.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Nametags_of_participants_at_Bengali_Wikipedia_10th_Anniversary_Celebration_Jadavpur_University_Campus6129.jpg/960px-Nametags_of_participants_at_Bengali_Wikipedia_10th_Anniversary_Celebration_Jadavpur_University_Campus6129.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Cherishsantosh",
+      "editorial_check": "commons_filename_author_license_original_resolution_checked_2026-10-22",
+      "image_note": "Real printed name badges, cue for a person's name; verify cropped mobile appearance before release.",
+      "sourceSize": [
+        4272,
+        2848
+      ]
+    },
+    {
+      "word_id": "work-599",
+      "word": "das Gehalt",
+      "commons_page": "https://commons.wikimedia.org/wiki/File:2023-03-13_paycheck-salary.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/2023-03-13_paycheck-salary.jpg/960px-2023-03-13_paycheck-salary.jpg",
+      "license": "CC0",
+      "author": "Rakoon",
+      "editorial_check": "commons_filename_author_license_original_resolution_checked_2026-10-22",
+      "image_note": "Actual salary/paycheck financial document; verify cropped mobile appearance before release.",
+      "sourceSize": [
+        1476,
+        1824
+      ]
+    },
+    {
+      "word_id": "body-691",
+      "word": "der Körper",
+      "commons_page": "https://commons.wikimedia.org/wiki/File:Human_body_%E2%80%93_Caisa.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Human_body_%E2%80%93_Caisa.jpg/960px-Human_body_%E2%80%93_Caisa.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Genusfotografen (Tommas Gunnarsson) / Wikimedia Sverige",
+      "editorial_check": "commons_filename_author_license_original_resolution_checked_2026-10-22",
+      "image_note": "Full human-body anatomy photograph, appropriate for body noun; verify cropped mobile appearance before release.",
+      "sourceSize": [
+        3840,
+        5760
+      ]
+    }
+  ]
+}

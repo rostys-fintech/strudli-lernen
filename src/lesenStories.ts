@@ -1,0 +1,13 @@
+import type {Gloss} from "./lesenGlossary";
+import {LESSON_STORIES_A} from "./lesenStoryContentA";
+import {LESSON_STORIES_B} from "./lesenStoryContentB";
+import {LESSON_STORIES_C} from "./lesenStoryContentC";
+export type ReadingLevel="A0"|"A1";
+export type ReadingSentence=readonly [de:string,uk:string,en:string];
+export type ReadingChoice=readonly [uk:string,en:string];
+export type ReadingQuestion={prompt:ReadingChoice;choices:readonly [ReadingChoice,ReadingChoice,ReadingChoice];correct:0|1|2};
+export type ReadingStory={id:string;level:ReadingLevel;emoji:string;title:{de:string;uk:string;en:string};subtitle:ReadingChoice;sentences:readonly ReadingSentence[];paragraphEnds:readonly number[];glossary:Readonly<Record<string,Gloss>>;questions:readonly ReadingQuestion[]};
+export const READING_STORIES:readonly ReadingStory[]=[...LESSON_STORIES_A,...LESSON_STORIES_B,...LESSON_STORIES_C];
+export const READING_PROGRESS_KEY="strudli-lesen-progress-v1";
+export type ReadingResult={score:number;maxScore:number;completedAt:string};
+export type ReadingProgress=Record<string,ReadingResult>;

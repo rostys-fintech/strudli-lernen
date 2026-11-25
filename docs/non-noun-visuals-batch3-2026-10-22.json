@@ -1,0 +1,704 @@
+{
+  "batch": 3,
+  "date": "2026-10-22",
+  "scope": "Vocabulary illustration, separate from phone-level visual approval",
+  "base": "3a4fc31ee5c89f6ace09e47b853ef0c82958d242",
+  "added": 68,
+  "before": 320,
+  "after": 388,
+  "remaining": 50,
+  "total_non_nouns": 438,
+  "total_cards": 1174,
+  "total_illustrated": 1124,
+  "groups": {
+    "phrases": 36,
+    "verbs": 22,
+    "adjs": 10
+  },
+  "credits": "Original local SVG diagrams; no third-party photo license used",
+  "distinctSourceFiles": 68,
+  "verified": false,
+  "assets": [
+    {
+      "id": "phrases-0",
+      "de": "Hallo!",
+      "uk": "Привіт!",
+      "concepts": [
+        "personWave",
+        "speech"
+      ],
+      "src": "/photos/situations/phrases-0.svg"
+    },
+    {
+      "id": "phrases-5",
+      "de": "Auf Wiedersehen!",
+      "uk": "До побачення!",
+      "concepts": [
+        "personWave",
+        "farewell"
+      ],
+      "src": "/photos/situations/phrases-5.svg"
+    },
+    {
+      "id": "phrases-6",
+      "de": "Tschüss!",
+      "uk": "Бувай!",
+      "concepts": [
+        "personWave",
+        "arrowAway"
+      ],
+      "src": "/photos/situations/phrases-6.svg"
+    },
+    {
+      "id": "phrases-7",
+      "de": "Bis bald!",
+      "uk": "До скорого!",
+      "concepts": [
+        "personWave",
+        "clock"
+      ],
+      "src": "/photos/situations/phrases-7.svg"
+    },
+    {
+      "id": "phrases-8",
+      "de": "Bis morgen!",
+      "uk": "До завтра!",
+      "concepts": [
+        "personWave",
+        "calendar"
+      ],
+      "src": "/photos/situations/phrases-8.svg"
+    },
+    {
+      "id": "phrases-9",
+      "de": "Danke!",
+      "uk": "Дякую!",
+      "concepts": [
+        "handshake",
+        "heart"
+      ],
+      "src": "/photos/situations/phrases-9.svg"
+    },
+    {
+      "id": "phrases-10",
+      "de": "Vielen Dank!",
+      "uk": "Дуже дякую!",
+      "concepts": [
+        "handshake",
+        "hearts"
+      ],
+      "src": "/photos/situations/phrases-10.svg"
+    },
+    {
+      "id": "phrases-11",
+      "de": "Bitte!",
+      "uk": "Будь ласка!; Прошу!; Нема за що!",
+      "concepts": [
+        "gift",
+        "hand"
+      ],
+      "src": "/photos/situations/phrases-11.svg"
+    },
+    {
+      "id": "phrases-12",
+      "de": "Entschuldigung!",
+      "uk": "Перепрошую!",
+      "concepts": [
+        "personRaised",
+        "speech"
+      ],
+      "src": "/photos/situations/phrases-12.svg"
+    },
+    {
+      "id": "phrases-13",
+      "de": "Es tut mir leid.",
+      "uk": "Мені шкода.",
+      "concepts": [
+        "personSad",
+        "heart"
+      ],
+      "src": "/photos/situations/phrases-13.svg"
+    },
+    {
+      "id": "phrases-14",
+      "de": "Kein Problem.",
+      "uk": "Без проблем.",
+      "concepts": [
+        "check",
+        "personHappy"
+      ],
+      "src": "/photos/situations/phrases-14.svg"
+    },
+    {
+      "id": "phrases-15",
+      "de": "Wie geht es dir?",
+      "uk": "Як справи?",
+      "concepts": [
+        "twoPeople",
+        "question"
+      ],
+      "src": "/photos/situations/phrases-15.svg"
+    },
+    {
+      "id": "phrases-16",
+      "de": "Mir geht es gut.",
+      "uk": "У мене все добре.",
+      "concepts": [
+        "personHappy",
+        "check"
+      ],
+      "src": "/photos/situations/phrases-16.svg"
+    },
+    {
+      "id": "phrases-17",
+      "de": "Wie heißt du?",
+      "uk": "Як тебе звати?",
+      "concepts": [
+        "twoPeople",
+        "nameBadge"
+      ],
+      "src": "/photos/situations/phrases-17.svg"
+    },
+    {
+      "id": "phrases-18",
+      "de": "Ich heiße…",
+      "uk": "Мене звати…",
+      "concepts": [
+        "personRaised",
+        "nameBadge"
+      ],
+      "src": "/photos/situations/phrases-18.svg"
+    },
+    {
+      "id": "phrases-19",
+      "de": "Woher kommst du?",
+      "uk": "Звідки ти?",
+      "concepts": [
+        "person",
+        "globe"
+      ],
+      "src": "/photos/situations/phrases-19.svg"
+    },
+    {
+      "id": "phrases-20",
+      "de": "Ich komme aus der Ukraine.",
+      "uk": "Я з України.",
+      "concepts": [
+        "flagUA",
+        "person"
+      ],
+      "src": "/photos/situations/phrases-20.svg"
+    },
+    {
+      "id": "phrases-21",
+      "de": "Wo wohnst du?",
+      "uk": "Де ти живеш?",
+      "concepts": [
+        "person",
+        "house"
+      ],
+      "src": "/photos/situations/phrases-21.svg"
+    },
+    {
+      "id": "phrases-22",
+      "de": "Ich wohne in Deutschland.",
+      "uk": "Я живу в Німеччині.",
+      "concepts": [
+        "flagDE",
+        "house"
+      ],
+      "src": "/photos/situations/phrases-22.svg"
+    },
+    {
+      "id": "phrases-23",
+      "de": "Ich verstehe nicht.",
+      "uk": "Я не розумію.",
+      "concepts": [
+        "personConfused",
+        "puzzle"
+      ],
+      "src": "/photos/situations/phrases-23.svg"
+    },
+    {
+      "id": "phrases-24",
+      "de": "Noch einmal, bitte.",
+      "uk": "Ще раз, будь ласка.",
+      "concepts": [
+        "speech",
+        "repeat"
+      ],
+      "src": "/photos/situations/phrases-24.svg"
+    },
+    {
+      "id": "phrases-25",
+      "de": "Sprechen Sie Englisch?",
+      "uk": "Ви говорите англійською?",
+      "concepts": [
+        "speech",
+        "flagUK"
+      ],
+      "src": "/photos/situations/phrases-25.svg"
+    },
+    {
+      "id": "phrases-26",
+      "de": "Ich lerne Deutsch.",
+      "uk": "Я вивчаю німецьку.",
+      "concepts": [
+        "book",
+        "flagDE"
+      ],
+      "src": "/photos/situations/phrases-26.svg"
+    },
+    {
+      "id": "phrases-27",
+      "de": "Bitte langsamer.",
+      "uk": "Повільніше, будь ласка.",
+      "concepts": [
+        "speech",
+        "snail"
+      ],
+      "src": "/photos/situations/phrases-27.svg"
+    },
+    {
+      "id": "phrases-28",
+      "de": "Ich weiß nicht.",
+      "uk": "Я не знаю.",
+      "concepts": [
+        "personConfused",
+        "question"
+      ],
+      "src": "/photos/situations/phrases-28.svg"
+    },
+    {
+      "id": "phrases-29",
+      "de": "Ich brauche Hilfe.",
+      "uk": "Мені потрібна допомога.",
+      "concepts": [
+        "personSad",
+        "help"
+      ],
+      "src": "/photos/situations/phrases-29.svg"
+    },
+    {
+      "id": "phrases-30",
+      "de": "Können Sie mir helfen?",
+      "uk": "Ви можете мені допомогти?",
+      "concepts": [
+        "handshake",
+        "help"
+      ],
+      "src": "/photos/situations/phrases-30.svg"
+    },
+    {
+      "id": "phrases-31",
+      "de": "Was kostet das?",
+      "uk": "Скільки це коштує?",
+      "concepts": [
+        "price",
+        "question"
+      ],
+      "src": "/photos/situations/phrases-31.svg"
+    },
+    {
+      "id": "phrases-32",
+      "de": "Wo ist die Toilette?",
+      "uk": "Де туалет?",
+      "concepts": [
+        "toilet",
+        "location"
+      ],
+      "src": "/photos/situations/phrases-32.svg"
+    },
+    {
+      "id": "phrases-33",
+      "de": "Einen Moment, bitte.",
+      "uk": "Одну хвилину, будь ласка.",
+      "concepts": [
+        "clock",
+        "hand"
+      ],
+      "src": "/photos/situations/phrases-33.svg"
+    },
+    {
+      "id": "phrases-34",
+      "de": "Ich hätte gern…",
+      "uk": "Я хотів би…",
+      "concepts": [
+        "gift",
+        "heart"
+      ],
+      "src": "/photos/situations/phrases-34.svg"
+    },
+    {
+      "id": "phrases-35",
+      "de": "Ich habe eine Frage.",
+      "uk": "У мене є запитання.",
+      "concepts": [
+        "personRaised",
+        "question"
+      ],
+      "src": "/photos/situations/phrases-35.svg"
+    },
+    {
+      "id": "phrases-36",
+      "de": "Das ist richtig.",
+      "uk": "Це правильно.",
+      "concepts": [
+        "check",
+        "speech"
+      ],
+      "src": "/photos/situations/phrases-36.svg"
+    },
+    {
+      "id": "phrases-37",
+      "de": "Das ist falsch.",
+      "uk": "Це неправильно.",
+      "concepts": [
+        "cross",
+        "speech"
+      ],
+      "src": "/photos/situations/phrases-37.svg"
+    },
+    {
+      "id": "phrases-38",
+      "de": "Freut mich!",
+      "uk": "Приємно познайомитися!",
+      "concepts": [
+        "handshake",
+        "twoPeople"
+      ],
+      "src": "/photos/situations/phrases-38.svg"
+    },
+    {
+      "id": "phrases-39",
+      "de": "Alles Gute!",
+      "uk": "Усього найкращого!",
+      "concepts": [
+        "flowers",
+        "heart"
+      ],
+      "src": "/photos/situations/phrases-39.svg"
+    },
+    {
+      "id": "verbs-798",
+      "de": "sein",
+      "uk": "бути",
+      "concepts": [
+        "person",
+        "star"
+      ],
+      "src": "/photos/situations/verbs-798.svg"
+    },
+    {
+      "id": "verbs-799",
+      "de": "haben",
+      "uk": "мати",
+      "concepts": [
+        "person",
+        "gift"
+      ],
+      "src": "/photos/situations/verbs-799.svg"
+    },
+    {
+      "id": "verbs-800",
+      "de": "werden",
+      "uk": "ставати",
+      "concepts": [
+        "sprout",
+        "growth"
+      ],
+      "src": "/photos/situations/verbs-800.svg"
+    },
+    {
+      "id": "verbs-801",
+      "de": "machen",
+      "uk": "робити",
+      "concepts": [
+        "personWork",
+        "tools"
+      ],
+      "src": "/photos/situations/verbs-801.svg"
+    },
+    {
+      "id": "verbs-805",
+      "de": "leben",
+      "uk": "жити",
+      "concepts": [
+        "house",
+        "hearts"
+      ],
+      "src": "/photos/situations/verbs-805.svg"
+    },
+    {
+      "id": "verbs-819",
+      "de": "brauchen",
+      "uk": "потребувати",
+      "concepts": [
+        "personSad",
+        "help"
+      ],
+      "src": "/photos/situations/verbs-819.svg"
+    },
+    {
+      "id": "verbs-820",
+      "de": "mögen",
+      "uk": "подобатися (про вподобання)",
+      "concepts": [
+        "personHappy",
+        "heart"
+      ],
+      "src": "/photos/situations/verbs-820.svg"
+    },
+    {
+      "id": "verbs-822",
+      "de": "wollen",
+      "uk": "хотіти",
+      "concepts": [
+        "person",
+        "target"
+      ],
+      "src": "/photos/situations/verbs-822.svg"
+    },
+    {
+      "id": "verbs-823",
+      "de": "können",
+      "uk": "могти",
+      "concepts": [
+        "personWork",
+        "check"
+      ],
+      "src": "/photos/situations/verbs-823.svg"
+    },
+    {
+      "id": "verbs-824",
+      "de": "müssen",
+      "uk": "мусити",
+      "concepts": [
+        "clock",
+        "exclamation"
+      ],
+      "src": "/photos/situations/verbs-824.svg"
+    },
+    {
+      "id": "verbs-825",
+      "de": "sollen",
+      "uk": "слід; потрібно",
+      "concepts": [
+        "checklist",
+        "person"
+      ],
+      "src": "/photos/situations/verbs-825.svg"
+    },
+    {
+      "id": "verbs-826",
+      "de": "dürfen",
+      "uk": "мати дозвіл",
+      "concepts": [
+        "lockOpen",
+        "check"
+      ],
+      "src": "/photos/situations/verbs-826.svg"
+    },
+    {
+      "id": "verbs-827",
+      "de": "wissen",
+      "uk": "знати факт",
+      "concepts": [
+        "book",
+        "lightbulb"
+      ],
+      "src": "/photos/situations/verbs-827.svg"
+    },
+    {
+      "id": "verbs-828",
+      "de": "kennen",
+      "uk": "знати людину чи місце",
+      "concepts": [
+        "twoPeople",
+        "heart"
+      ],
+      "src": "/photos/situations/verbs-828.svg"
+    },
+    {
+      "id": "verbs-830",
+      "de": "glauben",
+      "uk": "вірити",
+      "concepts": [
+        "person",
+        "star"
+      ],
+      "src": "/photos/situations/verbs-830.svg"
+    },
+    {
+      "id": "verbs-831",
+      "de": "verstehen",
+      "uk": "розуміти",
+      "concepts": [
+        "puzzle",
+        "check"
+      ],
+      "src": "/photos/situations/verbs-831.svg"
+    },
+    {
+      "id": "verbs-863",
+      "de": "vergessen",
+      "uk": "забувати",
+      "concepts": [
+        "calendar",
+        "cross"
+      ],
+      "src": "/photos/situations/verbs-863.svg"
+    },
+    {
+      "id": "verbs-864",
+      "de": "sich erinnern",
+      "uk": "пам'ятати",
+      "concepts": [
+        "calendar",
+        "check"
+      ],
+      "src": "/photos/situations/verbs-864.svg"
+    },
+    {
+      "id": "verbs-874",
+      "de": "bleiben",
+      "uk": "залишатися",
+      "concepts": [
+        "person",
+        "house"
+      ],
+      "src": "/photos/situations/verbs-874.svg"
+    },
+    {
+      "id": "ww-new-161",
+      "de": "kündigen",
+      "uk": "розривати договір",
+      "concepts": [
+        "contract",
+        "cross"
+      ],
+      "src": "/photos/situations/ww-new-161.svg"
+    },
+    {
+      "id": "ww-new-177",
+      "de": "fehlen",
+      "uk": "бракувати; бути відсутнім",
+      "concepts": [
+        "puzzle",
+        "empty"
+      ],
+      "src": "/photos/situations/ww-new-177.svg"
+    },
+    {
+      "id": "ww-new-180",
+      "de": "sich fühlen",
+      "uk": "почуватися",
+      "concepts": [
+        "personHappy",
+        "heart"
+      ],
+      "src": "/photos/situations/ww-new-180.svg"
+    },
+    {
+      "id": "adjs-878",
+      "de": "gut",
+      "uk": "хороший",
+      "concepts": [
+        "check",
+        "heart"
+      ],
+      "src": "/photos/situations/adjs-878.svg"
+    },
+    {
+      "id": "adjs-879",
+      "de": "schlecht",
+      "uk": "поганий",
+      "concepts": [
+        "cross",
+        "personSad"
+      ],
+      "src": "/photos/situations/adjs-879.svg"
+    },
+    {
+      "id": "adjs-886",
+      "de": "hässlich",
+      "uk": "негарний",
+      "concepts": [
+        "flowerWilt",
+        "personSad"
+      ],
+      "src": "/photos/situations/adjs-886.svg"
+    },
+    {
+      "id": "adjs-927",
+      "de": "interessant",
+      "uk": "цікавий",
+      "concepts": [
+        "book",
+        "lightbulb"
+      ],
+      "src": "/photos/situations/adjs-927.svg"
+    },
+    {
+      "id": "adjs-928",
+      "de": "langweilig",
+      "uk": "нудний",
+      "concepts": [
+        "book",
+        "sleep"
+      ],
+      "src": "/photos/situations/adjs-928.svg"
+    },
+    {
+      "id": "adjs-930",
+      "de": "unbequem",
+      "uk": "незручний",
+      "concepts": [
+        "chair",
+        "personSad"
+      ],
+      "src": "/photos/situations/adjs-930.svg"
+    },
+    {
+      "id": "adjs-943",
+      "de": "deutsch",
+      "uk": "німецький",
+      "concepts": [
+        "flagDE",
+        "globe"
+      ],
+      "src": "/photos/situations/adjs-943.svg"
+    },
+    {
+      "id": "adjs-944",
+      "de": "englisch",
+      "uk": "англійський",
+      "concepts": [
+        "flagUK",
+        "globe"
+      ],
+      "src": "/photos/situations/adjs-944.svg"
+    },
+    {
+      "id": "adjs-945",
+      "de": "ukrainisch",
+      "uk": "український",
+      "concepts": [
+        "flagUA",
+        "globe"
+      ],
+      "src": "/photos/situations/adjs-945.svg"
+    },
+    {
+      "id": "ww-new-201",
+      "de": "ledig",
+      "uk": "неодружений/незаміжня (сімейний статус)",
+      "concepts": [
+        "person",
+        "ringOff"
+      ],
+      "src": "/photos/situations/ww-new-201.svg"
+    }
+  ],
+  "note": "Some abstract words cannot be precisely depicted by a photograph alone. These scenes are teaching cues, not a substitute for example sentences; runtime QA and phone-level aesthetic checks pending."
+}

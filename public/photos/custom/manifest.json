@@ -1,0 +1,303 @@
+{
+  "created": "2026-10-22",
+  "project": "WortWelt",
+  "mediaType": "image/png",
+  "dimensions": {
+    "width": 768,
+    "height": 768
+  },
+  "total": 32,
+  "generator": "scripts/generate-vocab-cards.mjs",
+  "license": "Original project graphics, no third-party photography or SVG",
+  "notes": "19 calendar cards with exact day/month and readable grids; 13 bright, simplified educational image cards for abstract words. These are illustrations rather than photographs.",
+  "images": [
+    {
+      "id": "germany-229",
+      "word": "Kaution",
+      "kind": "concept",
+      "index": 0,
+      "path": "/photos/custom/germany-229.png",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "technology-272",
+      "word": "Empfang",
+      "kind": "concept",
+      "index": 1,
+      "path": "/photos/custom/technology-272.png",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "technology-274",
+      "word": "Tarif",
+      "kind": "concept",
+      "index": 2,
+      "path": "/photos/custom/technology-274.png",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "family-476",
+      "word": "Nachbarin",
+      "kind": "concept",
+      "index": 3,
+      "path": "/photos/custom/family-476.png",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "study-634",
+      "word": "Satz",
+      "kind": "concept",
+      "index": 4,
+      "path": "/photos/custom/study-634.png",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "study-637",
+      "word": "Grammatik",
+      "kind": "concept",
+      "index": 5,
+      "path": "/photos/custom/study-637.png",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "shopping-681",
+      "word": "Umtausch",
+      "kind": "concept",
+      "index": 6,
+      "path": "/photos/custom/shopping-681.png",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "time-774",
+      "word": "Montag",
+      "kind": "day",
+      "index": 0,
+      "path": "/photos/custom/time-774.png",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "time-775",
+      "word": "Dienstag",
+      "kind": "day",
+      "index": 1,
+      "path": "/photos/custom/time-775.png",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "time-776",
+      "word": "Mittwoch",
+      "kind": "day",
+      "index": 2,
+      "path": "/photos/custom/time-776.png",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "time-777",
+      "word": "Donnerstag",
+      "kind": "day",
+      "index": 3,
+      "path": "/photos/custom/time-777.png",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "time-778",
+      "word": "Freitag",
+      "kind": "day",
+      "index": 4,
+      "path": "/photos/custom/time-778.png",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "time-779",
+      "word": "Samstag",
+      "kind": "day",
+      "index": 5,
+      "path": "/photos/custom/time-779.png",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "time-780",
+      "word": "Sonntag",
+      "kind": "day",
+      "index": 6,
+      "path": "/photos/custom/time-780.png",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "time-781",
+      "word": "Januar",
+      "kind": "month",
+      "index": 0,
+      "path": "/photos/custom/time-781.png",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "time-782",
+      "word": "Februar",
+      "kind": "month",
+      "index": 1,
+      "path": "/photos/custom/time-782.png",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "time-783",
+      "word": "März",
+      "kind": "month",
+      "index": 2,
+      "path": "/photos/custom/time-783.png",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "time-784",
+      "word": "April",
+      "kind": "month",
+      "index": 3,
+      "path": "/photos/custom/time-784.png",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "time-785",
+      "word": "Mai",
+      "kind": "month",
+      "index": 4,
+      "path": "/photos/custom/time-785.png",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "time-786",
+      "word": "Juni",
+      "kind": "month",
+      "index": 5,
+      "path": "/photos/custom/time-786.png",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "time-787",
+      "word": "Juli",
+      "kind": "month",
+      "index": 6,
+      "path": "/photos/custom/time-787.png",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "time-788",
+      "word": "August",
+      "kind": "month",
+      "index": 7,
+      "path": "/photos/custom/time-788.png",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "time-789",
+      "word": "September",
+      "kind": "month",
+      "index": 8,
+      "path": "/photos/custom/time-789.png",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "time-790",
+      "word": "Oktober",
+      "kind": "month",
+      "index": 9,
+      "path": "/photos/custom/time-790.png",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "time-791",
+      "word": "November",
+      "kind": "month",
+      "index": 10,
+      "path": "/photos/custom/time-791.png",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "time-792",
+      "word": "Dezember",
+      "kind": "month",
+      "index": 11,
+      "path": "/photos/custom/time-792.png",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "ww-new-061",
+      "word": "Warmmiete",
+      "kind": "concept",
+      "index": 7,
+      "path": "/photos/custom/ww-new-061.png",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "ww-new-062",
+      "word": "Kaltmiete",
+      "kind": "concept",
+      "index": 8,
+      "path": "/photos/custom/ww-new-062.png",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "ww-new-063",
+      "word": "Besichtigung",
+      "kind": "concept",
+      "index": 9,
+      "path": "/photos/custom/ww-new-063.png",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "ww-new-065",
+      "word": "Vermieterin",
+      "kind": "concept",
+      "index": 10,
+      "path": "/photos/custom/ww-new-065.png",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "ww-new-077",
+      "word": "Kontostand",
+      "kind": "concept",
+      "index": 11,
+      "path": "/photos/custom/ww-new-077.png",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "ww-new-079",
+      "word": "Dauerauftrag",
+      "kind": "concept",
+      "index": 12,
+      "path": "/photos/custom/ww-new-079.png",
+      "width": 768,
+      "height": 768
+    }
+  ]
+}

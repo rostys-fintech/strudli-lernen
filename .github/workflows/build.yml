@@ -1,0 +1,49 @@
+name: WortWelt build QA
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - run: npm install --no-package-lock
+      - run: npm run build
+      - name: Package 19 current high-resolution calendar photographs and originals
+        run: |
+          python3 - <<'PY'
+          import json,re,shutil
+          from pathlib import Path
+          source=Path('src/data.ts').read_text(encoding='utf-8')
+          catalog=re.search(r'export const DEMO_WORDS:Word\[\]=(\[[\s\S]*?\]);\nexport const ORIGINAL_SENTENCES',source)
+          assert catalog,'Calendar catalog missing after build'
+          by_id={w['id']:w for w in json.loads(catalog.group(1))}
+          names=['Montag','Dienstag','Mittwoch','Donnerstag','Freitag','Samstag','Sonntag','Januar','Februar','März','April','Mai','Juni','Juli','August','September','Oktober','November','Dezember']
+          dest=Path('calendar-export');(dest/'before').mkdir(parents=True,exist_ok=True);(dest/'after').mkdir(parents=True,exist_ok=True)
+          manifest=[]
+          for i,name in enumerate(names):
+              word_id=f'time-{774+i}';word=by_id[word_id]
+              assert word['de']==name,'Calendar name mismatch: '+word_id
+              photo=word['photo']
+              assert photo.startswith('/photos/'),'Calendar photo is not local: '+word_id
+              before=Path('public/photos/custom')/(word_id+'.png')
+              after=Path('public'+photo)
+              assert before.is_file() and after.is_file(),f'Image missing: {word_id}, {after}'
+              assert after.stat().st_size>18000,f'Image too small: {word_id}'
+              shutil.copy2(before,dest/'before'/(word_id+'.png'))
+              shutil.copy2(after,dest/'after'/(word_id+'.jpg'))
+              manifest.append({'id':word_id,'german':name,'before':'before/'+word_id+'.png','after':'after/'+word_id+'.jpg','source':photo,'bytes':after.stat().st_size})
+          (dest/'manifest.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+'\n',encoding='utf8')
+          print('Exported',len(manifest),'calendar photos, using the exact post-build asset paths')
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: wortwelt-calendar-19-hires
+          path: calendar-export/
+          if-no-files-found: error
+          retention-days: 2

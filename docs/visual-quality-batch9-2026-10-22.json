@@ -1,0 +1,136 @@
+{
+  "date": "2026-10-22",
+  "batch": 9,
+  "branch": "visual-quality-oct22",
+  "before": 53,
+  "added": 11,
+  "after": 42,
+  "nouns": 736,
+  "commonsAttributed": 663,
+  "verified": [
+    "Commons exact title",
+    "original image dimensions",
+    "rightsholder attribution",
+    "eligible source licenses",
+    "one-to-one data links",
+    "distinct visual URL"
+  ],
+  "pending": [
+    "human visual appearance/crop review",
+    "build-time URL mirror",
+    "mobile deployment"
+  ],
+  "warning": "For abstract terms, some documentary images serve contextual association and are not themselves literal representations.",
+  "photos": [
+    {
+      "id": "germany-223",
+      "file": "Bundeszentralamt für Steuern - Zuteilung Identifikationsnummer 2008.jpg",
+      "note": "Authentic German Federal Central Tax Office notification assigning tax identification number (2008 document)",
+      "license": "Public domain",
+      "author": "Bundeszentralamt für Steuern",
+      "w": 2408,
+      "h": 3436,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Bundeszentralamt_f%C3%BCr_Steuern_-_Zuteilung_Identifikationsnummer_2008.jpg/960px-Bundeszentralamt_f%C3%BCr_Steuern_-_Zuteilung_Identifikationsnummer_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "germany-225",
+      "file": "Überweisungsträger.JPG",
+      "note": "Real bank-transfer form with sender/recipient bank details; banking connection fields",
+      "license": "Public domain",
+      "author": "User:Mattes",
+      "w": 942,
+      "h": 1129,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/%C3%9Cberweisungstr%C3%A4ger.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "germany-235",
+      "file": "Hackathon 2023 registration screenshot - confirmation email.png",
+      "note": "Actual registration confirmation email screenshot",
+      "license": "CC BY-SA 4.0",
+      "author": "LLacroix-WMF",
+      "w": 639,
+      "h": 746,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Hackathon_2023_registration_screenshot_-_confirmation_email.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "technology-258",
+      "file": "Hyperlinking to highlighted text segments example - linking to a specific row in a table.png",
+      "note": "Authentic website hyperlink screenshot, precisely signals a clickable link",
+      "license": "CC BY-SA 4.0",
+      "author": "Prototyperspective",
+      "w": 1506,
+      "h": 773,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Hyperlinking_to_highlighted_text_segments_example_-_linking_to_a_specific_row_in_a_table.png/960px-Hyperlinking_to_highlighted_text_segments_example_-_linking_to_a_specific_row_in_a_table.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "work-593",
+      "file": "Small business owner in Madagascar (6190135304).jpg",
+      "note": "Real small-business owner; business employer as contextual association",
+      "license": "Public domain",
+      "author": "USAID Africa Bureau",
+      "w": 1944,
+      "h": 2592,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Small_business_owner_in_Madagascar_%286190135304%29.jpg/960px-Small_business_owner_in_Madagascar_%286190135304%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "work-598",
+      "file": "Female Veterinarian, Business Owner.jpg",
+      "note": "Real woman running her own veterinary business; a workplace female boss",
+      "license": "CC BY-SA 4.0",
+      "author": "DorahMalemba",
+      "w": 5568,
+      "h": 3712,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Female_Veterinarian%2C_Business_Owner.jpg/960px-Female_Veterinarian%2C_Business_Owner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "work-600",
+      "file": "Star Watch pay stub.jpg",
+      "note": "Authentic salary/paystub, visually distinct from the salary scene used elsewhere",
+      "license": "CC BY-SA 4.0",
+      "author": "Doug Coldwell",
+      "w": 1960,
+      "h": 898,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Star_Watch_pay_stub.jpg/960px-Star_Watch_pay_stub.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "work-626",
+      "file": "US tax Form 990-PF Return of Private Foundation 2020.png",
+      "note": "Actual tax-filing document; US specimen, not a German form",
+      "license": "Public domain",
+      "author": "United States Government",
+      "w": 1602,
+      "h": 2088,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/US_tax_Form_990-PF_Return_of_Private_Foundation_2020.png/960px-US_tax_Form_990-PF_Return_of_Private_Foundation_2020.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "study-662",
+      "file": "Interpreters' booth at UN peackeeping meeting at UN Headquarters, 2009 (cropped).jpg",
+      "note": "Real professional simultaneous interpreting booth; translation as process",
+      "license": "Public domain",
+      "author": "Pete Souza",
+      "w": 1494,
+      "h": 765,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Interpreters%27_booth_at_UN_peackeeping_meeting_at_UN_Headquarters%2C_2009_%28cropped%29.jpg/960px-Interpreters%27_booth_at_UN_peackeeping_meeting_at_UN_Headquarters%2C_2009_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "time-795",
+      "file": "Daily commute. Hong Kong. (18351525974).jpg",
+      "note": "Genuine everyday commute, contextual cue for daily routine",
+      "license": "CC0",
+      "author": "Bernard Spragg. NZ from Christchurch, New Zealand",
+      "w": 3114,
+      "h": 1986,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Daily_commute._Hong_Kong._%2818351525974%29.jpg/960px-Daily_commute._Hong_Kong._%2818351525974%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "id": "ww-new-074",
+      "file": "Girokonto VdgB1.jpg",
+      "note": "Actual German Girokonto account record; historical format",
+      "license": "CC BY-SA 4.0",
+      "author": "Muldentaler2",
+      "w": 4320,
+      "h": 3240,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Girokonto_VdgB1.jpg/960px-Girokonto_VdgB1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+  ]
+}

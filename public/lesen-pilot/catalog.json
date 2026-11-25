@@ -1,0 +1,81 @@
+{
+ "version": 1,
+ "note": "Cinematic Lesen story catalog (public snapshot).",
+ "stories": [
+  {
+   "id": "bremen",
+   "status": "review",
+   "access": "public",
+   "title": "Die Bremer Stadtmusikanten",
+   "subtitle": "Brüder Grimm",
+   "eyebrow": "Ein Märchen in Bildern",
+   "cover": "/lesen-pilot/stories/bremen/media/raeuber.webp",
+   "teaser": {
+    "uk": "Осел, пес, кішка й півень ідуть до Бремена стати музикантами — і знаходять дім.",
+    "en": "A donkey, a dog, a cat and a rooster set off to become musicians in Bremen and find a home instead."
+   },
+   "levels": [
+    "a1",
+    "a2"
+   ],
+   "voices": [
+    "conrad"
+   ],
+   "defaultVoice": "conrad",
+   "data": "/lesen-pilot/stories/bremen/story-data.json",
+   "timings": "/lesen-pilot/stories/bremen/timings.json",
+   "audio": "/lesen-pilot/stories/bremen/audio/{level}_{voice}.mp3",
+   "video": "/lesen-pilot/stories/bremen/video/{level}_{voice}.mp4"
+  },
+  {
+   "id": "bremen-2",
+   "status": "review",
+   "access": "public",
+   "title": "Die Reise nach Bremen",
+   "subtitle": "Bremer Stadtmusikanten · Teil 2",
+   "eyebrow": "Ein Märchen in Bildern",
+   "cover": "/lesen-pilot/stories/bremen-2/media/statue.webp",
+   "teaser": {
+    "uk": "Друзі нарешті їдуть до Бремена потягом: квитки, затримка, контроль — і несподівана статуя.",
+    "en": "The friends finally take the train to Bremen: tickets, a delay, a ticket check and a surprising statue."
+   },
+   "levels": [
+    "a1",
+    "a2"
+   ],
+   "voices": [
+    "conrad"
+   ],
+   "defaultVoice": "conrad",
+   "data": "/lesen-pilot/stories/bremen-2/story-data.json",
+   "timings": "/lesen-pilot/stories/bremen-2/timings.json",
+   "audio": "/lesen-pilot/stories/bremen-2/audio/{level}_{voice}.mp3",
+   "video": "/lesen-pilot/stories/bremen-2/video/{level}_{voice}.mp4"
+  },
+  {
+   "id": "bremen-3",
+   "status": "review",
+   "access": "public",
+   "title": "Auf dem Markt",
+   "subtitle": "Bremer Stadtmusikanten · Teil 3",
+   "eyebrow": "Ein Märchen in Bildern",
+   "cover": "/lesen-pilot/stories/bremen-3/media/konzert.webp",
+   "teaser": {
+    "uk": "Ринок у Бремені: риба, булочки, морква — а ввечері їхній перший концерт.",
+    "en": "Market day in Bremen: fish, bread rolls, carrots, and their very first concert in the evening."
+   },
+   "levels": [
+    "a1",
+    "a2"
+   ],
+   "voices": [
+    "conrad"
+   ],
+   "defaultVoice": "conrad",
+   "data": "/lesen-pilot/stories/bremen-3/story-data.json",
+   "timings": "/lesen-pilot/stories/bremen-3/timings.json",
+   "audio": "/lesen-pilot/stories/bremen-3/audio/{level}_{voice}.mp3",
+   "video": "/lesen-pilot/stories/bremen-3/video/{level}_{voice}.mp4"
+  }
+ ]
+}

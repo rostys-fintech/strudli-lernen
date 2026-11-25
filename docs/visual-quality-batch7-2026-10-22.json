@@ -1,0 +1,290 @@
+{
+  "date": "2026-10-22",
+  "branch": "visual-quality-oct22",
+  "batch": 7,
+  "baselineSVGBefore": 97,
+  "svgReplaced": 27,
+  "svgRemaining": 70,
+  "illustratedNouns": 736,
+  "commonsRecords": 635,
+  "rightsVerified": true,
+  "mobileRenderVerified": false,
+  "oneToOneMappingsVerified": true,
+  "limitations": [
+    "Some institution and abstract word photos are contextual associations",
+    "A few document or screenshot images are not modern studio photography",
+    "Pending visual crop and runtime mirror testing"
+  ],
+  "images": [
+    {
+      "id": "germany-214",
+      "file": "Save the date card wedding day marked on calendar.jpg",
+      "width": 4000,
+      "height": 2667,
+      "license": "CC BY-SA 4.0",
+      "author": "Claireneon",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Save_the_date_card_wedding_day_marked_on_calendar.jpg/960px-Save_the_date_card_wedding_day_marked_on_calendar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "note": "Calendar card marks a scheduled day; concept of an appointment"
+    },
+    {
+      "id": "germany-215",
+      "file": "Passport application form blank Russia.jpg",
+      "width": 1448,
+      "height": 2048,
+      "license": "CC0",
+      "author": "Rakoon",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Passport_application_form_blank_Russia.jpg/960px-Passport_application_form_blank_Russia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "note": "Real blank passport application form; administrative Antrag"
+    },
+    {
+      "id": "germany-221",
+      "file": "Policy of compulsory insurance of the civil liability of vehicle owners in Russia 2021.jpg",
+      "width": 4889,
+      "height": 7017,
+      "license": "Public domain",
+      "author": "Q4398124, Goznak (Q2133605)",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Policy_of_compulsory_insurance_of_the_civil_liability_of_vehicle_owners_in_Russia_2021.jpg/960px-Policy_of_compulsory_insurance_of_the_civil_liability_of_vehicle_owners_in_Russia_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "note": "Photograph of genuine insurance policy document; generic insurance"
+    },
+    {
+      "id": "germany-227",
+      "file": "Home for rent at Bwiza.jpg",
+      "width": 1920,
+      "height": 2560,
+      "license": "CC BY-SA 4.0",
+      "author": "Arthur Nkunzimana",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Home_for_rent_at_Bwiza.jpg/960px-Home_for_rent_at_Bwiza.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "note": "Real house offered for rent; meaning of rental payment"
+    },
+    {
+      "id": "germany-230",
+      "file": "1-mietvertrag-1.jpg",
+      "width": 786,
+      "height": 1285,
+      "license": "Public domain",
+      "author": "Alfred Bouß",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/1-mietvertrag-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "note": "Actual rental contract with title Mietvertrag"
+    },
+    {
+      "id": "germany-234",
+      "file": "Luxembourg legitimation & proof of residency card, issued to international organisations staff (EU, NATO, EFTA) - front.jpg",
+      "width": 4032,
+      "height": 3024,
+      "license": "CC0",
+      "author": "Gregori-luxair",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Luxembourg_legitimation_%26_proof_of_residency_card%2C_issued_to_international_organisations_staff_%28EU%2C_NATO%2C_EFTA%29_-_front.jpg/960px-Luxembourg_legitimation_%26_proof_of_residency_card%2C_issued_to_international_organisations_staff_%28EU%2C_NATO%2C_EFTA%29_-_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "note": "Real certificate of identity and residency; proof of status"
+    },
+    {
+      "id": "technology-259",
+      "file": "File Explorer App windows 11.png",
+      "width": 1370,
+      "height": 1080,
+      "license": "CC0",
+      "author": "Microsoft Windows",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/File_Explorer_App_windows_11.png/960px-File_Explorer_App_windows_11.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "note": "Actual file-management interface representing a computer file"
+    },
+    {
+      "id": "travel-432",
+      "file": "Maldives, your perfect holiday destination - Flickr - nattu.jpg",
+      "width": 4288,
+      "height": 2848,
+      "license": "CC BY 2.0",
+      "author": "Nattu from Male', Maldives",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Maldives%2C_your_perfect_holiday_destination_-_Flickr_-_nattu.jpg/960px-Maldives%2C_your_perfect_holiday_destination_-_Flickr_-_nattu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "note": "Clear travel destination beach; destination association"
+    },
+    {
+      "id": "travel-448",
+      "file": "International Departures, Cape Town Airport.jpg",
+      "width": 4928,
+      "height": 3264,
+      "license": "CC BY-SA 4.0",
+      "author": "Olga Ernst",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/International_Departures%2C_Cape_Town_Airport.jpg/960px-International_Departures%2C_Cape_Town_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "note": "Airport international departures hall representing travel abroad"
+    },
+    {
+      "id": "family-473",
+      "file": "Bride and groom at wedding party.jpg",
+      "width": 5368,
+      "height": 3579,
+      "license": "CC BY-SA 4.0",
+      "author": "Sinchalak Musulmon",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Bride_and_groom_at_wedding_party.jpg/960px-Bride_and_groom_at_wedding_party.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "note": "Groom and bride at a real wedding; spouse relationship"
+    },
+    {
+      "id": "family-474",
+      "file": "Bride Meets Her Groom.jpg",
+      "width": 1920,
+      "height": 2560,
+      "license": "CC BY-SA 4.0",
+      "author": "Johnnybam",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Bride_Meets_Her_Groom.jpg/960px-Bride_Meets_Her_Groom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "note": "Bride with groom in wedding moment; wife relationship"
+    },
+    {
+      "id": "family-475",
+      "file": "Old Shanghai Old Neighbours (6007444712).jpg",
+      "width": 3072,
+      "height": 2304,
+      "license": "CC BY-SA 2.0",
+      "author": "Can Pac Swire from Toronto, Canada",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Old_Shanghai_Old_Neighbours_%286007444712%29.jpg/960px-Old_Shanghai_Old_Neighbours_%286007444712%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "note": "Photographed neighbors in local community"
+    },
+    {
+      "id": "work-592",
+      "file": "Subway job vacancies sign, Winschoten (2020) 02.jpg",
+      "width": 2736,
+      "height": 4864,
+      "license": "CC BY-SA 4.0",
+      "author": "Donald Trung Quoc Don (Chữ Hán: 徵國單) - Wikimedia Commons - © CC BY-SA 4.0 International.(Want to use this image?)Original publication 📤: --",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Subway_job_vacancies_sign%2C_Winschoten_%282020%29_02.jpg/960px-Subway_job_vacancies_sign%2C_Winschoten_%282020%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "note": "Real job vacancy sign, Stelle in employment sense"
+    },
+    {
+      "id": "work-597",
+      "file": "Welcome Back Meeting, for HUD Senior Executive Service (SES) staff, (on impact of October 1-16 federal government shutdown. Leading the meeting were Secretary Shaun Donovan and Depu - DPLA - a6a1c577f96aed4309eb30bf27309ade.jpg",
+      "width": 4256,
+      "height": 2832,
+      "license": "Public domain",
+      "author": "Department of Housing and Urban Development. Office of the Chief Human Capital Office. Office of Broadcasting Operations. Photo Section. (ca",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Welcome_Back_Meeting%2C_for_HUD_Senior_Executive_Service_%28SES%29_staff%2C_%28on_impact_of_October_1-16_federal_government_shutdown._Leading_the_meeting_were_Secretary_Shaun_Donovan_and_Depu_-_DPLA_-_a6a1c577f96aed4309eb30bf27309ade.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "note": "A top manager leading staff meeting, Chef as workplace supervisor"
+    },
+    {
+      "id": "work-606",
+      "file": "Post Office Savings Bank passbook.jpg",
+      "width": 3024,
+      "height": 4032,
+      "license": "CC BY-SA 4.0",
+      "author": "Wainuiomartian",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Post_Office_Savings_Bank_passbook.jpg/960px-Post_Office_Savings_Bank_passbook.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "note": "Actual savings bank account passbook; Konto"
+    },
+    {
+      "id": "study-633",
+      "file": "Stress Spelled Out In Scrabble Tiles.jpg",
+      "width": 4608,
+      "height": 3456,
+      "license": "CC BY 2.0",
+      "author": "Forth With Life",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Stress_Spelled_Out_In_Scrabble_Tiles.jpg/960px-Stress_Spelled_Out_In_Scrabble_Tiles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "note": "Letters forming one word, visual clue for Wort"
+    },
+    {
+      "id": "study-636",
+      "file": "488th IS opens language-learning facility to tri-base Airmen, civilians (6542108).jpg",
+      "width": 2400,
+      "height": 1303,
+      "license": "Public domain",
+      "author": "U.S. Air Force photo by Karen Abeyasekere",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/488th_IS_opens_language-learning_facility_to_tri-base_Airmen%2C_civilians_%286542108%29.jpg/960px-488th_IS_opens_language-learning_facility_to_tri-base_Airmen%2C_civilians_%286542108%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "note": "Language-learning facility actively used"
+    },
+    {
+      "id": "study-645",
+      "file": "Ichetucknee Springs State Park misspelled sign.jpg",
+      "width": 3264,
+      "height": 2448,
+      "license": "CC BY-SA 4.0",
+      "author": "The Bushranger",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Ichetucknee_Springs_State_Park_misspelled_sign.jpg/960px-Ichetucknee_Springs_State_Park_misspelled_sign.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "note": "Real sign with spelling mistake, error in written language"
+    },
+    {
+      "id": "study-649",
+      "file": "A public high school teacher in a classroom in the United States 17.jpg",
+      "width": 2995,
+      "height": 3993,
+      "license": "CC BY 4.0",
+      "author": "Harrison Keely",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/A_public_high_school_teacher_in_a_classroom_in_the_United_States_17.jpg/960px-A_public_high_school_teacher_in_a_classroom_in_the_United_States_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "note": "Real teacher at school in classroom, Lehrerin"
+    },
+    {
+      "id": "shopping-685",
+      "file": "Candy products displayed in a supermarket.jpg",
+      "width": 6000,
+      "height": 4000,
+      "license": "CC BY 4.0",
+      "author": "Nielsoncaetanosalmeron",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Candy_products_displayed_in_a_supermarket.jpg/960px-Candy_products_displayed_in_a_supermarket.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "note": "Real commercial products displayed on supermarket shelves"
+    },
+    {
+      "id": "shopping-690",
+      "file": "Donald Fox, a quality assurance inspector with the 100th Logistics Readiness Squadron, inspects garden equipment and tools belonging to U.S. Air Force Chief Master Sgt. Randy Ymker, superintendent of the 100th 130522-F-FE537-0015.jpg",
+      "width": 2043,
+      "height": 2554,
+      "license": "Public domain",
+      "author": "Gina Randall",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Donald_Fox%2C_a_quality_assurance_inspector_with_the_100th_Logistics_Readiness_Squadron%2C_inspects_garden_equipment_and_tools_belonging_to_U.S._Air_Force_Chief_Master_Sgt._Randy_Ymker%2C_superintendent_of_the_100th_130522-F-FE537-0015.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "note": "Real product and equipment quality inspection"
+    },
+    {
+      "id": "body-719",
+      "file": "Man Flu.jpg",
+      "width": 1728,
+      "height": 2240,
+      "license": "CC BY 2.0",
+      "author": "Jason Rogers",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Man_Flu.jpg/960px-Man_Flu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "note": "Person with cold symptoms, Erkältung"
+    },
+    {
+      "id": "hobbies-746",
+      "file": "Hovimäki television series 2000 (JOKAOM14AiD RAD TEL OH01-12).tif",
+      "width": 6672,
+      "height": 4431,
+      "license": "CC BY 4.0",
+      "author": "Jukka Kuusisto",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Hovim%C3%A4ki_television_series_2000_%28JOKAOM14AiD_RAD_TEL_OH01-12%29.tif/lossy-page1-960px-Hovim%C3%A4ki_television_series_2000_%28JOKAOM14AiD_RAD_TEL_OH01-12%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "note": "Photograph taken during a TV series production; Serie"
+    },
+    {
+      "id": "hobbies-759",
+      "file": "Downing Street reception 28 July 2025 England women's football team 25.jpg",
+      "width": 8192,
+      "height": 5464,
+      "license": "CC BY 4.0",
+      "author": "Alecsandra Dragoi / No 10 Downing Street",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Downing_Street_reception_28_July_2025_England_women%27s_football_team_25.jpg/960px-Downing_Street_reception_28_July_2025_England_women%27s_football_team_25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "note": "Recent real team photographed together, club/group affiliation"
+    },
+    {
+      "id": "time-770",
+      "file": "Agenda voorbeeld week.jpg",
+      "width": 742,
+      "height": 564,
+      "license": "CC BY-SA 3.0",
+      "author": "wikibooks:nl:user:Ischa1 at nl.wikibooks",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Agenda_voorbeeld_week.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "note": "Weekly planner with a seven-day grid"
+    },
+    {
+      "id": "time-772",
+      "file": "Monthly schedule (Unsplash).jpg",
+      "width": 3872,
+      "height": 2592,
+      "license": "CC0",
+      "author": "Eric Rothermel erothermel",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Monthly_schedule_%28Unsplash%29.jpg/960px-Monthly_schedule_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "note": "Professional photo of monthly calendar/planner"
+    },
+    {
+      "id": "ww-new-081",
+      "file": "An Afghan doctor checks a patient's tonsils at a medical clinic in Sarobi district, Kabul province, Afghanistan, Dec. 7, 2013 131207-A-YF193-018.jpg",
+      "width": 5760,
+      "height": 3840,
+      "license": "Public domain",
+      "author": "SPC Sara Wakai",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/An_Afghan_doctor_checks_a_patient%27s_tonsils_at_a_medical_clinic_in_Sarobi_district%2C_Kabul_province%2C_Afghanistan%2C_Dec._7%2C_2013_131207-A-YF193-018.jpg/960px-An_Afghan_doctor_checks_a_patient%27s_tonsils_at_a_medical_clinic_in_Sarobi_district%2C_Kabul_province%2C_Afghanistan%2C_Dec._7%2C_2013_131207-A-YF193-018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "note": "Real doctor examining a patient, Hausarzt"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+import{readFileSync}from"node:fs";
+const read=path=>readFileSync(new URL("../"+path,import.meta.url),"utf8");
+const app=read("src/App.tsx"),lib=read("src/Library.tsx"),css=read("src/styles.css"),progress=read("src/progress.ts");
+const expect=(condition,message)=>{if(!condition)throw Error("Favorites QA: "+message)};
+expect(app.includes('aria-pressed={favorites.includes(word.id)}'),"game favorite button needs an accessible active state");
+expect(app.includes('onClick={()=>toggleFavorite(word.id)}'),"game card must save current word");
+expect(app.includes('mode={screen} words={DEMO_WORDS} topics={DEMO_TOPICS} favorites={favorites}'),"library must share game favorites");
+expect(app.includes('onPracticeFavorites={()=>startWords(favorites)}'),"favorites need dedicated word round");
+expect(lib.includes('mode==="favorites"')&&lib.includes('onClick={onPracticeFavorites}'),"favorites library practice missing");
+expect(progress.includes('"wortwelt-saved"'),"favorites must remain in existing backup export/import");
+expect(css.includes('.gameFavorite')&&css.includes('.favoritePractice'),"mobile controls not styled");
+console.log("Favorites QA passed: game bookmark, shared library, dedicated three-flame round, persistence and backup.");

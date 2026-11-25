@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-22",
+  "batch": 11,
+  "branch": "visual-quality-oct22",
+  "svgBefore": 35,
+  "photosReplaced": 3,
+  "svgRemaining": 32,
+  "totalNouns": 736,
+  "uniqueVisuals": 736,
+  "photoRecords": 673,
+  "limitations": [
+    "Some abstract terms have only contextual photographs, not direct unambiguous literal visuals",
+    "Original certificate is a historical specimen with limited resolution",
+    "Deadline uses fine-art conceptual clock photograph, not a written deadline date",
+    "No mobile crop or build-time external photo mirroring test"
+  ],
+  "images": [
+    {
+      "id": "work-615",
+      "file": "These skilled artisans are diligently crafting 'Guru Ashana'(গুৰু আসন).jpg",
+      "note": "Real close-up of experienced artisans producing intricate handmade work; contextual photo of practical expertise, not a literal measurement of experience",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/These_skilled_artisans_are_diligently_crafting_%27Guru_Ashana%27%28%E0%A6%97%E0%A7%81%E0%A7%B0%E0%A7%81_%E0%A6%86%E0%A6%B8%E0%A6%A8%29.jpg/960px-These_skilled_artisans_are_diligently_crafting_%27Guru_Ashana%27%28%E0%A6%97%E0%A7%81%E0%A7%B0%E0%A7%81_%E0%A6%86%E0%A6%B8%E0%A6%A8%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "width": 4128,
+      "height": 3096,
+      "license": "CC BY-SA 4.0",
+      "author": "পাপৰি বৰা"
+    },
+    {
+      "id": "germany-233",
+      "file": "Deadline (82014365).jpeg",
+      "note": "Authentic artistic photograph intentionally titled Deadline, visual clock cue for time limit",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Deadline_%2882014365%29.jpeg/960px-Deadline_%2882014365%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "width": 2048,
+      "height": 2048,
+      "license": "CC BY 3.0",
+      "author": "Daniele Zanni"
+    },
+    {
+      "id": "germany-219",
+      "file": "Marilyn Monroe Birth Certificate original.jpg",
+      "note": "Authentic original birth certificate as an example of an original official document, rather than copy",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Marilyn_Monroe_Birth_Certificate_original.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "width": 800,
+      "height": 599,
+      "license": "Public domain",
+      "author": "Form of this certificate was the R&S-61 (est. July 1, 1949) of the Department of Health of State of California."
+    }
+  ]
+}

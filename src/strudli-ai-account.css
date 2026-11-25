@@ -1,0 +1,92 @@
+/* Strudli explains, Say it yourself and the optional account — same warm Strudli palette and type as Audio/Practice. */
+.strudliExplain,.strudliSpeak{margin:12px auto 0;max-width:660px;text-align:left}
+.strudliExplainButton,.strudliSpeakButton{display:flex;align-items:center;justify-content:center;gap:8px;width:100%;min-height:46px;padding:10px 14px;border:1px solid #e2bda2;border-bottom:3px solid #d9b28b;border-radius:14px;background:#fffaf2;color:#8c2d49;font:850 14px/1.2 Rubik,Nunito,sans-serif;cursor:pointer}
+.strudliExplainButton:disabled{opacity:.75;cursor:progress}
+.strudliSpeakButton.live{background:#a7264b;color:#fff;border-color:#902042;border-bottom-color:#761a3a;animation:strudliPulse 1.4s ease-in-out infinite}
+@keyframes strudliPulse{50%{box-shadow:0 0 0 6px #a7264b22}}
+@media (prefers-reduced-motion:reduce){.strudliSpeakButton.live{animation:none}}
+.strudliExplainCard{background:#fffdf8;border:1px solid #ebd3b8;border-radius:17px;padding:13px 15px;color:#423026;box-shadow:0 4px 10px #8e5d3517}
+.strudliExplainCard.offline{background:#fff7eb}
+.strudliExplainLabel{display:flex;align-items:center;gap:8px;margin:0 0 8px;font:900 13px/1.2 Rubik,Nunito,sans-serif;color:#8c2d49}
+.strudliExplainLabel img{width:30px;height:30px;object-fit:contain}
+.strudliExplainLabel span{margin-left:auto;font-size:10px;letter-spacing:.06em;padding:3px 7px;border-radius:999px;background:#f8ecdf;color:#765f55}
+.strudliExplainTranslation{font-size:16px;font-weight:850;margin:0 0 8px}
+.strudliExplainCard ul{margin:0 0 8px;padding-left:18px;font-size:14px;line-height:1.5}
+.strudliExplainCard b[lang=de]{color:#362721}
+.strudliExplainGrammar{font-size:14px;line-height:1.45;margin:0 0 8px;color:#5b4136}
+.strudliExplainExample{display:flex;flex-direction:column;gap:2px;margin:0 0 8px;padding:8px 10px;border-radius:12px;background:#f8ecdf}
+.strudliExplainExample small{color:#765f55;font-size:13px}
+.strudliExplainNote,.strudliSpeakNote{display:block;font-size:11px;line-height:1.35;color:#8a6c5d;margin-top:6px}
+.strudliSpeakResult{margin-top:9px;padding:10px 12px;border-radius:14px;background:#fffdf8;border:1px solid #ebd3b8}
+.strudliSpeakResult p{margin:0 0 6px;font-size:18px;font-weight:850;line-height:1.35}
+.strudliSpeakResult .ok{color:#1f7a4d}.strudliSpeakResult .miss{color:#b3203f;text-decoration:underline wavy #b3203f88}
+.strudliSpeakResult strong{display:block;font-size:13px;color:#423026}.strudliSpeakResult small{display:block;margin-top:4px;font-size:12px;color:#8a6c5d}
+.strudliAudioActions{display:grid;grid-template-columns:1fr 1fr;gap:9px;margin:12px auto 0;max-width:660px}
+.strudliAudioActions .strudliExplain,.strudliAudioActions .strudliSpeak{margin:0}
+.strudliAudioActions .strudliExplain:has(.strudliExplainCard),.strudliAudioActions .strudliSpeak:has(.strudliSpeakResult,.strudliSpeakNote:not(.strudliSpeakPrivacy)){grid-column:1/-1}
+@media (max-width:420px){.strudliAudioActions{grid-template-columns:1fr}}
+
+.strudliAccount{margin:22px 0;padding:16px;border:1px solid var(--strudli-line,#ead7c6);border-radius:18px;background:var(--strudli-paper,#fffcf8)}
+.strudliAccount header{display:flex;gap:10px;align-items:flex-start;color:var(--strudli-red,#99233d)}
+.strudliAccount header strong{display:block;font:900 16px/1.2 Rubik,Nunito,sans-serif;color:var(--strudli-ink,#312522)}
+.strudliAccount header small{display:block;margin-top:4px;font-size:12px;line-height:1.45;color:var(--strudli-muted,#765f55)}
+.strudliAccountTabs{display:flex;gap:7px;margin:14px 0 4px;flex-wrap:wrap}
+.backup .strudliAccountTabs button{min-height:38px;margin:0;padding:8px 12px;border:1px solid #e4c9ad;border-bottom:3px solid #d9b28b;border-radius:12px;background:#fffaf2;color:#684b40;font:850 13px/1.2 Rubik,Nunito,sans-serif}
+.backup .strudliAccountTabs button.selected{background:var(--strudli-red,#99233d);border-color:var(--strudli-red-dark,#762036);color:#fff}
+.strudliAccountForm{display:flex;flex-direction:column;gap:10px;margin-top:10px}
+.strudliAccountForm label{display:flex;flex-direction:column;gap:5px;font-size:13px;font-weight:850;color:var(--strudli-ink,#312522)}
+.strudliAccountForm input{min-height:46px;padding:10px 12px;border:1px solid #dcc2a8;border-radius:12px;background:#fff;font:600 16px Nunito,system-ui,sans-serif;color:#312522}
+.strudliAccountForm input:focus-visible{outline:3px solid #edb23e;outline-offset:1px}
+.strudliPassword{position:relative;display:flex}
+.strudliPassword input{flex:1;padding-right:48px}
+.backup .strudliPassword button{position:absolute;right:4px;top:4px;bottom:4px;min-height:0;margin:0;padding:0 10px;background:transparent;color:#765f55;border-radius:9px}
+.strudliAccountHint{font-size:12px;color:var(--strudli-muted,#765f55)}
+.strudliAccountNotice{margin:12px 0 0;padding:9px 12px;border-radius:12px;font-size:13px;font-weight:800}
+.strudliAccountNotice.ok{background:#e8f5ec;color:#1f6b43}.strudliAccountNotice.error{background:#fdecef;color:#9b1f3c}
+.strudliAccountUser{display:flex;align-items:center;gap:7px;margin:14px 0 4px;font-size:14px;color:var(--strudli-ink,#312522)}
+.strudliAccountActions{display:grid;grid-template-columns:1fr 1fr;gap:9px}
+.backup .strudliAccountActions button{margin:6px 0 0;justify-content:center;text-align:left}
+.backup .strudliAccountActions button:nth-of-type(2){background:var(--strudli-red-dark,#762036)}
+.strudliAccountSmall{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px}
+.backup .strudliAccount .strudliAccountSmall button{min-height:38px;margin:0;padding:8px 11px;background:#fffaf2;color:#684b40;border:1px solid #e4c9ad;border-radius:11px;font-size:13px}
+.backup .strudliAccount button.danger,.backup .strudliAccountForm button.danger{color:#9b1f3c;border-color:#e9b7c2}
+.backup .strudliAccountForm button.danger{background:#9b1f3c;color:#fff}
+.strudliRecovery{margin-top:12px;padding:12px;border:2px dashed var(--strudli-gold,#e8aa3d);border-radius:14px;background:#fff8e8}
+.strudliRecovery strong{display:block;font-size:13px}.strudliRecovery code{display:block;margin:8px 0;font:800 18px/1.3 ui-monospace,Menlo,monospace;letter-spacing:.06em;color:#312522;word-break:break-all}
+.strudliRecovery small{display:block;font-size:12px;color:#765f55}.strudliRecovery>div{display:flex;gap:8px;flex-wrap:wrap}
+.backup .strudliRecovery button{min-height:38px;margin:8px 0 0;padding:8px 12px;font-size:13px;background:var(--strudli-red,#99233d)}
+.backup .strudliRecovery button+button{background:#fffaf2;color:#684b40;border:1px solid #e4c9ad}
+@media (max-width:520px){.strudliAccountActions{grid-template-columns:1fr}}
+
+/* Ask Strudli screen — same cards, borders and colours as the rest of the app */
+.strudliAsk{max-width:760px;margin:0 auto;padding:18px 16px 110px;font-family:Rubik,Nunito,sans-serif;color:#312522;display:grid;gap:16px}
+.strudliAskHead{display:flex;gap:14px;align-items:center;padding:16px;border:1px solid #e4c9ad;border-bottom:5px solid #d9b28b;border-radius:24px;background:#fffaf2;box-shadow:0 6px 18px #7b4e2918}
+.strudliAskHead img{width:86px;height:86px;object-fit:contain;flex:0 0 86px}
+.strudliAskHead h1{margin:4px 0 6px;font-size:clamp(26px,6vw,36px);font-weight:900;letter-spacing:-.6px;color:#312522}
+.strudliAskHead p{margin:0;color:#5b463e;font-size:15px;line-height:1.45}
+.strudliAskTag{display:inline-flex;align-items:center;gap:5px;padding:4px 10px;border-radius:999px;background:#99233d;color:#fff;font-size:12px;font-weight:900;letter-spacing:.05em}
+.strudliAskBox{display:grid;gap:8px;padding:14px;border:1px solid #e4c9ad;border-bottom:4px solid #d9b28b;border-radius:20px;background:#fff}
+.strudliAskBox label{font-size:13px;font-weight:800;color:#765f55}
+.strudliAskBox textarea{width:100%;box-sizing:border-box;resize:vertical;min-height:84px;padding:12px 14px;border:2px solid #e4c9ad;border-radius:14px;background:#fffdf9;color:#312522;font:600 17px/1.4 Rubik,Nunito,sans-serif}
+.strudliAskBox textarea:focus{outline:none;border-color:#99233d;box-shadow:0 0 0 3px #99233d22}
+.strudliAskActions{display:flex;gap:8px}
+.strudliAskGo{flex:1;display:flex;align-items:center;justify-content:center;gap:8px;min-height:50px;border:0;border-bottom:4px solid #6f1a31;border-radius:16px;background:#99233d;color:#fff;font:900 16px/1 Rubik,Nunito,sans-serif;cursor:pointer}
+.strudliAskGo:disabled{background:#c9a5ae;border-bottom-color:#a98790;cursor:default}
+.strudliAskSecondary{display:grid;place-items:center;width:50px;min-height:50px;border:1px solid #e4c9ad;border-bottom:4px solid #d9b28b;border-radius:16px;background:#fffaf2;color:#99233d;cursor:pointer}
+.strudliAskExamples{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.strudliAskExamples strong{width:100%;font-size:14px;color:#765f55}
+.strudliAskExamples button{padding:9px 13px;border:1px solid #e4c9ad;border-bottom:3px solid #d9b28b;border-radius:999px;background:#fffaf2;color:#5b2a35;font:700 14px/1.25 Rubik,Nunito,sans-serif;text-align:left;cursor:pointer}
+.strudliAskExamples button:hover{background:#fff0dc}
+.strudliAskAsked{margin:0 0 6px;font-style:italic;color:#765f55}
+
+/* Strudli tells the explanation: bigger mascot that bobs, then talks; lines appear one after another */
+.strudliExplainLabel img{width:54px!important;height:54px!important;object-fit:contain;transform-origin:50% 90%;animation:strudliBob 2.4s ease-in-out infinite}
+.strudliTold .strudliExplainLabel img{animation:strudliTalk .55s ease-in-out 6,strudliBob 2.4s ease-in-out 3.3s infinite}
+.strudliTold>*:not(.strudliExplainLabel){opacity:0;animation:strudliIn .45s ease-out forwards}
+.strudliTold>*:nth-child(2){animation-delay:.25s}.strudliTold>*:nth-child(3){animation-delay:.6s}.strudliTold>*:nth-child(4){animation-delay:1s}.strudliTold>*:nth-child(5){animation-delay:1.4s}.strudliTold>*:nth-child(6){animation-delay:1.8s}.strudliTold>*:nth-child(7){animation-delay:2.1s}
+.strudliDots{display:inline-block;overflow:hidden;vertical-align:bottom;width:1.2em;animation:strudliDots 1s steps(3,end) infinite}
+@keyframes strudliBob{0%,100%{transform:translateY(0) rotate(0)}50%{transform:translateY(-4px) rotate(-2deg)}}
+@keyframes strudliTalk{0%,100%{transform:scale(1) rotate(0)}50%{transform:scale(1.06,.96) rotate(2deg)}}
+@keyframes strudliIn{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+@keyframes strudliDots{from{width:0}to{width:1.2em}}
+@media (prefers-reduced-motion:reduce){.strudliExplainLabel img,.strudliTold>*{animation:none!important;opacity:1}}

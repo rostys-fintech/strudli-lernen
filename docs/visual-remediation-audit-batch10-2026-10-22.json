@@ -1,0 +1,68 @@
+{
+  "date": "2026-10-22",
+  "batch": 10,
+  "branch": "visual-photo-remediation-oct22",
+  "groups": [
+    "landscapes",
+    "weather",
+    "animals"
+  ],
+  "screened_additional": 57,
+  "cumulative_screened": 621,
+  "remaining": 115,
+  "total": 736,
+  "screened_percent": 84.38,
+  "new_photo_replacements": [
+    {
+      "id": "nature-488",
+      "source": "https://commons.wikimedia.org/wiki/File:Grass_Closeup.jpg",
+      "license": "CC0-1.0",
+      "author": "Romain Guy",
+      "change": "Sharp vivid green grass blades in close-up; mountains removed from visual focus",
+      "actual_source_thumbnail_reviewed": true,
+      "mobile_app_crop_verified": false
+    },
+    {
+      "id": "nature-503",
+      "source": "https://commons.wikimedia.org/wiki/File:Clouds_and_Blue_Sky.jpg",
+      "license": "CC0-1.0",
+      "author": "TrudiJ",
+      "change": "Open sky and contrasting weather clouds without distracting people",
+      "actual_source_thumbnail_reviewed": true,
+      "mobile_app_crop_verified": false
+    },
+    {
+      "id": "nature-514",
+      "source": "https://commons.wikimedia.org/wiki/File:European_hare_(Lepus_europaeus)_Marken_2.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Charles J. Sharp",
+      "change": "Actual European hare, prominently photographed; replaces rabbit (distinct animal)",
+      "actual_source_thumbnail_reviewed": true,
+      "mobile_app_crop_verified": false
+    }
+  ],
+  "emoji_corrections": [
+    {
+      "id": "ww-new-115",
+      "de": "Huhn",
+      "from": "🐓",
+      "to": "🐔"
+    }
+  ],
+  "findings": [
+    "Hase previously showed rabbit, a different animal.",
+    "Gras previously had a mountain-grass scene too wide for a one-second cue.",
+    "Wetter previously had a couple as distracting subject.",
+    "Source and license reviewed for three replacements; all 57 source titles and labels screened.",
+    "Screened count is not 57 individually reviewed image pixels; production mobile crop remains unverified."
+  ],
+  "qa": {
+    "noun_image_count": 736,
+    "unique_image_urls": 736,
+    "manifest_count": 673,
+    "source_verified": true,
+    "build_run": false,
+    "phone_render_verified": false,
+    "deploy": false
+  }
+}

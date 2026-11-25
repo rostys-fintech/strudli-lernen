@@ -1,0 +1,290 @@
+/* Strudli Lernen — approved storybook skin, 23 November 2026.
+   Real HTML buttons and bilingual copy, not a screenshot overlay.
+   Art direction: soft dimensional 3D storybook, NOT flat wireframes. */
+
+.shell--home{--sl-cream:#fff9f0;--sl-ink:#342520;--sl-wine:#a21c42;--sl-gold:#f5b926;background:#fff9f0}
+.shell--home .topbar--home{
+ height:95px;min-height:95px;padding:0 max(30px,calc((100vw - 1420px)/2));
+ background:#fff9f0;align-items:center;box-shadow:none;isolation:isolate
+}
+.shell--home .topbar--home:after{
+ bottom:-18px;height:32px;z-index:-1;
+ clip-path:polygon(0 0,100% 0,100% 60%,94% 63%,87% 54%,80% 67%,72% 55%,64% 69%,56% 58%,47% 70%,39% 58%,31% 66%,24% 51%,17% 65%,10% 54%,0 66%);
+}
+.shell--home .topbar--home .brandHomeLink{
+ max-width:240px;border:0;background:transparent;flex-shrink:0;
+}
+.shell--home .topbar--home .logo .brandWordmark{
+ width:181px;max-height:76px;filter:drop-shadow(0 1px 1px #5c352626)
+}
+.shell--home .topbar--home .langSwitch{
+ border-radius:17px;border:1px solid #ebd1bb;background:#f6eadd;
+ padding:4px;box-shadow:0 2px 4px #87573511
+}
+.shell--home .topbar--home .langSwitch button{
+ min-width:52px;min-height:44px;border-radius:12px;
+ font:900 15px/1.1 Rubik,Nunito,sans-serif;color:#796158
+}
+.shell--home .topbar--home .langSwitch button.active{background:#9c173d;color:white;box-shadow:0 2px 6px #64243924}
+.shell--home .content--home{padding-bottom:0}
+.strudliLanding{
+ font-family:Rubik,Nunito,system-ui,sans-serif;
+ background:linear-gradient(180deg,#fffaf3 0%,#fff9f0 58%,#fff7eb 100%);
+ color:var(--sl-ink);min-height:100vh
+}
+.strudliLandingHero{
+ height:clamp(366px,27vw,424px);
+ background:linear-gradient(150deg,#91c3ec 0%,#f4c7b2 63%,#f3d09c 100%);
+ overflow:hidden
+}
+.strudliLandingScene{
+ background:
+  radial-gradient(circle at 47% 93%,#fff4d5 0%,transparent 39%),
+  linear-gradient(165deg,#9ccdf5 5%,#c9d5e9 42%,#f7d6b7 80%,#f0c5a2 100%);
+}
+.strudliLandingScene:before{
+ inset:0 0 0 39%;background-image:
+  linear-gradient(90deg,#f4d9bf4d 0%,#fff5e911 45%,#fff1d11c 100%),
+  url('/strudli/berlin-gate-photo.jpg');
+ background-size:cover,auto 111%;
+ background-repeat:no-repeat;
+ background-position:center,right 47%;
+ mask-image:linear-gradient(90deg,transparent 0%,#000 22%);
+ -webkit-mask-image:linear-gradient(90deg,transparent 0%,#000 22%);
+ filter:sepia(.17) saturate(1.09) brightness(1.11) contrast(.97)
+}
+.strudliLandingScene:after{
+ content:"";position:absolute;left:-2%;top:-22%;width:min(42%,670px);height:66%;
+ background:url('/strudli/autumn-canopy.svg') left top/contain no-repeat;
+ opacity:.97;filter:none
+}
+.strudliLandingHero:after{
+ height:20px;clip-path:polygon(0 38%,7% 49%,15% 27%,24% 52%,33% 35%,42% 53%,52% 29%,62% 47%,72% 30%,82% 51%,91% 31%,100% 42%,100% 100%,0 100%)
+}
+.strudliLandingMascot.strudliTourLaunch{
+ position:absolute;z-index:3;display:block;overflow:visible;
+ left:max(27px,calc((100vw - 1420px)/2));bottom:-1px;
+ width:clamp(265px,32vw,465px);height:clamp(255px,29vw,418px);
+ padding:0;margin:0;border:0;background:transparent;min-height:0;
+ box-shadow:none;transform:none;filter:drop-shadow(0 13px 13px #754d3037);
+ transition:transform .22s ease-out;cursor:pointer
+}
+.strudliLandingMascot.strudliTourLaunch:hover{transform:translateY(-4px)}
+.strudliLandingMascot.strudliTourLaunch>img.strudliLandingMascotHQ{
+ position:absolute;inset:0;width:100%!important;height:100%!important;
+ max-width:none!important;max-height:none!important;object-fit:contain;
+ image-rendering:auto;filter:drop-shadow(0 4px 5px #59402121)
+}
+.strudliLandingWelcome{
+ left:37%;top:14%;width:38%;max-width:625px;gap:13px;
+ align-items:start;justify-items:stretch
+}
+.strudliLandingBubble{
+ width:100%;padding:24px 38px 26px 44px;
+ border:0;position:relative;
+ background:linear-gradient(155deg,#fffaf2f7,#fff4e8f4);
+ border-radius:39% 39% 32% 35%/24% 27% 22% 26%;
+ box-shadow:0 9px 23px #98705019;
+ backdrop-filter:blur(3px)
+}
+.strudliLandingBubble:after{
+ content:"";position:absolute;bottom:-6px;left:23%;width:40%;height:12px;
+ background:#fff5eaf4;border-radius:100%;filter:blur(1px);
+}
+.strudliLandingBubble h1{
+ font-family:Rubik,Nunito,system-ui,sans-serif;letter-spacing:-.055em;
+ font-weight:900;font-size:clamp(29px,3.15vw,48px);
+ line-height:1.12;margin:0;color:#33221d
+}
+.strudliLandingBubble h1 span{display:block;position:relative;color:#a11c41;margin-top:2px}
+.strudliLandingBubble h1 span:after{
+ content:"";position:absolute;bottom:-10px;left:12%;width:73%;height:5px;
+ border-radius:60% 30% 60% 20%;transform:rotate(-2deg);
+ background:linear-gradient(90deg,#f1a70e,#f8c132)
+}
+.strudliLandingBubble p{color:#674c42;font-weight:700;font-size:clamp(12px,1.2vw,17px);line-height:1.4;margin:16px 0 0}
+.strudliHeart{color:#a02248;font-size:33px;line-height:.8;vertical-align:-5px}
+.strudliLandingContinue{
+ width:min(100%,535px);min-height:78px;gap:13px;
+ padding:10px 19px;border:7px solid #fff7ed;border-radius:28px;
+ background:linear-gradient(105deg,#ad163a 0%,#9d1639 88%);
+ color:white;font:900 clamp(17px,1.55vw,23px)/1.1 Rubik,Nunito,sans-serif;
+ box-shadow:0 7px 0 #8f4c4d39,0 15px 24px #6e32272c;
+ position:relative;isolation:isolate
+}
+.strudliLandingContinue:after{
+ content:"";position:absolute;z-index:-1;left:44%;bottom:-9px;
+ width:16%;height:13px;background:#fff7ed;
+ clip-path:polygon(0 0,50% 100%,100% 0);filter:drop-shadow(0 2px 1px #7e3635);
+}
+.strudliLandingContinue:before{
+ content:"";position:absolute;right:-55px;top:3px;
+ width:46px;height:65px;background:
+ linear-gradient(55deg,transparent 32%,#f0ad08 35% 50%,transparent 53%) 3px 6px/40px 15px no-repeat,
+ linear-gradient(90deg,#f6bb21,#e99a0b) 7px 28px/36px 11px no-repeat,
+ linear-gradient(135deg,transparent 30%,#e6a10e 34% 50%,transparent 55%) 2px 48px/42px 14px no-repeat;
+ transform:rotate(-14deg);pointer-events:none
+}
+.strudliLandingCtaIcon{display:inline-grid;place-items:center;font-size:31px;line-height:1;filter:drop-shadow(0 2px 1px #480a1722)}
+.strudliLandingContinue span:nth-child(2){flex:1;text-align:center}
+.strudliLandingContinue:hover{background:linear-gradient(100deg,#bc2348,#8d1234)}
+.strudliLandingFeatures{
+ max-width:1430px;position:relative;z-index:4;
+ grid-template-columns:repeat(4,minmax(0,1fr));
+ gap:19px;padding:0 31px;margin:-11px auto 24px
+}
+.strudliLandingFeatures button{
+ min-height:135px;height:135px;padding:14px 14px 23px;
+ background:url('/strudli/open-book-tab.svg') center/100% 100% no-repeat;
+ border:0;border-radius:0;box-shadow:none;
+ display:flex;flex-direction:column;gap:2px;
+ font-family:Rubik,Nunito,sans-serif;font-weight:900;
+ font-size:clamp(17px,1.48vw,22px);color:#3a2521;
+ transition:transform .18s ease,filter .18s ease
+}
+.strudliLandingFeatures button:after{display:none}
+.strudliLandingFeatures button:hover{background-color:transparent;border:0;filter:drop-shadow(0 5px 5px #98633025);transform:translateY(-4px)}
+.strudliLandingFeatures button:active{transform:translateY(1px)}
+.strudliBookIcon{font-family:system-ui,Apple Color Emoji,Segoe UI Emoji,sans-serif;font-size:39px;line-height:1.2;color:inherit;filter:drop-shadow(0 2px 1px #a66c5825)}
+.strudliLandingTopics{max-width:1430px;padding:0 31px 35px}
+.strudliLandingTopics h2{font:900 clamp(26px,2.3vw,34px)/1.2 Rubik,Nunito,sans-serif;letter-spacing:-.045em;margin:13px 0 23px}
+.strudliLandingTopics h2 svg{width:35px;height:35px;color:#a12446;stroke:#fff}
+.strudliLandingTopics h2 span:after{bottom:-10px;height:3px;background:#edb220}
+.strudliLandingTopicGrid{grid-template-columns:repeat(2,minmax(0,1fr));gap:20px}
+.strudliLandingTopicCard{
+ height:clamp(144px,12vw,190px);border-radius:23px;
+ background-position:center;background-size:cover;
+ border:1px solid #f4e3d6;box-shadow:0 6px 16px #70482c20;
+ padding:17px 25px;text-shadow:0 2px 6px #180e0bb5
+}
+.strudliLandingTopicName{font:900 clamp(16px,1.47vw,22px)/1.2 Rubik,Nunito,sans-serif;gap:14px}
+.strudliLandingTopicIcon{width:37px;height:37px;display:inline-grid;place-items:center;font-size:28px;line-height:1}
+.strudliLandingTopicIcon svg{width:36px;height:36px;stroke-width:2.5}
+.strudliLandingTopicArrow{
+ width:45px;height:45px;flex:0 0 45px;
+ background:#fff9f1;color:#6c2b35;box-shadow:0 3px 9px #210f1228
+}
+.strudliLandingTopicArrow svg{transform:rotate(0deg)}
+.shell--home .navigation{
+ height:calc(76px + env(safe-area-inset-bottom));
+ border-top:1px solid #ebdccb;box-shadow:0 -5px 22px #82553115
+}
+.shell--home .navigation button{font-family:Rubik,Nunito,sans-serif;font-weight:800;color:#76665e}
+.shell--home .navigation button.active{color:#9e2146}
+
+@media (min-width:1500px){
+ .strudliLandingMascot.strudliTourLaunch{left:max(35px,calc((100vw - 1420px)/2));width:460px;height:420px}
+ .strudliLandingWelcome{left:37%;width:36.5%;top:13%}
+}
+@media (max-width:1050px) and (min-width:601px){
+ .strudliLandingMascot.strudliTourLaunch{width:34%;height:85%;left:1%;bottom:-1%}
+ .strudliLandingWelcome{left:37%;width:49%;top:11%}
+ .strudliLandingBubble{padding:19px 28px 21px 32px}
+ .strudliLandingBubble h1{font-size:clamp(26px,3.4vw,40px)}
+ .strudliLandingFeatures{gap:10px;padding:0 16px}
+ .strudliLandingFeatures button{height:120px;min-height:120px}
+}
+@media (max-width:600px){
+ .shell--home .topbar--home{height:76px;min-height:76px;padding:0 14px}
+ .shell--home .topbar--home:after{bottom:-13px;height:24px}
+ .shell--home .topbar--home .brandHomeLink{max-width:165px}
+ .shell--home .topbar--home .logo .brandWordmark{width:143px;max-height:64px}
+ .shell--home .topbar--home .langSwitch button{min-width:39px;min-height:36px;font-size:12px;border-radius:11px}
+ .strudliLandingHero{height:clamp(334px,88vw,385px)}
+ .strudliLandingScene:before{
+  inset:0 0 0 26%;
+  background-size:cover,auto 87%;
+  background-position:center,right 54%;
+  mask-image:linear-gradient(90deg,transparent 0%,#000 25%);
+  -webkit-mask-image:linear-gradient(90deg,transparent 0%,#000 25%);
+ }
+ .strudliLandingScene:after{left:-12%;top:-17%;height:49%;width:76%}
+ .strudliLandingMascot.strudliTourLaunch{
+  left:-7px;bottom:59px;
+  width:55%;height:62%;
+  filter:drop-shadow(0 6px 7px #754d302f)
+ }
+ .strudliLandingWelcome{
+  left:auto;right:10px;top:27px;width:64%;max-width:none;display:block
+ }
+ .strudliLandingBubble{
+  padding:17px 16px 18px 20px;
+  border-radius:35% 33% 28% 32%/18% 22% 18% 20%;
+ }
+ .strudliLandingBubble:after{bottom:-4px}
+ .strudliLandingBubble h1{font-size:clamp(21px,5.6vw,30px);letter-spacing:-.045em;line-height:1.17}
+ .strudliLandingBubble h1 span:after{bottom:-6px;height:3px}
+ .strudliLandingBubble p{font-size:clamp(10px,2.7vw,13px);line-height:1.38;margin-top:13px}
+ .strudliHeart{font-size:19px}
+ .strudliLandingContinue{
+  position:absolute;left:auto;right:4px;top:auto;
+  bottom:calc(-1 * (clamp(334px,88vw,385px) - 76px));
+  transform:none;width:calc(100vw - 29px);
+  max-width:none;height:66px;min-height:66px;
+  font-size:clamp(14px,4vw,18px);
+  padding:8px 13px;gap:8px;border-width:5px;border-radius:23px;
+ }
+ .strudliLandingContinue:before{right:-29px;width:26px;height:49px;top:12px;transform:scale(.72) rotate(-14deg)}
+ .strudliLandingContinue:after{bottom:-6px}
+ .strudliLandingCtaIcon{font-size:25px}
+ .strudliLandingFeatures{
+  grid-template-columns:repeat(2,minmax(0,1fr));
+  gap:5px 12px;margin:2px auto 17px;padding:0 12px
+ }
+ .strudliLandingFeatures button{
+  height:99px;min-height:99px;padding:10px 8px 15px;
+  font-size:16px;gap:0
+ }
+ .strudliBookIcon{font-size:32px;line-height:1.13}
+ .strudliLandingTopics{padding:0 15px 30px}
+ .strudliLandingTopics h2{font-size:26px;margin:11px 0 20px;gap:9px}
+ .strudliLandingTopics h2 svg{width:27px;height:27px}
+ .strudliLandingTopicGrid{grid-template-columns:1fr;gap:12px}
+ .strudliLandingTopicCard{height:132px;padding:15px 14px;border-radius:20px}
+ .strudliLandingTopicName{font-size:17px;gap:9px}
+ .strudliLandingTopicIcon{width:30px;height:30px}
+ .strudliLandingTopicIcon svg{width:28px;height:28px}
+ .strudliLandingTopicArrow{width:39px;height:39px;flex:0 0 39px}
+ .shell--home .navigation{height:calc(70px + env(safe-area-inset-bottom))}
+}
+@media (max-width:365px){
+ .strudliLandingMascot.strudliTourLaunch{width:55%;height:58%;bottom:66px}
+ .strudliLandingWelcome{width:65%;right:7px;top:29px}
+ .strudliLandingBubble{padding:14px 11px 14px 14px}
+ .strudliLandingBubble h1{font-size:19px}
+ .strudliLandingBubble p{font-size:10px}
+ .strudliLandingFeatures{gap:4px 5px;padding:0 9px}
+ .strudliLandingFeatures button{height:87px;min-height:87px;font-size:14px}
+ .strudliBookIcon{font-size:27px}
+ .strudliLandingContinue{font-size:14px}
+}
+@media (prefers-reduced-motion:reduce){
+ .strudliLandingMascot.strudliTourLaunch,.strudliLandingFeatures button{transition:none}
+}
+
+/* CTA is positioned relative to the hero, not the speech-bubble wrapper. */
+.strudliLandingContinue{
+ position:absolute;z-index:5;
+ left:37%;top:64%;width:min(38%,535px);height:78px;
+}
+@media (max-width:1050px) and (min-width:601px){
+ .strudliLandingContinue{left:37%;top:63%;width:49%;height:72px}
+}
+@media (max-width:600px){
+ .strudliLandingContinue{
+  position:absolute;left:15px;right:15px;top:auto;bottom:22px;
+  width:calc(100% - 30px);height:65px;min-height:65px;
+ }
+}
+
+/* Desktop homepage follows approved mockup: bottom tabs sit AFTER the page,
+   not across the beautiful category photos. On mobile they remain fixed. */
+@media (min-width:901px){
+ .shell--home{padding-bottom:0}
+ .shell--home .navigation{
+  position:relative;bottom:auto;left:auto;right:auto;
+  z-index:1;width:100%;margin-top:4px;
+  height:78px;min-height:78px;
+ }
+ .shell--home .navigation button{font-size:12px}
+}

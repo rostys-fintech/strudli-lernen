@@ -1,0 +1,127 @@
+{
+  "date": "2026-11-24",
+  "batch": 6,
+  "count": 10,
+  "items": [
+    {
+      "id": "verbs-813",
+      "gender": null,
+      "de": "trinken",
+      "asset": "/photos/hq/verbs-813-hq-20261124-b06.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 353740,
+      "sha256": "2a07e3afc865f311fd4bac4f01daf7df8805e21a78d0a37908abdc00ae1f59c9",
+      "blob": "e0eb99128bac3667124a2d9b28d3bc5b7406e3d4",
+      "approval": "user continued to next batch 2026-11-24"
+    },
+    {
+      "id": "verbs-815",
+      "gender": null,
+      "de": "kaufen",
+      "asset": "/photos/hq/verbs-815-hq-20261124-b06.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 297594,
+      "sha256": "2e62fd1b0b778b715d4417c77e13247004b510407cf3ae034631e9ebcaa0f7e4",
+      "blob": "65407af64cfb7ea6eb0f5b68b9b5d6e4d79bcd56",
+      "approval": "user continued to next batch 2026-11-24"
+    },
+    {
+      "id": "verbs-823",
+      "gender": null,
+      "de": "können",
+      "asset": "/photos/hq/verbs-823-hq-20261124-b06.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 327430,
+      "sha256": "0fe712dc19fa72693ef0c1aee86e8f5eeccb2e008acc8fe005a13f3b8d8e291c",
+      "blob": "1acf3ec5df8231d1d2b905f471ada105a0829db2",
+      "approval": "user continued to next batch 2026-11-24"
+    },
+    {
+      "id": "verbs-827",
+      "gender": null,
+      "de": "wissen",
+      "asset": "/photos/hq/verbs-827-hq-20261124-b06.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 239810,
+      "sha256": "1c3e5a60847d3b784fc1cae3c72e7708663fd8a0ca5e210844f82e24484f2cc5",
+      "blob": "29b730a63c724cdc514de6af9f6e3f5465fef3c3",
+      "approval": "user continued to next batch 2026-11-24"
+    },
+    {
+      "id": "verbs-830",
+      "gender": null,
+      "de": "glauben",
+      "asset": "/photos/hq/verbs-830-hq-20261124-b06.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 297424,
+      "sha256": "038e99d47eea1fa0befd0fccc13b665a06f369288603d0fbdcba696ab8802814",
+      "blob": "b1367e5f314f7534b89bf0fee09be371df2af6b7",
+      "approval": "user continued to next batch 2026-11-24"
+    },
+    {
+      "id": "ww-new-156",
+      "gender": null,
+      "de": "aussteigen",
+      "asset": "/photos/hq/ww-new-156-hq-20261124-b06.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 325948,
+      "sha256": "07013ef7fdf7e4de6fbfa80b483d305cd0c4ef37be0b73bbf6e6dca50f63d5ba",
+      "blob": "cbe87a77325898a0e8c857d23b2aa990a3979055",
+      "approval": "user continued to next batch 2026-11-24"
+    },
+    {
+      "id": "ww-new-161",
+      "gender": null,
+      "de": "kündigen",
+      "asset": "/photos/hq/ww-new-161-hq-20261124-b06.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 211580,
+      "sha256": "2ecdb60724b5b9b7f8c497791223ae0e511c5421334d803926bfc357e0e4228d",
+      "blob": "f9bac7ff581de1afff8dc8fd8acd4b8cc92be4b9",
+      "approval": "user continued to next batch 2026-11-24"
+    },
+    {
+      "id": "ww-new-179",
+      "gender": null,
+      "de": "kennenlernen",
+      "asset": "/photos/hq/ww-new-179-hq-20261124-b06.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 313984,
+      "sha256": "eae4231271a25c66ee8d1bd5d8d5493c08407e936a73378106562539d9da18d0",
+      "blob": "68f4f8631576af1873bd1b87243ba8286bc2021d",
+      "approval": "user continued to next batch 2026-11-24"
+    },
+    {
+      "id": "adjs-880",
+      "gender": null,
+      "de": "groß",
+      "asset": "/photos/hq/adjs-880-hq-20261124-b06.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 593720,
+      "sha256": "cb4886783c0c09c6edb52fe42407403e2721e5ff6bdd20aca228db762b24e80b",
+      "blob": "02c0332acf65af56879db474b34543f5b4ca82a6",
+      "approval": "user continued to next batch 2026-11-24"
+    },
+    {
+      "id": "adjs-881",
+      "gender": null,
+      "de": "klein",
+      "asset": "/photos/hq/adjs-881-hq-20261124-b06.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 351394,
+      "sha256": "dab6d453b15321add83dd6b2b15382c1ccbf9259c20eea946aa301cb07050cbd",
+      "blob": "c752de6a78a0e7ee00785cae02a1a6751d357ef9",
+      "approval": "user continued to next batch 2026-11-24"
+    }
+  ]
+}

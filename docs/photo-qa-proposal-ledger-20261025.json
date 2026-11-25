@@ -1,0 +1,2120 @@
+{
+  "version": 1,
+  "updated": "2026-10-25",
+  "catalogTotal": 1177,
+  "policy": {
+    "doNotReproposePreviouslyReviewed": true,
+    "lookUpByExactId": true,
+    "distinguish": [
+      "proposed",
+      "approved",
+      "imported",
+      "keep_good"
+    ],
+    "historicalUnimported": "Complete prior proposal without reporting as a new candidate",
+    "goodOriginals": "Do not suggest replacements without a specific semantic or visual fault",
+    "imagePreviewVsDeployed": "Never present search results as the exact deployed binary"
+  },
+  "priorApprovedDocuments": [
+    "docs/approved-photo-batch-06-20261024.md",
+    "docs/approved-photo-batch-07-20261024.md",
+    "docs/approved-photo-batch-09-20261024.md",
+    "docs/approved-photo-batch-10-20261024.md",
+    "docs/approved-photo-batch-11-20261024.md",
+    "docs/approved-photo-batch-12-20261024.md",
+    "docs/approved-photo-batch-13-20261024.md",
+    "docs/approved-photo-batch-14-20261024.md",
+    "docs/approved-photo-batch-15-20261024.md",
+    "docs/approved-photo-batch-16-20261024.md",
+    "docs/approved-photo-batch-17-20261024.md",
+    "docs/approved-photo-batch-18-20261024.md",
+    "docs/approved-photo-batch-19-20261024.md",
+    "docs/approved-photo-batch-20-20261024.md",
+    "docs/approved-photo-batch-21-20261024.md",
+    "docs/approved-photo-batch-22-20261024.md",
+    "docs/approved-photo-batch-23-20261024.md",
+    "docs/approved-photo-batch-24-20261024.md",
+    "docs/approved-photo-batches-03-05-20261023.md",
+    "docs/approved-generated-batch25-20261024.md"
+  ],
+  "latestImportDocuments": [
+    "docs/approved-photo-batch-26-20261025.json",
+    "docs/batch27-verified-import-20261025.json",
+    "docs/batch28-verified-import-20261025.json",
+    "docs/batch29-verified-import-20261025.json",
+    "docs/batch30-verified-import-20261025.json",
+    "docs/batch31-verified-import-20261025.json",
+    "docs/batch32-verified-import-20261025.json"
+  ],
+  "latestProposals": {
+    "batch26": [
+      "germany-219",
+      "germany-220",
+      "germany-228",
+      "germany-235",
+      "work-590",
+      "work-610",
+      "ww-new-169",
+      "body-712",
+      "travel-424",
+      "travel-425",
+      "travel-445",
+      "transport-580",
+      "transport-581",
+      "transport-587",
+      "transport-588",
+      "ww-new-139",
+      "ww-new-145",
+      "ww-new-147",
+      "city-538",
+      "city-543",
+      "city-555",
+      "ww-new-140",
+      "ww-new-141",
+      "ww-new-064",
+      "ww-new-200",
+      "nature-500",
+      "nature-505",
+      "ww-new-131",
+      "ww-new-170",
+      "ww-new-185"
+    ],
+    "batch29UserApproved": [
+      "work-616",
+      "work-619",
+      "work-613",
+      "germany-209",
+      "ww-new-141",
+      "ww-new-145",
+      "transport-588",
+      "transport-586",
+      "ww-new-072",
+      "travel-445",
+      "travel-449",
+      "travel-442",
+      "technology-259",
+      "time-795",
+      "time-771",
+      "time-793",
+      "home-381",
+      "clothes-393",
+      "clothes-397",
+      "clothes-399",
+      "clothes-417",
+      "clothes-418",
+      "clothes-402",
+      "clothes-391",
+      "clothes-411"
+    ],
+    "extraUserReported": [
+      "work-624"
+    ],
+    "batch31": [
+      "germany-223",
+      "germany-225",
+      "germany-226",
+      "germany-230",
+      "germany-238",
+      "technology-251",
+      "technology-267",
+      "technology-275",
+      "travel-447",
+      "city-521",
+      "city-534",
+      "city-545",
+      "city-548",
+      "transport-582",
+      "work-603",
+      "work-615",
+      "work-625",
+      "study-647",
+      "shopping-669",
+      "shopping-670",
+      "shopping-674",
+      "shopping-679",
+      "shopping-686",
+      "shopping-687",
+      "body-722",
+      "body-724",
+      "ww-new-078",
+      "ww-new-080",
+      "ww-new-137",
+      "ww-new-144"
+    ],
+    "batch32": [
+      "germany-231",
+      "germany-233",
+      "technology-257",
+      "home-368",
+      "home-369",
+      "home-375",
+      "ww-new-087",
+      "ww-new-091",
+      "clothes-390",
+      "clothes-413",
+      "ww-new-103",
+      "ww-new-106",
+      "time-762",
+      "city-526",
+      "city-531",
+      "city-539",
+      "city-556",
+      "transport-571",
+      "transport-573",
+      "transport-576",
+      "study-657",
+      "work-608",
+      "work-620",
+      "hobbies-727",
+      "hobbies-750",
+      "ww-new-082",
+      "body-708",
+      "body-705",
+      "food-305",
+      "work-626"
+    ],
+    "batch33": [
+      "study-661",
+      "germany-210",
+      "germany-211",
+      "germany-213",
+      "work-601",
+      "work-605",
+      "shopping-678",
+      "ww-new-075",
+      "technology-249",
+      "technology-269",
+      "travel-431",
+      "travel-441",
+      "transport-583",
+      "ww-new-069",
+      "ww-new-070",
+      "city-542",
+      "ww-new-143",
+      "ww-new-146",
+      "study-649",
+      "shopping-664",
+      "shopping-665",
+      "shopping-666",
+      "shopping-671",
+      "body-721",
+      "ww-new-084",
+      "body-711",
+      "body-719",
+      "time-764",
+      "time-797",
+      "shopping-680"
+    ]
+  },
+  "stats": {
+    "previouslyReviewedUnique": 174,
+    "importedKnown": 168,
+    "keepGood": 2,
+    "carryoversFrom26Completed": [
+      "ww-new-141",
+      "travel-445"
+    ],
+    "catalogPhotosReplacedEditorial": 458,
+    "proposedPending": 30,
+    "proposalRegistryUnique": 204
+  },
+  "records": [
+    {
+      "id": "body-691",
+      "proposedIn": [
+        28
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "body-705",
+      "proposedIn": [
+        32
+      ],
+      "status": "imported",
+      "notes": [
+        "Batch32 metadata-based image improvement candidate 2026-10-25; user approval and replacement photo pending; no photo changed",
+        "User approved visual concept for batch 32; new sourced photo mapping imported 2026-10-25"
+      ]
+    },
+    {
+      "id": "body-706",
+      "proposedIn": [
+        28
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "body-708",
+      "proposedIn": [
+        32
+      ],
+      "status": "imported",
+      "notes": [
+        "Batch32 metadata-based image improvement candidate 2026-10-25; user approval and replacement photo pending; no photo changed",
+        "User approved visual concept for batch 32; new sourced photo mapping imported 2026-10-25"
+      ]
+    },
+    {
+      "id": "body-711",
+      "proposedIn": [
+        33
+      ],
+      "status": "proposed",
+      "notes": [
+        "Batch 33 proposed 2026-10-25; Clinical heart image is less immediately legible; show clear realistic anatomical heart model; replacement NOT yet shown, approved or imported. Original image remains in app."
+      ]
+    },
+    {
+      "id": "body-712",
+      "proposedIn": [
+        26
+      ],
+      "status": "keep_good",
+      "notes": [
+        "User explicitly said existing photo is satisfactory; never propose again"
+      ]
+    },
+    {
+      "id": "body-717",
+      "proposedIn": [
+        30
+      ],
+      "status": "imported",
+      "notes": [
+        "Approved variant A on October 25; published in batch 30"
+      ]
+    },
+    {
+      "id": "body-719",
+      "proposedIn": [
+        33
+      ],
+      "status": "proposed",
+      "notes": [
+        "Batch 33 proposed 2026-10-25; Generic illness stock image; show a person visibly sick and recovering at home; replacement NOT yet shown, approved or imported. Original image remains in app."
+      ]
+    },
+    {
+      "id": "body-721",
+      "proposedIn": [
+        33
+      ],
+      "status": "proposed",
+      "notes": [
+        "Batch 33 proposed 2026-10-25; Specific iodine pills; show standard tablet/blister with no branding; replacement NOT yet shown, approved or imported. Original image remains in app."
+      ]
+    },
+    {
+      "id": "body-722",
+      "proposedIn": [
+        31
+      ],
+      "status": "imported",
+      "notes": [
+        "Batch 31 metadata-based visual/semantic review candidate 2026-10-25; new photo not yet selected or approved; original image unchanged",
+        "User approved batch31 and source mapping imported 2026-10-25; Cream squeezed from tube"
+      ]
+    },
+    {
+      "id": "body-723",
+      "proposedIn": [
+        28
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "body-724",
+      "proposedIn": [
+        31
+      ],
+      "status": "imported",
+      "notes": [
+        "Batch 31 metadata-based visual/semantic review candidate 2026-10-25; new photo not yet selected or approved; original image unchanged",
+        "User approved batch31 and source mapping imported 2026-10-25; Insurance paperwork and consultation"
+      ]
+    },
+    {
+      "id": "city-521",
+      "proposedIn": [
+        31
+      ],
+      "status": "imported",
+      "notes": [
+        "Batch 31 metadata-based visual/semantic review candidate 2026-10-25; new photo not yet selected or approved; original image unchanged",
+        "User approved batch31 and source mapping imported 2026-10-25; European daytime city"
+      ]
+    },
+    {
+      "id": "city-526",
+      "proposedIn": [
+        32
+      ],
+      "status": "imported",
+      "notes": [
+        "Batch32 metadata-based image improvement candidate 2026-10-25; user approval and replacement photo pending; no photo changed",
+        "User approved visual concept for batch 32; new sourced photo mapping imported 2026-10-25"
+      ]
+    },
+    {
+      "id": "city-531",
+      "proposedIn": [
+        32
+      ],
+      "status": "imported",
+      "notes": [
+        "Batch32 metadata-based image improvement candidate 2026-10-25; user approval and replacement photo pending; no photo changed",
+        "User approved visual concept for batch 32; new sourced photo mapping imported 2026-10-25"
+      ]
+    },
+    {
+      "id": "city-534",
+      "proposedIn": [
+        31
+      ],
+      "status": "imported",
+      "notes": [
+        "Batch 31 metadata-based visual/semantic review candidate 2026-10-25; new photo not yet selected or approved; original image unchanged",
+        "User approved batch31 and source mapping imported 2026-10-25; Theater stage and seating"
+      ]
+    },
+    {
+      "id": "city-538",
+      "proposedIn": [
+        26
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "city-539",
+      "proposedIn": [
+        32
+      ],
+      "status": "imported",
+      "notes": [
+        "Batch32 metadata-based image improvement candidate 2026-10-25; user approval and replacement photo pending; no photo changed",
+        "User approved visual concept for batch 32; new sourced photo mapping imported 2026-10-25"
+      ]
+    },
+    {
+      "id": "city-542",
+      "proposedIn": [
+        33
+      ],
+      "status": "proposed",
+      "notes": [
+        "Batch 33 proposed 2026-10-25; Old pharmacy facade; use clear green pharmacy cross and pharmacy entrance; replacement NOT yet shown, approved or imported. Original image remains in app."
+      ]
+    },
+    {
+      "id": "city-543",
+      "proposedIn": [
+        26
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "city-545",
+      "proposedIn": [
+        31
+      ],
+      "status": "imported",
+      "notes": [
+        "Batch 31 metadata-based visual/semantic review candidate 2026-10-25; new photo not yet selected or approved; original image unchanged",
+        "User approved batch31 and source mapping imported 2026-10-25; Modern shop interior"
+      ]
+    },
+    {
+      "id": "city-548",
+      "proposedIn": [
+        31
+      ],
+      "status": "imported",
+      "notes": [
+        "Batch 31 metadata-based visual/semantic review candidate 2026-10-25; new photo not yet selected or approved; original image unchanged",
+        "User approved batch31 and source mapping imported 2026-10-25; Bakery counter and bread"
+      ]
+    },
+    {
+      "id": "city-554",
+      "proposedIn": [
+        27
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "city-555",
+      "proposedIn": [
+        26
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "city-556",
+      "proposedIn": [
+        32
+      ],
+      "status": "imported",
+      "notes": [
+        "Batch32 metadata-based image improvement candidate 2026-10-25; user approval and replacement photo pending; no photo changed",
+        "User approved visual concept for batch 32; new sourced photo mapping imported 2026-10-25"
+      ]
+    },
+    {
+      "id": "city-557",
+      "proposedIn": [
+        28
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "clothes-390",
+      "proposedIn": [
+        32
+      ],
+      "status": "imported",
+      "notes": [
+        "Batch32 metadata-based image improvement candidate 2026-10-25; user approval and replacement photo pending; no photo changed",
+        "User approved visual concept for batch 32; new sourced photo mapping imported 2026-10-25"
+      ]
+    },
+    {
+      "id": "clothes-391",
+      "proposedIn": [
+        29
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "clothes-393",
+      "proposedIn": [
+        29
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "clothes-397",
+      "proposedIn": [
+        29
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "clothes-399",
+      "proposedIn": [
+        29
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "clothes-402",
+      "proposedIn": [
+        29
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "clothes-411",
+      "proposedIn": [
+        29
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "clothes-413",
+      "proposedIn": [
+        32
+      ],
+      "status": "imported",
+      "notes": [
+        "Batch32 metadata-based image improvement candidate 2026-10-25; user approval and replacement photo pending; no photo changed",
+        "User approved visual concept for batch 32; new sourced photo mapping imported 2026-10-25"
+      ]
+    },
+    {
+      "id": "clothes-417",
+      "proposedIn": [
+        29
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "clothes-418",
+      "proposedIn": [
+        29
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "family-475",
+      "proposedIn": [
+        30
+      ],
+      "status": "imported",
+      "notes": [
+        "Approved variant A on October 25; published in batch 30"
+      ]
+    },
+    {
+      "id": "food-305",
+      "proposedIn": [
+        32
+      ],
+      "status": "imported",
+      "notes": [
+        "Batch32 metadata-based image improvement candidate 2026-10-25; user approval and replacement photo pending; no photo changed",
+        "User approved visual concept for batch 32; new sourced photo mapping imported 2026-10-25"
+      ]
+    },
+    {
+      "id": "germany-209",
+      "proposedIn": [
+        29
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "germany-210",
+      "proposedIn": [
+        33
+      ],
+      "status": "proposed",
+      "notes": [
+        "Batch 33 proposed 2026-10-25; Old locality-specific registration document; use a clean modern registration certificate sample; replacement NOT yet shown, approved or imported. Original image remains in app."
+      ]
+    },
+    {
+      "id": "germany-211",
+      "proposedIn": [
+        33
+      ],
+      "status": "proposed",
+      "notes": [
+        "Batch 33 proposed 2026-10-25; Old Beschäftigung permit document; use a current neutral residence-permit sample, with personal data omitted; replacement NOT yet shown, approved or imported. Original image remains in app."
+      ]
+    },
+    {
+      "id": "germany-213",
+      "proposedIn": [
+        33
+      ],
+      "status": "proposed",
+      "notes": [
+        "Batch 33 proposed 2026-10-25; Generic set of passport documents; show one closed travel passport clearly; replacement NOT yet shown, approved or imported. Original image remains in app."
+      ]
+    },
+    {
+      "id": "germany-219",
+      "proposedIn": [
+        26
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "germany-220",
+      "proposedIn": [
+        26
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "germany-221",
+      "proposedIn": [
+        28
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "germany-223",
+      "proposedIn": [
+        31
+      ],
+      "status": "imported",
+      "notes": [
+        "Batch 31 metadata-based visual/semantic review candidate 2026-10-25; new photo not yet selected or approved; original image unchanged",
+        "User approved batch31 and source mapping imported 2026-10-25; German tax paperwork and pen"
+      ]
+    },
+    {
+      "id": "germany-225",
+      "proposedIn": [
+        31
+      ],
+      "status": "imported",
+      "notes": [
+        "Batch 31 metadata-based visual/semantic review candidate 2026-10-25; new photo not yet selected or approved; original image unchanged",
+        "User approved batch31 and source mapping imported 2026-10-25; Financial paperwork at desk"
+      ]
+    },
+    {
+      "id": "germany-226",
+      "proposedIn": [
+        31
+      ],
+      "status": "imported",
+      "notes": [
+        "Batch 31 metadata-based visual/semantic review candidate 2026-10-25; new photo not yet selected or approved; original image unchanged",
+        "User approved batch31 and source mapping imported 2026-10-25; Bank document details closeup"
+      ]
+    },
+    {
+      "id": "germany-228",
+      "proposedIn": [
+        26,
+        27
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "germany-230",
+      "proposedIn": [
+        31
+      ],
+      "status": "imported",
+      "notes": [
+        "Batch 31 metadata-based visual/semantic review candidate 2026-10-25; new photo not yet selected or approved; original image unchanged",
+        "User approved batch31 and source mapping imported 2026-10-25; Rental contract and keys"
+      ]
+    },
+    {
+      "id": "germany-231",
+      "proposedIn": [
+        32
+      ],
+      "status": "imported",
+      "notes": [
+        "Batch32 metadata-based image improvement candidate 2026-10-25; user approval and replacement photo pending; no photo changed",
+        "User approved visual concept for batch 32; new sourced photo mapping imported 2026-10-25"
+      ]
+    },
+    {
+      "id": "germany-233",
+      "proposedIn": [
+        32
+      ],
+      "status": "imported",
+      "notes": [
+        "Batch32 metadata-based image improvement candidate 2026-10-25; user approval and replacement photo pending; no photo changed",
+        "User approved visual concept for batch 32; new sourced photo mapping imported 2026-10-25"
+      ]
+    },
+    {
+      "id": "germany-234",
+      "proposedIn": [
+        27
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "germany-235",
+      "proposedIn": [
+        26,
+        27
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "germany-236",
+      "proposedIn": [
+        27
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "germany-238",
+      "proposedIn": [
+        31
+      ],
+      "status": "imported",
+      "notes": [
+        "Batch 31 metadata-based visual/semantic review candidate 2026-10-25; new photo not yet selected or approved; original image unchanged",
+        "User approved batch31 and source mapping imported 2026-10-25; German ID sample front"
+      ]
+    },
+    {
+      "id": "germany-240",
+      "proposedIn": [
+        27
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "hobbies-727",
+      "proposedIn": [
+        32
+      ],
+      "status": "imported",
+      "notes": [
+        "Batch32 metadata-based image improvement candidate 2026-10-25; user approval and replacement photo pending; no photo changed",
+        "User approved visual concept for batch 32; new sourced photo mapping imported 2026-10-25"
+      ]
+    },
+    {
+      "id": "hobbies-737",
+      "proposedIn": [
+        28
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "hobbies-739",
+      "proposedIn": [
+        28
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "hobbies-745",
+      "proposedIn": [
+        28
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "hobbies-750",
+      "proposedIn": [
+        32
+      ],
+      "status": "imported",
+      "notes": [
+        "Batch32 metadata-based image improvement candidate 2026-10-25; user approval and replacement photo pending; no photo changed",
+        "User approved visual concept for batch 32; new sourced photo mapping imported 2026-10-25"
+      ]
+    },
+    {
+      "id": "hobbies-755",
+      "proposedIn": [
+        28
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "home-368",
+      "proposedIn": [
+        32
+      ],
+      "status": "imported",
+      "notes": [
+        "Batch32 metadata-based image improvement candidate 2026-10-25; user approval and replacement photo pending; no photo changed",
+        "User approved visual concept for batch 32; new sourced photo mapping imported 2026-10-25"
+      ]
+    },
+    {
+      "id": "home-369",
+      "proposedIn": [
+        32
+      ],
+      "status": "imported",
+      "notes": [
+        "Batch32 metadata-based image improvement candidate 2026-10-25; user approval and replacement photo pending; no photo changed",
+        "User approved visual concept for batch 32; new sourced photo mapping imported 2026-10-25"
+      ]
+    },
+    {
+      "id": "home-375",
+      "proposedIn": [
+        32
+      ],
+      "status": "imported",
+      "notes": [
+        "Batch32 metadata-based image improvement candidate 2026-10-25; user approval and replacement photo pending; no photo changed",
+        "User approved visual concept for batch 32; new sourced photo mapping imported 2026-10-25"
+      ]
+    },
+    {
+      "id": "home-381",
+      "proposedIn": [
+        29
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "nature-500",
+      "proposedIn": [
+        26
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "nature-505",
+      "proposedIn": [
+        26
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "shopping-664",
+      "proposedIn": [
+        33
+      ],
+      "status": "proposed",
+      "notes": [
+        "Batch 33 proposed 2026-10-25; Many supermarket carts at distant location; show one clear shopping trolley; replacement NOT yet shown, approved or imported. Original image remains in app."
+      ]
+    },
+    {
+      "id": "shopping-665",
+      "proposedIn": [
+        33
+      ],
+      "status": "proposed",
+      "notes": [
+        "Batch 33 proposed 2026-10-25; Generic old basket photograph; show one supermarket handbasket; replacement NOT yet shown, approved or imported. Original image remains in app."
+      ]
+    },
+    {
+      "id": "shopping-666",
+      "proposedIn": [
+        33
+      ],
+      "status": "proposed",
+      "notes": [
+        "Batch 33 proposed 2026-10-25; Foreign supermarket self-checkout; show familiar cashier checkout with register; replacement NOT yet shown, approved or imported. Original image remains in app."
+      ]
+    },
+    {
+      "id": "shopping-669",
+      "proposedIn": [
+        31
+      ],
+      "status": "imported",
+      "notes": [
+        "Batch 31 metadata-based visual/semantic review candidate 2026-10-25; new photo not yet selected or approved; original image unchanged",
+        "User approved batch31 and source mapping imported 2026-10-25; Male salesperson assists customer"
+      ]
+    },
+    {
+      "id": "shopping-670",
+      "proposedIn": [
+        31
+      ],
+      "status": "imported",
+      "notes": [
+        "Batch 31 metadata-based visual/semantic review candidate 2026-10-25; new photo not yet selected or approved; original image unchanged",
+        "User approved batch31 and source mapping imported 2026-10-25; Female salesperson handing purchase"
+      ]
+    },
+    {
+      "id": "shopping-671",
+      "proposedIn": [
+        33
+      ],
+      "status": "proposed",
+      "notes": [
+        "Batch 33 proposed 2026-10-25; English-language SALE sign; show a simple discounted item with readable price tag; replacement NOT yet shown, approved or imported. Original image remains in app."
+      ]
+    },
+    {
+      "id": "shopping-673",
+      "proposedIn": [
+        30
+      ],
+      "status": "imported",
+      "notes": [
+        "Approved variant A on October 25; published in batch 30"
+      ]
+    },
+    {
+      "id": "shopping-674",
+      "proposedIn": [
+        31
+      ],
+      "status": "imported",
+      "notes": [
+        "Batch 31 metadata-based visual/semantic review candidate 2026-10-25; new photo not yet selected or approved; original image unchanged",
+        "User approved batch31 and source mapping imported 2026-10-25; Point of sale receipt"
+      ]
+    },
+    {
+      "id": "shopping-678",
+      "proposedIn": [
+        33
+      ],
+      "status": "proposed",
+      "notes": [
+        "Batch 33 proposed 2026-10-25; Lloyds debit card brand; use a generic bank card without legible financial numbers; replacement NOT yet shown, approved or imported. Original image remains in app."
+      ]
+    },
+    {
+      "id": "shopping-679",
+      "proposedIn": [
+        31
+      ],
+      "status": "imported",
+      "notes": [
+        "Batch 31 metadata-based visual/semantic review candidate 2026-10-25; new photo not yet selected or approved; original image unchanged",
+        "User approved batch31 and source mapping imported 2026-10-25; Clear clothing label"
+      ]
+    },
+    {
+      "id": "shopping-680",
+      "proposedIn": [
+        33
+      ],
+      "status": "proposed",
+      "notes": [
+        "Batch 33 proposed 2026-10-25; Fitting-room photo is not instantly obvious at mobile scale; show one changing room with curtain/mirror; replacement NOT yet shown, approved or imported. Original image remains in app."
+      ]
+    },
+    {
+      "id": "shopping-682",
+      "proposedIn": [
+        28
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "shopping-686",
+      "proposedIn": [
+        31
+      ],
+      "status": "imported",
+      "notes": [
+        "Batch 31 metadata-based visual/semantic review candidate 2026-10-25; new photo not yet selected or approved; original image unchanged",
+        "User approved batch31 and source mapping imported 2026-10-25; Goods arranged on retail shelves"
+      ]
+    },
+    {
+      "id": "shopping-687",
+      "proposedIn": [
+        31
+      ],
+      "status": "imported",
+      "notes": [
+        "Batch 31 metadata-based visual/semantic review candidate 2026-10-25; new photo not yet selected or approved; original image unchanged",
+        "User approved batch31 and source mapping imported 2026-10-25; Drugstore cosmetics and personal care shelves"
+      ]
+    },
+    {
+      "id": "study-633",
+      "proposedIn": [
+        27
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "study-635",
+      "proposedIn": [
+        27
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "study-639",
+      "proposedIn": [
+        28
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "study-645",
+      "proposedIn": [
+        27
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "study-647",
+      "proposedIn": [
+        31
+      ],
+      "status": "imported",
+      "notes": [
+        "Batch 31 metadata-based visual/semantic review candidate 2026-10-25; new photo not yet selected or approved; original image unchanged",
+        "User approved batch31 and source mapping imported 2026-10-25; Small class and teacher"
+      ]
+    },
+    {
+      "id": "study-649",
+      "proposedIn": [
+        33
+      ],
+      "status": "proposed",
+      "notes": [
+        "Batch 33 proposed 2026-10-25; Historic US classroom photo; show active female teacher in bright modern classroom; replacement NOT yet shown, approved or imported. Original image remains in app."
+      ]
+    },
+    {
+      "id": "study-654",
+      "proposedIn": [
+        27
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "study-656",
+      "proposedIn": [
+        27
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "study-657",
+      "proposedIn": [
+        32
+      ],
+      "status": "imported",
+      "notes": [
+        "Batch32 metadata-based image improvement candidate 2026-10-25; user approval and replacement photo pending; no photo changed",
+        "User approved visual concept for batch 32; new sourced photo mapping imported 2026-10-25"
+      ]
+    },
+    {
+      "id": "study-660",
+      "proposedIn": [
+        27
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "study-661",
+      "proposedIn": [
+        33
+      ],
+      "status": "proposed",
+      "notes": [
+        "Batch 33 proposed 2026-10-25; Current Duden image is broken (mirror HTTP 400); use a bright physical German dictionary; replacement NOT yet shown, approved or imported. Original image remains in app."
+      ]
+    },
+    {
+      "id": "study-662",
+      "proposedIn": [
+        28
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "technology-249",
+      "proposedIn": [
+        33
+      ],
+      "status": "proposed",
+      "notes": [
+        "Batch 33 proposed 2026-10-25; Old specific charger model; use recognizable smartphone charger with cable; replacement NOT yet shown, approved or imported. Original image remains in app."
+      ]
+    },
+    {
+      "id": "technology-251",
+      "proposedIn": [
+        31
+      ],
+      "status": "imported",
+      "notes": [
+        "Batch 31 metadata-based visual/semantic review candidate 2026-10-25; new photo not yet selected or approved; original image unchanged",
+        "User approved batch31 and source mapping imported 2026-10-25; Rechargeable battery close-up"
+      ]
+    },
+    {
+      "id": "technology-252",
+      "proposedIn": [
+        27
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "technology-253",
+      "proposedIn": [
+        27
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "technology-254",
+      "proposedIn": [
+        27
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "technology-255",
+      "proposedIn": [
+        27
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "technology-256",
+      "proposedIn": [
+        27
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "technology-257",
+      "proposedIn": [
+        32
+      ],
+      "status": "imported",
+      "notes": [
+        "Batch32 metadata-based image improvement candidate 2026-10-25; user approval and replacement photo pending; no photo changed",
+        "User approved visual concept for batch 32; new sourced photo mapping imported 2026-10-25"
+      ]
+    },
+    {
+      "id": "technology-258",
+      "proposedIn": [
+        27
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "technology-259",
+      "proposedIn": [
+        29
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "technology-260",
+      "proposedIn": [
+        30
+      ],
+      "status": "imported",
+      "notes": [
+        "Approved variant A on October 25; published in batch 30"
+      ]
+    },
+    {
+      "id": "technology-261",
+      "proposedIn": [
+        27
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "technology-267",
+      "proposedIn": [
+        31
+      ],
+      "status": "imported",
+      "notes": [
+        "Batch 31 metadata-based visual/semantic review candidate 2026-10-25; new photo not yet selected or approved; original image unchanged",
+        "User approved batch31 and source mapping imported 2026-10-25; Watching video playback on laptop"
+      ]
+    },
+    {
+      "id": "technology-269",
+      "proposedIn": [
+        33
+      ],
+      "status": "proposed",
+      "notes": [
+        "Batch 33 proposed 2026-10-25; Old two-piece Onkyo speaker arrangement; use one modern standalone speaker; replacement NOT yet shown, approved or imported. Original image remains in app."
+      ]
+    },
+    {
+      "id": "technology-271",
+      "proposedIn": [
+        27
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "technology-273",
+      "proposedIn": [
+        27
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "technology-275",
+      "proposedIn": [
+        31
+      ],
+      "status": "imported",
+      "notes": [
+        "Batch 31 metadata-based visual/semantic review candidate 2026-10-25; new photo not yet selected or approved; original image unchanged",
+        "User approved batch31 and source mapping imported 2026-10-25; Single SIM card"
+      ]
+    },
+    {
+      "id": "time-762",
+      "proposedIn": [
+        32
+      ],
+      "status": "imported",
+      "notes": [
+        "Batch32 metadata-based image improvement candidate 2026-10-25; user approval and replacement photo pending; no photo changed",
+        "User approved visual concept for batch 32; new sourced photo mapping imported 2026-10-25"
+      ]
+    },
+    {
+      "id": "time-763",
+      "proposedIn": [
+        28
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "time-764",
+      "proposedIn": [
+        33
+      ],
+      "status": "proposed",
+      "notes": [
+        "Batch 33 proposed 2026-10-25; Old analog stopwatch image; show digital stopwatch at 00:01; replacement NOT yet shown, approved or imported. Original image remains in app."
+      ]
+    },
+    {
+      "id": "time-771",
+      "proposedIn": [
+        29
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "time-793",
+      "proposedIn": [
+        29
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "time-795",
+      "proposedIn": [
+        29
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "time-797",
+      "proposedIn": [
+        33
+      ],
+      "status": "proposed",
+      "notes": [
+        "Batch 33 proposed 2026-10-25; One brushing-teeth snapshot not a habit; show repeated daily routine calendar checklist; replacement NOT yet shown, approved or imported. Original image remains in app."
+      ]
+    },
+    {
+      "id": "transport-571",
+      "proposedIn": [
+        32
+      ],
+      "status": "imported",
+      "notes": [
+        "Batch32 metadata-based image improvement candidate 2026-10-25; user approval and replacement photo pending; no photo changed",
+        "User approved visual concept for batch 32; new sourced photo mapping imported 2026-10-25"
+      ]
+    },
+    {
+      "id": "transport-573",
+      "proposedIn": [
+        32
+      ],
+      "status": "imported",
+      "notes": [
+        "Batch32 metadata-based image improvement candidate 2026-10-25; user approval and replacement photo pending; no photo changed",
+        "User approved visual concept for batch 32; new sourced photo mapping imported 2026-10-25"
+      ]
+    },
+    {
+      "id": "transport-576",
+      "proposedIn": [
+        32
+      ],
+      "status": "imported",
+      "notes": [
+        "Batch32 metadata-based image improvement candidate 2026-10-25; user approval and replacement photo pending; no photo changed",
+        "User approved visual concept for batch 32; new sourced photo mapping imported 2026-10-25"
+      ]
+    },
+    {
+      "id": "transport-580",
+      "proposedIn": [
+        26
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "transport-581",
+      "proposedIn": [
+        26
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "transport-582",
+      "proposedIn": [
+        31
+      ],
+      "status": "imported",
+      "notes": [
+        "Batch 31 metadata-based visual/semantic review candidate 2026-10-25; new photo not yet selected or approved; original image unchanged",
+        "User approved batch31 and source mapping imported 2026-10-25; Normal parking lot"
+      ]
+    },
+    {
+      "id": "transport-583",
+      "proposedIn": [
+        33
+      ],
+      "status": "proposed",
+      "notes": [
+        "Batch 33 proposed 2026-10-25; 2013 driver's license sample; use updated neutral German example; replacement NOT yet shown, approved or imported. Original image remains in app."
+      ]
+    },
+    {
+      "id": "transport-586",
+      "proposedIn": [
+        29
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "transport-587",
+      "proposedIn": [
+        26
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "transport-588",
+      "proposedIn": [
+        26,
+        29
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "travel-424",
+      "proposedIn": [
+        26
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "travel-425",
+      "proposedIn": [
+        26
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "travel-431",
+      "proposedIn": [
+        33
+      ],
+      "status": "proposed",
+      "notes": [
+        "Batch 33 proposed 2026-10-25; Reserved table signage only; show hotel/restaurant booking confirmation without personal data; replacement NOT yet shown, approved or imported. Original image remains in app."
+      ]
+    },
+    {
+      "id": "travel-432",
+      "proposedIn": [
+        28
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "travel-434",
+      "proposedIn": [
+        27
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "travel-437",
+      "proposedIn": [
+        28
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "travel-441",
+      "proposedIn": [
+        33
+      ],
+      "status": "proposed",
+      "notes": [
+        "Batch 33 proposed 2026-10-25; Old hotel reception scene; use bright current reception desk with visitor; replacement NOT yet shown, approved or imported. Original image remains in app."
+      ]
+    },
+    {
+      "id": "travel-442",
+      "proposedIn": [
+        29
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "travel-445",
+      "proposedIn": [
+        26,
+        29
+      ],
+      "status": "imported",
+      "notes": [
+        "Carryover proposed in 26, imported in 29"
+      ]
+    },
+    {
+      "id": "travel-447",
+      "proposedIn": [
+        31
+      ],
+      "status": "imported",
+      "notes": [
+        "Batch 31 metadata-based visual/semantic review candidate 2026-10-25; new photo not yet selected or approved; original image unchanged",
+        "User approved batch31 and source mapping imported 2026-10-25; Information reception"
+      ]
+    },
+    {
+      "id": "travel-448",
+      "proposedIn": [
+        28
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "travel-449",
+      "proposedIn": [
+        29
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "work-590",
+      "proposedIn": [
+        26
+      ],
+      "status": "keep_good",
+      "notes": [
+        "User explicitly said existing photo is satisfactory; never propose again"
+      ]
+    },
+    {
+      "id": "work-592",
+      "proposedIn": [
+        27
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "work-593",
+      "proposedIn": [
+        28
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "work-594",
+      "proposedIn": [
+        28
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "work-595",
+      "proposedIn": [
+        27
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "work-598",
+      "proposedIn": [
+        28
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "work-599",
+      "proposedIn": [
+        27
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "work-600",
+      "proposedIn": [
+        27
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "work-601",
+      "proposedIn": [
+        33
+      ],
+      "status": "proposed",
+      "notes": [
+        "Batch 33 proposed 2026-10-25; Collage of many banknote denominations; show tangible money bills in a natural scene; replacement NOT yet shown, approved or imported. Original image remains in app."
+      ]
+    },
+    {
+      "id": "work-603",
+      "proposedIn": [
+        31
+      ],
+      "status": "imported",
+      "notes": [
+        "Batch 31 metadata-based visual/semantic review candidate 2026-10-25; new photo not yet selected or approved; original image unchanged",
+        "User approved batch31 and source mapping imported 2026-10-25; Clearly visible euro price tag"
+      ]
+    },
+    {
+      "id": "work-604",
+      "proposedIn": [
+        27
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "work-605",
+      "proposedIn": [
+        33
+      ],
+      "status": "proposed",
+      "notes": [
+        "Batch 33 proposed 2026-10-25; Old payment terminal only; show a clear contactless payment interaction; replacement NOT yet shown, approved or imported. Original image remains in app."
+      ]
+    },
+    {
+      "id": "work-606",
+      "proposedIn": [
+        27
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "work-608",
+      "proposedIn": [
+        32
+      ],
+      "status": "imported",
+      "notes": [
+        "Batch32 metadata-based image improvement candidate 2026-10-25; user approval and replacement photo pending; no photo changed",
+        "User approved visual concept for batch 32; new sourced photo mapping imported 2026-10-25"
+      ]
+    },
+    {
+      "id": "work-609",
+      "proposedIn": [
+        27
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "work-610",
+      "proposedIn": [
+        26
+      ],
+      "status": "proposed",
+      "notes": []
+    },
+    {
+      "id": "work-611",
+      "proposedIn": [
+        28
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "work-613",
+      "proposedIn": [
+        29
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "work-615",
+      "proposedIn": [
+        31
+      ],
+      "status": "imported",
+      "notes": [
+        "Batch 31 metadata-based visual/semantic review candidate 2026-10-25; new photo not yet selected or approved; original image unchanged",
+        "User approved batch31 and source mapping imported 2026-10-25; Senior mentor teaching worker"
+      ]
+    },
+    {
+      "id": "work-616",
+      "proposedIn": [
+        29
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "work-619",
+      "proposedIn": [
+        29
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "work-620",
+      "proposedIn": [
+        32
+      ],
+      "status": "imported",
+      "notes": [
+        "Batch32 metadata-based image improvement candidate 2026-10-25; user approval and replacement photo pending; no photo changed",
+        "User approved visual concept for batch 32; new sourced photo mapping imported 2026-10-25"
+      ]
+    },
+    {
+      "id": "work-624",
+      "proposedIn": [
+        29
+      ],
+      "status": "imported",
+      "notes": [
+        "Screenshot-specific correction"
+      ]
+    },
+    {
+      "id": "work-625",
+      "proposedIn": [
+        31
+      ],
+      "status": "imported",
+      "notes": [
+        "Batch 31 metadata-based visual/semantic review candidate 2026-10-25; new photo not yet selected or approved; original image unchanged",
+        "User approved batch31 and source mapping imported 2026-10-25; Female shopper receiving purchase"
+      ]
+    },
+    {
+      "id": "work-626",
+      "proposedIn": [
+        32
+      ],
+      "status": "imported",
+      "notes": [
+        "Batch32 metadata-based image improvement candidate 2026-10-25; user approval and replacement photo pending; no photo changed",
+        "User approved visual concept for batch 32; new sourced photo mapping imported 2026-10-25"
+      ]
+    },
+    {
+      "id": "ww-new-064",
+      "proposedIn": [
+        26
+      ],
+      "status": "proposed",
+      "notes": []
+    },
+    {
+      "id": "ww-new-067",
+      "proposedIn": [
+        28
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "ww-new-069",
+      "proposedIn": [
+        33
+      ],
+      "status": "proposed",
+      "notes": [
+        "Batch 33 proposed 2026-10-25; Deutschlandticket reused as generic monthly ticket; choose recognizable month ticket without identity data; replacement NOT yet shown, approved or imported. Original image remains in app."
+      ]
+    },
+    {
+      "id": "ww-new-070",
+      "proposedIn": [
+        33
+      ],
+      "status": "proposed",
+      "notes": [
+        "Batch 33 proposed 2026-10-25; Specific dated train-ticket machine; use modern recognizable ticket vending machine; replacement NOT yet shown, approved or imported. Original image remains in app."
+      ]
+    },
+    {
+      "id": "ww-new-071",
+      "proposedIn": [
+        27
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "ww-new-072",
+      "proposedIn": [
+        29
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "ww-new-074",
+      "proposedIn": [
+        28
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "ww-new-075",
+      "proposedIn": [
+        33
+      ],
+      "status": "proposed",
+      "notes": [
+        "Batch 33 proposed 2026-10-25; Girocard sample expires in 2026; choose a more timeless generic sample; replacement NOT yet shown, approved or imported. Original image remains in app."
+      ]
+    },
+    {
+      "id": "ww-new-076",
+      "proposedIn": [
+        28
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "ww-new-078",
+      "proposedIn": [
+        31
+      ],
+      "status": "imported",
+      "notes": [
+        "Batch 31 metadata-based visual/semantic review candidate 2026-10-25; new photo not yet selected or approved; original image unchanged",
+        "User approved batch31 and source mapping imported 2026-10-25; Printed financial documents"
+      ]
+    },
+    {
+      "id": "ww-new-080",
+      "proposedIn": [
+        31
+      ],
+      "status": "imported",
+      "notes": [
+        "Batch 31 metadata-based visual/semantic review candidate 2026-10-25; new photo not yet selected or approved; original image unchanged",
+        "User approved batch31 and source mapping imported 2026-10-25; Insurance customer service"
+      ]
+    },
+    {
+      "id": "ww-new-081",
+      "proposedIn": [
+        28
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "ww-new-082",
+      "proposedIn": [
+        32
+      ],
+      "status": "imported",
+      "notes": [
+        "Batch32 metadata-based image improvement candidate 2026-10-25; user approval and replacement photo pending; no photo changed",
+        "User approved visual concept for batch 32; new sourced photo mapping imported 2026-10-25"
+      ]
+    },
+    {
+      "id": "ww-new-083",
+      "proposedIn": [
+        28
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "ww-new-084",
+      "proposedIn": [
+        33
+      ],
+      "status": "proposed",
+      "notes": [
+        "Batch 33 proposed 2026-10-25; Tightly cropped insurance card; show full neutral German health insurance card; replacement NOT yet shown, approved or imported. Original image remains in app."
+      ]
+    },
+    {
+      "id": "ww-new-087",
+      "proposedIn": [
+        32
+      ],
+      "status": "imported",
+      "notes": [
+        "Batch32 metadata-based image improvement candidate 2026-10-25; user approval and replacement photo pending; no photo changed",
+        "User approved visual concept for batch 32; new sourced photo mapping imported 2026-10-25"
+      ]
+    },
+    {
+      "id": "ww-new-091",
+      "proposedIn": [
+        32
+      ],
+      "status": "imported",
+      "notes": [
+        "Batch32 metadata-based image improvement candidate 2026-10-25; user approval and replacement photo pending; no photo changed",
+        "User approved visual concept for batch 32; new sourced photo mapping imported 2026-10-25"
+      ]
+    },
+    {
+      "id": "ww-new-098",
+      "proposedIn": [
+        28
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "ww-new-103",
+      "proposedIn": [
+        32
+      ],
+      "status": "imported",
+      "notes": [
+        "Batch32 metadata-based image improvement candidate 2026-10-25; user approval and replacement photo pending; no photo changed",
+        "User approved visual concept for batch 32; new sourced photo mapping imported 2026-10-25"
+      ]
+    },
+    {
+      "id": "ww-new-104",
+      "proposedIn": [
+        28
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "ww-new-105",
+      "proposedIn": [
+        28
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "ww-new-106",
+      "proposedIn": [
+        32
+      ],
+      "status": "imported",
+      "notes": [
+        "Batch32 metadata-based image improvement candidate 2026-10-25; user approval and replacement photo pending; no photo changed",
+        "User approved visual concept for batch 32; new sourced photo mapping imported 2026-10-25"
+      ]
+    },
+    {
+      "id": "ww-new-112",
+      "proposedIn": [
+        28
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "ww-new-115",
+      "proposedIn": [
+        28
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "ww-new-131",
+      "proposedIn": [
+        26
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "ww-new-137",
+      "proposedIn": [
+        31
+      ],
+      "status": "imported",
+      "notes": [
+        "Batch 31 metadata-based visual/semantic review candidate 2026-10-25; new photo not yet selected or approved; original image unchanged",
+        "User approved batch31 and source mapping imported 2026-10-25; Bright pedestrian underpass"
+      ]
+    },
+    {
+      "id": "ww-new-139",
+      "proposedIn": [
+        26
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "ww-new-140",
+      "proposedIn": [
+        26
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "ww-new-141",
+      "proposedIn": [
+        26,
+        29
+      ],
+      "status": "imported",
+      "notes": [
+        "Carryover proposed in 26, imported in 29"
+      ]
+    },
+    {
+      "id": "ww-new-143",
+      "proposedIn": [
+        33
+      ],
+      "status": "proposed",
+      "notes": [
+        "Batch 33 proposed 2026-10-25; Hospital emergency room scene without distinctive emergency signage; show recognizable ER entrance; replacement NOT yet shown, approved or imported. Original image remains in app."
+      ]
+    },
+    {
+      "id": "ww-new-144",
+      "proposedIn": [
+        31
+      ],
+      "status": "imported",
+      "notes": [
+        "Batch 31 metadata-based visual/semantic review candidate 2026-10-25; new photo not yet selected or approved; original image unchanged",
+        "User approved batch31 and source mapping imported 2026-10-25; Customer asking at service counter"
+      ]
+    },
+    {
+      "id": "ww-new-145",
+      "proposedIn": [
+        26,
+        29
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "ww-new-146",
+      "proposedIn": [
+        33
+      ],
+      "status": "proposed",
+      "notes": [
+        "Batch 33 proposed 2026-10-25; Bangkok-specific traffic jam; show easily legible vehicles backed up on a road; replacement NOT yet shown, approved or imported. Original image remains in app."
+      ]
+    },
+    {
+      "id": "ww-new-147",
+      "proposedIn": [
+        26
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "ww-new-169",
+      "proposedIn": [
+        26
+      ],
+      "status": "proposed",
+      "notes": []
+    },
+    {
+      "id": "ww-new-170",
+      "proposedIn": [
+        26
+      ],
+      "status": "proposed",
+      "notes": []
+    },
+    {
+      "id": "ww-new-185",
+      "proposedIn": [
+        26
+      ],
+      "status": "imported",
+      "notes": []
+    },
+    {
+      "id": "ww-new-200",
+      "proposedIn": [
+        26
+      ],
+      "status": "imported",
+      "notes": []
+    }
+  ],
+  "lastUpdated": "2026-10-25"
+}

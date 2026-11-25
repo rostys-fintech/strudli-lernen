@@ -1,0 +1,160 @@
+{
+ "voice": "en-US-AndrewMultilingualNeural",
+ "rate": "-3%",
+ "mascotVoice": "en-US-AnaNeural",
+ "mascotRate": "+0%",
+ "sources": "Ukrainians: Ausländerzentralregister, May 2026 (1,423,278). Syria ≈ 960,000, Iraq ≈ 260,000: AZR via Bundestag, May 2025. Integration courses: BAMF circular 9 Feb 2026, up to 129,500 people without new admission in 2026 (BT-Drs. 21/5574). Arrivals: Destatis, 1.48 million in 2025.",
+ "scenes": [
+  {
+   "id": "day1",
+   "kind": "card",
+   "template": "day1",
+   "text": "Day one in Germany. Everyone around you speaks German: the letters, the doctor, the announcements on the train. And the next language course? It's full."
+  },
+  {
+   "id": "numbers",
+   "kind": "card",
+   "template": "stats",
+   "text": "More than one point four million Ukrainians now live in Germany, next to almost a million Syrians and hundreds of thousands of people from Iraq and Afghanistan. And this year, up to a hundred and thirty thousand people get no new place in a state integration course."
+  },
+  {
+   "id": "hello",
+   "kind": "card",
+   "template": "mascot",
+   "voice": "mascot",
+   "text": "New to Germany? Don't be afraid. I've got you!"
+  },
+  {
+   "id": "mission",
+   "kind": "card",
+   "template": "mission",
+   "text": "Strudli Lernen is made by immigrants, for immigrants. It's free, it runs on any phone, and it explains German in your own language."
+  },
+  {
+   "id": "home",
+   "kind": "demo",
+   "chip": "YOUR LANGUAGE",
+   "title": "German, explained in your language",
+   "bullets": [
+    "1,177 photo word cards",
+    "47 everyday topics",
+    "Ukrainian or English, one tap"
+   ],
+   "text": "It starts with the words you need this week. Every screen speaks your language, one tap switches between Ukrainian and English, and the stories are always one tap away."
+  },
+  {
+   "id": "cards",
+   "kind": "demo",
+   "chip": "WORDS",
+   "title": "Learn the article with the word",
+   "bullets": [
+    "der · die · das in colour",
+    "Audio for every card",
+    "Three flames = mastered"
+   ],
+   "text": "Each word comes with a photo, its translation and the right article, coloured for der, die and das."
+  },
+  {
+   "id": "story",
+   "kind": "demo",
+   "chip": "ANIMATED STORIES",
+   "title": "German, like going to the cinema",
+   "bullets": [
+    "A calm neural narrator",
+    "Every word lights up as it is spoken",
+    "Painted scenes that come alive"
+   ],
+   "text": "Then the heart of Strudli: animated stories, under Stories. A calm narrator reads a painted fairy tale, every word lights up the moment it is spoken, and the picture slowly comes to life."
+  },
+  {
+   "id": "word",
+   "kind": "demo",
+   "chip": "TAP ANY WORD",
+   "title": "Meaning in this exact sentence",
+   "bullets": [
+    "sie = she or they, by context",
+    "Separable verbs as one unit",
+    "Save words for later"
+   ],
+   "text": "Tap any word, and the story pauses to show what it means in exactly this sentence."
+  },
+  {
+   "id": "ai",
+   "kind": "demo",
+   "chip": "AI TUTOR",
+   "title": "Not clear? Ask Strudli",
+   "bullets": [
+    "One button under the subtitles",
+    "Translation, key words, grammar",
+    "A fresh example at A1 to A2"
+   ],
+   "text": "Stuck on a whole sentence? Tap Ask Strudli under the subtitles. Strudli himself explains it simply: the translation, the key words, the grammar, and a fresh example.",
+   "altText": "Stuck on a whole sentence? Tap Ask Strudli under the subtitles. When the AI is not reachable, learners still get the human-checked translation, never an error.",
+   "altBullets": [
+    "One button under the subtitles",
+    "Translation, key words, grammar",
+    "Shown here: the checked fallback"
+   ]
+  },
+  {
+   "id": "ask",
+   "kind": "demo",
+   "chip": "AI FOR REAL LIFE",
+   "title": "A sentence from a letter? Ask Strudli",
+   "bullets": [
+    "Letters, signs, messages",
+    "Explained in Ukrainian or English",
+    "Honest: Strudli can make mistakes"
+   ],
+   "text": "And for real life: paste a sentence from a letter or a sign, and Strudli explains it in your own language. Here, a line from a typical appointment letter."
+  },
+  {
+   "id": "phrases",
+   "kind": "demo",
+   "chip": "REAL LIFE",
+   "title": "150 phrases for day one",
+   "bullets": [
+    "Jobcenter · doctor · Kita · train",
+    "One natural recording each",
+    "Say it yourself: speech check"
+   ],
+   "text": "For real life, there are a hundred and fifty phrases, for the Jobcenter, the doctor or the Kita, each recorded as one natural sentence."
+  },
+  {
+   "id": "arena",
+   "kind": "demo",
+   "chip": "PLAY",
+   "title": "Strudli Arena",
+   "bullets": [
+    "Game-show quiz, 15 seconds",
+    "Articles, endings, photos",
+    "Built from words you saved"
+   ],
+   "text": "And to make it stick, the Strudli Arena turns new words into a quick game show."
+  },
+  {
+   "id": "account",
+   "kind": "demo",
+   "chip": "PRIVATE BY DEFAULT",
+   "title": "Your progress stays yours",
+   "bullets": [
+    "Works offline, no sign-up",
+    "Optional account, no e-mail",
+    "30 automated attacks refused"
+   ],
+   "text": "Progress stays private on your phone, and an optional account without e-mail keeps it on every device."
+  },
+  {
+   "id": "roadmap",
+   "kind": "card",
+   "template": "roadmap",
+   "text": "Today, Strudli explains German in Ukrainian and English. Next come Arabic, Turkish and Farsi, with more levels and more stories."
+  },
+  {
+   "id": "final",
+   "kind": "card",
+   "template": "final",
+   "text": "Strudli Lernen. From immigrants, for immigrants. Willkommen in Deutschland."
+  }
+ ]
+}

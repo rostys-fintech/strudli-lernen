@@ -1,0 +1,91 @@
+{
+  "date": "2026-11-24",
+  "batch": 12,
+  "count": 7,
+  "items": [
+    {
+      "id": "adverbs-157",
+      "gender": null,
+      "de": "draußen",
+      "asset": "/photos/hq/adverbs-157-hq-20261124-b12.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 500970,
+      "sha256": "e23f89a00537a5f64ae9bf38b5068b9e4f2a0b03cae2061b59cff7d6d627e018",
+      "blob": "4740aceb9ca36fc202c4d2457f5c521e9b638314",
+      "approval": "user-approved 2026-11-24"
+    },
+    {
+      "id": "adverbs-161",
+      "gender": null,
+      "de": "ziemlich",
+      "asset": "/photos/hq/adverbs-161-hq-20261124-b12.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 317716,
+      "sha256": "b28c014753d59ec21fc844110fa78d2a423acb29ba625bc2fd2120bb51b0147d",
+      "blob": "3ef5b75ad38b0b312b5aa9a36a3d4bb6b55bf835",
+      "approval": "user-approved 2026-11-24"
+    },
+    {
+      "id": "adverbs-162",
+      "gender": null,
+      "de": "genug",
+      "asset": "/photos/hq/adverbs-162-hq-20261124-b12.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 235862,
+      "sha256": "0379a057b9d2cc839ffe8d5c0e4927348ca3bfb92a4eb3a793ac1aa46aae4400",
+      "blob": "aa4b666ebde4ce0beb8d86e463b2c1eccd3859f6",
+      "approval": "user-approved 2026-11-24"
+    },
+    {
+      "id": "adverbs-163",
+      "gender": null,
+      "de": "auch",
+      "asset": "/photos/hq/adverbs-163-hq-20261124-b12.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 381790,
+      "sha256": "69b724832cebd736424c984cfe7d44ae67f274106aca97151b4104df17810e2d",
+      "blob": "c3ee731ab9f327a409645674d0a87714f2eb0004",
+      "approval": "user-approved 2026-11-24"
+    },
+    {
+      "id": "adverbs-169",
+      "gender": null,
+      "de": "dann",
+      "asset": "/photos/hq/adverbs-169-hq-20261124-b12.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 217666,
+      "sha256": "f435937f87db819cfac7a6ea3726104790575829562fe9d8cec5a2a0abf5c47d",
+      "blob": "1833fa43943280f87ed5d5a6f93446cd131eea9b",
+      "approval": "user-approved 2026-11-24"
+    },
+    {
+      "id": "adverbs-170",
+      "gender": null,
+      "de": "zuerst",
+      "asset": "/photos/hq/adverbs-170-hq-20261124-b12.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 276400,
+      "sha256": "c1f11336848df9e7b4dd8a43fb7c7a042a5b749a4ee31667654bc6d95ef4873b",
+      "blob": "4ab39dc1fcee2b95942b0eb89cce006894ca50ab",
+      "approval": "user-approved 2026-11-24"
+    },
+    {
+      "id": "adverbs-174",
+      "gender": null,
+      "de": "besonders",
+      "asset": "/photos/hq/adverbs-174-hq-20261124-b12.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 456188,
+      "sha256": "26d7307ff141337b2d7dc7724ee48ea4f3abf004b6ece6aab9fa3b0de69f6d83",
+      "blob": "ec3eaef9e25d536323787899ce727adc2f2e48b2",
+      "approval": "user-approved 2026-11-24"
+    }
+  ]
+}

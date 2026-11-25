@@ -1,0 +1,156 @@
+{
+  "batch": 26,
+  "date": "2026-10-25",
+  "planned": 18,
+  "changed": 18,
+  "excluded": [
+    "work-590",
+    "body-712"
+  ],
+  "log": [
+    {
+      "id": "germany-219",
+      "name": "Original",
+      "status": "replaced",
+      "path": "/photos/custom/batch26-germany-219.jpg",
+      "source": "https://www.pexels.com/photo/desk-with-documents-and-stamps-18687845/",
+      "license": "Pexels License"
+    },
+    {
+      "id": "germany-220",
+      "name": "Bescheinigung",
+      "status": "replaced",
+      "path": "/photos/custom/batch26-germany-220.jpg",
+      "source": "https://www.pexels.com/photo/diploma-and-notebook-on-a-desk-8112202/",
+      "license": "Pexels License"
+    },
+    {
+      "id": "travel-424",
+      "name": "Ticket",
+      "status": "replaced",
+      "path": "/photos/custom/batch26-travel-424.jpg",
+      "source": "https://www.pexels.com/photo/a-ticket-on-the-lap-of-a-person-5801647/",
+      "license": "Pexels License"
+    },
+    {
+      "id": "travel-425",
+      "name": "Fahrkarte",
+      "status": "replaced",
+      "path": "/photos/custom/batch26-travel-425.jpg",
+      "source": "https://www.pexels.com/photo/people-holding-tickets-13418602/",
+      "license": "Pexels License"
+    },
+    {
+      "id": "city-538",
+      "name": "Bank",
+      "status": "replaced",
+      "path": "/photos/custom/batch26-city-538.jpg",
+      "source": "https://www.pexels.com/photo/a-building-with-columns-and-a-clock-on-it-14638897/",
+      "license": "Pexels License"
+    },
+    {
+      "id": "city-543",
+      "name": "Supermarkt",
+      "status": "replaced",
+      "path": "/photos/custom/batch26-city-543.jpg",
+      "source": "https://www.pexels.com/photo/products-displayed-inside-a-supermarket-12081286/",
+      "license": "Pexels License"
+    },
+    {
+      "id": "city-555",
+      "name": "Ausgang",
+      "status": "replaced",
+      "path": "/photos/custom/batch26-city-555.jpg",
+      "source": "https://www.pexels.com/photo/white-sign-on-a-ceiling-written-in-german-19950124/",
+      "license": "Pexels License"
+    },
+    {
+      "id": "transport-580",
+      "name": "Autobahn",
+      "status": "replaced",
+      "path": "/photos/custom/batch26-transport-580.jpg",
+      "source": "https://www.pexels.com/photo/aerial-footage-of-cars-on-a-highway-10802569/",
+      "license": "Pexels License"
+    },
+    {
+      "id": "transport-581",
+      "name": "Tankstelle",
+      "status": "replaced",
+      "path": "/photos/custom/batch26-transport-581.jpg",
+      "source": "https://www.pexels.com/photo/empty-gas-station-in-bergisch-gladbach-37043840/",
+      "license": "Pexels License"
+    },
+    {
+      "id": "transport-587",
+      "name": "Richtung",
+      "status": "replaced",
+      "path": "/photos/custom/batch26-transport-587.jpg",
+      "source": "https://www.pexels.com/photo/road-sign-standing-against-a-blue-sky-27136212/",
+      "license": "Pexels License"
+    },
+    {
+      "id": "ww-new-140",
+      "name": "Briefkasten",
+      "status": "replaced",
+      "path": "/photos/custom/batch26-ww-new-140.jpg",
+      "source": "https://www.pexels.com/photo/close-up-of-man-throwing-postcard-in-mailbox-15917617/",
+      "license": "Pexels License"
+    },
+    {
+      "id": "ww-new-147",
+      "name": "Einbahnstraße",
+      "status": "replaced",
+      "path": "/photos/custom/batch26-ww-new-147.jpg",
+      "source": "https://www.pexels.com/photo/blue-one-way-street-sign-on-orange-wall-37041797/",
+      "license": "Pexels License"
+    },
+    {
+      "id": "ww-new-200",
+      "name": "verheiratet",
+      "status": "replaced",
+      "path": "/photos/custom/batch26-ww-new-200.jpg",
+      "source": "https://www.pexels.com/photo/close-up-of-married-couple-s-hands-with-rings-30921780/",
+      "license": "Pexels License"
+    },
+    {
+      "id": "nature-505",
+      "name": "Tier",
+      "status": "replaced",
+      "path": "/photos/custom/batch26-nature-505.jpg",
+      "source": "https://www.pexels.com/photo/horse-standing-on-the-meadow-15383581/",
+      "license": "Pexels License"
+    },
+    {
+      "id": "ww-new-131",
+      "name": "Donner",
+      "status": "replaced",
+      "path": "/photos/custom/batch26-ww-new-131.jpg",
+      "source": "https://www.pexels.com/photo/intense-thunderstorm-with-dramatic-lightning-31130767/",
+      "license": "Pexels License"
+    },
+    {
+      "id": "nature-500",
+      "name": "Regen",
+      "status": "replaced",
+      "path": "/photos/custom/batch26-nature-500.png",
+      "source": "ChatGPT approved original",
+      "license": "User-approved generated image"
+    },
+    {
+      "id": "ww-new-185",
+      "name": "niedrig",
+      "status": "replaced",
+      "path": "/photos/custom/batch26-ww-new-185.png",
+      "source": "ChatGPT approved original",
+      "license": "User-approved generated image"
+    },
+    {
+      "id": "ww-new-139",
+      "name": "Bushaltestelle",
+      "status": "replaced",
+      "path": "/photos/custom/batch26-ww-new-139.png",
+      "source": "ChatGPT approved original",
+      "license": "User-approved generated image"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="152" viewBox="0 0 360 152" preserveAspectRatio="none">
+<defs>
+ <linearGradient id="paper" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fffefa"/><stop offset=".65" stop-color="#fff9ef"/><stop offset="1" stop-color="#f6e6d0"/></linearGradient>
+ <linearGradient id="layers" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#e8c7a4"/><stop offset="1" stop-color="#ce9868"/></linearGradient>
+ <filter id="shadow" x="-10%" y="-15%" width="120%" height="145%"><feGaussianBlur stdDeviation="4"/></filter>
+</defs>
+<path d="M29 25C71 12 123 13 180 21C232 12 288 11 331 25C347 30 351 41 351 61L350 115C350 139 334 141 321 139C263 131 218 134 183 143C144 134 94 131 34 140C19 143 10 134 10 114L10 58C10 39 13 29 29 25Z" fill="#b1764d" opacity=".23" transform="translate(0 5)" filter="url(#shadow)"/>
+<path d="M31 25C76 12 132 17 180 24C231 16 284 11 329 25C347 30 353 41 352 57L351 118C349 142 334 144 319 140C262 134 225 137 182 145C135 136 91 133 34 141C20 143 8 133 9 115L9 59C9 39 14 28 31 25Z" fill="url(#layers)" stroke="#dba875" stroke-width="2.5"/>
+<path d="M30 20C78 6 129 12 180 19C230 12 284 6 331 20C347 25 348 34 347 50L347 114C347 133 335 135 320 132C260 127 218 130 182 139C145 130 95 127 36 133C21 135 13 130 13 113L13 52C13 34 17 25 30 20Z" fill="url(#paper)" stroke="#f0d1af" stroke-width="2.2"/>
+<path d="M23 40C18 56 20 102 23 119M337 40C342 56 340 102 337 119" stroke="#fff" stroke-width="3" opacity=".77" fill="none" stroke-linecap="round"/>
+<path d="M21 117C21 128 35 130 51 127C102 120 143 125 181 137C221 125 271 121 318 128C332 130 340 126 340 117" fill="none" stroke="#e3bb94" stroke-width="3.4" stroke-linecap="round" opacity=".82"/>
+<path d="M154 139Q180 134 205 139" fill="none" stroke="#e4ba91" stroke-width="2.8" stroke-linecap="round"/>
+</svg>

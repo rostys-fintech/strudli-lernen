@@ -1,0 +1,261 @@
+/* Approved desktop/mobile Strudli Lernen landing, scoped to the home screen only. */
+.shell--home{background:#fff9f0;color:#362623;overflow-x:hidden}
+.shell--home .topbar--home{
+ height:82px;min-height:82px;padding:0 max(26px,calc((100vw - 1400px)/2));
+ background:#fff9f2;border:0;box-shadow:none;position:relative;z-index:4;gap:20px
+}
+.shell--home .topbar--home:after{
+ content:"";position:absolute;bottom:-14px;left:0;right:0;height:27px;background:#fff9f2;
+ clip-path:polygon(0 0,100% 0,100% 47%,91% 66%,84% 53%,76% 70%,66% 49%,55% 70%,43% 55%,31% 69%,19% 48%,9% 61%,0 45%);
+ pointer-events:none;z-index:-1
+}
+.shell--home .topbar--home .back{display:none}
+.shell--home .topbar--home .brandHomeLink{margin-right:auto;max-width:none;min-width:0;flex:0 0 auto}
+.shell--home .topbar--home .logo .brandWordmark{width:176px;max-height:70px;object-fit:contain}
+.shell--home .topbar--home .langSwitch{
+ background:#f6e7d8;border:1px solid #efcfb6;border-radius:16px;display:flex;
+ align-items:center;gap:3px;padding:4px;box-shadow:none
+}
+.shell--home .topbar--home .langSwitch button{
+ border-radius:11px;color:#765950;min-width:51px;min-height:42px;
+ padding:8px 12px;font-family:Rubik,Nunito,sans-serif;font-size:14px;font-weight:800
+}
+.shell--home .topbar--home .langSwitch button.active{background:#9d1d3c;color:#fff;box-shadow:0 2px 7px #6530231c}
+.shell--home .content--home{max-width:none;margin:0;padding:0 0 36px}
+.strudliLanding{background:linear-gradient(180deg,#fff9f0,#fffaf3 68%,#fff6e9);color:#34231d;font-family:Rubik,Nunito,sans-serif}
+.strudliLandingHero{
+ height:clamp(320px,29vw,420px);position:relative;overflow:hidden;isolation:isolate;
+ background:linear-gradient(130deg,#f5e7cd,#a8cbdf 60%,#ffd5ac)
+}
+.strudliLandingScene{
+ position:absolute;inset:0;background-image:url('/strudli/berlin-hero.svg');
+ background-size:cover;background-position:center 57%;z-index:-1
+}
+.strudliLandingHero:after{
+ content:"";position:absolute;bottom:-1px;left:0;right:0;height:24px;
+ background:#fff9f0;clip-path:polygon(0 72%,10% 61%,17% 85%,29% 66%,40% 83%,50% 61%,60% 80%,72% 61%,83% 79%,92% 63%,100% 80%,100% 100%,0 100%);
+ pointer-events:none;z-index:2
+}
+.strudliLandingMascot{position:absolute;z-index:1;left:max(18px,calc((100vw - 1360px)/2));bottom:12px;width:clamp(224px,26vw,360px);height:clamp(210px,24vw,326px);filter:drop-shadow(0 12px 13px #6f482a3e)}
+.strudliLandingMascot .strudliMascot{width:100%;height:100%;animation:none}
+.strudliLandingWelcome{
+ position:absolute;left:42%;top:13%;width:42%;max-width:650px;z-index:2;display:grid;gap:14px;justify-items:start
+}
+.strudliLandingBubble{
+ width:100%;background:#fff8eeef;border-radius:38% 42% 36% 34%/25% 29% 24% 26%;
+ padding:27px 44px 26px 52px;box-shadow:0 5px 19px #66381f13;backdrop-filter:blur(2px)
+}
+.strudliLandingBubble h1{font-family:Rubik,Nunito,sans-serif;font-size:clamp(27px,3.25vw,51px);font-weight:900;letter-spacing:-1.35px;line-height:1.12;margin:0}
+.strudliLandingBubble h1 span{display:block;color:#a01c3a}
+.strudliLandingBubble p{font-size:clamp(12px,1.22vw,18px);line-height:1.4;color:#73574b;font-weight:650;margin:13px 0 0}
+.strudliHeart{display:inline-block;color:#a61d3e;font-size:35px;line-height:0;vertical-align:-5px;margin-left:7px;transform:rotate(-18deg)}
+.strudliLandingContinue{
+ width:min(100%,535px);min-height:69px;border:7px solid #fff7ec;border-radius:23px;display:flex;
+ align-items:center;justify-content:center;gap:17px;background:#a31337;color:#fff;padding:12px 20px;
+ box-shadow:0 7px 0 #7c2f3a30,0 13px 24px #6b222132;cursor:pointer;
+ font-family:Rubik,Nunito,sans-serif;font-size:clamp(16px,1.55vw,24px);font-weight:900;letter-spacing:-.35px
+}
+.strudliLandingContinue span{flex:1;text-align:center}
+.strudliLandingContinue:hover{background:#8d1531;transform:translateY(-1px)}
+.strudliLandingContinue:active{transform:translateY(2px);box-shadow:0 3px 0 #7c2f3a30}
+.strudliLandingFeatures{
+ position:relative;z-index:3;display:grid;grid-template-columns:repeat(4,minmax(0,1fr));
+ gap:18px;max-width:1410px;margin:-7px auto 25px;padding:0 29px
+}
+.strudliLandingFeatures button{
+ min-width:0;min-height:110px;border:1px solid #ead8c5;border-bottom:5px solid #deb98e;
+ border-radius:22px 22px 28px 28px;background:linear-gradient(#fffdfa,#fff6ea);
+ display:flex;flex-direction:column;align-items:center;justify-content:center;gap:8px;
+ box-shadow:0 7px 17px #89542f1c;cursor:pointer;color:#35201d;
+ font-family:Rubik,Nunito,sans-serif;font-size:19px;font-weight:900;position:relative
+}
+.strudliLandingFeatures button:after{
+ content:"";position:absolute;bottom:-5px;left:49%;width:2%;height:6px;border-radius:50%;
+ background:#f9e7d3
+}
+.strudliBookIcon{display:grid;place-items:center;color:#9e1e41}
+.strudliBookIcon svg{width:32px;height:32px;stroke-width:2.1}
+.strudliLandingFeatures button:hover{transform:translateY(-3px);border-color:#e1b28a}
+.strudliLandingTopics{max-width:1410px;margin:0 auto;padding:0 29px 35px}
+.strudliLandingTopics h2{
+ font-family:Rubik,Nunito,sans-serif;font-weight:900;font-size:clamp(23px,2.3vw,33px);
+ display:flex;gap:14px;align-items:center;margin:19px 0 20px;letter-spacing:-.6px
+}
+.strudliLandingTopics h2 svg{color:#a32648;fill:#a32648;stroke:#fff;stroke-width:1.5;width:33px;height:33px}
+.strudliLandingTopics h2 span{position:relative}
+.strudliLandingTopics h2 span:after{content:"";display:block;position:absolute;left:7%;right:12%;height:4px;bottom:-7px;border-radius:50%;transform:rotate(-2deg);background:#f0b81f}
+.strudliLandingTopicGrid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:20px}
+.strudliLandingTopicCard{
+ min-width:0;height:clamp(138px,14.4vw,195px);position:relative;display:flex;align-items:flex-end;
+ justify-content:space-between;gap:9px;padding:21px 23px;border:0;border-radius:22px;
+ background-color:#ceac8e;background-size:cover;background-position:center;color:#fff;
+ box-shadow:0 8px 20px #69391e20;text-shadow:0 2px 6px #0009;cursor:pointer;
+ font-family:Rubik,Nunito,sans-serif;text-align:left
+}
+.strudliLandingTopicCard:hover{filter:saturate(1.07);transform:translateY(-2px)}
+.strudliLandingTopicName{display:flex;align-items:center;gap:14px;min-width:0;font-size:clamp(16px,1.7vw,23px);font-weight:900}
+.strudliLandingTopicName>span{font-size:27px;line-height:1}
+.strudliLandingTopicArrow{display:grid;place-items:center;background:#fff9f3;color:#7b3035;text-shadow:none;border-radius:50%;width:45px;height:45px;flex:0 0 45px}
+.strudliLanding button:focus-visible{outline:4px solid #f7c339;outline-offset:4px}
+.shell--home .navigation{
+ background:#fffaf4;border-top:1px solid #e9d8c5;height:calc(74px + env(safe-area-inset-bottom));
+ box-shadow:0 -5px 17px #8b5a3519
+}
+.shell--home .navigation button{color:#7d685d;font-family:Rubik,Nunito,sans-serif;font-size:12px;font-weight:800}
+.shell--home .navigation button.active{color:#a21c40}
+.shell--home .navigation button.active:after{content:"";position:absolute;bottom:5px;width:45px;height:4px;background:#a21c40;border-radius:5px}
+.shell--home .navigation button{position:relative}
+@media (min-width:1500px){.strudliLandingWelcome{left:42%;top:12%}}
+@media (max-width:900px){
+ .strudliLandingWelcome{left:40%;width:55%;top:10%}
+ .strudliLandingBubble{padding:20px 24px 19px 27px}
+ .strudliLandingMascot{left:0;width:37%;height:76%;bottom:9%}
+ .strudliLandingTopicCard{height:156px}
+}
+@media (max-width:600px){
+ .shell--home .topbar--home{height:78px;min-height:78px;padding:0 17px}
+ .shell--home .topbar--home:after{height:24px;bottom:-12px}
+ .shell--home .topbar--home .logo .brandWordmark{width:148px;max-height:63px}
+ .shell--home .topbar--home .langSwitch button{font-size:12px;min-width:37px;min-height:37px;padding:7px}
+ .strudliLandingHero{height:clamp(365px,104vw,445px)}
+ .strudliLandingScene{background-size:auto 100%;background-position:66% 50%}
+ .strudliLandingMascot{left:-14px;bottom:43px;width:58%;height:57%}
+ .strudliLandingWelcome{inset:28px 13px auto auto;width:58%;max-width:none;display:block}
+ .strudliLandingBubble{border-radius:34px 45px 36px 39px;padding:18px 14px 15px 18px;background:#fff8efed}
+ .strudliLandingBubble h1{font-size:clamp(20px,5.7vw,30px);letter-spacing:-.6px;line-height:1.16}
+ .strudliLandingBubble p{font-size:clamp(10px,2.7vw,13px);line-height:1.3;margin-top:9px}
+ .strudliHeart{font-size:22px}
+ .strudliLandingContinue{
+  position:absolute;right:0;top:calc(clamp(365px,104vw,445px) - 100px - 28px);
+  transform:translateX(0);width:calc(100vw - 28px);max-width:none;min-height:64px;
+  font-size:clamp(15px,4.4vw,19px);padding:10px 13px;border-width:5px;gap:10px;border-radius:20px
+ }
+ .strudliLandingContinue svg{width:22px;height:22px}
+ .strudliLandingContinue:hover{transform:translateY(-1px)}
+ .strudliLandingFeatures{grid-template-columns:repeat(2,minmax(0,1fr));gap:11px;margin:4px auto 19px;padding:0 16px}
+ .strudliLandingFeatures button{height:88px;min-height:88px;border-radius:19px 19px 23px 23px;gap:3px;font-size:16px}
+ .strudliBookIcon svg{width:27px;height:27px}
+ .strudliLandingTopics{padding:0 16px 28px}
+ .strudliLandingTopics h2{font-size:24px;gap:9px;margin:14px 0 22px}
+ .strudliLandingTopics h2 svg{width:26px;height:26px}
+ .strudliLandingTopicGrid{grid-template-columns:1fr;gap:12px}
+ .strudliLandingTopicCard{height:135px;border-radius:19px;padding:15px 16px}
+ .strudliLandingTopicName{font-size:17px;gap:9px}
+ .strudliLandingTopicName>span{font-size:24px}
+ .strudliLandingTopicArrow{width:39px;height:39px;flex-basis:39px}
+ .shell--home .navigation{height:calc(71px + env(safe-area-inset-bottom))}
+ .shell--home .navigation button{font-size:10px;gap:4px;padding:6px 2px}
+ .shell--home .navigation button svg{width:23px;height:23px}
+}
+@media (max-width:365px){
+ .shell--home .topbar--home .logo .brandWordmark{width:126px}
+ .strudliLandingBubble h1{font-size:20px}
+ .strudliLandingBubble p{font-size:10px}
+ .strudliLandingMascot{width:62%}
+ .strudliLandingFeatures{gap:8px}
+}
+@media (prefers-reduced-motion:reduce){
+ .strudliLandingContinue,.strudliLandingFeatures button,.strudliLandingTopicCard{transition:none}
+ .strudliLandingMascot .strudliMascot{animation:none}
+}
+
+/* Functional audio entry matching the approved warm visual language. */
+.strudliAudio{max-width:800px;margin:13px auto 50px;padding:16px;font-family:Rubik,Nunito,sans-serif;color:#3d2b25}
+.strudliAudioHeader{display:flex;align-items:center;gap:18px;background:#fff0da;border:1px solid #efd1a9;border-radius:22px;padding:22px;color:#92223e}
+.strudliAudioHeader h1{font-size:clamp(23px,4vw,34px);line-height:1.2;margin:0}
+.strudliAudioHeader p{color:#7e675c;font-size:13px;margin:8px 0 0}
+.strudliAudioPlayer{border:1px solid #e8d1bb;background:#fffdf8;border-radius:22px;padding:30px 22px;text-align:center;margin:20px 0;box-shadow:0 6px 20px #69432112}
+.strudliAudioPlayer>span{display:block;color:#9a6c53;font-size:12px;font-weight:800}
+.strudliAudioPlayer>strong{display:block;color:#482c2c;font-size:clamp(22px,4vw,34px);margin:24px auto 10px}
+.strudliAudioPlayer>p{color:#957c6b;font-size:16px;margin:0 auto 28px}
+.strudliAudioControls{display:flex;justify-content:center;align-items:center;gap:20px}
+.strudliAudioControls button{height:50px;min-width:50px;border:1px solid #e5c8af;border-radius:15px;background:#fff4e9;color:#9d2845;display:flex;align-items:center;justify-content:center;gap:9px}
+.strudliAudioControls button.strudliAudioPlay{background:#9d1d3c;color:#fff;border-color:#9d1d3c;font-weight:900;padding:0 23px}
+.strudliAudioReading{width:100%;padding:18px 22px;display:flex;align-items:center;gap:15px;text-align:left;border-radius:17px;border:1px solid #e5c8af;background:#fff7e9;color:#92223e}
+.strudliAudioReading>span{flex:1;display:grid;gap:6px}
+.strudliAudioReading strong{font-size:18px}
+.strudliAudioReading small{font-size:12px;color:#806458}
+.strudliAudio button:focus-visible{outline:3px solid #f2bc24;outline-offset:3px}
+
+.strudliLandingMascot.strudliTourLaunch{display:block;border:0;padding:0;margin:0;background:none;border-radius:0;min-height:0;cursor:pointer;box-shadow:none;transform:none}
+.strudliLandingMascot.strudliTourLaunch:hover{transform:translateY(-3px)}
+
+/* Stage 12 visual polish: authentic Brandenburg Gate image and clearer approved
+   brand sprite. Photo: Emre Ozyemisci / Pexels, photo 32239604.
+   The illustration is not used as a fallback in the visible scene anymore. */
+.strudliLandingScene{
+ background-image:
+  radial-gradient(ellipse at 15% 100%,rgba(203,132,83,.4),transparent 43%),
+  linear-gradient(160deg,#a9cfe9 1%,#f5d1b3 60%,#f7e7cb 100%);
+ background-position:center;background-size:cover;
+}
+.strudliLandingScene:before{
+ content:"";position:absolute;inset:0 0 0 43%;
+ background-image:
+  linear-gradient(90deg,rgba(246,216,187,.35),rgba(255,232,209,.03) 40%,rgba(255,235,204,.12)),
+  url("/strudli/berlin-gate-photo.jpg"),
+  url("https://images.pexels.com/photos/32239604/pexels-photo-32239604.jpeg?auto=compress&cs=tinysrgb&w=2000");
+ background-position:center,53% 48%,53% 48%;
+ background-size:cover,cover,cover;
+ mask-image:linear-gradient(90deg,transparent 0%,#000 27%);
+ -webkit-mask-image:linear-gradient(90deg,transparent 0%,#000 27%);
+ filter:saturate(1.18) sepia(.10) brightness(1.08);
+}
+.strudliLandingScene:after{
+ content:"";position:absolute;left:-3%;top:-16%;width:40%;height:43%;pointer-events:none;
+ background:
+  radial-gradient(circle at 11% 32%,#a28539 0 13%,transparent 15%),
+  radial-gradient(circle at 29% 17%,#d0a94b 0 13%,transparent 15%),
+  radial-gradient(circle at 42% 43%,#9b7935 0 10%,transparent 12%),
+  radial-gradient(circle at 60% 28%,#bb933d 0 11%,transparent 13%),
+  radial-gradient(circle at 76% 10%,#c6a251 0 10%,transparent 12%),
+  radial-gradient(circle at 25% 76%,#cd993f 0 9%,transparent 12%);
+ filter:blur(5px);opacity:.77;
+}
+@media (min-width:901px){
+ .strudliLandingMascot{width:clamp(238px,22vw,306px);height:clamp(219px,20vw,280px);bottom:22px}
+ .strudliLandingWelcome{left:39.5%;width:38%;top:12%}
+ .strudliLandingBubble{border-radius:40px 54px 46px 43px;padding:27px 38px 27px 43px}
+ .strudliLandingBubble h1{font-size:clamp(30px,3vw,46px)}
+}
+.strudliLandingMascot .strudliMascotSprite{
+ image-rendering:auto;
+ filter:contrast(1.08) saturate(1.09) drop-shadow(0 4px 6px rgba(80,42,22,.21));
+}
+.strudliLandingFeatures button{
+ background:linear-gradient(175deg,#fffcf6 0%,#fff8ee 72%,#f7e4c9 100%);
+ border-bottom-color:#ddb68d;
+ box-shadow:0 6px 0 #e1c49e91,0 10px 17px #89542f14;
+}
+.strudliLandingFeatures button:after{
+ width:28px;left:calc(50% - 14px);height:4px;bottom:-5px;
+ background:#f5e1c5;border-radius:30% 30% 85% 85%;
+}
+.strudliLandingContinue{background:linear-gradient(110deg,#b01a40 0%,#9c1236 88%)}
+.strudliLandingContinue:hover{background:linear-gradient(110deg,#9d1237,#831030)}
+@media (max-width:900px){
+ .strudliLandingScene:before{inset:0 0 0 34%;background-position:center,48% 49%;mask-image:linear-gradient(90deg,transparent,#000 26%);-webkit-mask-image:linear-gradient(90deg,transparent,#000 26%)}
+}
+@media (max-width:600px){
+ .strudliLandingScene:before{inset:0 0 0 19%;background-position:center,48% 46%;filter:saturate(1.13) sepia(.09) brightness(1.06)}
+ .strudliLandingScene:after{width:58%;height:24%;top:-9%;filter:blur(4px)}
+ .strudliLandingMascot{bottom:38px;width:56%;height:54%}
+ .strudliLandingBubble{background:#fff9f0f0;box-shadow:0 4px 15px #7f4f241c}
+ .strudliLandingFeatures button{box-shadow:0 5px 0 #e1c49e91,0 7px 12px #89542f14}
+}
+
+/* Standalone approved-pose SVG renders at device resolution without enlarging the four-frame canvas. */
+.strudliLandingMascotHQ{width:100%;height:100%;display:block;object-fit:contain;filter:drop-shadow(0 4px 6px rgba(80,42,22,.18));}
+
+/* Home spotlights: the cinema tale and the AI tutor are one tap away */
+.strudliSpotlights{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:14px;max-width:1180px;margin:6px auto 18px;padding:0 16px}
+.strudliSpotlight{display:flex;align-items:center;gap:14px;min-height:112px;padding:12px 16px 12px 12px;border:1px solid #e4c9ad;border-bottom:5px solid #d9b28b;border-radius:22px;background:#fffaf2;color:#312522;text-align:left;font-family:Rubik,Nunito,sans-serif;cursor:pointer;box-shadow:0 6px 16px #7b4e2918;transition:transform .15s ease,box-shadow .15s ease}
+.strudliSpotlight:hover{transform:translateY(-2px);box-shadow:0 10px 22px #7b4e2924}
+.strudliSpotlight:focus-visible{outline:3px solid #e8aa3d;outline-offset:3px}
+.strudliSpotlight img{width:92px;height:88px;flex:0 0 92px;border-radius:16px;object-fit:cover}
+.strudliSpotlight--ask img{object-fit:contain;background:#fff1de}
+.strudliSpotlightBody{display:grid;gap:4px;flex:1;min-width:0}
+.strudliSpotlightBody strong{font-size:19px;font-weight:900;line-height:1.15;color:#312522}
+.strudliSpotlightBody small{font-size:14px;line-height:1.35;color:#5b463e}
+.strudliSpotlightTag{justify-self:start;padding:3px 9px;border-radius:999px;background:#99233d;color:#fff;font-size:11px;font-weight:900;letter-spacing:.05em}
+.strudliSpotlight>svg{color:#99233d;flex:0 0 auto}

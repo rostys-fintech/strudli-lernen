@@ -1,0 +1,42 @@
+[
+  {
+    "word_id": "body-717",
+    "word": "das Fieber",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Mercury_medical_thermometer.jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Mercury_medical_thermometer.jpg/960px-Mercury_medical_thermometer.jpg",
+    "license": "CC0-1.0",
+    "author": "IEPCBM",
+    "editorial_check": "Wikimedia Commons exact title, media URL, CC0 license and descriptive subject checked 2026-10-21. Actual visual display remains subject to device review.",
+    "image_note": "Clinical thermometer"
+  },
+  {
+    "word_id": "shopping-673",
+    "word": "die Quittung",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Tankquittung_HIT-Tankstelle_Rheinbach_mit_Abschnitt_Technische_Sicherheitseinrichtung,_2020.jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Tankquittung_HIT-Tankstelle_Rheinbach_mit_Abschnitt_Technische_Sicherheitseinrichtung%2C_2020.jpg/960px-Tankquittung_HIT-Tankstelle_Rheinbach_mit_Abschnitt_Technische_Sicherheitseinrichtung%2C_2020.jpg",
+    "license": "Public domain",
+    "author": "HIT-Tankstelle",
+    "editorial_check": "Exact file subject, copyright/license, file size checked 2026-10-21; interactive device visual QA pending.",
+    "image_note": "Curated subject photo: Tankquittung HIT-Tankstelle Rheinbach mit Abschnitt Technische Sicherheitseinrichtung, 2020.jpg"
+  },
+  {
+    "word_id": "technology-260",
+    "word": "der Ordner",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Folder-dynamic-color.png",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Folder-dynamic-color.png/960px-Folder-dynamic-color.png",
+    "license": "CC0",
+    "author": "Vijay Verma",
+    "editorial_check": "Commons image metadata, subject, dimensions and license cross-checked 2026-10-21; full device visual QA pending",
+    "image_note": "Image subject: Folder-dynamic-color.png; 3-D folder color dynamic icon"
+  },
+  {
+    "word_id": "family-475",
+    "word": "der Nachbar",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Old_Shanghai_Old_Neighbours_(6007444712).jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Old_Shanghai_Old_Neighbours_%286007444712%29.jpg/960px-Old_Shanghai_Old_Neighbours_%286007444712%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "license": "CC BY-SA 2.0",
+    "author": "Can Pac Swire from Toronto, Canada",
+    "editorial_check": "exact_filename_author_license_original_dimensions_checked_2026-10-22",
+    "image_note": "Photographed neighbors in local community; source identity verified, mobile crop and recognizability pending."
+  }
+]

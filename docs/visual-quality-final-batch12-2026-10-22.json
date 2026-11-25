@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-22",
+  "phase": "12 - final 32 cards",
+  "branch": "visual-quality-oct22",
+  "originalSvgReplacedInPhases": 206,
+  "lastBatchReplaced": 32,
+  "svgRemaining": 0,
+  "nounsWithPictures": 736,
+  "uniqueNounPictures": 736,
+  "previousCommonsRecords": 673,
+  "newOriginalPNGs": 32,
+  "calendarCards": 19,
+  "conceptCards": 13,
+  "qaScope": "deterministic byte-for-byte checks in check:cards plus existing check:photos and other tests",
+  "knownLimits": [
+    "Original hand-rendered illustration style; not photorealistic",
+    "Mobile runtime, deployed Vercel build and crop not yet independently tested",
+    "Older Wikimedia-linked photos not visually audited in this patch"
+  ],
+  "productionDeployment": "Not performed; branch-only"
+}

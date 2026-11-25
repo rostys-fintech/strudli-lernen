@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-24",
+  "count": 10,
+  "items": [
+    {
+      "id": "ww-new-139",
+      "gender": "die",
+      "de": "Bushaltestelle",
+      "asset": "/photos/hq/ww-new-139-hq-20261124.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 490930,
+      "sha256": "6bce6549a7abcc5abb25c4dd003d4138148ff357094944ae3cd299e4ffd1b81b",
+      "blob": "742ea1ace324b65e2ff67668707d51e9ae80e62d",
+      "approval": "user-approved 2026-11-24"
+    },
+    {
+      "id": "city-550",
+      "gender": "das",
+      "de": "Hotel",
+      "asset": "/photos/hq/city-550-hq-20261124.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 642414,
+      "sha256": "a55b0e8a12778872e627a5fb7b5deca695ab913eeae0a4189fa88017a7bbd90d",
+      "blob": "10782a5fde17179c98038c64fcd6ad20b5eaf682",
+      "approval": "user-approved 2026-11-24"
+    },
+    {
+      "id": "city-551",
+      "gender": "das",
+      "de": "Büro",
+      "asset": "/photos/hq/city-551-hq-20261124.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 475526,
+      "sha256": "a4010581dfcd6538138141abec73b89198f40c675c67ff2e3c56ba07b7cd34bd",
+      "blob": "13d16a53b97e1c80a04fe77a0538684373619dcf",
+      "approval": "user-approved 2026-11-24"
+    },
+    {
+      "id": "city-552",
+      "gender": "die",
+      "de": "Schule",
+      "asset": "/photos/hq/city-552-hq-20261124.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 585444,
+      "sha256": "6f83d018c491f8c6da9331ec2259f4876c7797ac1a81157f8b6c1ca3c8853fd5",
+      "blob": "5614b2736ffa4db74052b0f98f7ff0fc9a802682",
+      "approval": "user-approved 2026-11-24"
+    },
+    {
+      "id": "ww-new-072",
+      "gender": "die",
+      "de": "Durchsage",
+      "asset": "/photos/hq/ww-new-072-hq-20261124.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 328530,
+      "sha256": "e6571b48bd797339d9d540565a0d391d9d583dcf7ac9740c54828482f713c814",
+      "blob": "91978bc937188ceef27a99101eabffc6938b706b",
+      "approval": "user-approved 2026-11-24"
+    },
+    {
+      "id": "travel-428",
+      "gender": "der",
+      "de": "Koffer",
+      "asset": "/photos/hq/travel-428-hq-20261124.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 394442,
+      "sha256": "06b048eb6c43e6960d027250905aebd9a460dcde9a9594c24055d3dddf55fa8c",
+      "blob": "73f02e9b1b19c77f3611959df9176a499dda02bb",
+      "approval": "user-approved 2026-11-24"
+    },
+    {
+      "id": "shopping-665",
+      "gender": "der",
+      "de": "Korb",
+      "asset": "/photos/hq/shopping-665-hq-20261124.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 460362,
+      "sha256": "a2da3b0ed2860ef3d94328d7bcd68475d02c55a9661d5fa4303bc87795f1404d",
+      "blob": "3fc100529771730baefa322130bd551bd734e9de",
+      "approval": "user-approved 2026-11-24"
+    },
+    {
+      "id": "shopping-667",
+      "gender": "der",
+      "de": "Kassierer",
+      "asset": "/photos/hq/shopping-667-hq-20261124.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 293088,
+      "sha256": "30c4bc33a0bf777f404dca9461772d106d18907cea8a34e22aa41615b9013a7d",
+      "blob": "ceedcf5210e4db3bf6c3bf5485ddd5a8e900bd1b",
+      "approval": "user-approved 2026-11-24"
+    },
+    {
+      "id": "shopping-668",
+      "gender": "die",
+      "de": "Kassiererin",
+      "asset": "/photos/hq/shopping-668-hq-20261124.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 295702,
+      "sha256": "4b69879735ba1a606e8c7fba9a8dd362575e02539f39724ef64ff62c6a78d97c",
+      "blob": "964133bea57c1780ee9ba710d2066888b0e7e219",
+      "approval": "user-approved 2026-11-24"
+    },
+    {
+      "id": "shopping-681",
+      "gender": "der",
+      "de": "Umtausch",
+      "asset": "/photos/hq/shopping-681-hq-20261124.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 307604,
+      "sha256": "5b97f9dcf573235431aea13523e503fa798f4ac91d2c060c321b492d2cd834f0",
+      "blob": "67dc113257b311d88c7333ed62554804dd4a064f",
+      "approval": "user-approved 2026-11-24"
+    }
+  ]
+}

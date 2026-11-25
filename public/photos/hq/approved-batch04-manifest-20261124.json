@@ -1,0 +1,127 @@
+{
+  "date": "2026-11-24",
+  "batch": 4,
+  "count": 10,
+  "items": [
+    {
+      "id": "body-725",
+      "gender": "die",
+      "de": "Gesundheit",
+      "asset": "/photos/hq/body-725-hq-20261124-b04.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 301220,
+      "sha256": "04e6921593413690deb08002653a487840630ef477fcf7a716598e8d28468a9e",
+      "blob": "96054a4d8f6beecd57d52c5ab8b7621fb51534af",
+      "approval": "user continued to next batch 2026-11-24"
+    },
+    {
+      "id": "ww-new-081",
+      "gender": "der",
+      "de": "Hausarzt",
+      "asset": "/photos/hq/ww-new-081-hq-20261124-b04.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 243512,
+      "sha256": "7cc1e23207b9c51f46877a6a0757033bef49e3125c27e8bc8d853edb57d680f0",
+      "blob": "3a3af54dcc3d1c464b41fb12920ef296a983fcca",
+      "approval": "user continued to next batch 2026-11-24"
+    },
+    {
+      "id": "work-592",
+      "gender": "die",
+      "de": "Stelle",
+      "asset": "/photos/hq/work-592-hq-20261124-b04.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 192656,
+      "sha256": "82b6407650c079f3e8dd79cc103af359be001cb1bc6f278f229695e5325846ef",
+      "blob": "368394869226041df3c972e957e16ef77c6c973e",
+      "approval": "user continued to next batch 2026-11-24"
+    },
+    {
+      "id": "work-594",
+      "gender": "der",
+      "de": "Arbeitnehmer",
+      "asset": "/photos/hq/work-594-hq-20261124-b04.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 212476,
+      "sha256": "9b8a2a77644346fdb4ec9afbf27de46e13ecdf4e3535b372987dfd91b496d3b4",
+      "blob": "fa465e10e68cd2949023590595b1654c56483c73",
+      "approval": "user continued to next batch 2026-11-24"
+    },
+    {
+      "id": "work-599",
+      "gender": "das",
+      "de": "Gehalt",
+      "asset": "/photos/hq/work-599-hq-20261124-b04.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 225730,
+      "sha256": "ab6effb188da392f67181245343569daa1554f3c738ab1bdcffe6d27c3d9e4f0",
+      "blob": "c769b46d0fbab8b28295e3cc42c0889d7b7c1b2c",
+      "approval": "user continued to next batch 2026-11-24"
+    },
+    {
+      "id": "work-621",
+      "gender": "der",
+      "de": "Drucker",
+      "asset": "/photos/hq/work-621-hq-20261124-b04.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 183838,
+      "sha256": "c8186a19075988c93bc342ffe625767d8cc22bd9d14776cb983d1afe9dd6e9e2",
+      "blob": "736aaff16060a80bca1fb969fc922027d6cc45d7",
+      "approval": "user continued to next batch 2026-11-24"
+    },
+    {
+      "id": "study-641",
+      "gender": "die",
+      "de": "Übung",
+      "asset": "/photos/hq/study-641-hq-20261124-b04.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 248168,
+      "sha256": "3625f61c63ff19e922e36ad5a70f04066f8ed2f83723dd607351745c92b04103",
+      "blob": "a36b3b9903d48ac1d011ebd34f41dcf9e11335e9",
+      "approval": "user continued to next batch 2026-11-24"
+    },
+    {
+      "id": "study-645",
+      "gender": "der",
+      "de": "Fehler",
+      "asset": "/photos/hq/study-645-hq-20261124-b04.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 195678,
+      "sha256": "2a64b4b43efb4198534431c7f2d974585abf5c712c9946d835737013487c868e",
+      "blob": "1b7e6266c93ffe545916294eb515a4a7c36b996d",
+      "approval": "user continued to next batch 2026-11-24"
+    },
+    {
+      "id": "study-653",
+      "gender": "das",
+      "de": "Studium",
+      "asset": "/photos/hq/study-653-hq-20261124-b04.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 220062,
+      "sha256": "9bcd4c5109a215509bf915c0a8549a805cea118e22f43b44aef2ea8581589992",
+      "blob": "8548bccdc64e456b559f7004f99d826e21d8e3f8",
+      "approval": "user continued to next batch 2026-11-24"
+    },
+    {
+      "id": "study-654",
+      "gender": "das",
+      "de": "Semester",
+      "asset": "/photos/hq/study-654-hq-20261124-b04.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 324896,
+      "sha256": "704ebf2ed61d9e26239a7b1d86ba0570afc116287263de17a2c4bf677893b299",
+      "blob": "980eaa93c4a41687fb3f8021c936a2b52bd12c29",
+      "approval": "user continued to next batch 2026-11-24"
+    }
+  ]
+}

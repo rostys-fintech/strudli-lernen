@@ -1,0 +1,110 @@
+{
+  "date": "2026-10-22",
+  "branch": "visual-quality-oct22",
+  "phase": "batch 1 staged; Vercel production unchanged",
+  "replaced": 12,
+  "source": "Wikimedia Commons image metadata, license and caption",
+  "known_limitations": [
+    "Source metadata verified, but image pixel aesthetics and on-device crop not systematically inspected.",
+    "Attribution and license labels retained for Creative Commons reuse.",
+    "The live website will not include these changes until the final planned deploy."
+  ],
+  "words": [
+    {
+      "id": "body-702",
+      "word": "die Schulter",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Left_shoulder.jpg/960px-Left_shoulder.jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File:Left_shoulder.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Genusfotografen (Tomas Gunnarsson) / Wikimedia Sverige"
+    },
+    {
+      "id": "body-709",
+      "word": "das Knie",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Human_knees.jpg/960px-Human_knees.jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File:Human_knees.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Genusfotografen (Tomas Gunnarsson) / Wikimedia Sverige"
+    },
+    {
+      "id": "body-700",
+      "word": "das Haar",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Southeast_Asian_straight_hair_close-up.jpg/960px-Southeast_Asian_straight_hair_close-up.jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File:Southeast_Asian_straight_hair_close-up.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Nekoneko774"
+    },
+    {
+      "id": "body-699",
+      "word": "die Zunge",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Zunge_Raus.jpg/960px-Zunge_Raus.jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File:Zunge_Raus.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Elmar Ersch"
+    },
+    {
+      "id": "body-706",
+      "word": "der Bauch",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Young_Adult_woman_waist_and_hips.png/960px-Young_Adult_woman_waist_and_hips.png",
+      "commons_page": "https://commons.wikimedia.org/wiki/File:Young_Adult_woman_waist_and_hips.png",
+      "license": "CC BY 2.0",
+      "author": "Elements Of This World"
+    },
+    {
+      "id": "family-454",
+      "word": "der Bruder",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Photo_Of_Two_Brothers.jpg/960px-Photo_Of_Two_Brothers.jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File:Photo_Of_Two_Brothers.jpg",
+      "license": "CC0",
+      "author": "Albatross9v"
+    },
+    {
+      "id": "family-470",
+      "word": "die Freundin",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Women_celebrating_their_friendship.jpg/960px-Women_celebrating_their_friendship.jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File:Women_celebrating_their_friendship.jpg",
+      "license": "CC0",
+      "author": "snelson951"
+    },
+    {
+      "id": "family-459",
+      "word": "die Großmutter",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Grandmother_and_granddaughter%EF%BC%BFtaiwan.jpg/960px-Grandmother_and_granddaughter%EF%BC%BFtaiwan.jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File:Grandmother_and_granddaughter%EF%BC%BFtaiwan.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "邱鈺鋒"
+    },
+    {
+      "id": "germany-210",
+      "word": "die Meldebescheinigung",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Meldebescheinigung_in_Berlin.jpg/960px-Meldebescheinigung_in_Berlin.jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File:Meldebescheinigung_in_Berlin.jpg",
+      "license": "CC0",
+      "author": "Nicolas Bouliane"
+    },
+    {
+      "id": "ww-new-080",
+      "word": "die Krankenkasse",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Hanseatische_Krankenkasse_Hamburg-Wandsbek.jpg/960px-Hanseatische_Krankenkasse_Hamburg-Wandsbek.jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File:Hanseatische_Krankenkasse_Hamburg-Wandsbek.jpg",
+      "license": "Public domain",
+      "author": "GeorgHH"
+    },
+    {
+      "id": "ww-new-082",
+      "word": "die Hausärztin",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Young_female_doctor_showing_stethoscope_closeup.jpg/960px-Young_female_doctor_showing_stethoscope_closeup.jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File:Young_female_doctor_showing_stethoscope_closeup.jpg",
+      "license": "CC BY 2.0",
+      "author": "Shixart1985"
+    },
+    {
+      "id": "work-607",
+      "word": "die Kreditkarte",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Woman_holding_credit_card_closeup.jpg/960px-Woman_holding_credit_card_closeup.jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File:Woman_holding_credit_card_closeup.jpg",
+      "license": "CC BY 2.0",
+      "author": "Shixart1985"
+    }
+  ]
+}

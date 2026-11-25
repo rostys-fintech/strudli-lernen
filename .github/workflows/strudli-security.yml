@@ -1,0 +1,54 @@
+name: Strudli security attack tests
+on:
+  push:
+    branches: [feature/strudli-hackathon-hardening-20261124, feature/strudli-lesen-cinematic-pilot-20261123, release/strudli-unified-preview-20261124]
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: strudli-security-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  attack:
+    if: "!contains(github.event.head_commit.message, '[screens]')"
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: API attack tests (accounts, AI tutor)
+        run: |
+          node scripts/attack-account-api.mjs
+          node scripts/attack-ai-api.mjs
+      - name: Dependency audit (high and critical)
+        run: |
+          npm install --no-audit --no-fund
+          npm audit --omit=dev --audit-level=high
+      - name: Build the real app (all content checks + typecheck)
+        run: npm run build
+      - name: Browser attack run against the production build and headers
+        run: |
+          npm install --no-save --no-audit --no-fund playwright@1.49.1
+          npx playwright install --with-deps chromium
+          openssl req -x509 -newkey rsa:2048 -nodes -keyout /tmp/e2e-key.pem -out /tmp/e2e-cert.pem -days 1 -subj "/CN=localhost" 2>/dev/null
+          E2E_TLS_KEY=/tmp/e2e-key.pem E2E_TLS_CERT=/tmp/e2e-cert.pem NODE_TLS_REJECT_UNAUTHORIZED=0 node scripts/security-e2e.mjs dist reports/screens/security
+      - name: Upload screenshots and report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          retention-days: 3
+          name: security-run
+          path: reports/screens/security
+      - name: Commit screenshots and report
+        # Only the work branch gets screenshot commits: on deploy branches each commit would cost a Vercel deployment.
+        if: always() && github.event_name == 'push' && github.ref == 'refs/heads/feature/strudli-hackathon-hardening-20261124'
+        run: |
+          git config user.name "strudli-screens[bot]"
+          git config user.email "screens@users.noreply.github.com"
+          git add reports/screens/security || true
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: security run screenshots [screens]"
+          git pull --rebase --autostash -q && git push

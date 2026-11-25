@@ -1,0 +1,405 @@
+/* Strudli Spielen — friendly game-based practice in Strudli's own style.
+   Five distinct content formats, two voluntary session types, no forced timers. */
+.practiceStudio{
+ --ps-ink:#352520;--ps-wine:#a31d43;--ps-muted:#80665a;--ps-line:#ead7c2;
+ width:min(100%,850px);margin:0 auto;padding:12px 8px 110px;
+ font-family:Rubik,Nunito,system-ui,sans-serif;color:var(--ps-ink);
+ box-sizing:border-box
+}
+.practiceStudio *{box-sizing:border-box}
+.practiceStudioHeader{display:flex;align-items:center;gap:12px;margin:0 0 18px}
+.practiceStudioBack{
+ flex:0 0 42px;display:grid;place-items:center;width:42px;height:42px;
+ border-radius:50%;border:1px solid #ead5c0;background:#fffbf4;color:#9c2244;
+ box-shadow:0 3px 7px #9d62471b;
+}
+.practiceStudioHeader>div{min-width:0;flex:1}
+.practiceStudioHeader small{font-size:10px;letter-spacing:.13em;font-weight:950;color:#ac7c65}
+.practiceStudioHeader h1{font:900 clamp(21px,3.5vw,31px)/1.19 Rubik,Nunito,sans-serif;letter-spacing:-.04em;margin:3px 0 0}
+.practiceStudioCorner{display:grid;place-items:center;width:41px;height:41px;background:#fff2df;color:#e5a625;border-radius:50%}
+.practiceStudioIntro{
+ position:relative;display:flex;align-items:center;gap:5px;
+ min-height:140px;padding:20px 155px 18px 22px;border-radius:24px;
+ background:linear-gradient(115deg,#fff7ec,#f9e9d9);border:1px solid #ead1b4;
+ overflow:hidden;box-shadow:0 6px 15px #79523014;
+}
+.practiceStudioIntroCopy{position:relative;z-index:2}
+.practiceStudioIntroCopy p{
+ margin:10px 0 0;font-size:clamp(13px,1.65vw,15px);line-height:1.52;
+ color:#674c42;font-weight:700;max-width:510px
+}
+.practiceStudioIntro>img{
+ position:absolute;right:4px;bottom:-16px;height:170px;width:148px;object-fit:contain;
+ filter:drop-shadow(0 7px 5px #593c2b27)
+}
+.practiceStudioEyebrow{
+ display:inline-flex;align-items:center;gap:6px;font-weight:950;letter-spacing:.08em;
+ text-transform:uppercase;font-size:11px;color:#a12645
+}
+.practiceSessionChooser{
+ display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;margin:16px 0 21px
+}
+.practiceSessionChooser button{
+ display:flex;align-items:center;gap:11px;min-height:70px;
+ text-align:left;padding:10px 13px;border:2px solid #e9d6c2;border-radius:16px;
+ background:linear-gradient(#fffdf8,#fff8f0);color:#6c4e41;
+ box-shadow:0 3px 0 #e6cdb0;
+}
+.practiceSessionChooser button>svg{flex:0 0 27px;width:25px;height:25px;color:#b58c65}
+.practiceSessionChooser button span{display:flex;flex-direction:column;gap:3px;min-width:0}
+.practiceSessionChooser strong{font-size:13px;font-weight:900;line-height:1.18}
+.practiceSessionChooser small{font-size:11px;line-height:1.25;font-weight:650;color:#9a7c6d}
+.practiceSessionChooser button.active{
+ border-color:#b1264b;background:linear-gradient(120deg,#b6284c,#95203f);
+ color:white;box-shadow:0 4px 0 #d3a4a3,0 6px 13px #9e385028
+}
+.practiceSessionChooser button.active small,.practiceSessionChooser button.active svg{color:#fff5e7}
+.practiceStudioChoose{display:flex;align-items:baseline;justify-content:space-between;gap:10px;margin-bottom:11px}
+.practiceStudioChoose strong{font-size:20px;font-weight:950;letter-spacing:-.035em}
+.practiceStudioChoose>span{font-size:12px;font-weight:750;color:#967b69;text-align:right}
+.practiceModeDeck{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;margin:0 0 15px}
+.practiceModeCard{
+ --accent:#a32148;--wash:#ffe9ee;
+ display:flex;align-items:center;text-align:left;gap:12px;min-width:0;
+ min-height:128px;padding:15px;border:1px solid #ebd5c0;border-bottom:4px solid #dbb48e;
+ border-radius:20px;background:linear-gradient(138deg,#fffcf7,#fff6eb);
+ box-shadow:0 5px 11px #8e54301b;color:#382724;
+ transition:transform .16s ease,box-shadow .16s ease;
+}
+.practiceModeCard:hover{transform:translateY(-3px);box-shadow:0 8px 15px #8e543024}
+.practiceModeCard:active{transform:translateY(1px)}
+.practiceModeCard:focus-visible{outline:3px solid var(--accent);outline-offset:3px}
+.practiceModeCard.accent-blue{--accent:#417da9;--wash:#e7f1fb}
+.practiceModeCard.accent-gold{--accent:#a37c30;--wash:#fff0cf}
+.practiceModeCard.accent-teal{--accent:#198c8b;--wash:#ddf5ef}
+.practiceModeCard.accent-purple{--accent:#7e559c;--wash:#f0e9f8}
+.practiceModeCard:last-child{grid-column:1/-1}
+.practiceModeCardIcon{
+ flex:0 0 57px;width:57px;height:57px;border-radius:17px;
+ background:var(--wash);color:var(--accent);
+ box-shadow:inset 0 2px 2px #ffffffce,0 4px 0 #9b684522;
+ display:grid;place-items:center
+}
+.practiceModeCardBody{flex:1;display:flex;flex-direction:column;gap:5px;min-width:0}
+.practiceModeCardBody small{font-size:10px;font-weight:900;letter-spacing:.04em;color:var(--accent);text-transform:uppercase}
+.practiceModeCardBody strong{font-weight:950;font-size:clamp(16px,2vw,20px);line-height:1.18}
+.practiceModeCardBody>span{font-size:12px;color:#7f6456;line-height:1.42;font-weight:650}
+.practiceModeCardArrow{flex:0 0 23px;color:var(--accent)}
+.practiceStudioHud{
+ display:flex;align-items:center;justify-content:space-between;gap:9px;
+ min-height:43px;margin-top:4px;font-size:13px;font-weight:900;color:#836255;
+}
+.practiceStudioHud>span:first-child{flex:1;white-space:nowrap}
+.practiceStudioHud>span:first-child strong{color:#aa2449;font-size:11px;margin-right:3px}
+.practiceXp,.practiceCombo{
+ display:flex;align-items:center;justify-content:center;gap:4px;
+ min-width:72px;border-radius:999px;padding:8px 9px;background:#fff1df;
+ border:1px solid #edd8bf;color:#8c5e30
+}
+.practiceCombo{min-width:54px;background:#ffe8df;color:#a53848}
+.practiceStudioTrack{height:10px;width:100%;background:#eedfd0;border-radius:999px;margin:8px 0 14px;overflow:hidden}
+.practiceStudioTrack>span{
+ display:block;height:100%;border-radius:inherit;
+ background:linear-gradient(90deg,#a91f44,#eaa950);transition:width .3s ease
+}
+.practiceStudioQuestion{
+ position:relative;display:flex;flex-direction:column;align-items:center;
+ text-align:center;gap:10px;min-height:192px;
+ border:1px solid #e9d3bc;border-radius:24px;padding:15px 19px 21px;
+ background:linear-gradient(160deg,#fffdfa,#fff8ef);
+ box-shadow:0 7px 17px #895a3020;
+}
+.practiceStudioQuestionTop{width:100%;display:flex;justify-content:space-between;align-items:center;gap:10px}
+.practiceStudioQuestionTop>span{
+ color:#a22045;letter-spacing:.07em;font-weight:950;text-transform:uppercase;
+ font-size:11px;line-height:1.2;text-align:left;
+}
+.practiceStudioQuestionTop .flameMeter--practice{
+ margin:0;flex:0 0 auto;gap:1px;
+ transform:scale(.57);transform-origin:center right;
+ width:115px;height:44px;
+}
+.practiceStudioQuestionTop .flameMeter--practice .flameMeterSlot{
+ width:51px;height:66px
+}
+.practiceStudioQuestion h2{
+ font:900 clamp(22px,4vw,34px)/1.22 Rubik,Nunito,sans-serif;color:#33231e;
+ margin:12px auto 2px;letter-spacing:-.025em;
+ overflow-wrap:anywhere;max-width:100%;
+}
+.practiceStudioQuestion small{
+ color:#8a7265;font-size:12px;font-weight:750;
+ margin:0;line-height:1.35
+}
+.practiceQuestionSub{font-size:12px;color:#987964;font-weight:800}
+.practiceStudioRound--cases .practiceStudioQuestion h2{
+ background:linear-gradient(transparent 78%,#f9e2b3 78%);
+ padding:0 2px
+}
+.practiceDialoguePerson{
+ align-self:flex-start;display:flex;align-items:center;gap:8px;
+ font-size:12px;font-weight:900;color:#9b3453;
+}
+.practiceDialoguePrompt{
+ position:relative;
+ background:#f5e7d7;border-radius:20px 20px 20px 5px;
+ border:1px solid #e8cdb2;
+ width:min(100%,550px);margin:7px 0 0;padding:17px 16px;
+ text-align:left;color:#382b23;font-size:clamp(18px,3vw,26px);
+ line-height:1.35;font-weight:900;box-shadow:0 4px 10px #b27c4a1a;
+ overflow-wrap:anywhere
+}
+.practiceListeningArt{
+ margin:0 auto;color:#a21c44;
+ width:87px;height:87px;display:grid;place-items:center;
+ border-radius:50%;background:#fff0e0;
+ border:1px solid #e8cba8;
+ box-shadow:0 0 0 10px #fff4e9a8;
+}
+.practiceStudioRound--listening .practiceStudioQuestion h2{margin:0}
+.practiceStudioListen{
+ display:flex;align-items:center;justify-content:center;gap:9px;
+ min-height:48px;min-width:205px;border:4px solid #fff3e3;
+ border-radius:999px;background:#a41e42;color:#fff;
+ font-weight:950;font-size:14px;padding:9px 15px;
+ box-shadow:0 4px 0 #e4bbaf
+}
+.practiceBuilderHeader{
+ width:49px;height:49px;display:grid;place-items:center;
+ background:#efe4f7;border-radius:14px;color:#7c4ea0
+}
+.practiceStudioRound--sentence .practiceStudioQuestion h2{margin:2px auto 0}
+.practicePromptTranslation{font-size:14px;font-weight:850;color:#835f4f;margin:0}
+.practiceStudio .practiceChoices.practiceStudioChoices{
+ display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;
+ margin:13px 0 0;
+}
+.practiceStudio .practiceChoices .practiceChoice{
+ --tile:#b52e53;--edge:#812342;
+ display:flex;align-items:center;justify-content:flex-start;gap:11px;
+ min-width:0;min-height:82px;padding:14px 15px;
+ border:2px solid transparent;border-bottom:5px solid var(--edge);
+ border-radius:19px;
+ background:var(--tile);color:white;text-align:left;
+ font:900 clamp(15px,2.2vw,19px)/1.25 Rubik,Nunito,sans-serif;
+ box-shadow:0 5px 12px #77543520;
+ transition:filter .13s ease,transform .12s ease,opacity .2s ease;
+ cursor:pointer;
+}
+.practiceStudio .practiceChoices .practiceChoice--1{--tile:#3b799c;--edge:#295673}
+.practiceStudio .practiceChoices .practiceChoice--2{--tile:#ae7a31;--edge:#7d5726}
+.practiceStudio .practiceChoices .practiceChoice--3{--tile:#398f7b;--edge:#236658}
+.practiceStudio .practiceChoices .practiceChoice:nth-child(3):last-of-type{grid-column:1/-1}
+.practiceStudio .practiceChoices .practiceChoice:not(:disabled):hover{filter:brightness(1.07);transform:translateY(-2px)}
+.practiceStudio .practiceChoices .practiceChoice:not(:disabled):active{transform:translateY(1px)}
+.practiceStudio .practiceChoices .practiceChoice:focus-visible{outline:3px solid #f2b23a;outline-offset:3px}
+.practiceChoiceGlyph{
+ display:grid;place-items:center;flex:0 0 35px;
+ width:35px;height:35px;border:2px solid #ffffffb5;
+ border-radius:11px;background:#ffffff27;
+ font-size:19px;line-height:1
+}
+.practiceChoiceText{overflow-wrap:anywhere;min-width:0;flex:1}
+.practiceStudio .practiceChoices .practiceChoice.right{
+ background:#e0f6e8;color:#176b45;border:3px solid #55ba87;
+ border-bottom-width:5px;box-shadow:0 4px 12px #31774b20
+}
+.practiceStudio .practiceChoices .practiceChoice.right .practiceChoiceGlyph{
+ border-color:#7bbf91;background:#fff6;color:#176b45
+}
+.practiceStudio .practiceChoices .practiceChoice.wrong{
+ background:#f7e0e3;color:#954052;border-color:#d89cab;
+ filter:none;border-bottom-color:#b5677c;animation:shake .25s ease
+}
+.practiceStudio .practiceChoices .practiceChoice:disabled{opacity:.85;cursor:default}
+.practiceStudio .practiceChoices .practiceChoice.right:disabled{opacity:1}
+.practiceStudio .practiceStudioChatChoices{
+ grid-template-columns:1fr;gap:9px;
+}
+.practiceStudio .practiceStudioChatChoices .practiceChoice{
+ min-height:67px;max-width:100%;border:1px solid #e0c9b5;
+ border-bottom:3px solid #d4b08e;
+ background:#fffaf4;color:#5b3d31;border-radius:18px 18px 5px 18px;
+ margin-left:12px;box-shadow:0 3px 10px #7b4e2920
+}
+.practiceStudio .practiceStudioChatChoices .practiceChoice:nth-child(3):last-of-type{grid-column:auto}
+.practiceStudioChatChoices .practiceChoiceAvatar{
+ display:grid;place-items:center;width:35px;height:35px;flex:0 0 35px;
+ background:#f6e1cb;border-radius:50%;color:#a02145
+}
+.practiceStudio .practiceStudioChatChoices .practiceChoice.right{
+ background:#e3f7ec;border-color:#6fbd91;color:#23593b
+}
+.practiceStudio .practiceStudioChatChoices .practiceChoice.wrong{
+ background:#fff0f1;border-color:#e3a0ac;color:#8d3f4d
+}
+.practiceSwitchInput{
+ grid-column:1/-1;min-height:41px;display:flex;align-items:center;justify-content:center;gap:8px;
+ background:transparent;border:0;color:#8b4960;text-decoration:underline;
+ font-size:12px;font-weight:850
+}
+.practiceTypeForm{
+ grid-column:1/-1;display:grid;grid-template-columns:1fr auto;
+ background:#fffaf3;padding:14px;border:1px solid #e9d6c5;border-radius:17px;
+ gap:10px;align-items:center;
+}
+.practiceTypeForm label{grid-column:1/-1;font-size:12px;font-weight:900;color:#805440}
+.practiceTypeForm input{
+ min-width:0;width:100%;min-height:50px;padding:11px 13px;
+ border:2px solid #dfcbb8;border-radius:12px;
+ font-size:18px;color:#33231e;background:white
+}
+.practiceTypeForm input:focus{outline:3px solid #edc479;outline-offset:1px}
+.practiceTypeForm button{
+ border:0;display:flex;align-items:center;justify-content:center;gap:6px;
+ min-height:49px;border-radius:13px;padding:9px 12px;background:#a51d43;color:#fff;font-weight:900
+}
+.practiceTypeForm button:disabled{opacity:.55}
+.practiceSentenceInteraction{margin:14px auto}
+.practiceAssembled{
+ min-height:90px;display:flex;flex-wrap:wrap;align-items:center;gap:7px;
+ border:2px dashed #dec09e;border-radius:19px;
+ padding:12px;background:#fff5e7;
+}
+.practiceAssembled button{
+ background:#b42a52;color:#fff;border:1px solid #b22650;
+ border-radius:13px;padding:10px 11px;font-size:15px;line-height:1.25;font-weight:850;
+ min-height:41px
+}
+.practiceAssembled button>span{font-size:12px;margin-left:2px;opacity:.7}
+.practiceBuilderPlaceholder{color:#917567;font-size:13px;text-align:center;width:100%;font-weight:750}
+.practiceBuilderTiles{
+ display:flex;flex-wrap:wrap;justify-content:center;gap:9px;
+ min-height:62px;margin:13px 0;
+}
+.practiceBuilderTiles button{
+ border:1px solid #ddbb9d;border-bottom:4px solid #d4a779;
+ border-radius:14px;min-height:45px;
+ background:#fffdf9;padding:10px 15px;
+ color:#49332a;font:850 16px/1.15 Rubik,Nunito,sans-serif;
+ box-shadow:0 3px 8px #8b573022
+}
+.practiceBuilderTiles button:hover{background:#fff0db}
+.practiceBuilderActions{display:flex;align-items:center;justify-content:space-between;gap:10px}
+.practiceBuilderActions button{
+ display:flex;justify-content:center;align-items:center;gap:7px;
+ min-height:48px;padding:10px 15px;border-radius:14px;font-weight:900;font-size:13px
+}
+.practiceBuilderActions .practiceClear{border:1px solid #e0cab5;background:#fff9f0;color:#8e695a}
+.practiceBuilderActions .practiceCheck{border:0;background:#a72249;color:white}
+.practiceBuilderActions button:disabled{opacity:.42}
+.practiceStudioFeedback{
+ display:flex;flex-direction:column;align-items:flex-start;gap:4px;
+ border:1px solid #e8d2bd;border-radius:17px;
+ background:linear-gradient(120deg,#fffaf0,#fff1dc);
+ margin:12px 0;padding:12px 16px;
+}
+.practiceStudioFeedback strong{display:inline-flex;align-items:center;gap:7px;color:#a12148;font-size:15px}
+.practiceStudioFeedback.success{background:#eef8ef;border-color:#bcdcc7}
+.practiceStudioFeedback.success strong{color:#388154}
+.practiceStudioFeedback.revealed{background:#fff2e3;border-color:#eac99e}
+.practiceStudioFeedback.retry{background:#fff8ec;border-color:#e7d1aa}
+.practiceCorrectAnswer{font:900 clamp(16px,3vw,22px)/1.3 Rubik,Nunito,sans-serif;color:#342821;overflow-wrap:anywhere}
+.practiceStudioFeedback p{margin:0;color:#6e584e;font-size:14px}
+.practiceStudioFeedback small{color:#876b59;font-size:12px;font-weight:750}
+.practiceStudioBottom{padding:5px 0 10px}
+.practiceStatus>span{display:block;text-align:center;font-size:12px;font-weight:900;color:#8b7468;margin:9px 0}
+.practiceStatus .strudliGuide{max-width:100%}
+.practiceNextDock{margin:12px 0}
+.practiceNext{
+ min-height:59px;width:100%;padding:12px 20px;
+ background:linear-gradient(120deg,#b42750,#92173b);border:5px solid #fff8ed;
+ border-radius:21px;color:white;font:950 18px Rubik,Nunito,sans-serif;
+ display:flex;align-items:center;justify-content:center;gap:14px;
+ box-shadow:0 5px 0 #e4baab,0 10px 14px #79304725
+}
+.practiceNext:active{transform:translateY(2px)}
+.practiceStudio .practiceBack{
+ display:flex;align-items:center;justify-content:center;gap:5px;
+ background:transparent;color:#982748;
+ margin:8px auto;border:0;font-size:13px;font-weight:900;padding:10px
+}
+.practiceStudioResults{
+ display:flex;align-items:center;flex-direction:column;gap:12px;text-align:center;
+ border:1px solid #ebd1b8;border-radius:25px;padding:15px 17px 25px;
+ background:linear-gradient(150deg,#fffaf1,#f8e9d8);
+ box-shadow:0 7px 15px #865c331c
+}
+.practiceStudioResults>img{width:145px;height:160px;object-fit:contain}
+.practiceStudioResults h2{font:950 clamp(24px,5vw,35px) Rubik,Nunito,sans-serif;color:#3e2924;margin:0}
+.practiceStudioResults p{font-size:14px;line-height:1.45;color:#7a6153;max-width:450px;margin:0}
+.practiceResultMetrics{
+ display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;
+ width:100%;margin-top:8px
+}
+.practiceResultMetrics>div{
+ display:flex;flex-direction:column;gap:5px;align-items:center;
+ border:1px solid #ebd6c0;border-radius:16px;padding:15px 7px;
+ background:#fffdf8
+}
+.practiceResultMetrics strong{font-size:25px;color:#a22247;line-height:1;font-weight:950}
+.practiceResultMetrics strong small{font-size:14px;color:#977a68}
+.practiceResultMetrics span{font-size:11px;color:#866d60;font-weight:850}
+.practiceStudioResults .practiceErrorNote{font-size:12px}
+.practiceResultActions{display:flex;flex-wrap:wrap;justify-content:center;gap:10px;width:100%}
+.practiceResultActions button{
+ flex:1;min-width:160px;min-height:52px;display:flex;align-items:center;justify-content:center;
+ gap:9px;font-size:14px;font-weight:900;border-radius:14px;
+ border:1px solid #e6c8b1;background:#fffaf4;color:#98405a
+}
+.practiceResultActions button:first-child{border:0;background:#aa254b;color:white}
+@media(max-width:640px){
+ .practiceStudio{padding:6px 7px 108px}
+ .practiceStudioHeader{gap:8px;margin-bottom:13px}
+ .practiceStudioHeader h1{font-size:clamp(19px,5vw,25px)}
+ .practiceStudioCorner{width:32px;height:32px}
+ .practiceStudioIntro{min-height:126px;padding:14px 110px 14px 14px;border-radius:20px}
+ .practiceStudioIntro>img{height:139px;width:122px;right:-4px;bottom:-7px}
+ .practiceStudioIntroCopy p{font-size:12px;line-height:1.4}
+ .practiceSessionChooser{gap:7px;margin:12px 0 17px}
+ .practiceSessionChooser button{gap:6px;min-height:69px;padding:9px 8px;border-radius:13px}
+ .practiceSessionChooser button>svg{flex:0 0 19px;width:19px;height:19px}
+ .practiceSessionChooser strong{font-size:12px}
+ .practiceSessionChooser small{font-size:10px}
+ .practiceStudioChoose strong{font-size:18px}
+ .practiceStudioChoose>span{font-size:10px;max-width:45%}
+ .practiceModeDeck{grid-template-columns:1fr;gap:9px}
+ .practiceModeCard{min-height:100px;padding:11px 13px;gap:10px;border-radius:16px}
+ .practiceModeCard:last-child{grid-column:auto}
+ .practiceModeCardIcon{width:48px;height:48px;flex-basis:48px;border-radius:13px}
+ .practiceModeCardIcon svg{width:24px;height:24px}
+ .practiceModeCardBody strong{font-size:17px}
+ .practiceModeCardBody>span{font-size:11px}
+ .practiceModeCardBody small{font-size:10px}
+ .practiceStudioHud{gap:5px;font-size:12px}
+ .practiceXp{min-width:62px}
+ .practiceCombo{min-width:46px}
+ .practiceStudioTrack{margin:7px 0 10px}
+ .practiceStudioQuestion{min-height:166px;padding:11px 13px 14px;gap:8px;border-radius:20px}
+ .practiceStudioQuestion h2{font-size:clamp(21px,5.4vw,29px);margin:7px auto}
+ .practiceDialoguePrompt{font-size:clamp(18px,4.9vw,25px);padding:13px;margin-top:2px}
+ .practiceListeningArt{width:65px;height:65px;box-shadow:0 0 0 6px #fff4e9b5}
+ .practiceListeningArt svg{height:40px}
+ .practiceStudio .practiceChoices.practiceStudioChoices{gap:8px;margin-top:10px}
+ .practiceStudio .practiceChoices .practiceChoice{min-height:76px;padding:10px 9px;gap:7px;font-size:15px;border-radius:14px}
+ .practiceChoiceGlyph{width:27px;height:27px;flex-basis:27px;border-radius:8px;font-size:14px}
+ .practiceStudio .practiceStudioChatChoices .practiceChoice{min-height:64px;padding:10px 11px;font-size:14px}
+ .practiceAssembled{min-height:79px;padding:9px}
+ .practiceBuilderTiles button{min-height:43px;font-size:15px}
+ .practiceBuilderActions button{font-size:12px;padding:9px 10px}
+ .practiceNextDock{position:fixed;bottom:calc(75px + env(safe-area-inset-bottom));left:13px;right:13px;z-index:36;margin:0}
+ .practiceNext{min-height:58px;box-shadow:0 7px 18px #7c274246,0 4px 0 #dfb0a3}
+ .practiceStudioBottom:has(.practiceNextDock){padding-bottom:72px}
+ .practiceStudioResults>img{height:130px;width:130px}
+}
+@media(max-width:370px){
+ .practiceStudioIntro{padding-right:93px}
+ .practiceStudioIntro>img{width:106px}
+ .practiceStudio .practiceChoices .practiceChoice{font-size:14px;min-height:71px;padding:9px 7px}
+ .practiceChoiceGlyph{width:24px;height:24px;flex-basis:24px}
+ .practiceModeCardBody strong{font-size:16px}
+}
+@media(prefers-reduced-motion:reduce){
+ .practiceModeCard,.practiceStudio .practiceChoices .practiceChoice,.practiceNext,.practiceStudioTrack>span{transition:none}
+ .practiceStudio .practiceChoices .practiceChoice.wrong{animation:none}
+}

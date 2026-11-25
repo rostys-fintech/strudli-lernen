@@ -1,0 +1,60 @@
+{
+  "batch": 30,
+  "date": "2026-10-25",
+  "userApproval": "all four A variants",
+  "targets": [
+    {
+      "id": "technology-260",
+      "de": "Ordner",
+      "uk": "папка",
+      "choice": "A",
+      "expectedPhoto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Folder-dynamic-color.png/960px-Folder-dynamic-color.png",
+      "newFile": "public/photos/custom/batch30-technology-260.jpg",
+      "url": "https://images.pexels.com/photos/6889206/pexels-photo-6889206.jpeg?auto=compress&w=960",
+      "originalPage": "https://www.pexels.com/photo/files-and-folder-on-computer-screen-6889206/",
+      "author": "cottonbro studio",
+      "license": "Pexels License",
+      "concept": "Laptop screen featuring clearly visible folders"
+    },
+    {
+      "id": "family-475",
+      "de": "Nachbar",
+      "uk": "сусід",
+      "choice": "A",
+      "expectedPhoto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Old_Shanghai_Old_Neighbours_%286007444712%29.jpg/960px-Old_Shanghai_Old_Neighbours_%286007444712%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "newFile": "public/photos/custom/batch30-family-475.jpg",
+      "url": "https://images.pexels.com/photos/7578922/pexels-photo-7578922.jpeg?auto=compress&w=960",
+      "originalPage": "https://www.pexels.com/photo/men-shaking-hands-7578922/",
+      "author": "Kindel Media",
+      "license": "Pexels License",
+      "concept": "Two adult men greeting near a home entrance"
+    },
+    {
+      "id": "shopping-673",
+      "de": "Quittung",
+      "uk": "квитанція",
+      "choice": "A",
+      "expectedPhoto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Tankquittung_HIT-Tankstelle_Rheinbach_mit_Abschnitt_Technische_Sicherheitseinrichtung%2C_2020.jpg/960px-Tankquittung_HIT-Tankstelle_Rheinbach_mit_Abschnitt_Technische_Sicherheitseinrichtung%2C_2020.jpg",
+      "newFile": "public/photos/custom/batch30-shopping-673.jpg",
+      "url": "https://images.pexels.com/photos/5332481/pexels-photo-5332481.jpeg?auto=compress&w=960",
+      "originalPage": "https://www.pexels.com/photo/man-pays-contactless-with-a-bank-card-while-looking-at-the-receipt-5332481/",
+      "author": "Viktoria Slowikowska",
+      "license": "Pexels License",
+      "concept": "Receipt in customer's hand at cafe payment"
+    },
+    {
+      "id": "body-717",
+      "de": "Fieber",
+      "uk": "лихоманка",
+      "choice": "A",
+      "expectedPhoto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Mercury_medical_thermometer.jpg/960px-Mercury_medical_thermometer.jpg",
+      "newFile": "public/photos/custom/batch30-body-717.jpg",
+      "url": "https://images.pexels.com/photos/5712673/pexels-photo-5712673.jpeg?auto=compress&w=960",
+      "originalPage": "https://www.pexels.com/photo/person-holding-white-and-blue-thermometer-at-38-4-5712673/",
+      "author": "cottonbro studio",
+      "license": "Pexels License",
+      "concept": "Close up digital thermometer showing measured fever 38.4 C"
+    }
+  ],
+  "notes": "Search previews were references, not downloadable artifacts. Source photos are curated real downloadable Pexels images matching approved A concepts. Existing good photos of others untouched."
+}

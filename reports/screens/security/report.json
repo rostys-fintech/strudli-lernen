@@ -1,0 +1,33 @@
+{
+ "failures": [],
+ "passed": [
+  "CSP has script-src 'self'",
+  "CSP has frame-ancestors 'self'",
+  "CSP has object-src 'none'",
+  "header strict-transport-security",
+  "header x-content-type-options",
+  "header x-frame-options",
+  "header referrer-policy",
+  "header permissions-policy",
+  "no inline scripts in index.html",
+  "AI explanation rendered as text",
+  "weak password refused in UI",
+  "recovery code shown once",
+  "progress saved to account",
+  "session cookie HttpOnly+Secure+Strict",
+  "session cookie not readable from JS",
+  "logout works",
+  "cross-site POST blocked (403)",
+  "form-encoded AI call blocked",
+  "no script ran from poisoned progress or story URL",
+  "player AI explanation rendered",
+  "no CSP violations on any screen",
+  "no page errors",
+  "public catalog lists only public stories",
+  "public build: /lesen-pilot/story-data.json → 404",
+  "public build: /lesen-pilot/media/storm.webp → 404",
+  "public build: /lesen-pilot/audio/a1_conrad.mp3 → 404",
+  "public build: /lesen-pilot/video/a1_conrad.mp4 → 404",
+  "public story still served"
+ ]
+}

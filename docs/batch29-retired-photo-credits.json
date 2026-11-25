@@ -1,0 +1,263 @@
+[
+  {
+    "word_id": "clothes-399",
+    "word": "die Socke",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Wear_something_awesome_(Unsplash).jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Wear_something_awesome_%28Unsplash%29.jpg/960px-Wear_something_awesome_%28Unsplash%29.jpg",
+    "license": "CC0-1.0",
+    "author": "Sock Club sockclub",
+    "editorial_check": "CC0 and descriptive-subject verified from Commons metadata 2026-10-21",
+    "image_note": "Socks and footwear garment (source: Sock Club 2017)"
+  },
+  {
+    "word_id": "clothes-402",
+    "word": "der Hut",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Hat,_leaves_and_coffee_in_flatlay_(Unsplash).jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Hat%2C_leaves_and_coffee_in_flatlay_%28Unsplash%29.jpg/960px-Hat%2C_leaves_and_coffee_in_flatlay_%28Unsplash%29.jpg",
+    "license": "CC0-1.0",
+    "author": "Alisa Anton alisaanton",
+    "editorial_check": "CC0 and descriptive-subject verified from Commons metadata 2026-10-21",
+    "image_note": "Hat in a styled flatlay (source: Chicago, United States)"
+  },
+  {
+    "word_id": "clothes-391",
+    "word": "der Pullover",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Sweaters_and_coffee_(Unsplash).jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Sweaters_and_coffee_(Unsplash).jpg/960px-Sweaters_and_coffee_(Unsplash).jpg",
+    "license": "CC0-1.0",
+    "author": "Nathan Walker",
+    "editorial_check": "Wikimedia Commons imageinfo: license and depicted subject checked 2026-10-21",
+    "image_note": "Knitted sweaters"
+  },
+  {
+    "word_id": "clothes-393",
+    "word": "der Mantel",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Photographing_coats_(Unsplash).jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Photographing_coats_(Unsplash).jpg/960px-Photographing_coats_(Unsplash).jpg",
+    "license": "CC0-1.0",
+    "author": "Alex Holyoake",
+    "editorial_check": "Wikimedia Commons imageinfo: license and depicted subject checked 2026-10-21",
+    "image_note": "Coats displayed for photography"
+  },
+  {
+    "word_id": "clothes-411",
+    "word": "der Ring",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Gold_ring_MET_DP142765.jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Gold_ring_MET_DP142765.jpg/960px-Gold_ring_MET_DP142765.jpg",
+    "license": "CC0-1.0",
+    "author": "Metropolitan Museum of Art",
+    "editorial_check": "Wikimedia Commons matching subject + CC0 licensing reviewed 2026-10-21; URL network access not guaranteed if Wikimedia rate-limits",
+    "image_note": "Gold finger ring"
+  },
+  {
+    "word_id": "clothes-418",
+    "word": "der Schlafanzug",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Pajamas_MET_1979.119a.jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Pajamas_MET_1979.119a.jpg/960px-Pajamas_MET_1979.119a.jpg",
+    "license": "CC0-1.0",
+    "author": "Wikimedia Commons contributor",
+    "editorial_check": "Wikimedia Commons source metadata, CC0 license and descriptive fit checked on 2026-10-21; visual review pending",
+    "image_note": "Pajamas"
+  },
+  {
+    "word_id": "clothes-397",
+    "word": "die Bluse",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Blouse_MET_53447.jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Blouse_MET_53447.jpg/960px-Blouse_MET_53447.jpg",
+    "license": "CC0-1.0",
+    "author": "Wikimedia Commons contributor",
+    "editorial_check": "Wikimedia Commons source metadata, CC0 license and descriptive fit checked on 2026-10-21; visual review pending",
+    "image_note": "Blouse garment"
+  },
+  {
+    "word_id": "clothes-417",
+    "word": "die Unterwäsche",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Underwear_MET_CI40.110.14a_F.jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Underwear_MET_CI40.110.14a_F.jpg/960px-Underwear_MET_CI40.110.14a_F.jpg",
+    "license": "CC0-1.0",
+    "author": "Wikimedia Commons contributor",
+    "editorial_check": "Wikimedia Commons exact file title and CC0 licensing checked 2026-10-21; content verified from descriptive metadata; in-app display QA pending",
+    "image_note": "Underwear"
+  },
+  {
+    "word_id": "home-381",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Various_cooking_knives_-_Kyocera,_Henckels,_Mac,_Wiltshire.JPG",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Various_cooking_knives_-_Kyocera%2C_Henckels%2C_Mac%2C_Wiltshire.JPG/960px-Various_cooking_knives_-_Kyocera%2C_Henckels%2C_Mac%2C_Wiltshire.JPG",
+    "license": "Public domain",
+    "author": "WLU",
+    "editorial_check": "Manual noun-to-photo meaning reviewed against source description, Commons license and thumbnail resolution 2026-10-21; actual pixel-level visual QA in app remains pending.",
+    "image_note": "Specific object photo: Various cooking knives - Kyocera, Henckels, Mac, Wiltshire",
+    "word": "das Messer"
+  },
+  {
+    "word_id": "travel-449",
+    "word": "der Tourist",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Sightseeing_On_The_Beach_(Unsplash).jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Sightseeing_On_The_Beach_%28Unsplash%29.jpg/960px-Sightseeing_On_The_Beach_%28Unsplash%29.jpg",
+    "license": "CC0",
+    "author": "Unsplash photographer",
+    "editorial_check": "Confirmed Wikimedia Commons file identity, declared CC0/public domain, preview width 960 px and subject correspondence on 2026-10-21; visual QA in deployed game still pending.",
+    "image_note": "Actual subject photo: Sightseeing On The Beach (Unsplash).jpg"
+  },
+  {
+    "word_id": "travel-442",
+    "word": "die Übernachtung",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:GD_%E5%BB%A3%E6%9D%B1_Guangdong_%E5%BB%A3%E5%B7%9E_Guangzhou_Huangpu_MUSTEL_Hotel_Knowledge_City_bed_room_double_sigle_beds_June_2025_R12S_01.jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/GD_%E5%BB%A3%E6%9D%B1_Guangdong_%E5%BB%A3%E5%B7%9E_Guangzhou_Huangpu_MUSTEL_Hotel_Knowledge_City_bed_room_double_sigle_beds_June_2025_R12S_01.jpg/960px-GD_%E5%BB%A3%E6%9D%B1_Guangdong_%E5%BB%A3%E5%B7%9E_Guangzhou_Huangpu_MUSTEL_Hotel_Knowledge_City_bed_room_double_sigle_beds_June_2025_R12S_01.jpg",
+    "license": "CC0",
+    "author": "MeiOLA 2290 WMENSZ",
+    "editorial_check": "Commons image metadata, subject, dimensions and license cross-checked 2026-10-21; full device visual QA pending",
+    "image_note": "Image subject: GD 廣東 Guangdong 廣州 Guangzhou Huangpu MUSTEL Hotel Knowledge City bed room double sigle beds June 2025 R12S 01.jpg; GD 廣東 Guangdong 廣州 Guangzhou Huangpu MUSTEL Hotel Knowledge City bed room double sigle beds in June 2025"
+  },
+  {
+    "word_id": "transport-586",
+    "word": "die Linie",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:B13_Bus_Route_Map_(as_of_August_2025).png",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/B13_Bus_Route_Map_%28as_of_August_2025%29.png/960px-B13_Bus_Route_Map_%28as_of_August_2025%29.png",
+    "license": "CC0 1.0",
+    "author": "KXPUMVVL",
+    "editorial_check": "Correct rights and exact original image confirmed 2026-10-23; 1:1 crop in gameplay still pending",
+    "image_note": "User-approved New York B13 actual bus route map with route line visually highlighted; 960px original examined, replace bus picture entirely",
+    "source_page": "https://commons.wikimedia.org/wiki/File:B13_Bus_Route_Map_(as_of_August_2025).png"
+  },
+  {
+    "word_id": "ww-new-145",
+    "word": "die Umleitung",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Diversion-P1420521_(37743244344).jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Diversion-P1420521_%2837743244344%29.jpg/960px-Diversion-P1420521_%2837743244344%29.jpg",
+    "license": "CC0",
+    "author": "citytransportinfo",
+    "editorial_check": "2026-10-21: exact subject, original dimensions and license metadata verified; in-game phone visual QA pending",
+    "image_note": "Specific scene: Diversion-P1420521 (37743244344).jpg. Diversion!"
+  },
+  {
+    "word_id": "ww-new-141",
+    "word": "das Fundbüro",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Heather_and_Sara_posing_with_some_of_the_items_in_lost_and_found_(48266878967).jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Heather_and_Sara_posing_with_some_of_the_items_in_lost_and_found_%2848266878967%29.jpg/960px-Heather_and_Sara_posing_with_some_of_the_items_in_lost_and_found_%2848266878967%29.jpg",
+    "license": "Public domain",
+    "author": "Yellowstone National Park",
+    "editorial_check": "2026-10-21: manually reviewed subject against Wikimedia image title, source description, license and full resolution; on-device visual review still pending",
+    "image_note": "Accurately matched Wikimedia photograph: Heather and Sara posing with some of the items in lost and found (48266878967).jpg. NPS / Jacob W. Frank"
+  },
+  {
+    "word_id": "time-793",
+    "word": "der Kalender",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Manual_scrollable_wooden_wall_calendar.jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Manual_scrollable_wooden_wall_calendar.jpg/960px-Manual_scrollable_wooden_wall_calendar.jpg",
+    "license": "CC0",
+    "author": "Amitbalani",
+    "editorial_check": "Commons API metadata, caption and original resolution checked 2026-10-22; final aesthetic/mobile-crop QA pending",
+    "image_note": "Natural photograph or real document replacing schematic SVG; Commons file 'Manual scrollable wooden wall calendar.jpg'. Manual scrollable wall calendar, made of pure wood"
+  },
+  {
+    "word_id": "work-616",
+    "word": "das Projekt",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Introductory_meeting,_Sw%C3%A1nga%CC%B1lyiatwuki-WikiWoordenboek_pilot_project_team_11.jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Introductory_meeting%2C_Sw%C3%A1nga%CC%B1lyiatwuki-WikiWoordenboek_pilot_project_team_11.jpg/960px-Introductory_meeting%2C_Sw%C3%A1nga%CC%B1lyiatwuki-WikiWoordenboek_pilot_project_team_11.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Kambai Akau",
+    "editorial_check": "Original resolution, license, metadata and subject caption checked 2026-10-22; manually inspect actual pixels and mobile crop before merging",
+    "image_note": "Real photographed object or actual situation (not decorative SVG). Wikimedia filename: Introductory meeting, Swánga̱lyiatwuki-WikiWoordenboek pilot project team 11.jpg. Introductory meeting, Swánga̱lyiatwuki-WikiWoordenboek pilot project team"
+  },
+  {
+    "word_id": "ww-new-072",
+    "word": "die Durchsage",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:A_Speaker_in_TRA_Xiangshan_Station.jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/A_Speaker_in_TRA_Xiangshan_Station.jpg/960px-A_Speaker_in_TRA_Xiangshan_Station.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Tbatb",
+    "editorial_check": "Original resolution, license, metadata and subject caption checked 2026-10-22; manually inspect actual pixels and mobile crop before merging",
+    "image_note": "Real photographed object or actual situation (not decorative SVG). Wikimedia filename: A Speaker in TRA Xiangshan Station.jpg. ​臺鐵香山車站內播音器。"
+  },
+  {
+    "word_id": "work-624",
+    "word": "der Kunde",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:A_business_man_attending_to_his_customer.jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/A_business_man_attending_to_his_customer.jpg/960px-A_business_man_attending_to_his_customer.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Umshushima",
+    "editorial_check": "Original resolution, license, metadata and subject caption checked 2026-10-22; manually inspect actual pixels and mobile crop before merging",
+    "image_note": "Real photographed object or actual situation (not decorative SVG). Wikimedia filename: A business man attending to his customer.jpg. This is an image with the theme \" Rites and Rituals \" from:"
+  },
+  {
+    "word_id": "germany-209",
+    "word": "die Anmeldung",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Citizens_Registration_Office_Ritscherstrasse_Bad_Lauterberg_im_Harz_Germany.jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Citizens_Registration_Office_Ritscherstrasse_Bad_Lauterberg_im_Harz_Germany.jpg/960px-Citizens_Registration_Office_Ritscherstrasse_Bad_Lauterberg_im_Harz_Germany.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Christian A. Schröder",
+    "editorial_check": "commons_file_title_rights_resolution_checked_2026-10-22",
+    "image_note": "Real municipal registration office building in Germany. Source filename, rights and original size checked; final mobile cropping and aesthetic visual inspection pending."
+  },
+  {
+    "word_id": "work-613",
+    "word": "der Lebenslauf",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Resume_Example_001.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Resume_Example_001.jpg",
+    "license": "CC0",
+    "author": "DoubleCritch",
+    "editorial_check": "commons_file_title_rights_resolution_checked_2026-10-22",
+    "image_note": "Real-world CV example document. Source filename, rights and original size checked; final mobile cropping and aesthetic visual inspection pending."
+  },
+  {
+    "word_id": "travel-445",
+    "word": "die Verspätung",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Delayed_international_train_to_Brussels%2C_Schiphol_(2023)_02.jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Delayed_international_train_to_Brussels%2C_Schiphol_%282023%29_02.jpg/960px-Delayed_international_train_to_Brussels%2C_Schiphol_%282023%29_02.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Donald Trung Quoc Don",
+    "editorial_check": "commons_filename_author_license_original_resolution_checked_2026-10-22",
+    "image_note": "Train-delay information shown at railway station; delay meaning shown in real transport setting; verify cropped mobile appearance before release."
+  },
+  {
+    "word_id": "time-771",
+    "word": "das Wochenende",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Family_Weekend_(6283542652).jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Family_Weekend_%286283542652%29.jpg/960px-Family_Weekend_%286283542652%29.jpg",
+    "license": "CC BY 2.0",
+    "author": "roanokecollege",
+    "editorial_check": "commons_filename_author_license_original_resolution_checked_2026-10-22",
+    "image_note": "Family weekend event; weekend scene, associative rather than calendar-proof; verify cropped mobile appearance before release."
+  },
+  {
+    "word_id": "transport-588",
+    "word": "der Fahrpreis",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Passenger_fares_board_at_Muharram_Bek_bus_terminal_in_Alexandria_01.jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Passenger_fares_board_at_Muharram_Bek_bus_terminal_in_Alexandria_01.jpg/960px-Passenger_fares_board_at_Muharram_Bek_bus_terminal_in_Alexandria_01.jpg",
+    "license": "CC BY 4.0",
+    "author": "Marsupium",
+    "editorial_check": "commons_filename_author_license_original_resolution_checked_2026-10-22",
+    "image_note": "Actual posted passenger fares at a bus terminal; verify cropped mobile appearance before release."
+  },
+  {
+    "word_id": "technology-259",
+    "word": "die Datei",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:File_Explorer_App_windows_11.png",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/File_Explorer_App_windows_11.png/960px-File_Explorer_App_windows_11.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "license": "CC0",
+    "author": "Microsoft Windows",
+    "editorial_check": "exact_filename_author_license_original_dimensions_checked_2026-10-22",
+    "image_note": "Actual file-management interface representing a computer file; source identity verified, mobile crop and recognizability pending."
+  },
+  {
+    "word_id": "work-619",
+    "word": "der Termin",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Focused_individual_working_on_a_laptop_at_a_desk_with_a_planner_and_smartphone_in_a_cozy_indoor_setting.jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Focused_individual_working_on_a_laptop_at_a_desk_with_a_planner_and_smartphone_in_a_cozy_indoor_setting.jpg/960px-Focused_individual_working_on_a_laptop_at_a_desk_with_a_planner_and_smartphone_in_a_cozy_indoor_setting.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "license": "CC BY 2.0",
+    "author": "Shixart1985",
+    "editorial_check": "source_exact_filename_author_license_original_size_verified_2026-10-22",
+    "image_note": "Person organizing appointments at a desk with planner; Mobile cropping and external image delivery not yet tested."
+  },
+  {
+    "word_id": "time-795",
+    "word": "der Alltag",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Daily_commute._Hong_Kong._(18351525974).jpg",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Daily_commute._Hong_Kong._%2818351525974%29.jpg/960px-Daily_commute._Hong_Kong._%2818351525974%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "license": "CC0",
+    "author": "Bernard Spragg. NZ from Christchurch, New Zealand",
+    "editorial_check": "source_and_license_exact_file_verified_2026-10-22",
+    "image_note": "Genuine everyday commute, contextual cue for daily routine; mobile crop, aesthetic clarity and CDN fetch are still pending"
+  }
+]

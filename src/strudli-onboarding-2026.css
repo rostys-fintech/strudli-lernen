@@ -1,0 +1,260 @@
+/* Strudli Lernen — 2026 storybook introduction.
+   Same approved cream/wine/gold language as the homepage, with
+   true 3D Strudli artwork and responsive previews of real features. */
+.strudliTourBackdrop{
+ z-index:1100;
+ padding:calc(12px + env(safe-area-inset-top)) 12px calc(12px + env(safe-area-inset-bottom));
+ background:rgba(39,27,29,.68);
+ backdrop-filter:blur(7px)
+}
+.strudliTourBackdrop .strudliTourCard--v2{
+ --tour-ink:#392621;--tour-wine:#9f1d40;--tour-cream:#fff9f0;
+ width:min(100%,536px);
+ max-height:calc(100dvh - 28px);
+ border:1px solid #eacdb2;
+ border-radius:26px;
+ background:linear-gradient(160deg,#fffbf4 0%,#fff8ee 62%,#fff1e3 100%);
+ color:var(--tour-ink);
+ padding:12px clamp(14px,3.4vw,25px) 17px;
+ box-shadow:0 25px 70px #12091080,0 3px 0 #d5a68459;
+ text-align:center;
+ font-family:Rubik,Nunito,system-ui,sans-serif;
+}
+.strudliTourCard--v2 .strudliTourTop{min-height:39px}
+.strudliTourCard--v2 .strudliTourWordmark{
+ height:36px;width:131px;object-fit:contain;
+ display:block;mix-blend-mode:normal;filter:none;
+}
+.strudliTourCard--v2 .strudliTourSkip{
+ color:#8d6a5b;font:800 12px/1.1 Rubik,Nunito,sans-serif;
+ border:1px solid #ecd9c7;border-radius:999px;
+ background:#fff8f0;padding:9px 11px;
+}
+.strudliTourCard--v2 .strudliTourSkip:hover{color:#982041;background:#fff0e4}
+.strudliTourCard--v2 .strudliTourStepLabel{
+ display:inline-flex;align-items:center;justify-content:center;
+ margin:0 auto 8px;min-width:95px;min-height:24px;padding:4px 12px;
+ border:1px solid #f0d7b8;border-radius:999px;
+ background:#fdf0db;color:#946d4e;
+ font-size:10px;font-weight:900;letter-spacing:.095em;
+}
+.strudliTourCard--v2 .strudliTourIllustration--story{
+ position:relative;display:flex;align-items:center;justify-content:center;
+ min-height:176px;height:176px;width:100%;
+ margin:0 auto 11px;padding:8px 10px;overflow:hidden;isolation:isolate;
+ border:1px solid #eed5bb;border-radius:27px;
+ background:linear-gradient(150deg,#b3d6ed,#f6d9bd 55%,#f5c69c 100%);
+ box-shadow:inset 0 1px 1px #fff9,0 6px 17px #a06a3920;
+}
+.strudliTourCard--v2 .strudliTourLandscape{
+ position:absolute;inset:0;z-index:-1;pointer-events:none;
+ background-image:
+  linear-gradient(90deg,rgba(232,202,175,.33) 0%,rgba(245,222,189,.34) 45%,rgba(255,242,220,.18) 100%),
+  url("/strudli/berlin-gate-photo.jpg");
+ background-size:cover,cover;background-position:center,center 47%;
+ filter:saturate(.97) sepia(.09);
+}
+.strudliTourCard--v2 .strudliTourHeroMascot{
+ width:38%;height:100%;max-width:167px;object-fit:contain;
+ position:absolute;left:0;bottom:-5px;
+ z-index:2;
+ filter:drop-shadow(0 7px 6px #482f293b);
+ transform-origin:50% 94%;
+ animation:strudliTourGentleSway 4.3s ease-in-out infinite;
+}
+@keyframes strudliTourGentleSway{
+ 0%,100%{transform:rotate(-1deg) translateY(1px)}
+ 50%{transform:rotate(1.2deg) translateY(-3px)}
+}
+.strudliTourCard--v2 .strudliTourStoryPanel{
+ position:relative;z-index:3;
+ margin-left:31%;width:66%;max-width:305px;min-width:0;min-height:120px;
+ display:grid;align-content:center;justify-items:center;
+ background:linear-gradient(160deg,#fffbf5f5,#fff5e8f0);
+ border:1px solid #fffaf0;border-radius:24px;
+ padding:11px 12px;
+ box-shadow:0 5px 13px #7b513222;
+}
+.strudliTourCard--v2 .strudliTourFeatureBooks{
+ display:grid;grid-template-columns:repeat(2,minmax(0,1fr));
+ gap:4px 7px;width:100%;
+}
+.strudliTourFeatureBooks>div{
+ display:flex;align-items:center;justify-content:center;
+ flex-direction:column;gap:1px;min-height:64px;
+ background:url("/strudli/open-book-tab.svg") center/100% 100% no-repeat;
+}
+.strudliTourFeatureBooks img{width:29px;height:29px;object-fit:contain}
+.strudliTourFeatureBooks strong{font-size:11px;color:#49302a}
+.strudliTourDemoEyebrow{
+ display:inline-flex;gap:4px;align-items:center;justify-content:center;
+ color:#9d6a50;font-size:9px;font-weight:900;letter-spacing:.04em;
+ margin-bottom:6px;
+}
+.strudliTourWordDemo,.strudliTourReadingDemo,.strudliTourAudioDemo,.strudliTourProgressDemo,.strudliTourReadyDemo{
+ width:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;min-width:0;
+}
+.strudliTourWordDemo>strong{
+ font:900 clamp(19px,3.6vw,27px)/1.18 Rubik,Nunito,sans-serif;color:#32241d;
+ margin:0 0 6px;
+}
+.strudliTourDemoArticles{
+ display:grid;grid-template-columns:repeat(3,minmax(0,1fr));
+ gap:5px;width:100%;margin:0 0 5px;
+}
+.strudliTourDemoArticles span{
+ border-radius:10px;min-width:0;min-height:29px;
+ display:flex;justify-content:center;align-items:center;gap:3px;
+ font-size:13px;font-weight:900;
+ border:1px solid #ead6c7;
+ background:#fffaf5;
+}
+.strudliTourDemoArticles .der{color:#2379c3;background:#e7f2ff;border-color:#9dcaf5}
+.strudliTourDemoArticles .die{color:#d34269}
+.strudliTourDemoArticles .das{color:#1c997d}
+.strudliTourWordDemo small{color:#5b453d;font-size:11px;font-weight:700}
+.strudliTourReadingDemo>p{
+ font-size:clamp(15px,3.3vw,19px);font-weight:850;line-height:1.27;
+ margin:2px auto 8px;color:#332820;min-height:0;
+}
+.strudliTourReadingDemo>p button{
+ display:inline;padding:0 2px;
+ border:0;border-radius:3px;
+ background:linear-gradient(transparent 62%,#f9d477 62%);
+ color:#982a48;font:inherit;text-decoration:underline;
+ text-underline-offset:4px;
+}
+.strudliTourReadingDemo>p button:hover,.strudliTourReadingDemo>p button[aria-pressed=true]{background:#fce4b6}
+.strudliTourTranslation{
+ padding:6px 12px;border-radius:9px;
+ background:#fff1dd;border:1px solid #eac9a6;
+ color:#80573e;font-size:11px;font-weight:850;
+ margin-bottom:7px;
+}
+.strudliTourReadingDemo>small{
+ display:flex;align-items:center;gap:5px;
+ color:#81634c;font-size:10px;font-weight:800
+}
+.strudliTourAudioDemo>strong{
+ color:#37231c;font-size:clamp(15px,3.2vw,20px);font-weight:900;line-height:1.25;
+}
+.strudliTourAudioDemo>span{font-size:11px;color:#745645;margin:6px 0}
+.strudliTourAudioDemo>button{
+ border:0;border-radius:999px;min-height:34px;
+ background:#a21d43;color:white;
+ display:inline-flex;align-items:center;justify-content:center;gap:8px;
+ padding:7px 13px;
+ font:900 11px/1 Rubik,Nunito,sans-serif;
+ box-shadow:0 3px 0 #7a244437;
+ cursor:pointer;
+}
+.strudliTourAudioDemo>button:hover{background:#8d1838}
+.strudliTourPracticeTiles{
+ width:100%;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:7px;
+}
+.strudliTourPracticeTiles>div{
+ min-width:0;min-height:53px;
+ background:linear-gradient(#fffdfa,#fff6eb);border:1px solid #ecd5bd;
+ border-bottom:3px solid #ddb88b;border-radius:13px;
+ display:flex;flex-direction:column;align-items:center;justify-content:center;gap:3px;
+ box-shadow:0 2px 5px #78512c0f;
+}
+.strudliTourPracticeTiles svg{width:18px;height:18px;color:#9f2144}
+.strudliTourPracticeTiles strong{font-size:10px;color:#4f332c;line-height:1.1}
+.strudliTourProgressDemo .strudliTourProgressNums{
+ width:100%;display:flex;justify-content:center;align-items:baseline;gap:10px;
+ margin:0 0 8px;
+}
+.strudliTourProgressNums strong{font-size:23px;color:#9c1d40;line-height:1;font-weight:950}
+.strudliTourProgressNums strong small{font-size:14px;color:#a17b66}
+.strudliTourProgressNums>span{font-size:11px;color:#795642;font-weight:800}
+.strudliTourProgressTrack{
+ height:9px;width:92%;background:#eddfcf;border-radius:999px;
+ overflow:hidden;border:1px solid #e7d1b8;margin:0 0 9px;
+}
+.strudliTourProgressTrack>span{
+ display:block;height:100%;border-radius:inherit;
+ background:linear-gradient(90deg,#a62147,#efbc67);
+ transition:width .3s ease;
+}
+.strudliTourProgressDemo>small{
+ display:flex;align-items:center;gap:6px;font-size:11px;font-weight:800;color:#8c3654
+}
+.strudliTourReadyDemo>div{
+ display:grid;place-items:center;width:49px;height:49px;border-radius:50%;
+ background:#a62449;color:white;margin:0 0 9px;
+ box-shadow:0 4px 0 #d8a8a5;
+}
+.strudliTourReadyDemo>strong{font-size:clamp(14px,2.9vw,18px);line-height:1.25;color:#5b2e2c;font-weight:900}
+.strudliTourReadyDemo>span{font-size:11px;color:#9c765f;margin-top:6px}
+.strudliTourCard--v2 h2{
+ color:#37231f;font:900 clamp(21px,4.5vw,27px)/1.18 Rubik,Nunito,sans-serif;
+ letter-spacing:-.035em;margin:3px auto 8px;
+}
+.strudliTourCard--v2>p{
+ min-height:0;max-width:450px;
+ font-size:clamp(12px,2.5vw,14px);line-height:1.48;
+ color:#705548;margin:0 auto 12px;
+ font-weight:600;
+}
+.strudliTourCard--v2 .strudliTourSteps{margin:3px 0 13px;gap:5px}
+.strudliTourCard--v2 .strudliTourSteps span{height:6px;width:24px;background:#e9d7c3;border-radius:999px}
+.strudliTourCard--v2 .strudliTourSteps span.done{background:#d8ad6c}
+.strudliTourCard--v2 .strudliTourSteps span.current{width:33px;background:#a51d45}
+.strudliTourCard--v2 .strudliTourFooter{
+ display:grid;grid-template-columns:1fr 1fr;
+ align-items:center;gap:10px;position:sticky;
+ bottom:-17px;padding:8px 0 0;
+ background:linear-gradient(180deg,#fff8ee00,#fff8ee 16%);
+}
+.strudliTourCard--v2 .strudliTourFooter>span{display:block}
+.strudliTourCard--v2 .strudliTourPrimary,
+.strudliTourCard--v2 .strudliTourSecondary,
+.strudliTourCard--v2 .strudliTourPractice{
+ min-height:47px;border-radius:16px;
+ font:900 13px/1.1 Rubik,Nunito,sans-serif;
+ display:flex;align-items:center;justify-content:center;gap:7px;
+ transition:transform .15s ease,background .15s ease;
+}
+.strudliTourCard--v2 .strudliTourPrimary{
+ background:linear-gradient(120deg,#b92a4f,#99163c);
+ border:4px solid #fff5ea;color:white;
+ box-shadow:0 3px 0 #d6b4a8,0 6px 10px #742b3b24;
+}
+.strudliTourCard--v2 .strudliTourPrimary:hover{background:linear-gradient(120deg,#a82044,#881537)}
+.strudliTourCard--v2 .strudliTourSecondary{
+ background:#fff3e5;border:1px solid #ead3b9;color:#7b5543;
+ box-shadow:none
+}
+.strudliTourCard--v2 .strudliTourPractice{
+ border:1px solid #eac7a3;background:#fff5e9;color:#99284a;
+ width:100%;margin:9px 0 0;min-height:40px;
+ text-decoration:none;
+}
+.strudliTourCard--v2 button:focus-visible{outline:3px solid #eeb93c;outline-offset:3px}
+@media(max-width:390px){
+ .strudliTourBackdrop .strudliTourCard--v2{padding:9px 11px 13px;border-radius:21px}
+ .strudliTourCard--v2 .strudliTourIllustration--story{min-height:158px;height:158px;margin-bottom:9px}
+ .strudliTourCard--v2 .strudliTourStoryPanel{width:66%;min-height:115px;padding:8px 7px}
+ .strudliTourCard--v2 .strudliTourFeatureBooks img{width:27px;height:27px}
+ .strudliTourCard--v2 .strudliTourFeatureBooks>div{min-height:58px}
+ .strudliTourCard--v2 .strudliTourWordmark{width:114px;height:32px}
+ .strudliTourCard--v2 h2{font-size:21px}
+ .strudliTourCard--v2>p{font-size:12px;line-height:1.43}
+}
+@media(max-height:660px){
+ .strudliTourCard--v2 .strudliTourIllustration--story{height:144px;min-height:144px;margin-bottom:7px}
+ .strudliTourCard--v2 .strudliTourStoryPanel{min-height:104px}
+ .strudliTourCard--v2>p{margin-bottom:8px}
+ .strudliTourCard--v2 .strudliTourSteps{margin:3px 0 8px}
+}
+.strudliTourCard--v2 .strudliTourPracticeTiles .strudliTourPracticeExtra{
+ grid-column:1/-1;min-height:31px;display:flex;flex-direction:row;gap:7px;
+ padding:4px 10px
+}
+.strudliTourPracticeExtra strong{font-size:10px}
+@media(prefers-reduced-motion:reduce){
+ .strudliTourCard--v2 .strudliTourHeroMascot{animation:none}
+ .strudliTourCard--v2 .strudliTourProgressTrack>span,
+ .strudliTourCard--v2 .strudliTourPrimary{transition:none}
+}

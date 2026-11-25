@@ -1,0 +1,388 @@
+{
+  "cardCount": 1177,
+  "topicCount": 47,
+  "sourceCounts": {
+    "expanded-curated": 201,
+    "editorial-reviewed-08e": 124,
+    "editorial-reviewed-08b": 174,
+    "food-curated": 115,
+    "card-usage": 46,
+    "editorial-reviewed": 102,
+    "original-exercise": 34,
+    "dictionary": 15,
+    "audit-correction": 17,
+    "editorial-reviewed-08c": 134,
+    "audit-baseline-cleanup": 45,
+    "editorial-reviewed-08d": 170
+  },
+  "baselineRemaining": 0,
+  "duplicates": [],
+  "flags": [],
+  "byTopic": {
+    "phrases": {
+      "count": 43,
+      "sources": {
+        "expanded-curated": 5,
+        "editorial-reviewed-08e": 38
+      }
+    },
+    "everyday": {
+      "count": 39,
+      "sources": {
+        "expanded-curated": 5,
+        "editorial-reviewed-08b": 34
+      }
+    },
+    "dining": {
+      "count": 11,
+      "sources": {
+        "food-curated": 11
+      }
+    },
+    "questions": {
+      "count": 23,
+      "sources": {
+        "expanded-curated": 5,
+        "editorial-reviewed-08e": 18
+      }
+    },
+    "pronouns": {
+      "count": 31,
+      "sources": {
+        "expanded-curated": 3,
+        "card-usage": 21,
+        "editorial-reviewed-08e": 7
+      }
+    },
+    "adverbs": {
+      "count": 43,
+      "sources": {
+        "expanded-curated": 4,
+        "editorial-reviewed-08e": 39
+      }
+    },
+    "preps": {
+      "count": 28,
+      "sources": {
+        "card-usage": 3,
+        "expanded-curated": 3,
+        "editorial-reviewed-08e": 22
+      }
+    },
+    "institutions": {
+      "count": 25,
+      "sources": {
+        "expanded-curated": 6,
+        "editorial-reviewed": 18,
+        "original-exercise": 1
+      }
+    },
+    "social": {
+      "count": 4,
+      "sources": {
+        "expanded-curated": 4
+      }
+    },
+    "banking": {
+      "count": 22,
+      "sources": {
+        "expanded-curated": 4,
+        "original-exercise": 3,
+        "editorial-reviewed": 15
+      }
+    },
+    "housing": {
+      "count": 12,
+      "sources": {
+        "expanded-curated": 5,
+        "editorial-reviewed": 6,
+        "card-usage": 1
+      }
+    },
+    "tech": {
+      "count": 36,
+      "sources": {
+        "expanded-curated": 6,
+        "editorial-reviewed-08b": 30
+      }
+    },
+    "fruits": {
+      "count": 17,
+      "sources": {
+        "food-curated": 17
+      }
+    },
+    "staples": {
+      "count": 42,
+      "sources": {
+        "food-curated": 42
+      }
+    },
+    "dishes": {
+      "count": 16,
+      "sources": {
+        "food-curated": 16
+      }
+    },
+    "vegetables": {
+      "count": 17,
+      "sources": {
+        "food-curated": 17
+      }
+    },
+    "calendar": {
+      "count": 41,
+      "sources": {
+        "expanded-curated": 5,
+        "editorial-reviewed-08c": 32,
+        "original-exercise": 2,
+        "audit-correction": 2
+      }
+    },
+    "drinks": {
+      "count": 12,
+      "sources": {
+        "food-curated": 12
+      }
+    },
+    "rooms": {
+      "count": 16,
+      "sources": {
+        "expanded-curated": 2,
+        "dictionary": 2,
+        "original-exercise": 3,
+        "editorial-reviewed-08b": 8,
+        "card-usage": 1
+      }
+    },
+    "furniture": {
+      "count": 10,
+      "sources": {
+        "audit-correction": 2,
+        "expanded-curated": 3,
+        "original-exercise": 1,
+        "editorial-reviewed-08b": 4
+      }
+    },
+    "housework": {
+      "count": 27,
+      "sources": {
+        "card-usage": 2,
+        "original-exercise": 1,
+        "expanded-curated": 4,
+        "editorial-reviewed-08b": 20
+      }
+    },
+    "bathroom": {
+      "count": 6,
+      "sources": {
+        "expanded-curated": 6
+      }
+    },
+    "kitchenware": {
+      "count": 8,
+      "sources": {
+        "expanded-curated": 7,
+        "original-exercise": 1
+      }
+    },
+    "clothing": {
+      "count": 45,
+      "sources": {
+        "original-exercise": 4,
+        "expanded-curated": 2,
+        "editorial-reviewed-08b": 39
+      }
+    },
+    "tourism": {
+      "count": 24,
+      "sources": {
+        "expanded-curated": 5,
+        "editorial-reviewed-08c": 18,
+        "audit-correction": 1
+      }
+    },
+    "publictransport": {
+      "count": 30,
+      "sources": {
+        "expanded-curated": 4,
+        "original-exercise": 2,
+        "audit-correction": 1,
+        "editorial-reviewed": 23
+      }
+    },
+    "family": {
+      "count": 18,
+      "sources": {
+        "original-exercise": 4,
+        "expanded-curated": 1,
+        "editorial-reviewed-08b": 12,
+        "dictionary": 1
+      }
+    },
+    "people": {
+      "count": 15,
+      "sources": {
+        "expanded-curated": 2,
+        "original-exercise": 1,
+        "dictionary": 2,
+        "editorial-reviewed-08b": 10
+      }
+    },
+    "landscapes": {
+      "count": 17,
+      "sources": {
+        "expanded-curated": 3,
+        "editorial-reviewed-08c": 12,
+        "dictionary": 1,
+        "original-exercise": 1
+      }
+    },
+    "weather": {
+      "count": 19,
+      "sources": {
+        "expanded-curated": 6,
+        "editorial-reviewed-08c": 11,
+        "original-exercise": 2
+      }
+    },
+    "animals": {
+      "count": 21,
+      "sources": {
+        "expanded-curated": 4,
+        "dictionary": 2,
+        "editorial-reviewed-08c": 15
+      }
+    },
+    "citydirections": {
+      "count": 29,
+      "sources": {
+        "expanded-curated": 7,
+        "editorial-reviewed": 22
+      }
+    },
+    "places": {
+      "count": 21,
+      "sources": {
+        "audit-baseline-cleanup": 14,
+        "expanded-curated": 4,
+        "dictionary": 2,
+        "audit-correction": 1
+      }
+    },
+    "vehicles": {
+      "count": 13,
+      "sources": {
+        "dictionary": 3,
+        "expanded-curated": 3,
+        "editorial-reviewed-08c": 7
+      }
+    },
+    "work": {
+      "count": 17,
+      "sources": {
+        "original-exercise": 2,
+        "expanded-curated": 5,
+        "audit-baseline-cleanup": 10
+      }
+    },
+    "office": {
+      "count": 12,
+      "sources": {
+        "expanded-curated": 10,
+        "original-exercise": 1,
+        "audit-correction": 1
+      }
+    },
+    "school": {
+      "count": 27,
+      "sources": {
+        "original-exercise": 2,
+        "expanded-curated": 4,
+        "editorial-reviewed-08c": 21
+      }
+    },
+    "university": {
+      "count": 9,
+      "sources": {
+        "expanded-curated": 9
+      }
+    },
+    "shopping": {
+      "count": 24,
+      "sources": {
+        "expanded-curated": 5,
+        "editorial-reviewed": 18,
+        "original-exercise": 1
+      }
+    },
+    "bodyparts": {
+      "count": 20,
+      "sources": {
+        "expanded-curated": 5,
+        "editorial-reviewed-08b": 14,
+        "card-usage": 1
+      }
+    },
+    "symptoms": {
+      "count": 9,
+      "sources": {
+        "expanded-curated": 4,
+        "dictionary": 2,
+        "editorial-reviewed-08b": 3
+      }
+    },
+    "medical": {
+      "count": 11,
+      "sources": {
+        "expanded-curated": 11
+      }
+    },
+    "sports": {
+      "count": 10,
+      "sources": {
+        "expanded-curated": 9,
+        "original-exercise": 1
+      }
+    },
+    "leisure": {
+      "count": 24,
+      "sources": {
+        "expanded-curated": 4,
+        "editorial-reviewed-08c": 18,
+        "audit-correction": 2
+      }
+    },
+    "verbs": {
+      "count": 113,
+      "sources": {
+        "expanded-curated": 8,
+        "editorial-reviewed-08d": 93,
+        "card-usage": 12
+      }
+    },
+    "adjs": {
+      "count": 94,
+      "sources": {
+        "expanded-curated": 4,
+        "original-exercise": 1,
+        "editorial-reviewed-08d": 77,
+        "audit-correction": 7,
+        "card-usage": 5
+      }
+    },
+    "numbers": {
+      "count": 26,
+      "sources": {
+        "expanded-curated": 5,
+        "audit-baseline-cleanup": 21
+      }
+    }
+  },
+  "auditCorrections": 17,
+  "auditBaselineReplacements": 45,
+  "notes": [
+    "Recreates the resolver's exact source order, except no TTS playback is performed.",
+    "This structural check does not certify every translation's idiomatic accuracy, audio pronunciation or picture semantics."
+  ]
+}

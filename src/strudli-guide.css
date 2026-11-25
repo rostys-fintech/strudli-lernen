@@ -1,0 +1,43 @@
+/* Small brand-led guidance. No overlay, no timer, no animation that blocks exercises. */
+.strudliGuide{
+ --sg-ink:#503629;
+ display:flex;gap:9px;align-items:center;
+ width:100%;max-width:100%;
+ background:linear-gradient(130deg,#fffcf6,#fff4e7);
+ border:1px solid #efd8bf;
+ border-radius:18px;
+ box-shadow:0 4px 11px #79513313;
+ padding:7px 13px 7px 5px;
+ margin:12px 0;
+ color:var(--sg-ink);
+ font-family:Rubik,Nunito,system-ui,sans-serif;
+ text-align:left;
+}
+.strudliGuide>img{
+ width:65px;height:70px;object-fit:contain;
+ flex:0 0 65px;filter:drop-shadow(0 2px 2px #5f433526)
+}
+.strudliGuideSpeech{flex:1;min-width:0;position:relative}
+.strudliGuideSpeech strong{
+ display:block;font-size:13px;line-height:1.2;font-weight:900;
+ color:#922341;margin-bottom:3px
+}
+.strudliGuideSpeech p{
+ font-size:13px;line-height:1.43;
+ color:#634e43;margin:0;font-weight:650;overflow-wrap:anywhere
+}
+.strudliGuide--hint{border-color:#edcc9b;background:linear-gradient(120deg,#fff9ec,#fff1dc)}
+.strudliGuide--success{border-color:#d2e3c9;background:linear-gradient(120deg,#fffaf0,#f5faed)}
+.strudliGuide--compact{padding:5px 10px 5px 4px;margin:9px 0;gap:7px;border-radius:15px}
+.strudliGuide--compact>img{width:48px;height:51px;flex-basis:48px}
+.strudliGuide--compact .strudliGuideSpeech strong{font-size:12px;margin-bottom:2px}
+.strudliGuide--compact .strudliGuideSpeech p{font-size:12px;line-height:1.37}
+.strudliGuide--onCard{margin:0 0 12px}
+.strudliGuide--progress{margin:0 0 14px}
+@media(max-width:600px){
+ .strudliGuide{padding:6px 9px 6px 3px;gap:5px;margin:9px 0}
+ .strudliGuide>img{width:52px;height:55px;flex-basis:52px}
+ .strudliGuideSpeech p{font-size:12px;line-height:1.35}
+ .strudliGuide--compact>img{width:43px;height:47px;flex-basis:43px}
+}
+@media(prefers-reduced-motion:reduce){.strudliGuide>img{animation:none}}

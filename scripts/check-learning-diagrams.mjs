@@ -1,0 +1,6 @@
+import {readFileSync} from "node:fs";
+const required=["ww-new-001","ww-new-002","ww-new-003","ww-new-004","ww-new-005","ww-new-006","ww-new-007","ww-new-008","ww-new-009","ww-new-010","ww-new-011","ww-new-012","ww-new-013","ww-new-014","ww-new-015","ww-new-016","ww-new-017","ww-new-018","ww-new-019","ww-new-020","ww-new-021","ww-new-022","ww-new-023","ww-new-024","ww-new-025","ww-new-026"];
+const text=readFileSync(new URL("../src/data.ts",import.meta.url),"utf8");const a=text.indexOf("=[",text.indexOf("export const DEMO_WORDS"))+1,b=text.indexOf("];",a);const w=JSON.parse(text.slice(a,b+1));
+for(const id of required){const card=w.find(x=>x.id===id);const photo="/photos/learning/"+id+".svg";if(card?.photo!==photo)throw Error("Missing custom learning illustration "+id);const body=readFileSync(new URL("../public"+photo,import.meta.url),"utf8");if(!body.startsWith("<svg ")||!body.includes('viewBox="0 0 768 768"')||!body.endsWith("</svg>"))throw Error("Invalid learning SVG "+id);if(body.length<500)throw Error("Suspiciously small art "+id);}
+for(const id of ["pronouns-106","pronouns-109","pronouns-111","pronouns-120","pronouns-124"]){if(!w.find(x=>x.id===id)?.usage)throw Error("Ambiguous pronoun without German context "+id);}
+console.log("Learning diagram QA passed: "+required.length+" unique static drawings and explicit pronoun contexts.");

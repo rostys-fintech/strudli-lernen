@@ -1,0 +1,229 @@
+{
+  "project": "Strudli Lernen",
+  "date": "2026-11-23",
+  "scope": "22 explicitly approved HQ generated replacement photos. Preview-only; no production.",
+  "approval": "User approved 5+5+5+5 and subsequently der Markt and der Flughafen. Wikimedia Commons substitutes rejected.",
+  "count": 22,
+  "items": [
+    {
+      "number": "0017",
+      "id": "food-322",
+      "gender": "die",
+      "de": "Wurst",
+      "asset": "/photos/hq/0017-food-322-hq-20261123.webp",
+      "bytes": 287008,
+      "origin": "user-approved-generated",
+      "repository_blob_sha": "56caacd065fa831efa0eafa5c36a8a5dc9f6d0b0"
+    },
+    {
+      "number": "0028",
+      "id": "ww-new-206",
+      "gender": "das",
+      "de": "Hackfleisch",
+      "asset": "/photos/hq/0028-ww-new-206-hq-20261123.webp",
+      "bytes": 338952,
+      "origin": "user-approved-generated",
+      "repository_blob_sha": "13f490930b15425c8e6a9398e74fa43f5f95d6c3"
+    },
+    {
+      "number": "0032",
+      "id": "ww-new-210",
+      "gender": "der",
+      "de": "Speck",
+      "asset": "/photos/hq/0032-ww-new-210-hq-20261123.webp",
+      "bytes": 382790,
+      "origin": "user-approved-generated",
+      "repository_blob_sha": "4c81228ef8ba0e81ff0c104d4f12f1946dd2445a"
+    },
+    {
+      "number": "0035",
+      "id": "ww-new-213",
+      "gender": "der",
+      "de": "Thunfisch",
+      "asset": "/photos/hq/0035-ww-new-213-hq-20261123.webp",
+      "bytes": 317886,
+      "origin": "user-approved-generated",
+      "repository_blob_sha": "8d3b7c26bfe5d9fbaa71a01af3bcbd177ce6eb0b"
+    },
+    {
+      "number": "0046",
+      "id": "food-293",
+      "gender": "die",
+      "de": "Gurke",
+      "asset": "/photos/hq/0046-food-293-hq-20261123.webp",
+      "bytes": 274518,
+      "origin": "user-approved-generated",
+      "repository_blob_sha": "0f8f3a14e636f32f5a9259ea7efd54abf8d809aa"
+    },
+    {
+      "number": "0048",
+      "id": "food-295",
+      "gender": "die",
+      "de": "Zwiebel",
+      "asset": "/photos/hq/0048-food-295-hq-20261123.webp",
+      "bytes": 666848,
+      "origin": "user-approved-generated",
+      "repository_blob_sha": "e7e3d226654ee860962d5b1268f03e142bea5257"
+    },
+    {
+      "number": "0055",
+      "id": "ww-new-030",
+      "gender": "der",
+      "de": "Spinat",
+      "asset": "/photos/hq/0055-ww-new-030-hq-20261123.webp",
+      "bytes": 629142,
+      "origin": "user-approved-generated",
+      "repository_blob_sha": "3d92d52ec680d08bd496b9beddb1ca172b487f61"
+    },
+    {
+      "number": "0068",
+      "id": "food-336",
+      "gender": "die",
+      "de": "Avocado",
+      "asset": "/photos/hq/0068-food-336-hq-20261123.webp",
+      "bytes": 486836,
+      "origin": "user-approved-generated",
+      "repository_blob_sha": "626c8dc1e1db8388dff7efa2ae5b4149a11d6bc9"
+    },
+    {
+      "number": "0076",
+      "id": "ww-new-042",
+      "gender": "die",
+      "de": "Wassermelone",
+      "asset": "/photos/hq/0076-ww-new-042-hq-20261123.webp",
+      "bytes": 654000,
+      "origin": "user-approved-generated",
+      "repository_blob_sha": "89cf847c11356be2fc0aa6cb7785f57e0bd987bb"
+    },
+    {
+      "number": "0083",
+      "id": "ww-new-043",
+      "gender": "das",
+      "de": "Mineralwasser",
+      "asset": "/photos/hq/0083-ww-new-043-hq-20261123.webp",
+      "bytes": 411008,
+      "origin": "user-approved-generated",
+      "repository_blob_sha": "cf16e8cf5e318dd26f0794e6279bffd3a26c1904"
+    },
+    {
+      "number": "0110",
+      "id": "ww-new-055",
+      "gender": "der",
+      "de": "Kellner",
+      "asset": "/photos/hq/0110-ww-new-055-hq-20261123.webp",
+      "bytes": 173674,
+      "origin": "user-approved-generated",
+      "repository_blob_sha": "d2a1a8d9cd4f2f30861878c92831e192737be0a3"
+    },
+    {
+      "number": "0111",
+      "id": "ww-new-056",
+      "gender": "die",
+      "de": "Kellnerin",
+      "asset": "/photos/hq/0111-ww-new-056-hq-20261123.webp",
+      "bytes": 231410,
+      "origin": "user-approved-generated",
+      "repository_blob_sha": "9c90d81f715ae5182f37a5d1c57fff28792d0efc"
+    },
+    {
+      "number": "0153",
+      "id": "ww-new-085",
+      "gender": "der",
+      "de": "Wasserhahn",
+      "asset": "/photos/hq/0153-ww-new-085-hq-20261123.webp",
+      "bytes": 323144,
+      "origin": "user-approved-generated",
+      "repository_blob_sha": "ec2e7d2da0228234d4026ed59231a3489029c94e"
+    },
+    {
+      "number": "0156",
+      "id": "ww-new-088",
+      "gender": "der",
+      "de": "Wasserkocher",
+      "asset": "/photos/hq/0156-ww-new-088-hq-20261123.webp",
+      "bytes": 353218,
+      "origin": "user-approved-generated",
+      "repository_blob_sha": "e41e9d20b35ba5fd501bb01a77a181bc05e9fa23"
+    },
+    {
+      "number": "0162",
+      "id": "ww-new-094",
+      "gender": "die",
+      "de": "Matratze",
+      "asset": "/photos/hq/0162-ww-new-094-hq-20261123.webp",
+      "bytes": 473500,
+      "origin": "user-approved-generated",
+      "repository_blob_sha": "bfb20ae4c2fd36718f26a523d357ea472ab62f63"
+    },
+    {
+      "number": "0206",
+      "id": "city-556",
+      "gender": "die",
+      "de": "Ecke",
+      "asset": "/photos/hq/0206-city-556-hq-20261123.webp",
+      "bytes": 272322,
+      "origin": "user-approved-generated",
+      "repository_blob_sha": "3e987ead19f021f03309b3f0263f5ef1c93020f5"
+    },
+    {
+      "number": "0213",
+      "id": "ww-new-138",
+      "gender": "die",
+      "de": "Baustelle",
+      "asset": "/photos/hq/0213-ww-new-138-hq-20261123.webp",
+      "bytes": 447256,
+      "origin": "user-approved-generated",
+      "repository_blob_sha": "843ae5151231437b6fe8d6ff7f32dfd0ff9ac574"
+    },
+    {
+      "number": "0217",
+      "id": "ww-new-142",
+      "gender": "die",
+      "de": "Polizeiwache",
+      "asset": "/photos/hq/0217-ww-new-142-hq-20261123.webp",
+      "bytes": 381240,
+      "origin": "user-approved-generated",
+      "repository_blob_sha": "3fc270356908466bd8ec7c8107bf5e81d7712bf4"
+    },
+    {
+      "number": "0222",
+      "id": "ww-new-147",
+      "gender": "die",
+      "de": "Einbahnstraße",
+      "asset": "/photos/hq/0222-ww-new-147-hq-20261123.webp",
+      "bytes": 491360,
+      "origin": "user-approved-generated",
+      "repository_blob_sha": "89aad3b432716b2562e593deca56918df48d953f"
+    },
+    {
+      "number": "0227",
+      "id": "city-533",
+      "gender": "das",
+      "de": "Kino",
+      "asset": "/photos/hq/0227-city-533-hq-20261123.webp",
+      "bytes": 246554,
+      "origin": "user-approved-generated",
+      "repository_blob_sha": "7e2e92ae290c0117384a719385887558a3432b90"
+    },
+    {
+      "number": "0240",
+      "id": "city-549",
+      "gender": "der",
+      "de": "Markt",
+      "asset": "/photos/hq/0240-city-549-hq-20261123.webp",
+      "bytes": 423274,
+      "origin": "user-approved-generated",
+      "repository_blob_sha": "6132045b1d25082706b8e9506cc2f18c7a6c16f4"
+    },
+    {
+      "number": "0266",
+      "id": "city-560",
+      "gender": "der",
+      "de": "Flughafen",
+      "asset": "/photos/hq/0266-city-560-hq-20261123.webp",
+      "bytes": 256530,
+      "origin": "user-approved-generated",
+      "repository_blob_sha": "c6dd6e314c6e547b7389c24c203507d59f926cc2"
+    }
+  ]
+}

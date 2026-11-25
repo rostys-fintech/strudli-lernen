@@ -1,0 +1,517 @@
+{
+  "date": "2026-10-22",
+  "branch": "non-noun-visuals-batch2-oct22",
+  "kind": "Non-noun illustration batch 2",
+  "old_non_noun_illustrated": 250,
+  "new_non_noun_illustrated": 320,
+  "remaining_without_illustration": 118,
+  "new_cards": 70,
+  "number_of_distinct_scene_types": 65,
+  "noun_images_untouched": 736,
+  "types": {
+    "everyday": 7,
+    "questions": 23,
+    "prepositions": 13,
+    "adverbs": 18,
+    "verbs": 9
+  },
+  "illustrations": [
+    {
+      "id": "everyday-50",
+      "de": "sich ausziehen",
+      "uk": "роздягатися",
+      "scene": "undress",
+      "path": "/photos/learning/everyday-50.svg"
+    },
+    {
+      "id": "everyday-53",
+      "de": "abwaschen",
+      "uk": "мити посуд",
+      "scene": "washdishes",
+      "path": "/photos/learning/everyday-53.svg"
+    },
+    {
+      "id": "everyday-54",
+      "de": "aufräumen",
+      "uk": "прибирати речі",
+      "scene": "tidy",
+      "path": "/photos/learning/everyday-54.svg"
+    },
+    {
+      "id": "everyday-66",
+      "de": "fernsehen",
+      "uk": "дивитися телевізор",
+      "scene": "watchtv",
+      "path": "/photos/learning/everyday-66.svg"
+    },
+    {
+      "id": "everyday-72",
+      "de": "zurückkommen",
+      "uk": "повертатися",
+      "scene": "returnhome",
+      "path": "/photos/learning/everyday-72.svg"
+    },
+    {
+      "id": "everyday-74",
+      "de": "abholen",
+      "uk": "забирати",
+      "scene": "pickup",
+      "path": "/photos/learning/everyday-74.svg"
+    },
+    {
+      "id": "everyday-75",
+      "de": "vorbereiten",
+      "uk": "готувати заздалегідь",
+      "scene": "prepare",
+      "path": "/photos/learning/everyday-75.svg"
+    },
+    {
+      "id": "preps-186",
+      "de": "mit",
+      "uk": "з (кимось)",
+      "scene": "with",
+      "path": "/photos/learning/preps-186.svg"
+    },
+    {
+      "id": "preps-187",
+      "de": "ohne",
+      "uk": "без",
+      "scene": "without",
+      "path": "/photos/learning/preps-187.svg"
+    },
+    {
+      "id": "preps-188",
+      "de": "für",
+      "uk": "для",
+      "scene": "for",
+      "path": "/photos/learning/preps-188.svg"
+    },
+    {
+      "id": "preps-190",
+      "de": "um",
+      "uk": "навколо / о (годині)",
+      "scene": "around",
+      "path": "/photos/learning/preps-190.svg"
+    },
+    {
+      "id": "preps-192",
+      "de": "nach",
+      "uk": "до (міста) / після",
+      "scene": "toward",
+      "path": "/photos/learning/preps-192.svg"
+    },
+    {
+      "id": "preps-195",
+      "de": "von",
+      "uk": "від",
+      "scene": "from",
+      "path": "/photos/learning/preps-195.svg"
+    },
+    {
+      "id": "preps-196",
+      "de": "bei",
+      "uk": "у / біля когось",
+      "scene": "near",
+      "path": "/photos/learning/preps-196.svg"
+    },
+    {
+      "id": "preps-197",
+      "de": "seit",
+      "uk": "з (певного часу)",
+      "scene": "since",
+      "path": "/photos/learning/preps-197.svg"
+    },
+    {
+      "id": "preps-198",
+      "de": "ab",
+      "uk": "починаючи від",
+      "scene": "starting",
+      "path": "/photos/learning/preps-198.svg"
+    },
+    {
+      "id": "preps-199",
+      "de": "bis",
+      "uk": "до (часу)",
+      "scene": "until",
+      "path": "/photos/learning/preps-199.svg"
+    },
+    {
+      "id": "preps-202",
+      "de": "während",
+      "uk": "під час",
+      "scene": "during",
+      "path": "/photos/learning/preps-202.svg"
+    },
+    {
+      "id": "preps-203",
+      "de": "wegen",
+      "uk": "через (причина)",
+      "scene": "because",
+      "path": "/photos/learning/preps-203.svg"
+    },
+    {
+      "id": "preps-204",
+      "de": "trotz",
+      "uk": "попри",
+      "scene": "despite",
+      "path": "/photos/learning/preps-204.svg"
+    },
+    {
+      "id": "questions-80",
+      "de": "wer",
+      "uk": "хто",
+      "scene": "who",
+      "path": "/photos/learning/questions-80.svg"
+    },
+    {
+      "id": "questions-81",
+      "de": "was",
+      "uk": "що",
+      "scene": "what",
+      "path": "/photos/learning/questions-81.svg"
+    },
+    {
+      "id": "questions-82",
+      "de": "wo",
+      "uk": "де",
+      "scene": "where",
+      "path": "/photos/learning/questions-82.svg"
+    },
+    {
+      "id": "questions-83",
+      "de": "wohin",
+      "uk": "куди",
+      "scene": "whereto",
+      "path": "/photos/learning/questions-83.svg"
+    },
+    {
+      "id": "questions-84",
+      "de": "woher",
+      "uk": "звідки",
+      "scene": "wherefrom",
+      "path": "/photos/learning/questions-84.svg"
+    },
+    {
+      "id": "questions-85",
+      "de": "wie",
+      "uk": "як",
+      "scene": "how",
+      "path": "/photos/learning/questions-85.svg"
+    },
+    {
+      "id": "questions-86",
+      "de": "wann",
+      "uk": "коли",
+      "scene": "when",
+      "path": "/photos/learning/questions-86.svg"
+    },
+    {
+      "id": "questions-87",
+      "de": "warum",
+      "uk": "чому",
+      "scene": "why",
+      "path": "/photos/learning/questions-87.svg"
+    },
+    {
+      "id": "questions-88",
+      "de": "wieso",
+      "uk": "чому",
+      "scene": "why",
+      "path": "/photos/learning/questions-88.svg"
+    },
+    {
+      "id": "questions-89",
+      "de": "weshalb",
+      "uk": "чому",
+      "scene": "why",
+      "path": "/photos/learning/questions-89.svg"
+    },
+    {
+      "id": "questions-90",
+      "de": "welcher",
+      "uk": "який (чол.)",
+      "scene": "which",
+      "path": "/photos/learning/questions-90.svg"
+    },
+    {
+      "id": "questions-91",
+      "de": "welche",
+      "uk": "яка (жін.)",
+      "scene": "which",
+      "path": "/photos/learning/questions-91.svg"
+    },
+    {
+      "id": "questions-92",
+      "de": "welches",
+      "uk": "яке (сер.)",
+      "scene": "which",
+      "path": "/photos/learning/questions-92.svg"
+    },
+    {
+      "id": "questions-93",
+      "de": "wie viel",
+      "uk": "скільки (для незліченного)",
+      "scene": "howmuch",
+      "path": "/photos/learning/questions-93.svg"
+    },
+    {
+      "id": "questions-94",
+      "de": "wie viele",
+      "uk": "скільки (для зліченного)",
+      "scene": "howmany",
+      "path": "/photos/learning/questions-94.svg"
+    },
+    {
+      "id": "questions-95",
+      "de": "wie lange",
+      "uk": "як довго",
+      "scene": "howlong",
+      "path": "/photos/learning/questions-95.svg"
+    },
+    {
+      "id": "questions-96",
+      "de": "wie oft",
+      "uk": "як часто",
+      "scene": "howoften",
+      "path": "/photos/learning/questions-96.svg"
+    },
+    {
+      "id": "questions-97",
+      "de": "seit wann",
+      "uk": "відколи",
+      "scene": "sincewhen",
+      "path": "/photos/learning/questions-97.svg"
+    },
+    {
+      "id": "questions-98",
+      "de": "bis wann",
+      "uk": "до коли",
+      "scene": "untilwhen",
+      "path": "/photos/learning/questions-98.svg"
+    },
+    {
+      "id": "questions-99",
+      "de": "mit wem",
+      "uk": "з ким",
+      "scene": "withwhom",
+      "path": "/photos/learning/questions-99.svg"
+    },
+    {
+      "id": "questions-100",
+      "de": "für wen",
+      "uk": "для кого",
+      "scene": "forwhom",
+      "path": "/photos/learning/questions-100.svg"
+    },
+    {
+      "id": "questions-101",
+      "de": "wessen",
+      "uk": "чий",
+      "scene": "whose",
+      "path": "/photos/learning/questions-101.svg"
+    },
+    {
+      "id": "questions-102",
+      "de": "wozu",
+      "uk": "для чого",
+      "scene": "whatfor",
+      "path": "/photos/learning/questions-102.svg"
+    },
+    {
+      "id": "adverbs-134",
+      "de": "heute",
+      "uk": "сьогодні",
+      "scene": "today",
+      "path": "/photos/learning/adverbs-134.svg"
+    },
+    {
+      "id": "adverbs-135",
+      "de": "gestern",
+      "uk": "вчора",
+      "scene": "yesterday",
+      "path": "/photos/learning/adverbs-135.svg"
+    },
+    {
+      "id": "adverbs-136",
+      "de": "morgen",
+      "uk": "завтра",
+      "scene": "tomorrow",
+      "path": "/photos/learning/adverbs-136.svg"
+    },
+    {
+      "id": "adverbs-137",
+      "de": "jetzt",
+      "uk": "зараз",
+      "scene": "now",
+      "path": "/photos/learning/adverbs-137.svg"
+    },
+    {
+      "id": "adverbs-138",
+      "de": "sofort",
+      "uk": "негайно",
+      "scene": "immediately",
+      "path": "/photos/learning/adverbs-138.svg"
+    },
+    {
+      "id": "adverbs-139",
+      "de": "später",
+      "uk": "пізніше",
+      "scene": "later",
+      "path": "/photos/learning/adverbs-139.svg"
+    },
+    {
+      "id": "adverbs-140",
+      "de": "früher",
+      "uk": "раніше",
+      "scene": "earlier",
+      "path": "/photos/learning/adverbs-140.svg"
+    },
+    {
+      "id": "adverbs-141",
+      "de": "oft",
+      "uk": "часто",
+      "scene": "often",
+      "path": "/photos/learning/adverbs-141.svg"
+    },
+    {
+      "id": "adverbs-142",
+      "de": "immer",
+      "uk": "завжди",
+      "scene": "always",
+      "path": "/photos/learning/adverbs-142.svg"
+    },
+    {
+      "id": "adverbs-143",
+      "de": "manchmal",
+      "uk": "іноді",
+      "scene": "sometimes",
+      "path": "/photos/learning/adverbs-143.svg"
+    },
+    {
+      "id": "adverbs-144",
+      "de": "selten",
+      "uk": "рідко",
+      "scene": "rarely",
+      "path": "/photos/learning/adverbs-144.svg"
+    },
+    {
+      "id": "adverbs-145",
+      "de": "nie",
+      "uk": "ніколи",
+      "scene": "never",
+      "path": "/photos/learning/adverbs-145.svg"
+    },
+    {
+      "id": "adverbs-146",
+      "de": "schon",
+      "uk": "уже",
+      "scene": "already",
+      "path": "/photos/learning/adverbs-146.svg"
+    },
+    {
+      "id": "adverbs-147",
+      "de": "noch",
+      "uk": "ще",
+      "scene": "still",
+      "path": "/photos/learning/adverbs-147.svg"
+    },
+    {
+      "id": "adverbs-148",
+      "de": "wieder",
+      "uk": "знову",
+      "scene": "again",
+      "path": "/photos/learning/adverbs-148.svg"
+    },
+    {
+      "id": "adverbs-149",
+      "de": "hier",
+      "uk": "тут",
+      "scene": "here",
+      "path": "/photos/learning/adverbs-149.svg"
+    },
+    {
+      "id": "adverbs-150",
+      "de": "dort",
+      "uk": "там",
+      "scene": "there",
+      "path": "/photos/learning/adverbs-150.svg"
+    },
+    {
+      "id": "adverbs-157",
+      "de": "draußen",
+      "uk": "надворі",
+      "scene": "outside",
+      "path": "/photos/learning/adverbs-157.svg"
+    },
+    {
+      "id": "verbs-835",
+      "de": "erzählen",
+      "uk": "розповідати",
+      "scene": "tell",
+      "path": "/photos/learning/verbs-835.svg"
+    },
+    {
+      "id": "verbs-836",
+      "de": "finden",
+      "uk": "знаходити",
+      "scene": "find",
+      "path": "/photos/learning/verbs-836.svg"
+    },
+    {
+      "id": "verbs-837",
+      "de": "suchen",
+      "uk": "шукати",
+      "scene": "search",
+      "path": "/photos/learning/verbs-837.svg"
+    },
+    {
+      "id": "verbs-840",
+      "de": "bringen",
+      "uk": "приносити",
+      "scene": "bring",
+      "path": "/photos/learning/verbs-840.svg"
+    },
+    {
+      "id": "verbs-853",
+      "de": "anfangen",
+      "uk": "починати",
+      "scene": "begin",
+      "path": "/photos/learning/verbs-853.svg"
+    },
+    {
+      "id": "verbs-854",
+      "de": "aufhören",
+      "uk": "припиняти",
+      "scene": "stop",
+      "path": "/photos/learning/verbs-854.svg"
+    },
+    {
+      "id": "verbs-869",
+      "de": "ausziehen",
+      "uk": "знімати одяг",
+      "scene": "undress",
+      "path": "/photos/learning/verbs-869.svg"
+    },
+    {
+      "id": "ww-new-154",
+      "de": "abgeben",
+      "uk": "подавати документи",
+      "scene": "submit",
+      "path": "/photos/learning/ww-new-154.svg"
+    },
+    {
+      "id": "ww-new-166",
+      "de": "verlieren",
+      "uk": "губити, втрачати",
+      "scene": "lose",
+      "path": "/photos/learning/ww-new-166.svg"
+    }
+  ],
+  "quality": {
+    "artwork": "768x768 custom local SVG with no translations or decorative labels",
+    "random_stock_photos_used": 0,
+    "preview_build_not_yet_verified": true,
+    "pixel_crops_not_yet_verified": true
+  },
+  "next": "118 cards remain: phrases 40, pronouns 31, abstract verbs 22, abstract adverbs 25; prioritize distinct, direct semantics."
+}

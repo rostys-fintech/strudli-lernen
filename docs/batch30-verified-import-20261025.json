@@ -1,0 +1,51 @@
+{
+  "batch": 30,
+  "date": "2026-10-25",
+  "imported": 4,
+  "changes": [
+    {
+      "id": "technology-260",
+      "de": "Ordner",
+      "uk": "папка",
+      "old": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Folder-dynamic-color.png/960px-Folder-dynamic-color.png",
+      "new": "/photos/custom/batch30-technology-260.jpg",
+      "author": "cottonbro studio",
+      "license": "Pexels License",
+      "sourcePage": "https://www.pexels.com/photo/files-and-folder-on-computer-screen-6889206/",
+      "choice": "A"
+    },
+    {
+      "id": "family-475",
+      "de": "Nachbar",
+      "uk": "сусід",
+      "old": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Old_Shanghai_Old_Neighbours_%286007444712%29.jpg/960px-Old_Shanghai_Old_Neighbours_%286007444712%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "new": "/photos/custom/batch30-family-475.jpg",
+      "author": "Kindel Media",
+      "license": "Pexels License",
+      "sourcePage": "https://www.pexels.com/photo/men-shaking-hands-7578922/",
+      "choice": "A"
+    },
+    {
+      "id": "shopping-673",
+      "de": "Quittung",
+      "uk": "квитанція",
+      "old": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Tankquittung_HIT-Tankstelle_Rheinbach_mit_Abschnitt_Technische_Sicherheitseinrichtung%2C_2020.jpg/960px-Tankquittung_HIT-Tankstelle_Rheinbach_mit_Abschnitt_Technische_Sicherheitseinrichtung%2C_2020.jpg",
+      "new": "/photos/custom/batch30-shopping-673.jpg",
+      "author": "Viktoria Slowikowska",
+      "license": "Pexels License",
+      "sourcePage": "https://www.pexels.com/photo/man-pays-contactless-with-a-bank-card-while-looking-at-the-receipt-5332481/",
+      "choice": "A"
+    },
+    {
+      "id": "body-717",
+      "de": "Fieber",
+      "uk": "лихоманка",
+      "old": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Mercury_medical_thermometer.jpg/960px-Mercury_medical_thermometer.jpg",
+      "new": "/photos/custom/batch30-body-717.jpg",
+      "author": "cottonbro studio",
+      "license": "Pexels License",
+      "sourcePage": "https://www.pexels.com/photo/person-holding-white-and-blue-thermometer-at-38-4-5712673/",
+      "choice": "A"
+    }
+  ]
+}

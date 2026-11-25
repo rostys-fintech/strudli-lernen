@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="750" viewBox="0 0 1000 750">
+<defs><linearGradient id="desk" x2="0" y2="1"><stop stop-color="#e7d9c9"/><stop offset="1" stop-color="#be9772"/></linearGradient></defs>
+<rect width="1000" height="750" fill="#e8eff1"/><rect y="594" width="1000" height="156" fill="url(#desk)"/>
+<rect x="95" y="75" width="810" height="555" rx="34" fill="#222f3e"/>
+<rect x="119" y="97" width="762" height="484" rx="8" fill="#f8fafc"/>
+<rect x="119" y="97" width="762" height="66" fill="#e1e8ed"/>
+<circle cx="150" cy="131" r="10" fill="#d87f81"/><circle cx="184" cy="131" r="10" fill="#e0bd6f"/><circle cx="218" cy="131" r="10" fill="#78b59e"/>
+<text x="340" y="142" font-family="Arial,sans-serif" font-size="25" fill="#43596e">Dokumente</text>
+<rect x="250" y="190" width="500" height="346" rx="19" fill="#fff" stroke="#bdcad5" stroke-width="4"/>
+<path d="M427 221H574L640 285V471H427Z" fill="#fff" stroke="#d03f43" stroke-width="13" stroke-linejoin="round"/>
+<path d="M574 221V285H640" fill="none" stroke="#d03f43" stroke-width="11"/>
+<rect x="464" y="341" width="132" height="72" rx="11" fill="#d03f43"/>
+<text x="530" y="391" font-family="Arial,sans-serif" font-size="40" font-weight="800" text-anchor="middle" fill="#fff">PDF</text>
+<text x="500" y="498" font-family="Arial,sans-serif" font-size="24" text-anchor="middle" fill="#344e61">Dokument.pdf</text>
+<path d="M53 604H947L976 662H24Z" fill="#aab3bb" stroke="#687c8c" stroke-width="5"/><rect x="437" y="622" width="126" height="17" rx="8" fill="#8394a2"/>
+</svg>

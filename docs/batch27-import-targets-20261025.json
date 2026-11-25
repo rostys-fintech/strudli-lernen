@@ -1,0 +1,277 @@
+{
+  "batch": 27,
+  "date": "2026-10-25",
+  "note": "30 distinct visually curated Pexels photo sources for user-approved word scene concepts; Pexels photos may differ from transient asynchronous image-query previews.",
+  "targets": [
+    {
+      "id": "germany-235",
+      "de": "Bestätigung",
+      "uk": "підтвердження",
+      "url": "https://images.pexels.com/photos/39904152/pexels-photo-39904152.jpeg?auto=compress&w=960",
+      "sourcePage": "https://www.pexels.com/photo/smartphone-with-app-update-notification-39904152/",
+      "expectedPhoto": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Hackathon_2023_registration_screenshot_-_confirmation_email.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "filename": "public/photos/custom/batch27-germany-235.jpg"
+    },
+    {
+      "id": "germany-236",
+      "de": "Übersetzung",
+      "uk": "переклад",
+      "url": "https://images.pexels.com/photos/6549352/pexels-photo-6549352.jpeg?auto=compress&w=960",
+      "sourcePage": "https://www.pexels.com/photo/a-close-up-shot-of-a-person-holding-a-pen-and-an-open-book-6549352/",
+      "expectedPhoto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/FEMA_-_39006_-_FEMA_Vietnamese_translator_working_with_a_resident_in_Texas.jpg/960px-FEMA_-_39006_-_FEMA_Vietnamese_translator_working_with_a_resident_in_Texas.jpg",
+      "filename": "public/photos/custom/batch27-germany-236.jpg"
+    },
+    {
+      "id": "germany-234",
+      "de": "Nachweis",
+      "uk": "підтвердження",
+      "url": "https://images.pexels.com/photos/29218402/pexels-photo-29218402.jpeg?auto=compress&w=960",
+      "sourcePage": "https://www.pexels.com/photo/person-reviewing-documents-at-modern-office-desk-29218402/",
+      "expectedPhoto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Luxembourg_legitimation_%26_proof_of_residency_card%2C_issued_to_international_organisations_staff_%28EU%2C_NATO%2C_EFTA%29_-_front.jpg/960px-Luxembourg_legitimation_%26_proof_of_residency_card%2C_issued_to_international_organisations_staff_%28EU%2C_NATO%2C_EFTA%29_-_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "filename": "public/photos/custom/batch27-germany-234.jpg"
+    },
+    {
+      "id": "germany-228",
+      "de": "Nebenkosten",
+      "uk": "комунальні та додаткові платежі",
+      "url": "https://images.pexels.com/photos/7651738/pexels-photo-7651738.jpeg?auto=compress&w=960",
+      "sourcePage": "https://www.pexels.com/photo/person-using-a-calculator-7651738/",
+      "expectedPhoto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Standing_charges_on_energy_bills.jpg/960px-Standing_charges_on_energy_bills.jpg",
+      "filename": "public/photos/custom/batch27-germany-228.jpg"
+    },
+    {
+      "id": "germany-240",
+      "de": "Wohnheim",
+      "uk": "гуртожиток",
+      "url": "https://images.pexels.com/photos/8472793/pexels-photo-8472793.jpeg?auto=compress&w=960",
+      "sourcePage": "https://www.pexels.com/photo/a-student-holding-a-pencil-case-while-sitting-on-a-bed-8472793/",
+      "expectedPhoto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Inside_a_dorm_room_of_Deaton_Hall.jpg/960px-Inside_a_dorm_room_of_Deaton_Hall.jpg",
+      "filename": "public/photos/custom/batch27-germany-240.jpg"
+    },
+    {
+      "id": "work-592",
+      "de": "Stelle",
+      "uk": "посада",
+      "url": "https://images.pexels.com/photos/5989931/pexels-photo-5989931.jpeg?auto=compress&w=960",
+      "sourcePage": "https://www.pexels.com/photo/woman-getting-a-job-interview-5989931/",
+      "expectedPhoto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Subway_job_vacancies_sign%2C_Winschoten_%282020%29_02.jpg/960px-Subway_job_vacancies_sign%2C_Winschoten_%282020%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "filename": "public/photos/custom/batch27-work-592.jpg"
+    },
+    {
+      "id": "work-595",
+      "de": "Kollege",
+      "uk": "колега",
+      "url": "https://images.pexels.com/photos/9301305/pexels-photo-9301305.jpeg?auto=compress&w=960",
+      "sourcePage": "https://www.pexels.com/photo/businesspeople-working-with-a-laptop-9301305/",
+      "expectedPhoto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Jenith_with_office_colleagues%2C_Chennai_2009.jpg/960px-Jenith_with_office_colleagues%2C_Chennai_2009.jpg",
+      "filename": "public/photos/custom/batch27-work-595.jpg"
+    },
+    {
+      "id": "work-599",
+      "de": "Gehalt",
+      "uk": "зарплата",
+      "url": "https://images.pexels.com/photos/29502355/pexels-photo-29502355.jpeg?auto=compress&w=960",
+      "sourcePage": "https://www.pexels.com/photo/cash-app-displayed-on-smartphone-and-laptop-29502355/",
+      "expectedPhoto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/2023-03-13_paycheck-salary.jpg/960px-2023-03-13_paycheck-salary.jpg",
+      "filename": "public/photos/custom/batch27-work-599.jpg"
+    },
+    {
+      "id": "work-600",
+      "de": "Lohn",
+      "uk": "заробітна плата",
+      "url": "https://images.pexels.com/photos/33175669/pexels-photo-33175669.jpeg?auto=compress&w=960",
+      "sourcePage": "https://www.pexels.com/photo/office-desk-with-calculator-and-financial-report-33175669/",
+      "expectedPhoto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Star_Watch_pay_stub.jpg/960px-Star_Watch_pay_stub.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "filename": "public/photos/custom/batch27-work-600.jpg"
+    },
+    {
+      "id": "work-604",
+      "de": "Rechnung",
+      "uk": "рахунок на оплату",
+      "url": "https://images.pexels.com/photos/14647295/pexels-photo-14647295.jpeg?auto=compress&w=960",
+      "sourcePage": "https://www.pexels.com/photo/close-up-of-a-receipt-14647295/",
+      "expectedPhoto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Performa_invoice_merchandising.jpg/960px-Performa_invoice_merchandising.jpg",
+      "filename": "public/photos/custom/batch27-work-604.jpg"
+    },
+    {
+      "id": "work-606",
+      "de": "Konto",
+      "uk": "рахунок у банку",
+      "url": "https://images.pexels.com/photos/29502352/pexels-photo-29502352.jpeg?auto=compress&w=960",
+      "sourcePage": "https://www.pexels.com/photo/online-shopping-with-citi-mobile-banking-29502352/",
+      "expectedPhoto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Post_Office_Savings_Bank_passbook.jpg/960px-Post_Office_Savings_Bank_passbook.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "filename": "public/photos/custom/batch27-work-606.jpg"
+    },
+    {
+      "id": "work-609",
+      "de": "Firma",
+      "uk": "фірма",
+      "url": "https://images.pexels.com/photos/9847049/pexels-photo-9847049.jpeg?auto=compress&w=960",
+      "sourcePage": "https://www.pexels.com/photo/modern-glass-office-building-in-government-district-berlin-germany-9847049/",
+      "expectedPhoto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Desks_and_cubicles_%28Unsplash%29.jpg/960px-Desks_and_cubicles_%28Unsplash%29.jpg",
+      "filename": "public/photos/custom/batch27-work-609.jpg"
+    },
+    {
+      "id": "technology-252",
+      "de": "Internet",
+      "uk": "інтернет",
+      "url": "https://images.pexels.com/photos/16368540/pexels-photo-16368540.jpeg?auto=compress&w=960",
+      "sourcePage": "https://www.pexels.com/photo/photo-of-a-laptop-screen-with-google-main-page-on-it-16368540/",
+      "expectedPhoto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/ELECOM_WRC-300FEBK_WPS_WiFi_router_2.jpg/960px-ELECOM_WRC-300FEBK_WPS_WiFi_router_2.jpg",
+      "filename": "public/photos/custom/batch27-technology-252.jpg"
+    },
+    {
+      "id": "technology-253",
+      "de": "WLAN",
+      "uk": "вайфай",
+      "url": "https://images.pexels.com/photos/4218546/pexels-photo-4218546.jpeg?auto=compress&w=960",
+      "sourcePage": "https://www.pexels.com/photo/wifi-router-on-yellow-background-4218546/",
+      "expectedPhoto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Nokia_FTTH_modem_Wi-Fi_6_Flying_Bull_Internet_LLC.jpg/960px-Nokia_FTTH_modem_Wi-Fi_6_Flying_Bull_Internet_LLC.jpg",
+      "filename": "public/photos/custom/batch27-technology-253.jpg"
+    },
+    {
+      "id": "technology-254",
+      "de": "Passwort",
+      "uk": "пароль",
+      "url": "https://images.pexels.com/photos/267482/pexels-photo-267482.jpeg?auto=compress&w=960",
+      "sourcePage": "https://www.pexels.com/photo/smartphone-showing-facebook-application-267482/",
+      "expectedPhoto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/A_laminated_sign_displaying_a_WiFi_password_in_the_Mitchell_Library%2C_Glasgow%2C_Scotland%2C_UK.jpg/960px-A_laminated_sign_displaying_a_WiFi_password_in_the_Mitchell_Library%2C_Glasgow%2C_Scotland%2C_UK.jpg",
+      "filename": "public/photos/custom/batch27-technology-254.jpg"
+    },
+    {
+      "id": "technology-255",
+      "de": "Benutzername",
+      "uk": "ім'я користувача",
+      "url": "https://images.pexels.com/photos/27742642/pexels-photo-27742642.jpeg?auto=compress&w=960",
+      "sourcePage": "https://www.pexels.com/photo/a-person-s-finger-is-touching-a-tablet-screen-27742642/",
+      "expectedPhoto": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Login_screen_shot.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "filename": "public/photos/custom/batch27-technology-255.jpg"
+    },
+    {
+      "id": "technology-256",
+      "de": "App",
+      "uk": "застосунок",
+      "url": "https://images.pexels.com/photos/12123392/pexels-photo-12123392.jpeg?auto=compress&w=960",
+      "sourcePage": "https://www.pexels.com/photo/application-icons-on-screen-12123392/",
+      "expectedPhoto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Fediverse_smartphone_apps_%28photo_by_Elena_Rossini%29.jpg/960px-Fediverse_smartphone_apps_%28photo_by_Elena_Rossini%29.jpg",
+      "filename": "public/photos/custom/batch27-technology-256.jpg"
+    },
+    {
+      "id": "technology-258",
+      "de": "Link",
+      "uk": "посилання",
+      "url": "https://images.pexels.com/photos/8205189/pexels-photo-8205189.jpeg?auto=compress&w=960",
+      "sourcePage": "https://www.pexels.com/photo/person-using-a-laptop-8205189/",
+      "expectedPhoto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Hyperlinking_to_highlighted_text_segments_example_-_linking_to_a_specific_row_in_a_table.png/960px-Hyperlinking_to_highlighted_text_segments_example_-_linking_to_a_specific_row_in_a_table.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "filename": "public/photos/custom/batch27-technology-258.jpg"
+    },
+    {
+      "id": "technology-261",
+      "de": "Anhang",
+      "uk": "вкладення",
+      "url": "https://images.pexels.com/photos/5594294/pexels-photo-5594294.jpeg?auto=compress&w=960",
+      "sourcePage": "https://www.pexels.com/photo/close-up-photo-of-paperclip-5594294/",
+      "expectedPhoto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Assorted_paperclips_together.jpg/960px-Assorted_paperclips_together.jpg",
+      "filename": "public/photos/custom/batch27-technology-261.jpg"
+    },
+    {
+      "id": "technology-271",
+      "de": "Netzwerk",
+      "uk": "мережа",
+      "url": "https://images.pexels.com/photos/6466141/pexels-photo-6466141.jpeg?auto=compress&w=960",
+      "sourcePage": "https://www.pexels.com/photo/network-servers-on-an-enclosure-6466141/",
+      "expectedPhoto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Ethernet_socket_with_two_cables_connected_%28TIA-568B%29_%28CAT6%29.jpg/960px-Ethernet_socket_with_two_cables_connected_%28TIA-568B%29_%28CAT6%29.jpg",
+      "filename": "public/photos/custom/batch27-technology-271.jpg"
+    },
+    {
+      "id": "technology-273",
+      "de": "Verbindung",
+      "uk": "з'єднання",
+      "url": "https://images.pexels.com/photos/4195398/pexels-photo-4195398.jpeg?auto=compress&w=960",
+      "sourcePage": "https://www.pexels.com/photo/laptop-with-modern-smart-usb-hub-with-cable-connected-4195398/",
+      "expectedPhoto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/4_USB_hubs_connected_to_several_devices.JPG/960px-4_USB_hubs_connected_to_several_devices.JPG",
+      "filename": "public/photos/custom/batch27-technology-273.jpg"
+    },
+    {
+      "id": "study-633",
+      "de": "Wort",
+      "uk": "слово",
+      "url": "https://images.pexels.com/photos/5703595/pexels-photo-5703595.jpeg?auto=compress&w=960",
+      "sourcePage": "https://www.pexels.com/photo/close-up-of-words-printed-on-book-page-5703595/",
+      "expectedPhoto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Stress_Spelled_Out_In_Scrabble_Tiles.jpg/960px-Stress_Spelled_Out_In_Scrabble_Tiles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "filename": "public/photos/custom/batch27-study-633.jpg"
+    },
+    {
+      "id": "study-635",
+      "de": "Buchstabe",
+      "uk": "літера",
+      "url": "https://images.pexels.com/photos/7024928/pexels-photo-7024928.jpeg?auto=compress&w=960",
+      "sourcePage": "https://www.pexels.com/photo/wooden-block-letter-on-white-background-7024928/",
+      "expectedPhoto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Wooden_srcabble_tiles.jpg/960px-Wooden_srcabble_tiles.jpg",
+      "filename": "public/photos/custom/batch27-study-635.jpg"
+    },
+    {
+      "id": "study-645",
+      "de": "Fehler",
+      "uk": "помилка",
+      "url": "https://images.pexels.com/photos/6684373/pexels-photo-6684373.jpeg?auto=compress&w=960",
+      "sourcePage": "https://www.pexels.com/photo/a-person-marking-a-test-paper-6684373/",
+      "expectedPhoto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Ichetucknee_Springs_State_Park_misspelled_sign.jpg/960px-Ichetucknee_Springs_State_Park_misspelled_sign.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "filename": "public/photos/custom/batch27-study-645.jpg"
+    },
+    {
+      "id": "study-654",
+      "de": "Semester",
+      "uk": "семестр",
+      "url": "https://images.pexels.com/photos/14299948/pexels-photo-14299948.jpeg?auto=compress&w=960",
+      "sourcePage": "https://www.pexels.com/photo/a-person-making-a-schedule-14299948/",
+      "expectedPhoto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Students_of_Tamale_Technical_University_in_a_lecture_hall.jpg/960px-Students_of_Tamale_Technical_University_in_a_lecture_hall.jpg",
+      "filename": "public/photos/custom/batch27-study-654.jpg"
+    },
+    {
+      "id": "study-656",
+      "de": "Stipendium",
+      "uk": "стипендія",
+      "url": "https://images.pexels.com/photos/31772926/pexels-photo-31772926.jpeg?auto=compress&w=960",
+      "sourcePage": "https://www.pexels.com/photo/students-honored-at-school-award-ceremony-31772926/",
+      "expectedPhoto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Reuven_Rivlin_awards_scholarship_to_outstanding_students%2C_March_2019_%283691%29.jpg/960px-Reuven_Rivlin_awards_scholarship_to_outstanding_students%2C_March_2019_%283691%29.jpg",
+      "filename": "public/photos/custom/batch27-study-656.jpg"
+    },
+    {
+      "id": "study-660",
+      "de": "Test",
+      "uk": "тест",
+      "url": "https://images.pexels.com/photos/6684255/pexels-photo-6684255.jpeg?auto=compress&w=960",
+      "sourcePage": "https://www.pexels.com/photo/a-person-taking-an-exam-6684255/",
+      "expectedPhoto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Booklets_of_questions_%28National_Center_Test_for_University_Admissions%29.JPG/960px-Booklets_of_questions_%28National_Center_Test_for_University_Admissions%29.JPG",
+      "filename": "public/photos/custom/batch27-study-660.jpg"
+    },
+    {
+      "id": "travel-434",
+      "de": "Reiseführer",
+      "uk": "путівник",
+      "url": "https://images.pexels.com/photos/3417716/pexels-photo-3417716.jpeg?auto=compress&w=960",
+      "sourcePage": "https://www.pexels.com/photo/five-assorted-title-books-3417716/",
+      "expectedPhoto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Guide_book-%E6%97%85%E8%A1%8C%E3%82%AC%E3%82%A4%E3%83%89%E3%83%96%E3%83%83%E3%82%AFPA024792.jpg/960px-Guide_book-%E6%97%85%E8%A1%8C%E3%82%AC%E3%82%A4%E3%83%89%E3%83%96%E3%83%83%E3%82%AFPA024792.jpg",
+      "filename": "public/photos/custom/batch27-travel-434.jpg"
+    },
+    {
+      "id": "city-554",
+      "de": "Eingang",
+      "uk": "вхід",
+      "url": "https://images.pexels.com/photos/33903294/pexels-photo-33903294.jpeg?auto=compress&w=960",
+      "sourcePage": "https://www.pexels.com/photo/modern-glass-building-entrance-with-double-doors-33903294/",
+      "expectedPhoto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Entrance_door_Sortebr%C3%B8dre_kirke_Viborg_Denmark.jpg/960px-Entrance_door_Sortebr%C3%B8dre_kirke_Viborg_Denmark.jpg",
+      "filename": "public/photos/custom/batch27-city-554.jpg"
+    },
+    {
+      "id": "ww-new-071",
+      "de": "Umstieg",
+      "uk": "пересадка",
+      "url": "https://images.pexels.com/photos/7007864/pexels-photo-7007864.jpeg?auto=compress&w=960",
+      "sourcePage": "https://www.pexels.com/photo/photo-of-a-person-with-a-luggage-bag-waiting-at-a-train-station-7007864/",
+      "expectedPhoto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Tri-Rail_train_coming_into_Metrorail_Transfer_Station_Hialeah_%2837962853111%29.jpg/960px-Tri-Rail_train_coming_into_Metrorail_Transfer_Station_Hialeah_%2837962853111%29.jpg",
+      "filename": "public/photos/custom/batch27-ww-new-071.jpg"
+    }
+  ]
+}
