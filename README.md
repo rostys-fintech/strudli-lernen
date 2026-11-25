@@ -4,7 +4,7 @@
 
 **Made by immigrants, for immigrants** — for people in their first weeks in Germany who have no language course yet. Arabic, Turkish and Farsi explanations are next.
 
-**Live app:** https://wortwelt-de-ua.vercel.app/ · **Demo video:** VIDEO_URL · **Build history:** [docs/hackathon/BUILD_HISTORY.md](docs/hackathon/BUILD_HISTORY.md)
+**Live app:** https://wortwelt-de-ua.vercel.app/ · **Demo video:** https://youtu.be/dUiNFmGVbRk · **Build history:** [docs/hackathon/BUILD_HISTORY.md](docs/hackathon/BUILD_HISTORY.md)
 
 ## Features
 - **1,177 illustrated word cards** in 47 everyday topics for life in Germany (offices, transport, doctor, renting, shopping), with Ukrainian and English translations, der/die/das colours, audio and three-flame mastery.
