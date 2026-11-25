@@ -15,10 +15,9 @@ Ready-to-paste text for the Devpost project page. Written in English (judges rea
 ## 1. Who is it for, and what need does it meet?
 **Made by immigrants, for immigrants.** Strudli Lernen is for people in their first weeks in Germany who have no language course yet — and who need German *now*: for letters, offices, the doctor, the train and their children's school.
 
-The need is large and growing:
-- **1.42 million** Ukrainians are registered in Germany (Central Register of Foreigners, AZR, May 2026); about **1.2 million** people come from Syria and Iraq; **14 million** foreign nationals live in Germany in total (Destatis, end of 2025).
-- **1.48 million** people moved to Germany in 2025 alone (Destatis).
-- Since 9 Feb 2026 the BAMF no longer admits most voluntary participants to integration courses: up to **129,500 people** — Ukrainians included — get no new course place in 2026 (Bundestag print 21/5574).
+The need is large:
+- **1.42 million** people with Ukrainian citizenship are registered in Germany (Central Register of Foreigners, AZR, May 2026); **14 million** foreign nationals live in Germany in total (Destatis, end of 2025).
+- From 9 Feb 2026 the BAMF stopped admitting voluntary participants to integration courses — the government had expected about **129,500** of them in 2026, roughly 40 % of all new participants (Bundestag print 21/4280). Since 1 Aug 2026 their applications are processed again, but only with lower priority.
 
 So the first months are often spent alone with a phone. We ran into three concrete problems ourselves: phone voices read sentences "word by word", translations are missing exactly when they get stuck, and grammar is explained in German or English, not in their own language. We are newcomers from Ukraine ourselves and built the tool we were missing.
 
